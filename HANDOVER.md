@@ -37,7 +37,10 @@
 - Pass3 source-text corrections — **0**
 - Pass3 structural metadata corrections — **7**
 - unresolved Pass3 visual / structural questions — **0**
-- Part audit — **NOT STARTED / NEXT**
+- Part audit — **PASS / COMPLETE**
+- audit canonical coverage — **17/17; continuous scans1–17; 0 missing / 0 duplicate**
+- audit unresolved blockers — **0**
+- final metadata/status synchronization — **NOT STARTED / NEXT**
 
 ### Part002
 
@@ -61,6 +64,7 @@
 - `PART_001_PASS2A_PROGRESS.md`
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
+- `PART_001_AUDIT.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 
 ## Mandatory Part lock
@@ -69,6 +73,6 @@
 
 ## Exact next activity
 
-**Part001 Part audit — whole-Part audit of scans1–17.**
+**Part001 final metadata/status synchronization — scans1–17.**
 
-Do not promote status/visual_fidelity during the audit; final metadata/status synchronization is a separate gate.
+Promote only `status` and `visual_fidelity` from the audited evidence; do not change canonical Tamil text.
