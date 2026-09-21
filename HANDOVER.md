@@ -77,6 +77,9 @@
 - Pass3 structural metadata corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
 - Part audit — **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
 
 ## Boundary
@@ -109,6 +112,7 @@
 - `PART_002_PASS2B_PROGRESS.md`
 - `PART_002_PASS3_PROGRESS.md`
 - `PART_002_AUDIT.md`
+- `PART_002_FINAL_STATUS_SYNC.md`
 
 ## Mandatory Part lock
 
@@ -116,6 +120,6 @@
 
 ## Exact next activity
 
-**Part002 final metadata/status synchronization.**
+**Part002 documentation synchronization.**
 
-Part001 remains frozen. Part002 Part audit is PASS / COMPLETE. Promote only Part002 `status` and `visual_fidelity` from `needs-review` to `verified`; do not change canonical Tamil text.
+Part001 remains frozen. Part002 final metadata/status synchronization is PASS / CLOSED. Reconcile live control documents to the verified 17/17 state without changing canonical page records.
