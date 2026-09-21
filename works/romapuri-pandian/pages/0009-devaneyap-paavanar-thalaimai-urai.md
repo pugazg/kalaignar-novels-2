@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf"
-transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch scans1–10"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch scans1–10; formal Part001 Pass 2A reviewed"
 ---
 
 # கலைஞரின் “ரோமாபுரிப் பாண்டியன்”
@@ -18,7 +18,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 நூல் வெளியீட்டு விழா சென்னை, கலைவாணர் அரங்கத்தில்  
 9.6.1974 ஞாயிறு மாலை 6 மணியளவில் நடைபெற்றது.
 
-## தலைமை ஏற்ற மொழி நூறிஞர் திரு. ஞா. தேவநேயப் பாவாணர் அவர்கள் ஆற்றிய தலைமை உரை :
+## தலைமை ஏற்ற மொழி நூலறிஞர் திரு. ஞா. தேவநேயப் பாவாணர் அவர்கள் ஆற்றிய தலைமை உரை :
 
 ## Source transcription
 
@@ -26,7 +26,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 
 அந்த இரு நூல்களில் ‘ரோமாபுரிப் பாண்டியன்’ என்னும் புதினத்தை நம் ஓய்வு பெற்ற தலைமை நடுவர் உயர்திரு அனந்தநாராயணன் அவர்கள் வெளியிடுவார்கள். அதைப் பாவரசு கண்ணதாசன் அவர்கள் பெறுவார்கள். அதன்பின்பு அந்தக் கட்டுரைத் திரட்டை மாண்புமிகு புலவர் கா.கோவிந்தனார் வெளியிடுவார். அதைப் பெரும் புலவர் கி.வா.ஜகந்நாதன் பெறுவார். இப்போது இந்த ‘ரோமாபுரிப் பாண்டியன்’ என்கிற புதினத்தைப் பற்றிச் சிறப்பாக ஒன்றும் பேச வேண்டுவதில்லை. ஏனென்றால் பேசுவதற்கு ஒரு பெருஞ் சொற்கொண்டல் இங்கே காத்திருக்கின்றது.
 
-அது ஒரு புதினம்; அதாவது நாவல்; வரலாற்றை அடிப்படையாகக் கொண்டு மிகத் திறம்பட எழுதப்பட்ட ஒரு புதினம். ஒரு புதுவிரிவான கதை. ரோமாபுரித் தொடர்புக்குள் இருந்து அந்தக் கதை எடுத்துக் கூறுகின்றது. அது கி.மு. 753 என்று சொல்லப்படுகின்றது. இதை நினைக்கும்போது ஒரு சிலர் - அதாவது ஆராய்ச்சி இல்லாதவர்கள், இவ்வளவு பழமையானதா என்றுகூடச் சற்று வியக்கலாம்.
+அது ஒரு புதினம்; அதாவது நாவல்; வரலாற்றை அடிப்படையாகக் கொண்டு மிகத் திறம்பட எழுதப்பட்ட ஒரு புதினம். ஒரு புது விரிவான கதை. ரோமாபுரித் தொடர்புக்குள் இருந்து அந்தக் கதை எடுத்துக் கூறுகின்றது. அது கி.மு. 753 என்று சொல்லப்படுகின்றது. இதை நினைக்கும்போது ஒரு சிலர் - அதாவது ஆராய்ச்சி இல்லாதவர்கள், இவ்வளவு பழமையானதா என்றுகூடச் சற்று வியக்கலாம்.
 
 ஆனால் தமிழ், அதற்கும் முந்தினது. இந்த ரோமாபுரியோடு தமிழ்நாடு வணிகத் தொடர்புடையது மட்டுமன்று, இன்னும் சொல்லப்போனால் அதற்கு முந்தி மொழித் தொடர்பே உடையது. அந்த வணிகத்தினால் இணைக்கப்பட்ட சில பொருட்களின் பெயர்கள் மட்டுமல்ல, அந்த மொழியிலேயே பல அடிப்படைச் சொற்களே தமிழாக இருக்கும். அவற்றை எல்லாம் இப்போது
 
@@ -39,4 +39,14 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 - no printed page numeral is directly visible on this opening page;
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 9; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 9; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, displayed/paragraph structure, printed-pagination and physical page-boundary comparison completed against the user-supplied Part001 source pixels;
+- source-text corrections: **2**;
+- correction: `மொழி நூறிஞர்` → `மொழி நூலறிஞர்`;
+- correction: `ஒரு புதுவிரிவான கதை.` → `ஒரு புது விரிவான கதை.`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass 2B, Pass 3, Part audit and final metadata/status synchronization.
