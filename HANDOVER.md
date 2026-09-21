@@ -29,7 +29,11 @@
 - Pass2A corrections — **19**
 - unresolved Pass2A textual questions — **0**
 - all page records — **status needs-review / visual_fidelity needs-review**
-- Pass2B — **NOT STARTED / NEXT**
+- Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass2B source-text / lexical / spacing / punctuation corrections — **7**
+- Pass2B historical-glyph corrections — **0**
+- unresolved Pass2B lexical / historical-glyph questions — **0**
+- Pass3 — **NOT STARTED / NEXT**
 
 ### Part002
 
@@ -51,6 +55,7 @@
 
 - `PART_001_PASS1_PROGRESS.md`
 - `PART_001_PASS2A_PROGRESS.md`
+- `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 
 ## Mandatory Part lock
@@ -59,6 +64,6 @@
 
 ## Exact next activity
 
-**Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–17.**
+**Part001 Pass3 — full-page visual / structural verification of scans1–17.**
 
-Do not begin Pass3 in the same activity.
+Do not begin the Part audit until Pass3 closes.
