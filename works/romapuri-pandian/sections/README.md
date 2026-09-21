@@ -115,6 +115,8 @@ Part002 release/readiness — **PASS / CLOSED**.
 
 Part002 release-ready synchronization — **PASS / CLOSED**.
 
+Part002 final closure — **PASS / CLOSED / FROZEN**.
+
 Part002 English reservations — **E7–E10 / E7 NEXT**.
 
-Exact next maintained gate — **Part002 final closure / freeze**.
+Exact next maintained gate — **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**.
