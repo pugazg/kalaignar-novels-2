@@ -31,7 +31,7 @@
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- Part002 — **ACTIVE / ENGLISH PLANNING PASS / E7 NEXT**
+- Part002 — **ACTIVE / RELEASE-READY PASS / FINAL CLOSURE NEXT**
 - Part002 canonical records — **17/17 — scans18–34**
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -48,6 +48,13 @@
 - Part002 documentation synchronization — **PASS / COMPLETE**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
 - Part002 assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
+- Part002 English planning/setup — **COMPLETE / PASS**
+- Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
+- Part002 glossary reconciliation — **RECONCILED / PASS**
+- Part002 English editorial review — **PASS / CLOSED**
+- Part002 bilingual review — **PASS / CLOSED**
+- Part002 release/readiness — **PASS / CLOSED**
+- Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 English translation planning/setup — **COMPLETE / PASS**
 - Part002 English reservations — **E7–E10 / E7 NEXT**
 - Part002 English drafted/source-checked — **0/4**
@@ -63,4 +70,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**E7 — draft + source-check scan18 / Part002 Ananthanarayanan address continuation.**
+**Part002 final closure / freeze.**
