@@ -25,9 +25,11 @@
 - SHA-256 — `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79`
 - canonical records — **17/17**
 - Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
-- unresolved Pass1 holds — **0**
-- all page records — **needs-review**
-- Pass2A — **NOT STARTED / NEXT**
+- Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass2A corrections — **19**
+- unresolved Pass2A textual questions — **0**
+- all page records — **status needs-review / visual_fidelity needs-review**
+- Pass2B — **NOT STARTED / NEXT**
 
 ### Part002
 
@@ -45,12 +47,18 @@
 - Part002 scan18 was inspected only as a boundary witness
 - Part002 body leakage into Part001 — **0**
 
+## Durable progress controls
+
+- `PART_001_PASS1_PROGRESS.md`
+- `PART_001_PASS2A_PROGRESS.md`
+- `PART_001_BOUNDARY_AUDIT_17_18.md`
+
 ## Mandatory Part lock
 
 > Finish Part001 through final closure/freeze before beginning Part002 canonical transcription.
 
 ## Exact next activity
 
-**Part001 Pass2A — direct textual verification of scans1–17.**
+**Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–17.**
 
-Check every page directly against source pixels for words, punctuation, displayed structure, printed pagination and page boundaries. Do not begin Pass2B in the same activity.
+Do not begin Pass3 in the same activity.
