@@ -54,11 +54,12 @@
 ## Current frontier
 
 - supplied / registered Parts — **2/39**
-- Part001 — **PASS1 + PASS2A + PASS2B + PASS3 COMPLETE; PART AUDIT PASS; FINAL STATUS SYNC CLOSED; DOCUMENTATION SYNC COMPLETE**
+- Part001 — **PASS1 + PASS2A + PASS2B + PASS3 COMPLETE; PART AUDIT PASS; FINAL STATUS SYNC CLOSED; DOCUMENTATION SYNC COMPLETE; TAMIL ARCHIVAL-READY CLOSED**
 - Part002 — **SUPPLIED / REGISTERED / BLOCKED**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
 - Pass3 — **0 text corrections; 7 structural metadata corrections; 0 unresolved**
 - Part audit — **17/17 canonical records; 0 missing / 0 duplicate / 0 unresolved**
 - final status — **17/17 verified Tamil / 17/17 verified visual / 0 needs-review**
 - documentation synchronization — **PASS / COMPLETE**
-- exact next gate — **Part001 Tamil archival-ready checkpoint**
+- Tamil archival-ready — **PASS / CLOSED**
+- exact next gate — **Part001 assembled Tamil construction + audit**
