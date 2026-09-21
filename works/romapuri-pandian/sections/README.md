@@ -19,6 +19,20 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - canonical page mutations caused by assembly — **0**
 - validation — `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Part002 — PASS / CLOSED
+
+- physical coverage — **scans18–34**
+- verified canonical pages represented structurally — **17/17**
+- publication-text source-transcription pages represented — **17/17**
+- assembled files — **4/4 VERIFIED**
+- omitted publication-text pages — **0**
+- duplicate canonical publication-text pages — **0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- Part003 text leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- validation — `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+
 ## Section inventory
 
 | Order | Part | File | Source scans | Source structure | Status |
@@ -29,6 +43,10 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 | 3 | 001 | `03-pathippurai.md` | 8 | `பதிப்புரை` | **VERIFIED** |
 | 4 | 001 | `04-devaneyap-paavanar-thalaimai-urai.md` | 9–11 | தேவநேயப் பாவாணர் தலைமை உரை | **VERIFIED** |
 | 5 | 001 | `05-ananthanarayanan-paarattu-urai.md` | 12–17 | அனந்தநாராயணன் பாராட்டு உரை; Part001 terminal continuation | **VERIFIED** |
+| 6 | 002 | `06-ananthanarayanan-paarattu-urai-part002-continuation.md` | 18 | அனந்தநாராயணன் பாராட்டு உரை continuation / close | **VERIFIED** |
+| 7 | 002 | `07-kaviyarasu-kannadasan-urai.md` | 19–22 | கவியரசு கண்ணதாசன் உரை | **VERIFIED** |
+| 8 | 002 | `08-arimugam.md` | 23–28 | `அறிமுகம்` | **VERIFIED** |
+| 9 | 002 | `09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | 29–34 | Chapter 1 title + narrative opening | **VERIFIED** |
 
 ## Assembly rules
 
@@ -50,11 +68,24 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - scan16→17 — verified same-sentence continuation retained.
 - scan17 — remains terminal at `ஜராத் என்ற அவளது பணிப்பெண்ணும் அது`.
 
+## Part002 special cases
+
+- scan18 — begins with the source continuation from Part001 scan17; Part001 body text is not duplicated into the Part002 assembled file.
+- scan19→20 — same-sentence continuation retained with a non-rendering source-boundary marker.
+- scan20→21 and scan21→22 — physical continuations retained.
+- scan25→26 — physical split word rendered continuously as `கொண்டானாம்.` with a non-rendering provenance marker.
+- scan28 — `அறிமுகம்` closes.
+- scan29 — illustrated Chapter 1 title page retained at the start of the Chapter 1 assembled file.
+- scan30→31→32→33 — Chapter 1 physical continuations retained.
+- scan33→34 — physical split word rendered continuously as `முத்தாரத்தையெடுத்து` with a non-rendering provenance marker.
+- scan34 — remains terminal at `குதிரைகள்`; no Part003 continuation is imported.
+
 ## Boundary safeguard
 
-- outgoing **17→18 — GENUINE CONTINUATION / AUDITED**
-- scan18 / Part002 continuation is not imported
-- Part002 canonical records remain **0 / BLOCKED**
+- outgoing Part001 **17→18 — GENUINE CONTINUATION / AUDITED**
+- Part001 assembled file remains terminal at scan17; scan18 is represented only in the Part002 assembled layer
+- outgoing Part002 **34→35 — PENDING Part003 adjacent witness**
+- Part003 text imported into Part002 assembled layer — **0**
 
 ## Downstream state
 
@@ -66,4 +97,8 @@ Part001 English E1–E6, glossary reconciliation, editorial review, bilingual re
 
 Part001 final closure — **PASS / CLOSED / FROZEN**.
 
-Exact next maintained gate — **Part002 Pass1 / global scans18–27 / local pages1–10**.
+Part002 Tamil archival-ready — **PASS / CLOSED**.
+
+Part002 assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**.
+
+Exact next maintained gate — **Part002 English translation planning/setup**.
