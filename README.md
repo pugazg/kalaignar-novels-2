@@ -21,7 +21,8 @@
 - Part001 Tamil textual status — **17/17 verified; 0 needs-review**
 - Part001 visual fidelity — **17/17 verified; 0 needs-review**
 - Part001 documentation synchronization — **PASS / COMPLETE**
-- Part001 Tamil archival-ready — **NOT STARTED / NEXT**
+- Part001 Tamil archival-ready — **PASS / CLOSED**
+- Part001 assembled Tamil — **NOT STARTED / NEXT**
 - Part002 — **SUPPLIED / REGISTERED / BLOCKED**
 - Part002 canonical records — **0**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
@@ -35,4 +36,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part001 Tamil archival-ready checkpoint.**
+**Part001 assembled Tamil construction + audit.**
