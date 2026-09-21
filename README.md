@@ -17,7 +17,11 @@
 - Part001 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED — 7 corrections / 0 historical-glyph corrections / 0 unresolved**
 - Part001 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED — 0 text corrections / 7 structural metadata corrections / 0 unresolved**
 - Part001 Part audit — **PASS / COMPLETE — 17/17 canonical records; 0 missing / 0 duplicate / 0 unresolved**
-- Part001 status — **17/17 needs-review; visual_fidelity 17/17 needs-review**
+- Part001 final metadata/status synchronization — **PASS / CLOSED**
+- Part001 Tamil textual status — **17/17 verified; 0 needs-review**
+- Part001 visual fidelity — **17/17 verified; 0 needs-review**
+- Part001 documentation synchronization — **PASS / COMPLETE**
+- Part001 Tamil archival-ready — **NOT STARTED / NEXT**
 - Part002 — **SUPPLIED / REGISTERED / BLOCKED**
 - Part002 canonical records — **0**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
@@ -31,4 +35,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part001 final metadata/status synchronization — promote audited scans1–17 to verified without changing canonical Tamil.**
+**Part001 Tamil archival-ready checkpoint.**
