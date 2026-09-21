@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**
+**PART001 TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -30,7 +30,8 @@
 - Part001 page status — **17/17 verified / 0 needs-review**
 - Part001 visual fidelity — **17/17 verified / 0 needs-review**
 - Part001 documentation synchronization — **PASS / COMPLETE**
-- Part001 Tamil archival-ready — **NOT STARTED / NEXT**
+- Part001 Tamil archival-ready — **PASS / CLOSED**
+- Part001 assembled Tamil — **NOT STARTED / NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
 - source PDFs in Git — **0 / prohibited by archive policy**
@@ -58,10 +59,11 @@
 - `PART_001_AUDIT.md`
 - `PART_001_FINAL_STATUS_SYNC.md`
 - `PART_001_DOCUMENTATION_SYNC.md`
+- `PART_001_TAMIL_ARCHIVAL_READY.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part001 Tamil archival-ready checkpoint.**
+**Part001 assembled Tamil construction + audit.**
 
-Do not begin assembled Tamil until that checkpoint passes.
+Do not begin English until assembled Tamil closes.
