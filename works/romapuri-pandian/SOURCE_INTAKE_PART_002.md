@@ -31,7 +31,8 @@ Part002 local page1 / overall scan18 is used only as the direct witness for the 
 - Part001 is the only active content Part
 - Part001 final metadata/status synchronization — **PASS / CLOSED**
 - Part001 documentation synchronization — **PASS / COMPLETE**
-- Part001 Tamil archival-ready — **NOT STARTED / NEXT**
+- Part001 Tamil archival-ready — **PASS / CLOSED**
+- Part001 assembled Tamil — **NOT STARTED / NEXT**
 - Part002 canonical page records: **0**
 - Part002 canonical transcription: **BLOCKED**
 - Part002 assembled Tamil: **BLOCKED**
