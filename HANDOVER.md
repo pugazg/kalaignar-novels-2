@@ -80,6 +80,7 @@
 - final metadata/status synchronization — **PASS / CLOSED**
 - Tamil textual status — **17/17 verified / 0 needs-review**
 - visual fidelity — **17/17 verified / 0 needs-review**
+- documentation synchronization — **PASS / COMPLETE**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
 
 ## Boundary
@@ -113,6 +114,7 @@
 - `PART_002_PASS3_PROGRESS.md`
 - `PART_002_AUDIT.md`
 - `PART_002_FINAL_STATUS_SYNC.md`
+- `PART_002_DOCUMENTATION_SYNC.md`
 
 ## Mandatory Part lock
 
@@ -120,6 +122,6 @@
 
 ## Exact next activity
 
-**Part002 documentation synchronization.**
+**Part002 Tamil archival-ready checkpoint.**
 
-Part001 remains frozen. Part002 final metadata/status synchronization is PASS / CLOSED. Reconcile live control documents to the verified 17/17 state without changing canonical page records.
+Part001 remains frozen. Part002 documentation synchronization is PASS / COMPLETE. Validate the closed Tamil evidence chain and verified 17/17 canonical layer; do not alter canonical text or status metadata.
