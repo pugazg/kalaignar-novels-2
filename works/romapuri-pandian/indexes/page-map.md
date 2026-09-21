@@ -73,7 +73,7 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part001 bilingual review — **PASS / CLOSED**
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
-- Part001 final closure — **NOT STARTED / NEXT**
-- Part002 canonical records — **0**
+- Part001 final closure — **PASS / CLOSED / FROZEN**
+- Part002 canonical records — **0 / AUTHORIZED / NOT STARTED**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part001 final closure / freeze**
+- exact next activity — **Part002 Pass1 global scans18–27 / local pages1–10**
