@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன் / Part001
 
-Status: **WHOLE-PART RECONCILED / PASS — RELEASE-READY SYNC CLOSED**
+Status: **WHOLE-PART RECONCILED / PASS — PART001 FINAL CLOSED / FROZEN**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil and source-visible English. It contains project translation choices, not external historical or linguistic claims.
 
@@ -175,3 +175,12 @@ Part001 E1–E6 glossary reconciliation is **RECONCILED / PASS**.
 - Part002 leakage — **0**
 
 Durable record: `GLOSSARY_RECONCILIATION.md`.
+
+
+## Final closure lock
+
+Part001 is **FINAL CLOSED / FROZEN**.
+
+This glossary remains the controlling project-English terminology record for Part001. Deliberate source variants must not be normalized after closure unless an explicit source-fidelity reopening is approved.
+
+Next source activity: **Part002 Pass1 / scans18–27**.
