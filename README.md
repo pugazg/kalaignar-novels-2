@@ -31,7 +31,7 @@
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- Part002 — **ACTIVE / FINAL STATUS PASS / DOCUMENTATION SYNC NEXT**
+- Part002 — **ACTIVE / DOCUMENTATION SYNC PASS / TAMIL ARCHIVAL-READY NEXT**
 - Part002 canonical records — **17/17 — scans18–34**
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -45,6 +45,7 @@
 - Part002 final metadata/status synchronization — **PASS / CLOSED**
 - Part002 Tamil status — **17/17 verified / 0 needs-review**
 - Part002 visual fidelity — **17/17 verified / 0 needs-review**
+- Part002 documentation synchronization — **PASS / COMPLETE**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
@@ -57,4 +58,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part002 documentation synchronization.**
+**Part002 Tamil archival-ready checkpoint.**
