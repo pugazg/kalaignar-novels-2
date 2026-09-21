@@ -46,9 +46,12 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
 - whole-Part bilingual review — **PASS / CLOSED**
-- exact next gate — **Part001 release/readiness report**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **NOT STARTED / NEXT**
+- exact next gate — **Part001 final closure / freeze**
 
-Planning/setup and E1–E6 drafting/source-check are complete. Glossary reconciliation, editorial review and bilingual review are also closed. Release/readiness is next.
+Planning/setup and E1–E6 drafting/source-check are complete. Glossary reconciliation, editorial review and bilingual review are also closed. Release/readiness and release-ready synchronization are now closed. Final Part001 closure is next.
 
 
 Closed Part001 English controls now include:
