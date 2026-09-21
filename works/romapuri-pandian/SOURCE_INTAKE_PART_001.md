@@ -86,7 +86,7 @@ source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்
 - bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- final closure — **NOT STARTED / NEXT**
+- final closure — **PASS / CLOSED / FROZEN**
 - Part002 canonical records — **0 / BLOCKED**
 
 Durable progress records:
@@ -99,7 +99,12 @@ Durable progress records:
 - `PART_001_DOCUMENTATION_SYNC.md`
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
 - `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_001_RELEASE_READY_SYNC.md`
+- `PART_001_FINAL_CLOSURE.md`
+- `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 
-## Exact next activity
+## Final Part001 state
 
-**Part001 final closure / freeze.**
+**FINAL CLOSED / FROZEN**
+
+Part001 must not be reopened merely for stylistic polishing. The next active source gate is Part002 Pass1.
