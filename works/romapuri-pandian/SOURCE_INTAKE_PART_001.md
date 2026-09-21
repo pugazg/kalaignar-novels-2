@@ -61,15 +61,20 @@ source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்
 - Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A source-supported corrections — **19**
 - unresolved Pass2A textual questions — **0**
+- Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass2B source-text / lexical / spacing / punctuation corrections — **7**
+- Pass2B historical-glyph corrections — **0**
+- unresolved Pass2B lexical / historical-glyph questions — **0**
 - all pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - Part002 canonical records — **0 / BLOCKED**
 
 Durable progress records:
 - `PART_001_PASS1_PROGRESS.md`
 - `PART_001_PASS2A_PROGRESS.md`
+- `PART_001_PASS2B_PROGRESS.md`
 
 ## Exact next activity
 
-**Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–17.**
+**Part001 Pass3 — full-page visual / structural verification of scans1–17.**
 
-Do not begin Pass3 in the same activity.
+Do not begin the Part audit until Pass3 closes.
