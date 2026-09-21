@@ -2,7 +2,7 @@
 
 ## State
 
-**READY — Part001 Tamil + assembled Tamil are closed; English planning/setup is next.**
+**PART001 ENGLISH PLANNING / SETUP — COMPLETE / PASS**
 
 Part001 has now satisfied every Tamil prerequisite:
 
@@ -38,6 +38,11 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - canonical Tamil authority — `../../pages/`
 - maintained reading layer — `../../sections/`
 - Part002 transcription — **BLOCKED**
-- exact next gate — **Part001 English translation planning/setup**
+- translation plan — **CREATED / ACTIVE**
+- glossary — **INITIAL / ACTIVE**
+- progress control — **CREATED / ACTIVE**
+- reserved English batches — **E1–E6 / 6 units**
+- English section drafts — **0/6**
+- exact next gate — **E1 draft + source-check / scans1–4**
 
-Planning/setup must create a Part001 translation plan, glossary and progress control, reserve sequential E-batches, and map all six verified assembled files without modifying canonical Tamil.
+Planning/setup is now complete. Controls: `TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`, and `sections/README.md`. E1 is next; E2 remains blocked until E1 is SOURCE-CHECKED / COMPLETE.
