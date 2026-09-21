@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 PASS2A IN PROGRESS**
+**PART001 FINAL CLOSED / FROZEN — PART002 PASS2A COMPLETE / PASS2B NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -44,9 +44,9 @@
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **17/17 — scans18–34**
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
-- Part002 Pass2A — **IN PROGRESS — 7/17 REVIEWED / scans18–24**
-- Part002 Pass2A corrections so far — **12 / 0 unresolved**
-- Part002 Pass2A pending — **scans25–34 / local pages8–17**
+- Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part002 Pass2A corrections — **16 / 0 unresolved**
+- Part002 Pass2B — **NOT STARTED / NEXT**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
 - Part001 English — **FINAL CLOSED / FROZEN**
@@ -87,6 +87,6 @@
 
 ## Exact next activity
 
-**Continue Part002 Pass2A — scans25–34 / local pages8–17.**
+**Part002 Pass2B — independent lexical / historical-glyph reread of scans18–34.**
 
 Part001 is frozen; do not reopen it for stylistic polishing.
