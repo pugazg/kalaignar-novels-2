@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / ENGLISH PLANNING PASS / E7 NEXT.**
+**SUPPLIED / REGISTERED / RELEASE-READY PASS / FINAL CLOSURE NEXT.**
 
 - local PDF pages: **17**
 - canonical overall scans: **18–34**
@@ -65,6 +65,13 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - outgoing 34→35 witness: **PENDING Part003 adjacent witness / deferred external boundary evidence**
 - Part002 assembled Tamil: **PASS / CLOSED — 4/4 VERIFIED**
 - Part002 English planning/setup: **COMPLETE / PASS**
+- Part002 English E7–E10: **SOURCE-CHECKED / COMPLETE — 4/4**
+- Part002 glossary reconciliation: **RECONCILED / PASS**
+- Part002 English editorial review: **PASS / CLOSED**
+- Part002 bilingual review: **PASS / CLOSED**
+- Part002 release/readiness: **PASS / CLOSED**
+- Part002 release-ready synchronization: **PASS / CLOSED**
+- Part002 English planning/setup: **COMPLETE / PASS**
 - Part002 English reservations: **E7–E10 / E7 NEXT**
 - Part002 English drafted/source-checked: **0/4**
 
@@ -80,28 +87,6 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**E7 — draft + source-check scan18 / Part002 Ananthanarayanan address continuation.**
+**Part002 final closure / freeze.**
 
-English planning/setup is COMPLETE / PASS. Do not begin E8 until E7 closes SOURCE-CHECKED / COMPLETE.
-
-Progress control: `PART_002_PASS1_PROGRESS.md`.
-
-
-Pass2A progress control: `PART_002_PASS2A_PROGRESS.md`.
-
-Pass2B progress control: `PART_002_PASS2B_PROGRESS.md`.
-
-Pass3 progress control: `PART_002_PASS3_PROGRESS.md`.
-
-Part audit control: `PART_002_AUDIT.md`.
-
-Final status control: `PART_002_FINAL_STATUS_SYNC.md`.
-
-Documentation sync control: `PART_002_DOCUMENTATION_SYNC.md`.
-
-Tamil archival-ready control: `PART_002_TAMIL_ARCHIVAL_READY.md`.
-
-Assembled Tamil validation: `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`.
-
-
-English planning/setup control: `PART_002_ENGLISH_PLANNING_SETUP.md`.
+Release-ready synchronization has passed. Create and verify the durable final-closure record; do not begin Part003 canonical transcription.
