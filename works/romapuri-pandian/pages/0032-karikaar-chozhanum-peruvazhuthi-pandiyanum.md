@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans28–34"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans28–34; formal Part002 Pass 2A reviewed"
 ---
 
 # 1. கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 
 முதியவர் வாழ்த்தினர். இளையவர் தங்கள் நாடு வாழ்க என அதிர்ந்தனர்.
 
-அரச வீதிகளிலே அழகேற்றியவாறு அந்த மன்னர்களின் ஊர்வலம் நகர்ந்து மெல்ல மெல்ல!
+அரச வீதிகளிலே அழகேற்றியவாறு அந்த மன்னர்களின் ஊர்வலம் நகர்ந்தது மெல்ல மெல்ல!
 
 இருபெரும் வேந்தர்களையும் நோக்கிய தலைநகரத்து மாந்தரது விழிகள், பாண்டிய மன்னனையொட்டி வெள்ளைப் புரவியொன்றில் அமர்ந்து வெற்றிப் புன்னகை காட்டியவாறு ஊர்வலத்தில் சென்ற பாண்டிய நாட்டு வீரன் ஒருவனைக் காணத் தவறவில்லை. அவன் குதிரையில் வீற்றிருந்த அழகே தனியாக இருந்தது. கடிவாளத்தைக் கரத்தில் ஏந்தியிருந்த பாவனையே எல்லோருடைய உள்ளத்தையும் கவர்ந்தது. சிறிய இளம் முறுக்கு மீசை, சுருண்டு காய்ந்த மிளகாய்கள் போலச் சுருள் சுருளான தலைமுடி! ஒவ்வொரு அசைவிலும் வீரந் துள்ளுவது போன்ற காட்சி! புன்னகையிலே ஒரு தனிக் கவர்ச்சி! யானைமீது வரும் அரசர்களையும் புரவிமீது வரும் அந்த வாலிபனையும் மாறி மாறிப் பார்த்தவாறு மக்கள் பெருங்கடல் உற்சாகத்தோடு நகர்ந்து கொண்டிருந்தது.
 
@@ -42,4 +42,14 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - page ends mid-sentence at `விடக்` and continues on scan33.
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 32; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 30; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word textual verification completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- correction: `அந்த மன்னர்களின் ஊர்வலம் நகர்ந்து மெல்ல மெல்ல!` → `அந்த மன்னர்களின் ஊர்வலம் நகர்ந்தது மெல்ல மெல்ல!`;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 32; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 30; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
