@@ -61,9 +61,10 @@
 - global scans — **18–34**
 - SHA-256 — `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0`
 - source intake — **REGISTERED / AUTHORIZED**
-- canonical records — **10/17 — scans18–27**
-- Pass1 — **10/17 TEXT-COMPLETE / IN PROGRESS**
-- Pass1 pending — **scans28–34 / local pages11–17**
+- canonical records — **17/17 — scans18–34**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Pass1 unresolved source-reading holds — **0**
+- Pass2A — **NOT STARTED / NEXT**
 
 ## Boundary
 
@@ -98,6 +99,6 @@
 
 ## Exact next activity
 
-**Part002 Pass1 — complete remaining global scans28–34 / local pages11–17.**
+**Part002 Pass2A — direct textual verification of scans18–34.**
 
-Part001 remains frozen. Do not begin Part002 Pass2A until Pass1 covers all scans18–34.
+Part001 remains frozen. Do not begin Part002 Pass2B until Pass2A closes.
