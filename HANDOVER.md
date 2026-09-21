@@ -61,8 +61,9 @@
 - global scans — **18–34**
 - SHA-256 — `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0`
 - source intake — **REGISTERED / AUTHORIZED**
-- canonical records — **0**
-- canonical transcription — **AUTHORIZED / NOT STARTED**
+- canonical records — **10/17 — scans18–27**
+- Pass1 — **10/17 TEXT-COMPLETE / IN PROGRESS**
+- Pass1 pending — **scans28–34 / local pages11–17**
 
 ## Boundary
 
@@ -89,6 +90,7 @@
 - `translations/en/PROGRESS.md`
 - `translations/en/sections/README.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
+- `PART_002_PASS1_PROGRESS.md`
 
 ## Mandatory Part lock
 
@@ -96,6 +98,6 @@
 
 ## Exact next activity
 
-**Part002 Pass1 — global scans18–27 / local pages1–10.**
+**Part002 Pass1 — complete remaining global scans28–34 / local pages11–17.**
 
-Part001 is frozen. Do not begin Part002 Pass2A until Pass1 covers all scans18–34.
+Part001 remains frozen. Do not begin Part002 Pass2A until Pass1 covers all scans18–34.
