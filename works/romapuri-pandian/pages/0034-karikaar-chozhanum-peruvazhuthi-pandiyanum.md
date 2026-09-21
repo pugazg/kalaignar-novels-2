@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans28–34; formal Part002 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans28–34; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B lexical/historical-glyph reviewed"
 ---
 
 # 1. கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 
 “பாண்டிய நாட்டு முத்துக்கள் என்றாலே அவைகளுக்குத் தனி ஒளிதான்! இல்லையா அப்பா?” என்று கேட்டாள் முத்துநகை.
 
-“ஆம் அம்மா! அதிலென்ன ஐயப்பாடு! கொற்கை முத்துக்களுக்கு ஈடான முத்துக்கள் உலகத்திலே வேறெங்கும் கிடையாது! ஏறத்தாழ பத்து ஆண்டுகளுக்கு முன்பு, எகிப்து நாட்டை அரசாண்டு பரிதாபகரமாகச் செத்துப் போனாளே கிளியோபாத்ரா என்ற அழகி, அவளுக்கு இந்த முத்துக்கள் இல்லாவிட்டால் கள்ளே அருந்த முடியாதாம். மதுக் கிண்ணங்களில் இந்த முத்துக்கள் எழுப்பும் ஓசைதான் அவளுக்குப் பிடித்தமான சங்கீதமாம்! ரோமாபுரியிலே இருக்கிற மக்களுக்குப் பாண்டிய நாட்டு முத்துக்கள் என்றால் உயிர்! அவர்களது ஆடை அணிகள் ஒவ்வொன்றிலும் இந்த முத்துக்கள் சுடர்விட்டுக் கொண்டிருக்கின்றன!”
+“ஆம் அம்மா! அதிலென்ன ஐயப்பாடு! கொற்கை முத்துக்களுக்கு ஈடான முத்துக்கள் உலகத்திலே வேறெங்கும் கிடையாது! ஏறத்தாழ பத்து ஆண்டுகளுக்கு முன்பு, எகிப்து நாட்டை அரசாண்டு பரிதாபகரமாகச் செத்தும் போனாளே கிளியோபாத்ரா என்ற அழகி, அவளுக்கு இந்த முத்துக்கள் இல்லாவிட்டால் கள்ளே அருந்த முடியாதாம். மதுக் கிண்ணங்களில் இந்த முத்துக்கள் எழுப்பும் ஓசைதான் அவளுக்குப் பிடித்தமான சங்கீதமாம்! ரோமாபுரியிலே இருக்கிற மக்களுக்குப் பாண்டிய நாட்டு முத்துக்கள் என்றால் உயிர்! அவர்களது ஆடை அணிகள் ஒவ்வொன்றிலும் இந்த முத்துக்கள் சுடர்விட்டுக் கொண்டிருக்கின்றன!”
 
 “ஏன்பா ! பாண்டிய மன்னருக்கும் சோழ மன்னருக்கும் இன்றைய தினம் நடைபெறுகிற நட்புறவு ஒப்பந்தம் வெற்றிகரமாக ஆகிவிடுமல்லவா!”
 
@@ -55,4 +55,15 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 34; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 32; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part002 Pass 2B lexical / historical-glyph reread
+
+- independent lexical, word-boundary, spacing, punctuation-sensitive and historical-glyph reread completed against the controlling source pixels;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- correction: `பரிதாபகரமாகச் செத்துப் போனாளே` → `பரிதாபகரமாகச் செத்தும் போனாளே`;
+- historical-glyph corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 34; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 32; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
