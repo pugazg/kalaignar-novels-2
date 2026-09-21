@@ -102,10 +102,12 @@
 - source intake — **REGISTERED / AUTHORIZED**
 - intake + incoming-boundary setup — **PASS / COMPLETE**
 - incoming 34→35 — **GENUINE CONTINUATION / AUDITED**
-- canonical records — **10/18 — scans35–44**
-- Pass1 — **IN PROGRESS — 10/18 TEXT-COMPLETE**
+- canonical records — **18/18 — scans35–52**
+- Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
+- Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
+- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
 - unresolved intake blockers — **0**
 
 ## Boundary
@@ -159,7 +161,7 @@
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 Pass1 / scans45–52 / local11–18**
+- prompt frontier — **Part003 Pass2A / scans35–52 / local1–18**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -174,6 +176,6 @@
 
 ## Exact next activity
 
-**Part003 Pass1 — global scans45–52 / local pages11–18.**
+**Part003 Pass2A — global scans35–52 / local pages1–18.**
 
-Batch 1 scans35–44 is COMPLETE / TEXT-COMPLETE with 0 unresolved holds. Do not begin Pass2A until scans35–52 are all captured.
+Part003 Pass1 is COMPLETE / PASS — 18/18 TEXT-COMPLETE with 0 unresolved holds. Do not begin Pass2B until Pass2A closes.
