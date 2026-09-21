@@ -22,7 +22,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 ## Boundary state
 
 - incoming split boundary: **17→18 — GENUINE CONTINUATION / AUDITED**
-- outgoing split boundary: **34→35 — PENDING Part003 adjacent witness**
+- outgoing split boundary: **34→35 — GENUINE CONTINUATION / AUDITED**
 
 Part002 local page1 / overall scan18 originally served as the direct Part001 boundary witness and is now a canonical Part002 record after Part001 final closure.
 
@@ -62,7 +62,7 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - Part002 visual fidelity: **17/17 verified / 0 needs-review**
 - Part002 documentation synchronization: **PASS / COMPLETE**
 - Part002 Tamil archival-ready: **PASS / CLOSED**
-- outgoing 34→35 witness: **PENDING Part003 adjacent witness / deferred external boundary evidence**
+- outgoing 34→35 witness: **GENUINE CONTINUATION / AUDITED**
 - Part002 assembled Tamil: **PASS / CLOSED — 4/4 VERIFIED**
 - Part002 English planning/setup: **COMPLETE / PASS**
 - Part002 English E7–E10: **SOURCE-CHECKED / COMPLETE — 4/4**
@@ -88,6 +88,19 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
+**Part003 Pass1 — global scans35–44 / local pages1–10.**
 
-Part003 is not supplied. Do not infer scan35 or begin canonical Part003 transcription without the source.
+Part003 source intake is registered and the incoming 34→35 boundary is audited.
+
+
+## Post-closure boundary resolution
+
+After Part002 final closure, the user supplied Part003. Direct adjacent-pixel comparison resolved the previously deferred outgoing boundary:
+
+**34→35 — GENUINE CONTINUATION / AUDITED**
+
+- scan34 terminal word — `குதிரைகள்`
+- scan35 begins — `ஒன்றன் மீதொன்று பாய்ந்து பாய்ந்து சண்டையிட்டன.`
+- combined continuity — `குதிரைகள் ஒன்றன் மீதொன்று பாய்ந்து பாய்ந்து சண்டையிட்டன.`
+- Part002 canonical/body mutation caused by the later witness — **0**
+- durable audit — `PART_002_BOUNDARY_AUDIT_34_35.md`
