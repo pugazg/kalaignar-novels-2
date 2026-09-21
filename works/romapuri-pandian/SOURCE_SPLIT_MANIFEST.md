@@ -12,7 +12,7 @@
 | Part | Supplied | Exact filename | Bytes | SHA-256 | Local PDF pages | Global scans | Intake | Final closure |
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf` | 48,382,555 | `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79` | 17 | 1–17 | REGISTERED | **PASS / CLOSED / FROZEN** |
-| 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | **REGISTERED / ACTIVE** | PASS1 IN PROGRESS — 10/17 |
+| 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | **REGISTERED / ACTIVE** | PASS1 COMPLETE — 17/17 |
 | 003 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -55,7 +55,7 @@
 
 - supplied / registered Parts — **2/39**
 - Part001 — **FINAL CLOSED / FROZEN**
-- Part002 — **ACTIVE / PASS1 IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part002 — **ACTIVE / PASS1 COMPLETE / PASS2A NEXT**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
 - Pass3 — **0 text corrections; 7 structural metadata corrections; 0 unresolved**
 - Part audit — **17/17 canonical records; 0 missing / 0 duplicate / 0 unresolved**
@@ -71,6 +71,7 @@
 - bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- Part002 canonical records — **10/17 / scans18–27**
-- Part002 Pass1 pending — **scans28–34 / local pages11–17**
-- exact next gate — **Part002 Pass1 complete scans28–34 / local pages11–17**
+- Part002 canonical records — **17/17 / scans18–34**
+- Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Part002 Pass1 unresolved holds — **0**
+- exact next gate — **Part002 Pass2A scans18–34**
