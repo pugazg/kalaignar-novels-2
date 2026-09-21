@@ -31,7 +31,7 @@
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- Part002 — **ACTIVE / RELEASE-READY PASS / FINAL CLOSURE NEXT**
+- Part002 — **FINAL CLOSED / FROZEN**
 - Part002 canonical records — **17/17 — scans18–34**
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -55,10 +55,12 @@
 - Part002 bilingual review — **PASS / CLOSED**
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 release-ready synchronization — **PASS / CLOSED**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 English translation planning/setup — **COMPLETE / PASS**
 - Part002 English reservations — **E7–E10 / E7 NEXT**
 - Part002 English drafted/source-checked — **0/4**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
+- Part003 — **NOT SUPPLIED / NOT REGISTERED**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
 
@@ -70,4 +72,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part002 final closure / freeze.**
+**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
