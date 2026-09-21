@@ -194,8 +194,11 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 audit missing canonical pages — **0**
 - Part001 audit duplicate canonical pages — **0**
 - Part001 audit unresolved blockers — **0**
-- Part001 status — **17/17 needs-review**
-- Part001 visual_fidelity — **17/17 needs-review**
+- Part001 final metadata/status synchronization — **PASS / CLOSED**
+- Part001 status — **17/17 verified / 0 needs-review**
+- Part001 visual_fidelity — **17/17 verified / 0 needs-review**
+- Part001 documentation synchronization — **PASS / COMPLETE**
+- Part001 Tamil archival-ready — **NOT STARTED / NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
-- exact next gate — **Part001 final metadata/status synchronization scans1–17**
+- exact next gate — **Part001 Tamil archival-ready checkpoint**
