@@ -21,16 +21,16 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 001 | 15 | 15 | 13 | அனந்தநாராயணன் பாராட்டு உரை continuation | verified | `pages/0015-ananthanarayanan-paarattu-urai.md` |
 | 001 | 16 | 16 | 14 | அனந்தநாராயணன் பாராட்டு உரை continuation | verified | `pages/0016-ananthanarayanan-paarattu-urai.md` |
 | 001 | 17 | 17 | 15 | அனந்தநாராயணன் பாராட்டு உரை; outgoing 17→18 genuine continuation audited | verified | `pages/0017-ananthanarayanan-paarattu-urai.md` |
-| 002 | 1 | 18 | 16 | boundary witness only; continuation from scan17 | not-started | — |
-| 002 | 2 | 19 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 3 | 20 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 4 | 21 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 5 | 22 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 6 | 23 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 7 | 24 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 8 | 25 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 9 | 26 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 10 | 27 | — | unclassified — canonical transcription blocked | not-started | — |
+| 002 | 1 | 18 | 16 | அனந்தநாராயணன் பாராட்டு உரை continuation / close; incoming 17→18 genuine continuation | needs-review | `pages/0018-ananthanarayanan-paarattu-urai.md` |
+| 002 | 2 | 19 | — | கவியரசு கண்ணதாசன் உரை opening | needs-review | `pages/0019-kaviyarasu-kannadasan-urai.md` |
+| 002 | 3 | 20 | 18 | கவியரசு கண்ணதாசன் உரை continuation | needs-review | `pages/0020-kaviyarasu-kannadasan-urai.md` |
+| 002 | 4 | 21 | 19 | கவியரசு கண்ணதாசன் உரை continuation | needs-review | `pages/0021-kaviyarasu-kannadasan-urai.md` |
+| 002 | 5 | 22 | 20 | கவியரசு கண்ணதாசன் உரை continuation / close | needs-review | `pages/0022-kaviyarasu-kannadasan-urai.md` |
+| 002 | 6 | 23 | — | `அறிமுகம்` opening / decorative heading | needs-review | `pages/0023-arimugam.md` |
+| 002 | 7 | 24 | 22 | `அறிமுகம்` continuation | needs-review | `pages/0024-arimugam.md` |
+| 002 | 8 | 25 | 23 | `அறிமுகம்` continuation | needs-review | `pages/0025-arimugam.md` |
+| 002 | 9 | 26 | 24 | `அறிமுகம்` continuation; split-word continuation from scan25 | needs-review | `pages/0026-arimugam.md` |
+| 002 | 10 | 27 | 25 | `அறிமுகம்` continuation | needs-review | `pages/0027-arimugam.md` |
 | 002 | 11 | 28 | — | unclassified — canonical transcription blocked | not-started | — |
 | 002 | 12 | 29 | — | unclassified — canonical transcription blocked | not-started | — |
 | 002 | 13 | 30 | — | unclassified — canonical transcription blocked | not-started | — |
@@ -43,7 +43,7 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 
 - registered Parts — **2/39**
 - source-mapped scans — **1–34**
-- canonical page records — **17**
+- canonical page records — **27**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A corrections — **19**
@@ -74,6 +74,9 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- Part002 canonical records — **0 / AUTHORIZED / NOT STARTED**
+- Part002 canonical records — **10/17 — scans18–27**
+- Part002 Pass1 — **10/17 TEXT-COMPLETE / IN PROGRESS**
+- Part002 Pass1 pending — **scans28–34 / local pages11–17**
+- Part002 Pass1 unresolved holds — **0**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part002 Pass1 global scans18–27 / local pages1–10**
+- exact next activity — **Part002 Pass1 complete scans28–34 / local pages11–17**
