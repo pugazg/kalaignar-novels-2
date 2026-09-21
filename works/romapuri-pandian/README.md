@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 RELEASE-READY PASS / FINAL CLOSURE NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 SOURCE NEEDED**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -65,10 +65,12 @@
 - Part002 bilingual review — **PASS / CLOSED**
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 release-ready synchronization — **PASS / CLOSED**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 English translation planning/setup — **COMPLETE / PASS**
 - Part002 English reservations — **E7–E10 / E7 NEXT**
 - Part002 English drafted/source-checked — **0/4**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
+- Part003 source — **NOT SUPPLIED / NOT REGISTERED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
 - Part001 English — **FINAL CLOSED / FROZEN**
@@ -119,10 +121,11 @@
 - `translations/en/PART_002_BILINGUAL_REVIEW.md`
 - `translations/en/PART_002_RELEASE_REPORT.md`
 - `PART_002_RELEASE_READY_SYNC.md`
+- `PART_002_FINAL_CLOSURE.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part002 final closure / freeze.**
+**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
 
-Part001 is frozen; do not reopen it for stylistic polishing.
+Parts001–002 are frozen; do not reopen them for stylistic polishing.
