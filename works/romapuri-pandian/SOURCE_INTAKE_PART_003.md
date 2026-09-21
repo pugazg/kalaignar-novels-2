@@ -61,14 +61,14 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - source supplied — **YES**
 - source registered — **YES**
 - incoming 34→35 boundary — **GENUINE CONTINUATION / AUDITED**
-- canonical Part003 records — **0**
-- Pass1 — **NOT STARTED**
+- canonical Part003 records — **10/18 — scans35–44**
+- Pass1 — **IN PROGRESS — 10/18 TEXT-COMPLETE**
+- Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
+- Pass1 unresolved holds — **0**
 - unresolved intake blockers — **0**
 
 ## Exact next activity
 
-**Part003 Pass1 — global scans35–44 / Part003 local pages1–10.**
+**Part003 Pass1 — global scans45–52 / Part003 local pages11–18.**
 
-Canonical transcription may now begin under the normal Part workflow.
-
-Do not begin Pass2A until Pass1 covers the complete Part003 range scans35–52.
+Batch 1 scans35–44 is TEXT-COMPLETE. Do not begin Pass2A until Pass1 covers the complete Part003 range scans35–52.
