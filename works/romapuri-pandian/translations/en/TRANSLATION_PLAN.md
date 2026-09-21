@@ -1,4 +1,4 @@
-# English Translation Plan — ரோமாபுரிப் பாண்டியன் / Part001
+# English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
 Status: **PART001 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
@@ -183,3 +183,79 @@ Part001 English is **FINAL CLOSED / FROZEN**.
 **Part002 Pass1 — global scans18–27 / local pages1–10.**
 
 Do not begin Part002 English until its own Tamil + assembled-Tamil prerequisites close.
+
+
+## Part002 planning/setup — COMPLETE / PASS
+
+Part001 history above remains **FINAL CLOSED / FROZEN** and is not reopened by this extension.
+
+Part002 English prerequisites are now closed:
+
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
+- unresolved Tamil / glyph / visual / structural blockers — **0**
+- Part003 canonical/body leakage — **0**
+
+Verified Part002 assembled inputs:
+
+1. `../../sections/06-ananthanarayanan-paarattu-urai-part002-continuation.md` — scan18
+2. `../../sections/07-kaviyarasu-kannadasan-urai.md` — scans19–22
+3. `../../sections/08-arimugam.md` — scans23–28
+4. `../../sections/09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` — scans29–34
+
+### Reserved Part002 English units
+
+| Batch | Tamil input | Planned English file | Scans | Planning state |
+|---|---|---|---:|---|
+| **E7** | `../../sections/06-ananthanarayanan-paarattu-urai-part002-continuation.md` | `sections/06-ananthanarayanan-appreciation-address-part002-continuation.md` | 18 | **RESERVED / NEXT** |
+| **E8** | `../../sections/07-kaviyarasu-kannadasan-urai.md` | `sections/07-kaviyarasu-kannadasan-address.md` | 19–22 | **RESERVED** |
+| **E9** | `../../sections/08-arimugam.md` | `sections/08-introduction.md` | 23–28 | **RESERVED** |
+| **E10** | `../../sections/09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | `sections/09-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan.md` | 29–34 | **RESERVED** |
+
+Batch discipline:
+
+**E7 closes draft + source-check before E8 begins; E8 before E9; E9 before E10.**
+
+A draft alone does not close a batch. Each batch requires a durable source-check record.
+
+### Part002 translation safeguards
+
+Incoming boundary:
+
+- **17→18 = GENUINE CONTINUATION / AUDITED**;
+- Part001 E6 remains frozen and incomplete;
+- E7 translates only the verified Part002 scan18 unit;
+- E7 must not alter or backfill the Part001 English file.
+
+Internal verified Tamil joins are already resolved in the assembled Tamil authority and must not be reinterpreted:
+
+- scan25→26 — `கொண்டானாம்.`
+- scan33→34 — `முத்தாரத்தையெடுத்து`
+
+Outgoing boundary:
+
+- scan34 ends at `குதிரைகள்`;
+- **34→35 = PENDING Part003 adjacent witness**;
+- E10 must remain visibly incomplete;
+- no Part003 wording may be inferred, translated or imported.
+
+Part002 source-check requirements remain the same as Part001, with the leakage check now applying to **Part003**.
+
+### Planning integrity
+
+This planning/setup activity creates or changes English control metadata only.
+
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- English section drafts created in planning — **0**
+- Part001 English section changes — **0**
+- Part003 leakage — **0**
+- unresolved planning holds — **0**
+
+## Current lifecycle frontier — Part002
+
+**E7 — draft + source-check scan18 / Part002 continuation of Ananthanarayanan's Appreciation Address.**
+
+Do not begin E8 until E7 is **SOURCE-CHECKED / COMPLETE**.
