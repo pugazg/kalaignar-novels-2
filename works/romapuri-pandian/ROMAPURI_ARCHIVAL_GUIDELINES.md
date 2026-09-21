@@ -199,7 +199,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 visual_fidelity — **17/17 verified / 0 needs-review**
 - Part001 documentation synchronization — **PASS / COMPLETE**
 - Part001 Tamil archival-ready — **PASS / CLOSED**
-- Part001 assembled Tamil — **NOT STARTED / NEXT**
+- Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
+- Part001 English translation planning/setup — **NOT STARTED / NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
-- exact next gate — **Part001 assembled Tamil construction + audit**
+- exact next gate — **Part001 English translation planning/setup**
