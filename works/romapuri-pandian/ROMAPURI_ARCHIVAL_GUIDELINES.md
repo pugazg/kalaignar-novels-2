@@ -244,6 +244,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - outgoing 34→35 witness — **GENUINE CONTINUATION / AUDITED**
 - Part003 source — **REGISTERED / scans35–52 / AUTHORIZED**
-- Part003 canonical records — **0**
-- Part003 Pass1 — **NOT STARTED**
-- exact next gate — **Part003 Pass1 / scans35–44 / local pages1–10**
+- Part003 canonical records — **10/18 / scans35–44**
+- Part003 Pass1 — **IN PROGRESS — 10/18 TEXT-COMPLETE**
+- Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
+- Part003 Pass1 unresolved holds — **0**
+- exact next gate — **Part003 Pass1 / scans45–52 / local pages11–18**
