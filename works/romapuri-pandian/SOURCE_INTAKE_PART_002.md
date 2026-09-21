@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / FINAL STATUS PASS / DOCUMENTATION SYNC NEXT.**
+**SUPPLIED / REGISTERED / DOCUMENTATION SYNC PASS / TAMIL ARCHIVAL-READY NEXT.**
 
 - local PDF pages: **17**
 - canonical overall scans: **18–34**
@@ -60,6 +60,7 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - Part002 final metadata/status synchronization: **PASS / CLOSED**
 - Part002 Tamil status: **17/17 verified / 0 needs-review**
 - Part002 visual fidelity: **17/17 verified / 0 needs-review**
+- Part002 documentation synchronization: **PASS / COMPLETE**
 - outgoing 34→35 witness: **PENDING Part003 adjacent witness / deferred external boundary evidence**
 - Part002 assembled Tamil: **BLOCKED pending Part002 Tamil archival workflow**
 - Part002 English: **BLOCKED pending Part002 Tamil + assembled-Tamil closure**
@@ -76,9 +77,9 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**Part002 documentation synchronization.**
+**Part002 Tamil archival-ready checkpoint.**
 
-Final metadata/status synchronization has passed. Reconcile the live documentation/control layer to the verified 17/17 state without changing canonical page records.
+Documentation synchronization has passed. Validate the closed Tamil evidence chain and verified canonical layer without changing page records.
 
 Progress control: `PART_002_PASS1_PROGRESS.md`.
 
@@ -92,3 +93,5 @@ Pass3 progress control: `PART_002_PASS3_PROGRESS.md`.
 Part audit control: `PART_002_AUDIT.md`.
 
 Final status control: `PART_002_FINAL_STATUS_SYNC.md`.
+
+Documentation sync control: `PART_002_DOCUMENTATION_SYNC.md`.
