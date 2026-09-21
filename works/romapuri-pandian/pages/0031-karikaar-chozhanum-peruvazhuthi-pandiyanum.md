@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans28–34; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B lexical/historical-glyph reviewed"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans28–34; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B lexical/historical-glyph reviewed; formal Part002 Pass 3 visual/structural review completed"
 ---
 
 # 1. கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்
@@ -63,4 +63,16 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - Pass2B result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 31; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 29; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
+
+## Formal Part002 Pass 3 review
+
+- direct full-page visual / structural verification completed against the controlling source image;
+- structural classification confirmed: **novel-body continuation — printed page 29 with standard running work-title/page-number furniture and full-page narrative text**;
+- heading hierarchy, text blocks, illustrations/decorative matter, blank-field usage, recurring page furniture, printed-pagination visibility and physical page-boundary state were checked;
+- source-text corrections at Pass3: **0**;
+- structural metadata corrections at Pass3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass3 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 31; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 29; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED + PASS 3 REVIEWED / needs-review -->
