@@ -68,6 +68,7 @@
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - outgoing 34→35 witness — **GENUINE CONTINUATION / AUDITED**
 - Part003 source — **REGISTERED / AUTHORIZED**
+- Part003 intake + incoming-boundary setup — **PASS / COMPLETE**
 - Part003 — **18 pages / global scans35–52**
 - Part003 canonical records — **0**
 - Part003 Pass1 — **NOT STARTED**
@@ -124,6 +125,7 @@
 - `PART_002_FINAL_CLOSURE.md`
 - `SOURCE_INTAKE_PART_003.md`
 - `PART_002_BOUNDARY_AUDIT_34_35.md`
+- `PART_003_INTAKE_BOUNDARY_SETUP.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
