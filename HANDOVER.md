@@ -52,7 +52,7 @@
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- final Part001 closure — **NOT STARTED / NEXT**
+- final Part001 closure — **PASS / CLOSED / FROZEN**
 
 ### Part002
 
@@ -60,9 +60,9 @@
 - local pages — **17**
 - global scans — **18–34**
 - SHA-256 — `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0`
-- source intake — **REGISTERED**
+- source intake — **REGISTERED / AUTHORIZED**
 - canonical records — **0**
-- canonical transcription — **BLOCKED until Part001 final closure**
+- canonical transcription — **AUTHORIZED / NOT STARTED**
 
 ## Boundary
 
@@ -93,6 +93,6 @@
 
 ## Exact next activity
 
-**Part001 final closure / freeze.**
+**Part002 Pass1 — global scans18–27 / local pages1–10.**
 
-Do not begin Part002 transcription until final closure is committed.
+Part001 is frozen. Do not begin Part002 Pass2A until Pass1 covers all scans18–34.
