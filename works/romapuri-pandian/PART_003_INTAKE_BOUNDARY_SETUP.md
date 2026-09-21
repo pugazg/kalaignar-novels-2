@@ -82,3 +82,21 @@ Part003 canonical transcription is now authorized.
 **Part003 Pass1 — global scans35–44 / Part003 local pages1–10.**
 
 Do not begin Pass2A until Pass1 covers the full Part003 range **35–52**.
+
+
+## Post-setup Pass1 closure
+
+Part003 canonical Pass1 has since closed:
+
+- canonical records — **18/18**
+- scans — **35–52 continuous**
+- local pages — **1–18 continuous**
+- Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
+- unresolved Pass1 holds — **0**
+- outgoing 52→53 — **PENDING Part004 adjacent witness / deferred external boundary evidence**
+
+Durable Pass1 control: `PART_003_PASS1_PROGRESS.md`.
+
+Current frontier:
+
+**Part003 Pass2A — scans35–52 / local pages1–18.**
