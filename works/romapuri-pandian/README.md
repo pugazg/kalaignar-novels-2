@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 TAMIL ARCHIVAL-READY CLOSED / ASSEMBLED TAMIL NEXT**
+**PART001 ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -31,12 +31,14 @@
 - Part001 visual fidelity — **17/17 verified / 0 needs-review**
 - Part001 documentation synchronization — **PASS / COMPLETE**
 - Part001 Tamil archival-ready — **PASS / CLOSED**
-- Part001 assembled Tamil — **NOT STARTED / NEXT**
+- Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
+- assembled publication-text coverage — **16/16; scan2 copy-specific donation label excluded by policy**
+- Part001 English translation planning/setup — **NOT STARTED / NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
 - source PDFs in Git — **0 / prohibited by archive policy**
-- assembled Tamil — **BLOCKED**
-- English — **BLOCKED**
+- assembled Tamil — **PASS / CLOSED**
+- English — **PLANNING/SETUP NEXT**
 
 ## Authority
 
@@ -60,10 +62,12 @@
 - `PART_001_FINAL_STATUS_SYNC.md`
 - `PART_001_DOCUMENTATION_SYNC.md`
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
+- `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- `sections/README.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part001 assembled Tamil construction + audit.**
+**Part001 English translation planning/setup.**
 
-Do not begin English until assembled Tamil closes.
+Do not begin Part002 transcription until Part001 final closure.
