@@ -24,7 +24,13 @@
 - Part001 Tamil archival-ready — **PASS / CLOSED**
 - Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - Part001 English translation planning/setup — **COMPLETE / PASS**
-- Part001 English batches — **E1–E6 RESERVED / 0/6 drafted / E1 NEXT**
+- Part001 English E1–E6 — **SOURCE-CHECKED / COMPLETE — 6/6**
+- Part001 glossary reconciliation — **RECONCILED / PASS**
+- Part001 English editorial review — **PASS / CLOSED**
+- Part001 whole-Part bilingual review — **PASS / CLOSED**
+- Part001 release/readiness — **PASS / CLOSED**
+- Part001 release-ready synchronization — **PASS / CLOSED**
+- Part001 final closure — **NOT STARTED / NEXT**
 - Part002 — **SUPPLIED / REGISTERED / BLOCKED**
 - Part002 canonical records — **0**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
@@ -38,4 +44,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part001 E1 — draft + source-check scans1–4 / `00-front-matter.md`.**
+**Part001 final closure / freeze.**
