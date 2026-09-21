@@ -58,6 +58,7 @@
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - outgoing 34→35 witness — **GENUINE CONTINUATION / AUDITED**
 - Part003 source — **REGISTERED / AUTHORIZED**
+- Part003 intake + incoming-boundary setup — **PASS / COMPLETE**
 - Part003 source extent — **18 pages / scans35–52**
 - Part003 canonical records — **0**
 - Part003 Pass1 — **NOT STARTED**
