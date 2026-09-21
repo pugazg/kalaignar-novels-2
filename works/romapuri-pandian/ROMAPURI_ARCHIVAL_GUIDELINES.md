@@ -176,7 +176,7 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 ## Current frontier
 
 - Part001 source — **REGISTERED / scans1–17**
-- Part002 source — **REGISTERED / scans18–34 / ACTIVE / PASS1 IN PROGRESS**
+- Part002 source — **REGISTERED / scans18–34 / ACTIVE / PASS1 COMPLETE**
 - Part001 canonical page records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -209,7 +209,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- Part002 canonical records — **10/17 / scans18–27**
-- Part002 Pass1 — **10/17 TEXT-COMPLETE / IN PROGRESS**
-- Part002 Pass1 pending — **scans28–34 / local pages11–17**
-- exact next gate — **Part002 Pass1 complete scans28–34 / local pages11–17**
+- Part002 canonical records — **17/17 / scans18–34**
+- Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Part002 Pass1 unresolved holds — **0**
+- Part002 Pass2A — **NOT STARTED / NEXT**
+- exact next gate — **Part002 Pass2A scans18–34**
