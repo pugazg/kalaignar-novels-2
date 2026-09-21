@@ -83,6 +83,8 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part002 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Part002 Pass2B cadence — **9 pages per iteration**
 - Part002 Pass2B corrections — **5 / 0 historical-glyph / 0 unresolved**
-- Part002 Pass3 — **NOT STARTED / NEXT**
+- Part002 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part002 Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
+- Part002 Part audit — **NOT STARTED / NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part002 Pass3 scans18–34**
+- exact next activity — **Part002 Part audit**
