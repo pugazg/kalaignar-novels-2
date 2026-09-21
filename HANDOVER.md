@@ -44,7 +44,8 @@
 - audit unresolved blockers — **0**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
-- assembled Tamil — **NOT STARTED / NEXT**
+- assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
+- English translation planning/setup — **NOT STARTED / NEXT**
 
 ### Part002
 
@@ -72,6 +73,7 @@
 - `PART_001_FINAL_STATUS_SYNC.md`
 - `PART_001_DOCUMENTATION_SYNC.md`
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
+- `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 
 ## Mandatory Part lock
@@ -80,6 +82,6 @@
 
 ## Exact next activity
 
-**Part001 assembled Tamil construction + audit.**
+**Part001 English translation planning/setup.**
 
-Build only from verified canonical Part001 pages; do not import Part002 scan18 body text.
+Create translation plan, glossary and progress controls from the verified 6-file assembled Tamil layer; Part002 remains blocked.
