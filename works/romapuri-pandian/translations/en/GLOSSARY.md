@@ -298,3 +298,17 @@ Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
 Part002 English editorial review, bilingual review, release/readiness and release-ready synchronization are now **PASS / CLOSED**.
 
 Current next gate — **Part002 final closure / freeze**.
+
+
+## Part002 final closure lock
+
+Part002 is **FINAL CLOSED / FROZEN**.
+
+The Part002 glossary decisions above remain controlling for the frozen English layer. Do not normalize them for style alone.
+
+- E7–E10 glossary reconciliation — **RECONCILED / PASS**
+- unresolved Part002 glossary holds — **0**
+- final Part002 closure — **PASS / CLOSED / FROZEN**
+- Part003 leakage — **0**
+
+Next source activity: **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**.
