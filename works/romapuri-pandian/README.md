@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS3 COMPLETE / PART AUDIT NEXT**
+**PART001 PART AUDIT PASS / FINAL METADATA SYNC NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -23,6 +23,9 @@
 - Pass3 source-text corrections — **0**
 - Pass3 structural metadata corrections — **7**
 - Pass3 unresolved visual / structural questions — **0**
+- Part001 Part audit — **PASS / COMPLETE**
+- audit canonical coverage — **17/17; 0 missing / 0 duplicate**
+- audit unresolved blockers — **0**
 - Part001 page status — **17/17 needs-review**
 - Part001 visual fidelity — **17/17 needs-review**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
@@ -49,10 +52,11 @@
 - `PART_001_PASS2A_PROGRESS.md`
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
+- `PART_001_AUDIT.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part001 Part audit — whole-Part audit of scans1–17.**
+**Part001 final metadata/status synchronization — scans1–17.**
 
-Do not promote status/visual_fidelity during the audit.
+Promote audited metadata only; do not alter canonical Tamil.
