@@ -31,7 +31,7 @@ Part001 has now satisfied every Tamil prerequisite:
 No English activity may silently modify canonical Tamil or normalize source-sensitive names and variants.
 
 
-## Part001 current handoff
+## Part001 historical handoff — CLOSED / SUPERSEDED
 
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
@@ -50,7 +50,7 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - release-ready synchronization — **PASS / CLOSED**
 - final Part002 closure — **PASS / CLOSED / FROZEN**
 - final Part001 closure — **PASS / CLOSED / FROZEN**
-- exact next gate — **Part002 Pass1 / global scans18–27 / local pages1–10**
+- historical next gate at Part001 closure — **Part002 Pass1 / global scans18–27 / local pages1–10**
 
 Planning/setup and E1–E6 drafting/source-check are complete. Glossary reconciliation, editorial review and bilingual review are also closed. Release/readiness and release-ready synchronization are now closed. Final Part001 closure is next.
 
