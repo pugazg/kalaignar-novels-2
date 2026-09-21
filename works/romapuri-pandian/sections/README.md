@@ -103,6 +103,18 @@ Part002 assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**.
 
 Part002 English translation planning/setup — **COMPLETE / PASS**.
 
+Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**.
+
+Part002 glossary reconciliation — **RECONCILED / PASS**.
+
+Part002 English editorial review — **PASS / CLOSED**.
+
+Part002 bilingual review — **PASS / CLOSED**.
+
+Part002 release/readiness — **PASS / CLOSED**.
+
+Part002 release-ready synchronization — **PASS / CLOSED**.
+
 Part002 English reservations — **E7–E10 / E7 NEXT**.
 
-Exact next maintained gate — **E7 draft + source-check / scan18**.
+Exact next maintained gate — **Part002 final closure / freeze**.
