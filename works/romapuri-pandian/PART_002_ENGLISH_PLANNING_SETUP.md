@@ -139,3 +139,22 @@ Additional terms may be added only when encountered and source-checked in E7–E
 **E7 — draft + source-check scan18 / `06-ananthanarayanan-paarattu-urai-part002-continuation.md`.**
 
 Do not begin E8 until E7 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-planning control synchronization
+
+After the planning gate closed, the live frontier/control layer was synchronized through:
+
+`599bf63de465c8e3fa0ee0272b94edc8f9b5279d`
+
+Direct comparison from the pre-planning checkpoint `dbc1d87f0eb57b4b8463c19c5a7c1a9592fdedb4` through that synchronized frontier confirms:
+
+- changed files — **14**, all control/documentation files
+- canonical `pages/` files changed — **0**
+- assembled Tamil content files changed — **0**
+- Part002 English section drafts changed/created — **0**
+- Part003 files introduced — **0**
+
+The exact live frontier remains:
+
+**E7 — draft + source-check scan18.**
