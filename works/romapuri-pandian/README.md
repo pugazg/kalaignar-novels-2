@@ -2,14 +2,14 @@
 
 ## Archive state
 
-**PART001 RELEASE-READY SYNC CLOSED / FINAL CLOSURE NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 AUTHORIZED NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - supplied design — **39 size-based split PDFs**
 - supplied / registered Parts — **2/39**
 - Part001 — **17 pages / global scans1–17**
-- Part002 — **17 pages / global scans18–34 / supplied + registered / blocked**
+- Part002 — **17 pages / global scans18–34 / supplied + registered / AUTHORIZED / NOT STARTED**
 - Part001 canonical records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -40,7 +40,7 @@
 - Part001 bilingual review — **PASS / CLOSED**
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
-- Part001 final closure — **NOT STARTED / NEXT**
+- Part001 final closure — **PASS / CLOSED / FROZEN**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
 - source PDFs in Git — **0 / prohibited by archive policy**
@@ -78,6 +78,6 @@
 
 ## Exact next activity
 
-**Part001 final closure / freeze.**
+**Part002 Pass1 — global scans18–27 / local pages1–10.**
 
-Part002 remains blocked until that closure commits.
+Part001 is frozen; do not reopen it for stylistic polishing.
