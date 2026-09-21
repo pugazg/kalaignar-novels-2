@@ -13,8 +13,8 @@
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - planned split set — **39 size-based PDFs**
-- supplied / registered — **Part001 + Part002**
-- mapped physical scans — **1–34**
+- supplied / registered — **Part001 + Part002 + Part003**
+- mapped physical scans — **1–52**
 - source PDFs remain outside Git
 
 ### Part001
@@ -52,7 +52,6 @@
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- final Part002 closure — **PASS / CLOSED / FROZEN**
 - final Part001 closure — **PASS / CLOSED / FROZEN**
 
 ### Part002
@@ -91,16 +90,26 @@
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- English translation planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E7–E10**
-- English drafted/source-checked — **0/4**
-- outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
+- outgoing 34→35 witness — **GENUINE CONTINUATION / AUDITED**
+
+### Part003
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf`
+- local pages — **18**
+- global scans — **35–52**
+- file size — **49,781,150 bytes**
+- SHA-256 — `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a`
+- source intake — **REGISTERED / AUTHORIZED**
+- incoming 34→35 — **GENUINE CONTINUATION / AUDITED**
+- canonical records — **0**
+- Pass1 — **NOT STARTED**
+- unresolved intake blockers — **0**
 
 ## Boundary
 
 - **17→18 — GENUINE CONTINUATION / AUDITED**
-- Part002 scan18 was inspected only as a boundary witness
-- Part002 body leakage into Part001 — **0**
+- **34→35 — GENUINE CONTINUATION / AUDITED**
+- scan35 body imported backward into Part002 — **0**
 
 ## Durable progress controls
 
@@ -139,25 +148,27 @@
 - `translations/en/PART_002_RELEASE_REPORT.md`
 - `PART_002_RELEASE_READY_SYNC.md`
 - `PART_002_FINAL_CLOSURE.md`
+- `SOURCE_INTAKE_PART_003.md`
+- `PART_002_BOUNDARY_AUDIT_34_35.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 source intake + 34→35 boundary witness setup**
+- prompt frontier — **Part003 Pass1 / scans35–44 / local1–10**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - prompt rule — **LIVE MAIN IS AUTHORITATIVE; re-read live controls before continuing**
 - Part001 remains **FINAL CLOSED / FROZEN**
-- Part003 remains blocked until Part002 final closure
+- Part003 source intake + incoming boundary — **PASS / REGISTERED / AUTHORIZED**
 
 ## Mandatory Part lock
 
-> Finish Part001 through final closure/freeze before beginning Part002 canonical transcription.
+> Finish the entire active Part through final closure/freeze before beginning canonical transcription of the next Part.
 
 ## Exact next activity
 
-**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
+**Part003 Pass1 — global scans35–44 / local pages1–10.**
 
-Part001 and Part002 are FINAL CLOSED / FROZEN. Part003 is NOT SUPPLIED / NOT REGISTERED. Supply the Part003 source before any canonical transcription.
+Parts001–002 remain FINAL CLOSED / FROZEN. Part003 intake is REGISTERED / AUTHORIZED and 34→35 is GENUINE CONTINUATION / AUDITED.
