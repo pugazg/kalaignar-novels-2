@@ -177,3 +177,25 @@ On the next explicit continuation:
 Do not begin Pass2A until Part002 Pass1 covers all scans18–34.
 
 **STOP here. Part002 transcription is authorized but not begun in this final-closure iteration.**
+
+
+## 11. Post-closure synchronization verification
+
+After the final-closure record was committed, live lifecycle/navigation controls were synchronized to the frozen Part001 / authorized Part002 frontier.
+
+Post-closure synchronization checkpoint before this record refresh:
+
+`a642a91efa560c760e3463d71d10869344dddda9`
+
+Comparison against the final-closure commit `8f2979a3d540c081821ec9a3237f031e7e9f8ec2` confirms that the post-closure changes are limited to control/navigation documentation.
+
+- canonical `pages/` changes — **0**
+- assembled Tamil section-body changes — **0**
+- maintained English section-body changes — **0**
+- Part002 canonical records created — **0**
+
+The synchronized live frontier is therefore:
+
+- Part001 — **FINAL CLOSED / FROZEN**
+- Part002 — **NEXT ACTIVE / AUTHORIZED / NOT STARTED**
+- next activity — **Part002 Pass1 / global scans18–27 / local pages1–10**
