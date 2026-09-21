@@ -100,7 +100,7 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English reservations — **E7–E10 / E7 NEXT**
+- Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
 - Part002 English drafted/source-checked — **0/4**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 34→35 — **PENDING Part003 adjacent witness / deferred external boundary evidence**
