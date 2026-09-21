@@ -28,7 +28,9 @@
 - Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A corrections — **19**
 - unresolved Pass2A textual questions — **0**
-- all page records — **status needs-review / visual_fidelity needs-review**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
 - Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2B source-text / lexical / spacing / punctuation corrections — **7**
 - Pass2B historical-glyph corrections — **0**
@@ -40,7 +42,8 @@
 - Part audit — **PASS / COMPLETE**
 - audit canonical coverage — **17/17; continuous scans1–17; 0 missing / 0 duplicate**
 - audit unresolved blockers — **0**
-- final metadata/status synchronization — **NOT STARTED / NEXT**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready checkpoint — **NOT STARTED / NEXT**
 
 ### Part002
 
@@ -65,6 +68,8 @@
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 - `PART_001_AUDIT.md`
+- `PART_001_FINAL_STATUS_SYNC.md`
+- `PART_001_DOCUMENTATION_SYNC.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 
 ## Mandatory Part lock
@@ -73,6 +78,6 @@
 
 ## Exact next activity
 
-**Part001 final metadata/status synchronization — scans1–17.**
+**Part001 Tamil archival-ready checkpoint.**
 
-Promote only `status` and `visual_fidelity` from the audited evidence; do not change canonical Tamil text.
+Confirm verified Tamil/visual status and zero unresolved documentation/Tamil/glyph/visual/structural blockers before assembled Tamil begins.
