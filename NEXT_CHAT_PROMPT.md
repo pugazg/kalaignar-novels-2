@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Pass1 scans35–44
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Pass1 scans45–52
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,32 +30,42 @@ Source identity:
 - file size — **49,781,150 bytes**
 - SHA-256 — `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a`
 - source intake — **REGISTERED / AUTHORIZED**
-- canonical Part003 records — **0**
-- Pass1 — **NOT STARTED**
+- incoming 34→35 — **GENUINE CONTINUATION / AUDITED**
 
-## Incoming boundary lock
+## Part003 Pass1 current state
 
-Part002 scan34 ends:
+**IN PROGRESS — 10/18 TEXT-COMPLETE**
 
-`குதிரைகள்`
+Batch 1 is closed:
 
-Part003 scan35 begins:
+- global scans — **35–44**
+- local pages — **1–10**
+- canonical records — **10/10**
+- text-bearing scans — **35–43**
+- scan44 — **verified blank physical page**
+- unresolved source-reading holds — **0**
+- status promotions — **0**
 
-`ஒன்றன் மீதொன்று பாய்ந்து பாய்ந்து சண்டையிட்டன.`
+All Batch 1 records remain:
 
-Combined source continuity:
+```yaml
+status: "needs-review"
+visual_fidelity: "needs-review"
+```
 
-`குதிரைகள் ஒன்றன் மீதொன்று பாய்ந்து பாய்ந்து சண்டையிட்டன.`
+Important preserved physical boundaries:
 
-Decision:
+- scan38 ends `ஒப்பிடுவதற்`
+- scan39 begins `கரிய`
+- source continuation across 38→39 = `ஒப்பிடுவதற்கரிய`
+- scan41 ends inside direct speech at `பாண்டிய மன்னரே; நீங்கள் குறிப்பிடும்`
+- scan42 continues `செழியனா என்று பாருங்கள்!`
+- scan43 is the apparent Chapter 1 close with a large intentional blank lower field
+- scan44 is a blank physical page
 
-**34→35 — GENUINE CONTINUATION / AUDITED**
+Durable Pass1 control:
 
-Durable audit:
-
-`works/romapuri-pandian/PART_002_BOUNDARY_AUDIT_34_35.md`
-
-Do not alter frozen Part002 canonical, assembled-Tamil or English body text merely to backfill the continuation.
+`works/romapuri-pandian/PART_003_PASS1_PROGRESS.md`
 
 ## Read first
 
@@ -63,22 +73,31 @@ Do not alter frozen Part002 canonical, assembled-Tamil or English body text mere
 2. `works/romapuri-pandian/README.md`
 3. `works/romapuri-pandian/ROMAPURI_ARCHIVAL_GUIDELINES.md`
 4. `works/romapuri-pandian/SOURCE_INTAKE_PART_003.md`
-5. `works/romapuri-pandian/PART_002_BOUNDARY_AUDIT_34_35.md`
+5. `works/romapuri-pandian/PART_003_PASS1_PROGRESS.md`
 6. `works/romapuri-pandian/SOURCE_SPLIT_MANIFEST.md`
 7. `works/romapuri-pandian/indexes/page-map.md`
 
 ## Exact next activity
 
-**Part003 Pass1 — global scans35–44 / Part003 local pages1–10.**
+**Part003 Pass1 — global scans45–52 / Part003 local pages11–18.**
 
 Pass1 rules:
 
 - create canonical page records only from direct source pixels;
-- preserve exact source wording, punctuation, paragraph/dialogue structure and page furniture;
+- preserve exact source wording, punctuation, paragraph/dialogue structure, illustrations, blank fields and page furniture;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - record exact `part: 3`, local `part_page`, global `scan_page`, exact Part003 source filename, source-visible printed page when present, page type and section;
-- preserve the incoming 34→35 continuation evidence without importing scan34 text into the Part003 canonical record;
-- include scan44 even if it is structurally blank, if direct source inspection confirms that state;
-- record uncertain readings as explicit holds rather than guessing.
+- preserve physical word/sentence continuations without importing wording from another physical page;
+- record uncertain readings as explicit holds rather than guessing;
+- cover **all remaining physical scans45–52**, including title/illustration/blank pages if present.
 
-Do not begin Pass2A until Pass1 covers the complete Part003 range **scans35–52**.
+After scans45–52 are captured, close whole-Part Pass1 only if:
+
+- canonical records — **18/18**
+- continuous scans — **35–52**
+- continuous local pages — **1–18**
+- missing pages — **0**
+- duplicate pages — **0**
+- unresolved Pass1 source-reading holds — **0**
+
+Do not begin Pass2A in the same activity unless live `main` already shows whole-Part Pass1 closed.
