@@ -67,10 +67,13 @@
 - Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A source-supported corrections — **16**
 - Pass2A unresolved textual questions — **0**
-- Pass2B — **NOT STARTED / NEXT**
+- Pass2B — **IN PROGRESS — 9/17 REVIEWED**
 - Pass2B cadence — **9 pages per iteration**
-- first Pass2B batch — **scans18–26 / local pages1–9**
-- final Pass2B batch — **scans27–34 / local pages10–17**
+- completed batch — **scans18–26 / local pages1–9**
+- source-text/lexical/spacing/punctuation corrections so far — **3**
+- historical-glyph corrections so far — **0**
+- unresolved lexical/historical-glyph questions — **0**
+- final batch — **scans27–34 / local pages10–17 — NEXT**
 
 ## Boundary
 
@@ -99,6 +102,7 @@
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 - `PART_002_PASS1_PROGRESS.md`
 - `PART_002_PASS2A_PROGRESS.md`
+- `PART_002_PASS2B_PROGRESS.md`
 
 ## Mandatory Part lock
 
@@ -106,6 +110,6 @@
 
 ## Exact next activity
 
-**Part002 Pass2B — first 9-page iteration: scans18–26 / local pages1–9.**
+**Part002 Pass2B — final batch scans27–34 / local pages10–17.**
 
 Part001 remains frozen. Do not begin Part002 Pass3 until Pass2B closes.
