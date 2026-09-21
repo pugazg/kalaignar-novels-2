@@ -2,7 +2,7 @@
 
 ## State
 
-**PART001 FINAL CLOSED / FROZEN — PART002 RELEASE-READY PASS / FINAL CLOSURE NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN**
 
 Part001 has now satisfied every Tamil prerequisite:
 
@@ -48,6 +48,7 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
+- final Part002 closure — **PASS / CLOSED / FROZEN**
 - final Part001 closure — **PASS / CLOSED / FROZEN**
 - exact next gate — **Part002 Pass1 / global scans18–27 / local pages1–10**
 
@@ -77,7 +78,7 @@ Part001 English is frozen under `../../PART_001_FINAL_CLOSURE.md`.
 Part002 is now authorized for Tamil Pass1 only; Part002 English remains blocked until its own Tamil + assembled-Tamil English-entry gate.
 
 
-## Part002 — RELEASE-READY PASS / FINAL CLOSURE NEXT
+## Part002 — FINAL CLOSED / FROZEN
 
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
@@ -99,4 +100,4 @@ Closed Part002 English controls:
 - `PART_002_BILINGUAL_REVIEW.md`
 - `PART_002_RELEASE_REPORT.md`
 
-Exact next gate — **Part002 final closure / freeze**.
+Exact next gate — **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**.
