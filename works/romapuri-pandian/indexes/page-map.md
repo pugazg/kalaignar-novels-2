@@ -31,19 +31,19 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 002 | 8 | 25 | 23 | `அறிமுகம்` continuation | needs-review | `pages/0025-arimugam.md` |
 | 002 | 9 | 26 | 24 | `அறிமுகம்` continuation; split-word continuation from scan25 | needs-review | `pages/0026-arimugam.md` |
 | 002 | 10 | 27 | 25 | `அறிமுகம்` continuation | needs-review | `pages/0027-arimugam.md` |
-| 002 | 11 | 28 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 12 | 29 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 13 | 30 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 14 | 31 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 15 | 32 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 16 | 33 | — | unclassified — canonical transcription blocked | not-started | — |
-| 002 | 17 | 34 | — | unclassified — canonical transcription blocked | not-started | — |
+| 002 | 11 | 28 | 26 | `அறிமுகம்` continuation / close | needs-review | `pages/0028-arimugam.md` |
+| 002 | 12 | 29 | — | Chapter 1 illustrated title page — `கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்` | needs-review | `pages/0029-chapter-01-title.md` |
+| 002 | 13 | 30 | 28 | Chapter 1 opening | needs-review | `pages/0030-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 14 | 31 | 29 | Chapter 1 continuation | needs-review | `pages/0031-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 15 | 32 | 30 | Chapter 1 continuation | needs-review | `pages/0032-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 16 | 33 | 31 | Chapter 1 continuation; terminal split word `முத்` | needs-review | `pages/0033-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 17 | 34 | 32 | Chapter 1 continuation; outgoing 34→35 witness pending | needs-review | `pages/0034-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 
 ## Current state
 
 - registered Parts — **2/39**
 - source-mapped scans — **1–34**
-- canonical page records — **27**
+- canonical page records — **34**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A corrections — **19**
@@ -74,9 +74,9 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- Part002 canonical records — **10/17 — scans18–27**
-- Part002 Pass1 — **10/17 TEXT-COMPLETE / IN PROGRESS**
-- Part002 Pass1 pending — **scans28–34 / local pages11–17**
+- Part002 canonical records — **17/17 — scans18–34**
+- Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass1 unresolved holds — **0**
+- Part002 Pass2A — **NOT STARTED / NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part002 Pass1 complete scans28–34 / local pages11–17**
+- exact next activity — **Part002 Pass2A scans18–34**
