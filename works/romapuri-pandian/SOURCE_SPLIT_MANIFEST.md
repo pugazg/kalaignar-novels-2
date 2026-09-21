@@ -54,7 +54,7 @@
 ## Current frontier
 
 - supplied / registered Parts — **2/39**
-- Part001 — **PASS1 + PASS2A + PASS2B + PASS3 COMPLETE; PART AUDIT PASS; FINAL STATUS SYNC CLOSED; DOCUMENTATION SYNC COMPLETE; TAMIL ARCHIVAL-READY CLOSED; ASSEMBLED TAMIL CLOSED; ENGLISH PLANNING COMPLETE**
+- Part001 — **TAMIL CLOSED; ASSEMBLED TAMIL CLOSED; ENGLISH E1–E6 SOURCE-CHECKED; GLOSSARY/EDITORIAL/BILINGUAL/RELEASE CLOSED; RELEASE-READY SYNC CLOSED; FINAL CLOSURE NEXT**
 - Part002 — **SUPPLIED / REGISTERED / BLOCKED**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
 - Pass3 — **0 text corrections; 7 structural metadata corrections; 0 unresolved**
@@ -64,5 +64,11 @@
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - assembled publication-text coverage — **16/16; scan2 copy-specific donation label excluded by policy**
-- English planning/setup — **COMPLETE / PASS; E1–E6 RESERVED**
-- exact next gate — **Part001 E1 draft + source-check / scans1–4**
+- English planning/setup — **COMPLETE / PASS**
+- English E1–E6 — **SOURCE-CHECKED / COMPLETE — 6/6**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- exact next gate — **Part001 final closure / freeze**
