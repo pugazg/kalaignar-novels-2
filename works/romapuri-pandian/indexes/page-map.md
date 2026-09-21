@@ -41,8 +41,8 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 
 ## Current state
 
-- registered Parts — **2/39**
-- source-mapped scans — **1–34**
+- registered Parts — **3/39**
+- source-mapped scans — **1–52**
 - canonical page records — **34**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -99,9 +99,9 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
-- Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
-- Part002 English drafted/source-checked — **0/4**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 34→35 — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**
+- outgoing 34→35 — **GENUINE CONTINUATION / AUDITED**
+- Part003 source — **REGISTERED / scans35–52 / 18 pages**
+- Part003 canonical records — **0**
+- Part003 Pass1 — **NOT STARTED**
+- exact next activity — **Part003 Pass1 / scans35–44 / local pages1–10**
