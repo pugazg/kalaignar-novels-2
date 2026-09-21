@@ -232,5 +232,6 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 Tamil status — **17/17 verified / 0 needs-review**
 - Part002 visual fidelity — **17/17 verified / 0 needs-review**
 - Part002 documentation synchronization — **PASS / COMPLETE**
+- Part002 Tamil archival-ready — **PASS / CLOSED**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part002 Tamil archival-ready checkpoint**
+- exact next gate — **Part002 assembled Tamil construction + audit**
