@@ -228,3 +228,54 @@ Planning rule:
 Part002 planning glossary holds — **0**.
 
 Exact next glossary-bearing activity: **E7 draft + source-check**.
+
+
+## E7–E10 additional source-facing decisions
+
+| Tamil/source form | English handling | Note |
+|---|---|---|
+| `பாண்டிமாதேவி` | **Pandimadevi** | E8 source title/name |
+| `சேரமாதேவி` | **Cheramadevi** | E8 source name |
+| `சிங்கபுரம்` | **Singapuram** | E8 source place-name form |
+| `கடாரங்கொண்டான்` | **Kadaramkondan** | E8 source historical epithet/form |
+| `கங்கை கொண்டான்` | **Gangaikondan** | E8 source historical epithet/form |
+| `பொள்ளாச்சி` | **Pollachi** | E8 source place |
+| `குராப்பள்ளி` | **Kuraappalli** | E9 source place/title element |
+| `திருவிடைக் கழி` | **Thiruvidaikkazhi** | E9 source place form |
+| `உறையூர்` | **Uraiyur** | E9 source place |
+| `மதுரை` | **Madurai** | E9/E10 source place |
+| `பொதிகை` | **Podhigai** | E9 source hill/place |
+| `யவனர்` | **Yavanas / Yavana** | plural/singular by syntax |
+| `சிலப்பதிகாரம்` | **Silappathikaram** | source literary title |
+| `நக்கீரனார்` | **Nakkiranar** | source poet name |
+| `அலாரிக்` | **Alaric** | E9 source historical name |
+| `முசிறி` | **Musiri** | E9 source port |
+| `குளச்சல்` | **Kulachal** | E9 source place |
+| `டாலமி` | **Ptolemy** | E9 project English handling |
+| `கொளவாரிஸ்` | **Kolavaris** | preserve source port-name form |
+| `புடோகி` | **Pudogi** | preserve source port-name form |
+| `புதுவை` | **Puduvai** | preserve Part002 source place form |
+| `டைபீரியஸ்` | **Tiberius** | E9 source historical name |
+| `நீரோ` | **Nero** | E9 source historical name |
+| `விந்தியம்` | **Vindhyas** | E9 geographic form |
+| `மருவூர்ப் பாக்கம்` | **Maruvurpakkam** | E10 source quarter |
+| `பட்டினப்பாக்கம்` | **Pattinappakkam** | E10 source quarter |
+| `இருங்கோவேள்` | **Irungovel** | E10 source ruler/name |
+| `அகமுழவு` | ***agamuzhavu*** | E10 source instrument |
+| `இடக்கை` | ***idakkai*** | E10 source instrument |
+| `உடுக்கை` | ***udukkai*** | E10 source instrument |
+| `பேரிகை` | ***perikai*** | E10 source instrument |
+| `படகம்` | ***padagam*** | E10 source instrument |
+| `குழல்` | ***kuzhal*** | E10 source instrument |
+| `வங்கியம்` | ***vangiyam*** | E10 source instrument |
+| `சகோடயாழ்` | ***sakodayazh*** | E10 source instrument |
+| `பேரியாழ்` | ***periyazh*** | E10 source instrument |
+| `மகரயாழ்` | ***makarayazh*** | E10 source instrument |
+
+Source-sensitive safeguard:
+
+- E8 retains the source's unusual phrase rendered as **"a disease like Kaveri"** rather than silently replacing it with a conjectural reading.
+- Part002 uses **Puduvai** where the verified Part002 Tamil says `புதுவை`; this does not rewrite the Part001 English use of **Puducherry**.
+- `கிளியோபாட்ரா` / `கிளியோபாத்ரா` remain distinct Tamil source spellings while English consistently uses **Cleopatra**.
+
+Unresolved E7–E10 glossary holds — **0**.
