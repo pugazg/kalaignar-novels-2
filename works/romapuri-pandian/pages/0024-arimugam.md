@@ -46,10 +46,11 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 ## Formal Part002 Pass 2A review
 
 - direct word-by-word textual verification completed against the controlling source pixels;
-- source-text corrections at Pass2A: **4**;
+- source-text corrections at Pass2A: **5**;
 - correction: `அந்தோணிக்குப் போர்களம் உற்சாகம் வழங்கவில்லை` → `அந்தோணிக்குப் போர்க்களம் உற்சாகம் வழங்கவில்லை`;
 - correction: `அகஸ்டஸ் சீசர் அரியணையென நின்று ஆர்ப்பரித்தான்` → `அகஸ்டஸ் சீசர் அரிமாவென நின்று ஆர்ப்பரித்தான்`;
-- correction: `தமிழகத்தின் முப்பேரரசுகளின் கொடி நீழல் கொற்றம்` → `தமிழகத்தின் முப்பேரரசர்களின் கொடி நிழல் கொற்றம்`;
+- correction: `தமிழகத்தின் முப்பேரரசுகளின்` → `தமிழகத்தின் முப்பேரரசர்களின்`;
+- correction: `கொடி நீழல்` → `கொடி நிழல்`;
 - correction: `அங்கனம் ஆயின் அந்தத் தூதுவரை` → `அங்கனமாயின் அந்தத் தூதுவரை`;
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
