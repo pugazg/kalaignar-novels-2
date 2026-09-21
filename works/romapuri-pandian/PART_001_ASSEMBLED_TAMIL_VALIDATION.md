@@ -160,3 +160,24 @@ Part001 assembled Tamil is now **PASS / CLOSED — 6/6 VERIFIED**.
 Create the Part001 English translation plan, glossary and progress controls, reserve sequential E-batches, and map the six verified assembled Tamil files into translation units.
 
 Do not begin Part002 transcription. Part002 remains blocked until Part001 English, release/readiness and final closure are complete.
+
+
+## Post-assembly English planning/setup state
+
+Part001 assembled Tamil remains **PASS / CLOSED — 6/6 VERIFIED**.
+
+English planning/setup subsequently completed without modifying canonical or assembled Tamil:
+
+- translation plan — `translations/en/TRANSLATION_PLAN.md`
+- glossary — `translations/en/GLOSSARY.md`
+- progress control — `translations/en/PROGRESS.md`
+- English section reservation map — `translations/en/sections/README.md`
+- reserved batches — **E1–E6**
+- drafted/source-checked English units — **0/6**
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- Part002 leakage — **0**
+
+Current next gate:
+
+**E1 — draft + source-check scans1–4 / `00-front-matter.md`.**
