@@ -67,7 +67,13 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part001 Tamil archival-ready — **PASS / CLOSED**
 - Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - Part001 English translation planning/setup — **COMPLETE / PASS**
-- Part001 English batches — **E1–E6 RESERVED / E1 NEXT**
+- Part001 English E1–E6 — **SOURCE-CHECKED / COMPLETE — 6/6**
+- Part001 glossary reconciliation — **RECONCILED / PASS**
+- Part001 editorial review — **PASS / CLOSED**
+- Part001 bilingual review — **PASS / CLOSED**
+- Part001 release/readiness — **PASS / CLOSED**
+- Part001 release-ready synchronization — **PASS / CLOSED**
+- Part001 final closure — **NOT STARTED / NEXT**
 - Part002 canonical records — **0**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part001 E1 draft + source-check / scans1–4**
+- exact next activity — **Part001 final closure / freeze**
