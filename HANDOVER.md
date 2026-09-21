@@ -67,13 +67,12 @@
 - Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A source-supported corrections — **16**
 - Pass2A unresolved textual questions — **0**
-- Pass2B — **IN PROGRESS — 9/17 REVIEWED**
+- Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2B cadence — **9 pages per iteration**
-- completed batch — **scans18–26 / local pages1–9**
-- source-text/lexical/spacing/punctuation corrections so far — **3**
-- historical-glyph corrections so far — **0**
-- unresolved lexical/historical-glyph questions — **0**
-- final batch — **scans27–34 / local pages10–17 — NEXT**
+- Pass2B source-text/lexical/spacing/punctuation corrections — **5**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B unresolved lexical/historical-glyph questions — **0**
+- Pass3 — **NOT STARTED / NEXT**
 
 ## Boundary
 
@@ -110,6 +109,6 @@
 
 ## Exact next activity
 
-**Part002 Pass2B — final batch scans27–34 / local pages10–17.**
+**Part002 Pass3 — full-page visual / structural verification of scans18–34.**
 
-Part001 remains frozen. Do not begin Part002 Pass3 until Pass2B closes.
+Part001 remains frozen. Do not begin the Part002 Part audit until Pass3 closes.
