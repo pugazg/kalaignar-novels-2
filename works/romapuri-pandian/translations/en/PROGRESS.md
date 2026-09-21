@@ -1,4 +1,4 @@
-# English Translation Progress — ரோமாபுரிப் பாண்டியன் / Part001
+# English Translation Progress — ரோமாபுரிப் பாண்டியன்
 
 ## Overall state
 
@@ -113,3 +113,53 @@ Do not begin release-ready synchronization until release/readiness closes.
 - release-ready synchronization — **PASS / CLOSED**
 - final closure — **PASS / CLOSED / FROZEN**
 - unresolved blockers — **0**
+
+
+## Part002 planning/setup state
+
+**ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+
+Part002 Tamil prerequisites:
+
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
+- unresolved Tamil / glyph / visual / structural blockers — **0**
+- outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external evidence**
+
+### Reserved Part002 batches
+
+| Batch | Tamil unit | Scans | Planned English file | Status |
+|---|---|---:|---|---|
+| **E7** | `06-ananthanarayanan-paarattu-urai-part002-continuation.md` | 18 | `sections/06-ananthanarayanan-appreciation-address-part002-continuation.md` | **RESERVED / NEXT** |
+| **E8** | `07-kaviyarasu-kannadasan-urai.md` | 19–22 | `sections/07-kaviyarasu-kannadasan-address.md` | **RESERVED** |
+| **E9** | `08-arimugam.md` | 23–28 | `sections/08-introduction.md` | **RESERVED** |
+| **E10** | `09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | 29–34 | `sections/09-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan.md` | **RESERVED** |
+
+Part002 batch discipline:
+
+**E7 → E8 → E9 → E10**, with each batch required to reach **SOURCE-CHECKED / COMPLETE** before the next begins.
+
+### Part002 planning integrity
+
+- English Part002 drafts created — **0/4**
+- English Part002 source-checked units — **0/4**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Part001 English edits caused by planning — **0**
+- Part003 content leakage — **0**
+- unresolved planning holds — **0**
+
+### Part002 boundary locks
+
+- incoming 17→18 — **GENUINE CONTINUATION / AUDITED**
+- E7 may translate scan18 only from its verified Part002 assembled unit; Part001 E6 remains frozen
+- outgoing 34→35 — **PENDING Part003 adjacent witness**
+- E10 must end with the translated equivalent of the incomplete scan34 state and must not invent scan35
+
+## Exact next activity — Part002
+
+**E7 — draft + source-check scan18 / `06-ananthanarayanan-paarattu-urai-part002-continuation.md`.**
+
+Do not begin E8 until E7 closes.
