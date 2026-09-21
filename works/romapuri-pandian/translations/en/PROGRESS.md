@@ -36,10 +36,10 @@ A draft alone is not a closed batch.
 
 After E6:
 
-- glossary reconciliation — **NOT STARTED / NEXT**
-- English editorial review — **BLOCKED**
-- bilingual review — **BLOCKED**
-- release/readiness — **BLOCKED**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **NOT STARTED / NEXT**
 - release-ready synchronization — **BLOCKED**
 - final Part001 closure — **BLOCKED**
 
@@ -61,9 +61,9 @@ English activity must cause:
 
 ## Exact next activity
 
-**Whole-Part English glossary reconciliation across E1–E6.**
+**Part001 release/readiness report.**
 
-Do not begin editorial review until glossary reconciliation closes.
+Do not begin release-ready synchronization until release/readiness closes.
 
 
 ## Draft/source-check completion accounting
@@ -75,3 +75,17 @@ Do not begin editorial review until glossary reconciliation closes.
 - canonical Tamil edits caused by English — **0**
 - assembled Tamil edits caused by English — **0**
 - Part002 content leakage — **0**
+
+
+## Closed English review gates
+
+- E1–E6 — **SOURCE-CHECKED / COMPLETE — 6/6**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- English editorial corrections — **5 across 2/6 files**
+- whole-Part bilingual review — **PASS / CLOSED — 6/6 pairs**
+- English-only corrections required by bilingual review — **0**
+- unresolved English/source-check holds — **0**
+- unresolved glossary holds — **0**
+- unresolved editorial holds — **0**
+- unresolved bilingual holds — **0**
