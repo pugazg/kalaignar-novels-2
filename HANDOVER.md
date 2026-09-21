@@ -43,7 +43,8 @@
 - audit canonical coverage — **17/17; continuous scans1–17; 0 missing / 0 duplicate**
 - audit unresolved blockers — **0**
 - documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready checkpoint — **NOT STARTED / NEXT**
+- Tamil archival-ready checkpoint — **PASS / CLOSED**
+- assembled Tamil — **NOT STARTED / NEXT**
 
 ### Part002
 
@@ -70,6 +71,7 @@
 - `PART_001_AUDIT.md`
 - `PART_001_FINAL_STATUS_SYNC.md`
 - `PART_001_DOCUMENTATION_SYNC.md`
+- `PART_001_TAMIL_ARCHIVAL_READY.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 
 ## Mandatory Part lock
@@ -78,6 +80,6 @@
 
 ## Exact next activity
 
-**Part001 Tamil archival-ready checkpoint.**
+**Part001 assembled Tamil construction + audit.**
 
-Confirm verified Tamil/visual status and zero unresolved documentation/Tamil/glyph/visual/structural blockers before assembled Tamil begins.
+Build only from verified canonical Part001 pages; do not import Part002 scan18 body text.
