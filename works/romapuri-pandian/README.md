@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PART AUDIT PASS / FINAL METADATA SYNC NEXT**
+**PART001 DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -26,8 +26,11 @@
 - Part001 Part audit — **PASS / COMPLETE**
 - audit canonical coverage — **17/17; 0 missing / 0 duplicate**
 - audit unresolved blockers — **0**
-- Part001 page status — **17/17 needs-review**
-- Part001 visual fidelity — **17/17 needs-review**
+- Part001 final metadata/status synchronization — **PASS / CLOSED**
+- Part001 page status — **17/17 verified / 0 needs-review**
+- Part001 visual fidelity — **17/17 verified / 0 needs-review**
+- Part001 documentation synchronization — **PASS / COMPLETE**
+- Part001 Tamil archival-ready — **NOT STARTED / NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
 - source PDFs in Git — **0 / prohibited by archive policy**
@@ -53,10 +56,12 @@
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 - `PART_001_AUDIT.md`
+- `PART_001_FINAL_STATUS_SYNC.md`
+- `PART_001_DOCUMENTATION_SYNC.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part001 final metadata/status synchronization — scans1–17.**
+**Part001 Tamil archival-ready checkpoint.**
 
-Promote audited metadata only; do not alter canonical Tamil.
+Do not begin assembled Tamil until that checkpoint passes.
