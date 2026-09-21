@@ -13,7 +13,7 @@
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf` | 48,382,555 | `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79` | 17 | 1–17 | REGISTERED | **PASS / CLOSED / FROZEN** |
 | 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | REGISTERED | **PASS / CLOSED / FROZEN** |
-| 003 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 003 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf` | 49,781,150 | `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a` | 18 | 35–52 | REGISTERED | **ACTIVE / PASS1 NEXT** |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -53,7 +53,7 @@
 
 ## Current frontier
 
-- supplied / registered Parts — **2/39**
+- supplied / registered Parts — **3/39**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
@@ -93,8 +93,9 @@
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
-- Part002 English planning/setup — **COMPLETE / PASS**
-- Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
-- Part002 English drafted/source-checked — **0/4**
-- outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**
+- outgoing 34→35 witness — **GENUINE CONTINUATION / AUDITED**
+- Part003 source — **REGISTERED / scans35–52 / 18 pages**
+- Part003 source intake — **PASS / AUTHORIZED**
+- Part003 canonical records — **0**
+- Part003 Pass1 — **NOT STARTED**
+- exact next gate — **Part003 Pass1 / scans35–44 / local pages1–10**
