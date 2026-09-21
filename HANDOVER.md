@@ -76,7 +76,8 @@
 - Pass3 source-text corrections — **0**
 - Pass3 structural metadata corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
-- Part audit — **NOT STARTED / NEXT**
+- Part audit — **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
 
 ## Boundary
 
@@ -107,6 +108,7 @@
 - `PART_002_PASS2A_PROGRESS.md`
 - `PART_002_PASS2B_PROGRESS.md`
 - `PART_002_PASS3_PROGRESS.md`
+- `PART_002_AUDIT.md`
 
 ## Mandatory Part lock
 
@@ -114,6 +116,6 @@
 
 ## Exact next activity
 
-**Part002 Part audit.**
+**Part002 final metadata/status synchronization.**
 
-Part001 remains frozen. Do not perform final metadata/status promotion until the Part002 Part audit passes.
+Part001 remains frozen. Part002 Part audit is PASS / COMPLETE. Promote only Part002 `status` and `visual_fidelity` from `needs-review` to `verified`; do not change canonical Tamil text.
