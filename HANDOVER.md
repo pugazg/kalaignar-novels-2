@@ -45,7 +45,10 @@
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
-- English translation planning/setup — **NOT STARTED / NEXT**
+- English translation planning/setup — **COMPLETE / PASS**
+- English batches reserved — **E1–E6**
+- English drafted/source-checked — **0/6**
+- E1 — **NOT STARTED / NEXT**
 
 ### Part002
 
@@ -74,6 +77,10 @@
 - `PART_001_DOCUMENTATION_SYNC.md`
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
 - `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- `translations/en/TRANSLATION_PLAN.md`
+- `translations/en/GLOSSARY.md`
+- `translations/en/PROGRESS.md`
+- `translations/en/sections/README.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 
 ## Mandatory Part lock
@@ -82,6 +89,6 @@
 
 ## Exact next activity
 
-**Part001 English translation planning/setup.**
+**Part001 E1 — draft + source-check scans1–4 / `00-front-matter.md`.**
 
-Create translation plan, glossary and progress controls from the verified 6-file assembled Tamil layer; Part002 remains blocked.
+Do not begin E2 until E1 is SOURCE-CHECKED / COMPLETE. Part002 remains blocked.
