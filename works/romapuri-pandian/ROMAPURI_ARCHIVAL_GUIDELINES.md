@@ -182,8 +182,12 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A source-supported corrections — **19**
 - Pass2A unresolved textual questions — **0**
+- Part001 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass2B source-text / lexical / spacing / punctuation corrections — **7**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B unresolved lexical / historical-glyph questions — **0**
 - Part001 status — **17/17 needs-review**
 - Part001 visual_fidelity — **17/17 needs-review**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
-- exact next gate — **Part001 Pass2B scans1–17**
+- exact next gate — **Part001 Pass3 scans1–17**
