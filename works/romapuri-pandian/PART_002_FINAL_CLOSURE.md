@@ -141,9 +141,9 @@ Verified maintained ending:
 
 - Tamil terminal fragment — `குதிரைகள்`
 - English terminal fragment — **"The horses..."**
-- outgoing boundary — **34→35 = PENDING Part003 adjacent witness**
-- Part003 is not yet supplied / registered
-- scan35 Tamil imported — **0**
+- outgoing boundary at closure — **34→35 = PENDING Part003 adjacent witness**
+- later post-closure witness resolution — **34→35 = GENUINE CONTINUATION / AUDITED**
+- scan35 Tamil imported backward into Part002 — **0**
 - scan35 English imported/inferred — **0**
 - invented completion — **0**
 
@@ -219,6 +219,30 @@ The synchronized live frontier is therefore:
 
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
-- Part003 — **NOT SUPPLIED / NOT REGISTERED**
-- outgoing 34→35 — **PENDING Part003 adjacent witness**
-- next activity — **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**
+- Part003 — **REGISTERED / AUTHORIZED / scans35–52**
+- outgoing 34→35 — **GENUINE CONTINUATION / AUDITED**
+- next activity — **Part003 Pass1 / scans35–44 / local pages1–10**
+
+
+## 13. Later adjacent-witness resolution
+
+Part003 was subsequently supplied and registered without reopening Part002 text.
+
+Direct comparison of frozen scan34 with Part003 scan35 established:
+
+**34→35 — GENUINE CONTINUATION / AUDITED**
+
+Source continuity:
+
+`குதிரைகள் ஒன்றன் மீதொன்று பாய்ந்து பாய்ந்து சண்டையிட்டன.`
+
+Integrity after the later witness:
+
+- Part002 canonical page changes — **0**
+- Part002 assembled Tamil body changes — **0**
+- Part002 English body changes — **0**
+- scan35 imported backward into Part002 — **0**
+
+Durable cross-Part evidence: `PART_002_BOUNDARY_AUDIT_34_35.md`.
+
+The active frontier is now **Part003 Pass1 / global scans35–44 / local pages1–10**.
