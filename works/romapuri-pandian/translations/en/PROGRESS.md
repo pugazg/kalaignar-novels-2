@@ -41,7 +41,7 @@ After E6:
 - bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- final Part001 closure — **NOT STARTED / NEXT**
+- final Part001 closure — **PASS / CLOSED / FROZEN**
 
 ## Permanent boundary lock
 
@@ -60,6 +60,11 @@ English activity must cause:
 - Part002 Tamil/English leakage — **0**
 
 ## Exact next activity
+
+**Part002 Pass1 — global scans18–27 / local pages1–10.**
+
+Part001 English is frozen. Do not reopen except for an explicit source-fidelity issue.
+
 
 **Part001 final closure / freeze.**
 
@@ -94,3 +99,17 @@ Do not begin release-ready synchronization until release/readiness closes.
 - unresolved glossary holds — **0**
 - unresolved editorial holds — **0**
 - unresolved bilingual holds — **0**
+
+
+## Final Part001 counts
+
+- canonical Tamil — **17/17 verified**
+- assembled Tamil — **6/6 VERIFIED / PASS / CLOSED**
+- English translated/source-checked — **6/6**
+- glossary reconciliation — **PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
