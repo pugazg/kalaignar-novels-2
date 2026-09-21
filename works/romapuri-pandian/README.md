@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 PASS2A COMPLETE / PASS2B NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 PASS2B IN PROGRESS**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -46,10 +46,11 @@
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Part002 Pass2A corrections — **16 / 0 unresolved**
-- Part002 Pass2B — **NOT STARTED / NEXT**
+- Part002 Pass2B — **IN PROGRESS — 9/17 REVIEWED**
 - Pass2B cadence — **9 pages per iteration**
-- next Pass2B batch — **scans18–26 / local pages1–9**
-- final Pass2B batch — **scans27–34 / local pages10–17**
+- Part002 Pass2B corrections so far — **3 / 0 historical-glyph / 0 unresolved**
+- completed Pass2B batch — **scans18–26 / local pages1–9**
+- final Pass2B batch — **scans27–34 / local pages10–17 — NEXT**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
 - Part001 English — **FINAL CLOSED / FROZEN**
@@ -86,10 +87,11 @@
 - `translations/en/PROGRESS.md`
 - `PART_002_PASS1_PROGRESS.md`
 - `PART_002_PASS2A_PROGRESS.md`
+- `PART_002_PASS2B_PROGRESS.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part002 Pass2B — first 9-page iteration: scans18–26 / local pages1–9.**
+**Part002 Pass2B — final batch scans27–34 / local pages10–17.**
 
 Part001 is frozen; do not reopen it for stylistic polishing.
