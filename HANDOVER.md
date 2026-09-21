@@ -82,6 +82,7 @@
 - visual fidelity — **17/17 verified / 0 needs-review**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
 
 ## Boundary
@@ -117,6 +118,7 @@
 - `PART_002_FINAL_STATUS_SYNC.md`
 - `PART_002_DOCUMENTATION_SYNC.md`
 - `PART_002_TAMIL_ARCHIVAL_READY.md`
+- `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Mandatory Part lock
 
@@ -124,6 +126,6 @@
 
 ## Exact next activity
 
-**Part002 assembled Tamil construction + audit.**
+**Part002 English translation planning/setup.**
 
-Part001 remains frozen. Part002 Tamil archival-ready is PASS / CLOSED. Build the maintained reading layer only from verified Part002 canonical pages; preserve scan34 terminal incompleteness and do not import Part003 text.
+Part001 remains frozen. Part002 assembled Tamil is PASS / CLOSED — 4/4 VERIFIED. Reserve non-colliding English batches after Part001 E1–E6 and map the four verified Part002 assembled Tamil units.
