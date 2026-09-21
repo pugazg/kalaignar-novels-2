@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Pass1 scans45–52
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Pass2A scans35–52
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Read the live controls before making changes. If this prompt conflicts with live `main`, live `main` wins.
+Read live controls first. If this prompt conflicts with live `main`, live `main` wins.
 
-## Durable frozen state
+## Frozen state
 
 ### Part001
 
@@ -15,7 +15,7 @@ Read the live controls before making changes. If this prompt conflicts with live
 
 - scans **18–34**
 - **FINAL CLOSED / FROZEN**
-- outgoing 34→35 — **GENUINE CONTINUATION / AUDITED**
+- 34→35 — **GENUINE CONTINUATION / AUDITED**
 
 Do not reopen Parts001–002 for stylistic polishing.
 
@@ -23,45 +23,47 @@ Do not reopen Parts001–002 for stylistic polishing.
 
 `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf`
 
-Source identity:
-
-- local PDF pages — **18**
+- local pages — **18**
 - global scans — **35–52**
 - file size — **49,781,150 bytes**
 - SHA-256 — `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a`
 - source intake — **REGISTERED / AUTHORIZED**
-- incoming 34→35 — **GENUINE CONTINUATION / AUDITED**
 
-## Part003 Pass1 current state
+## Part003 Pass1 closed state
 
-**IN PROGRESS — 10/18 TEXT-COMPLETE**
+**COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 
-Batch 1 is closed:
+Coverage:
 
-- global scans — **35–44**
-- local pages — **1–10**
-- canonical records — **10/10**
-- text-bearing scans — **35–43**
-- scan44 — **verified blank physical page**
-- unresolved source-reading holds — **0**
+- scans35–52 — **18/18 canonical records**
+- local pages1–18 — **continuous**
+- missing scans — **0**
+- duplicates — **0**
+- unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
 
-All Batch 1 records remain:
+All Part003 records remain:
 
 ```yaml
 status: "needs-review"
 visual_fidelity: "needs-review"
 ```
 
-Important preserved physical boundaries:
+Structural map:
 
-- scan38 ends `ஒப்பிடுவதற்`
-- scan39 begins `கரிய`
-- source continuation across 38→39 = `ஒப்பிடுவதற்கரிய`
-- scan41 ends inside direct speech at `பாண்டிய மன்னரே; நீங்கள் குறிப்பிடும்`
-- scan42 continues `செழியனா என்று பாருங்கள்!`
-- scan43 is the apparent Chapter 1 close with a large intentional blank lower field
-- scan44 is a blank physical page
+- scans35–43 — Chapter 1 continuation
+- scan44 — blank physical page
+- scan45 — illustrated Chapter 2 title `முத்துநகை`
+- scans46–52 — Chapter 2 continuation
+- scan47→48 — `மறைத்து` → `வைக்கப்பட்டிருப்பதை`
+- scan49→50 — `இந்த` → `ஆபத்து வந்திருக்காதல்லவா?`
+
+Outgoing boundary:
+
+- scan52 ends on a complete sentence: `முத்துநகைக்குத் தூக்கமே வரவில்லை. புரண்டு புரண்டு படுத்தாள்.`
+- **52→53 — PENDING Part004 adjacent witness / deferred external boundary evidence**
+- Part004 is not supplied / registered
+- do not infer scan53
 
 Durable Pass1 control:
 
@@ -79,25 +81,30 @@ Durable Pass1 control:
 
 ## Exact next activity
 
-**Part003 Pass1 — global scans45–52 / Part003 local pages11–18.**
+**Part003 Pass2A — global scans35–52 / local pages1–18.**
 
-Pass1 rules:
+Pass2A rules:
 
-- create canonical page records only from direct source pixels;
-- preserve exact source wording, punctuation, paragraph/dialogue structure, illustrations, blank fields and page furniture;
+- independently reread every canonical Part003 page against direct source pixels;
+- correct only source-supported textual transcription errors;
+- preserve source wording, punctuation, paragraphing, displayed verse, physical split-word boundaries and source-visible unusual forms;
+- do not modernize or normalize merely for style;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- record exact `part: 3`, local `part_page`, global `scan_page`, exact Part003 source filename, source-visible printed page when present, page type and section;
-- preserve physical word/sentence continuations without importing wording from another physical page;
-- record uncertain readings as explicit holds rather than guessing;
-- cover **all remaining physical scans45–52**, including title/illustration/blank pages if present.
+- record per-page correction counts and unresolved textual holds;
+- treat scan44 as a verified blank physical page and scan45 as a distinct illustrated Chapter 2 title page;
+- retain outgoing 52→53 as pending external witness, not as a supplied-Part textual blocker.
 
-After scans45–52 are captured, close whole-Part Pass1 only if:
+Source-sensitive forms from Pass1 that deserve deliberate independent reread include:
 
-- canonical records — **18/18**
-- continuous scans — **35–52**
-- continuous local pages — **1–18**
-- missing pages — **0**
-- duplicate pages — **0**
-- unresolved Pass1 source-reading holds — **0**
+- scan46 — `பாண்டியநாட்டுத் தந்தையும் தமிழ்த்தாயும்`
+- scan47 — `‘குபுகுபு’ வென`
+- scan48 — `தூக்கிவாரிப் போட்டது`
+- scan49 — `பழிக்குப்பழி`
+- scan50 — `அமளியை உருவாக்க`
+- scan50 — `கூறினார்களே யப்பா`
+- scan51 — `ஒருவருக்குக்காயமோ`
+- scan51 — `புதிய நோக்கு`
+- scan51 — `இஃதென்ன`
+- scan52 — unmatched source-visible opening thought quotation before `இருங்கோவேள்`
 
-Do not begin Pass2A in the same activity unless live `main` already shows whole-Part Pass1 closed.
+Do not begin Pass2B until Pass2A closes.
