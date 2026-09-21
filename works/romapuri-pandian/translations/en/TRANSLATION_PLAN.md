@@ -1,6 +1,6 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன் / Part001
 
-Status: **RELEASE-READY SYNCHRONIZATION — PASS / CLOSED; FINAL CLOSURE NEXT**
+Status: **PART001 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -166,8 +166,20 @@ After E6 closes:
 
 E1–E6 are **SOURCE-CHECKED / COMPLETE**. Whole-Part glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization are all **PASS / CLOSED**.
 
+## Final lifecycle state
+
+Part001 English is **FINAL CLOSED / FROZEN**.
+
+- E1–E6 — **SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **PASS / CLOSED / FROZEN**
+
 ## Exact next activity
 
-**Part001 final closure / freeze.**
+**Part002 Pass1 — global scans18–27 / local pages1–10.**
 
-Do not begin Part002 transcription until final closure passes.
+Do not begin Part002 English until its own Tamil + assembled-Tamil prerequisites close.
