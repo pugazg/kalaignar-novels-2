@@ -64,4 +64,6 @@ Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**.
 
 Part001 English E1–E6, glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization are **PASS / CLOSED**.
 
-Exact next maintained gate — **Part001 final closure / freeze**.
+Part001 final closure — **PASS / CLOSED / FROZEN**.
+
+Exact next maintained gate — **Part002 Pass1 / global scans18–27 / local pages1–10**.
