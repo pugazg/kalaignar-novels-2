@@ -50,7 +50,7 @@ Seeing the appearance of Pandiyan Peruvazhuthi, the Chola people realized that t
 
 !" Thus all who saw King Karikalan in the procession praised him and rejoiced.
 
-The old blessed him. The young thundered, "Long live our country!"
+The elders offered blessings. The young thundered, "Long live our land!"
 
 Adding beauty to the royal streets, the procession of those kings moved slowly, slowly onward!
 
@@ -88,7 +88,7 @@ Seeing her, the poet said, "Did you see, Muthunagai? A pearl ornament for you!" 
 
 "Pearls from the Pandiyan country have a radiance all their own, don't they, Father?" Muthunagai asked.
 
-"Yes, child! What doubt can there be? Nowhere else in the world are there pearls equal to the pearls of Korkai! About ten years ago, the beautiful Cleopatra, who ruled Egypt and then died so pitifully—it is said that without these pearls she could not even drink liquor. The sound these pearls made in wine cups was supposedly her favourite music! The people of Romapuri are mad for pearls from the Pandiyan country! These pearls shine on every one of their ornaments and garments!"
+"Yes, child! What doubt can there be? Nowhere else in the world are there pearls equal to the pearls of Korkai! About ten years ago, the beautiful Cleopatra, who ruled Egypt and then died so pitifully—it is said that without these pearls she could not even drink liquor. The sound these pearls made in wine cups was supposedly her favourite music! For the people of Romapuri, pearls from the Pandiyan country are life itself! These pearls shine on every one of their ornaments and garments!"
 
 "Father! The friendship agreement being made today between the Pandiyan king and the Chola king will succeed, won't it?"
 
