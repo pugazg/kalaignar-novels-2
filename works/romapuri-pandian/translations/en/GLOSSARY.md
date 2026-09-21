@@ -1,4 +1,4 @@
-# English Translation Glossary — ரோமாபுரிப் பாண்டியன் / Part001
+# English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
 Status: **WHOLE-PART RECONCILED / PASS — PART001 FINAL CLOSED / FROZEN**
 
@@ -184,3 +184,47 @@ Part001 is **FINAL CLOSED / FROZEN**.
 This glossary remains the controlling project-English terminology record for Part001. Deliberate source variants must not be normalized after closure unless an explicit source-fidelity reopening is approved.
 
 Next source activity: **Part002 Pass1 / scans18–27**.
+
+
+## Part002 planning extension
+
+Part001 glossary decisions above remain frozen where they belong to the closed Part001 English layer. Recurring source forms carry forward into Part002 unless a documented source-specific reason requires a different English handling.
+
+New or newly active Part002 handling:
+
+| Tamil/source form | English handling | Note |
+|---|---|---|
+| `அறிமுகம்` | **Introduction** | Part002 section label / E9 |
+| `கரிகாற் சோழன்` | **Karikala Cholan** | Chapter 1 title form; consistent with existing **Karikala Valavan** handling |
+| `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` | **Peruvazhuthi / Peruvazhuthi Pandiyan** | retain existing project handling |
+| `காரிக்கண்ணனார்` | **Karikannanar** | source poet name in Chapter 1 |
+| `கொற்கை` | **Korkai** | source place name |
+| `பாம்பே` | **Pompey** | source historical name |
+| `சீசர்` | **Caesar** | source historical name |
+| `அந்தோணி` | **Antony** | source historical name |
+| `அகஸ்டஸ்` | **Augustus** | source historical name/title |
+| `ஆக்டேவியஸ்` | **Octavius** | source historical name |
+| `ரோமுலஸ்` | **Romulus** | source historical name |
+| `தைபர்` | **Tiber** | source river name |
+| `இருங்கோவேள்` | **Irungovel** | source ruler/name form |
+| `கிளியோபாட்ரா` / `கிளியோபாத்ரா` | **Cleopatra** | retain both Tamil source variants as evidence; use one English name without altering Tamil |
+
+Carry-forward locked forms especially relevant to Part002 include:
+
+- `கவியரசு கண்ணதாசன்` → **Kaviyarasu Kannadasan**
+- `அனந்தநாராயணன்` → **Ananthanarayanan**
+- `பூம்புகார்` → **Poompuhar**
+- `காவிரிப்பூம்பட்டினம்` → **Kaveripoompattinam**
+- `அரிக்கமேடு` → **Arikamedu**
+- `முத்துநகை` → **Muthunagai**
+- `செயங்கொண்டான்` → **Seyankondan**
+
+Planning rule:
+
+- do not force outside historical/linguistic normalization into the Tamil layer;
+- any additional E7–E10 term not yet locked here may be added during that batch's source-check;
+- quoted literary lines continue to be translated only from verified project Tamil, not from published/web English versions.
+
+Part002 planning glossary holds — **0**.
+
+Exact next glossary-bearing activity: **E7 draft + source-check**.
