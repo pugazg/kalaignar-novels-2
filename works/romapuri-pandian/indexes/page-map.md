@@ -21,23 +21,23 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 001 | 15 | 15 | 13 | அனந்தநாராயணன் பாராட்டு உரை continuation | verified | `pages/0015-ananthanarayanan-paarattu-urai.md` |
 | 001 | 16 | 16 | 14 | அனந்தநாராயணன் பாராட்டு உரை continuation | verified | `pages/0016-ananthanarayanan-paarattu-urai.md` |
 | 001 | 17 | 17 | 15 | அனந்தநாராயணன் பாராட்டு உரை; outgoing 17→18 genuine continuation audited | verified | `pages/0017-ananthanarayanan-paarattu-urai.md` |
-| 002 | 1 | 18 | 16 | அனந்தநாராயணன் பாராட்டு உரை continuation / close; incoming 17→18 genuine continuation | needs-review | `pages/0018-ananthanarayanan-paarattu-urai.md` |
-| 002 | 2 | 19 | — | கவியரசு கண்ணதாசன் உரை opening | needs-review | `pages/0019-kaviyarasu-kannadasan-urai.md` |
-| 002 | 3 | 20 | 18 | கவியரசு கண்ணதாசன் உரை continuation | needs-review | `pages/0020-kaviyarasu-kannadasan-urai.md` |
-| 002 | 4 | 21 | 19 | கவியரசு கண்ணதாசன் உரை continuation | needs-review | `pages/0021-kaviyarasu-kannadasan-urai.md` |
-| 002 | 5 | 22 | 20 | கவியரசு கண்ணதாசன் உரை continuation / close | needs-review | `pages/0022-kaviyarasu-kannadasan-urai.md` |
-| 002 | 6 | 23 | — | `அறிமுகம்` opening / decorative heading | needs-review | `pages/0023-arimugam.md` |
-| 002 | 7 | 24 | 22 | `அறிமுகம்` continuation | needs-review | `pages/0024-arimugam.md` |
-| 002 | 8 | 25 | 23 | `அறிமுகம்` continuation | needs-review | `pages/0025-arimugam.md` |
-| 002 | 9 | 26 | 24 | `அறிமுகம்` continuation; split-word continuation from scan25 | needs-review | `pages/0026-arimugam.md` |
-| 002 | 10 | 27 | 25 | `அறிமுகம்` continuation | needs-review | `pages/0027-arimugam.md` |
-| 002 | 11 | 28 | 26 | `அறிமுகம்` continuation / close | needs-review | `pages/0028-arimugam.md` |
-| 002 | 12 | 29 | — | Chapter 1 illustrated title page — `கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்` | needs-review | `pages/0029-chapter-01-title.md` |
-| 002 | 13 | 30 | 28 | Chapter 1 opening | needs-review | `pages/0030-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 002 | 14 | 31 | 29 | Chapter 1 continuation | needs-review | `pages/0031-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 002 | 15 | 32 | 30 | Chapter 1 continuation | needs-review | `pages/0032-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 002 | 16 | 33 | 31 | Chapter 1 continuation; terminal split word `முத்` | needs-review | `pages/0033-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 002 | 17 | 34 | 32 | Chapter 1 continuation; outgoing 34→35 witness pending | needs-review | `pages/0034-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 1 | 18 | 16 | அனந்தநாராயணன் பாராட்டு உரை continuation / close; incoming 17→18 genuine continuation | verified | `pages/0018-ananthanarayanan-paarattu-urai.md` |
+| 002 | 2 | 19 | — | கவியரசு கண்ணதாசன் உரை opening | verified | `pages/0019-kaviyarasu-kannadasan-urai.md` |
+| 002 | 3 | 20 | 18 | கவியரசு கண்ணதாசன் உரை continuation | verified | `pages/0020-kaviyarasu-kannadasan-urai.md` |
+| 002 | 4 | 21 | 19 | கவியரசு கண்ணதாசன் உரை continuation | verified | `pages/0021-kaviyarasu-kannadasan-urai.md` |
+| 002 | 5 | 22 | 20 | கவியரசு கண்ணதாசன் உரை continuation / close | verified | `pages/0022-kaviyarasu-kannadasan-urai.md` |
+| 002 | 6 | 23 | — | `அறிமுகம்` opening / decorative heading | verified | `pages/0023-arimugam.md` |
+| 002 | 7 | 24 | 22 | `அறிமுகம்` continuation | verified | `pages/0024-arimugam.md` |
+| 002 | 8 | 25 | 23 | `அறிமுகம்` continuation | verified | `pages/0025-arimugam.md` |
+| 002 | 9 | 26 | 24 | `அறிமுகம்` continuation; split-word continuation from scan25 | verified | `pages/0026-arimugam.md` |
+| 002 | 10 | 27 | 25 | `அறிமுகம்` continuation | verified | `pages/0027-arimugam.md` |
+| 002 | 11 | 28 | 26 | `அறிமுகம்` continuation / close | verified | `pages/0028-arimugam.md` |
+| 002 | 12 | 29 | — | Chapter 1 illustrated title page — `கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்` | verified | `pages/0029-chapter-01-title.md` |
+| 002 | 13 | 30 | 28 | Chapter 1 opening | verified | `pages/0030-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 14 | 31 | 29 | Chapter 1 continuation | verified | `pages/0031-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 15 | 32 | 30 | Chapter 1 continuation | verified | `pages/0032-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 16 | 33 | 31 | Chapter 1 continuation; terminal split word `முத்` | verified | `pages/0033-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 17 | 34 | 32 | Chapter 1 continuation; outgoing 34→35 witness pending | verified | `pages/0034-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 
 ## Current state
 
@@ -86,6 +86,9 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part002 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
 - Part002 Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
 - Part002 Part audit — **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part002 final metadata/status synchronization — **PASS / CLOSED**
+- Part002 Tamil status — **17/17 verified / 0 needs-review**
+- Part002 visual_fidelity — **17/17 verified / 0 needs-review**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 34→35 — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part002 final metadata/status synchronization**
+- exact next activity — **Part002 documentation synchronization**
