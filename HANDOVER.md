@@ -84,6 +84,13 @@
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
 - English translation planning/setup — **COMPLETE / PASS**
+- English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- English translation planning/setup — **COMPLETE / PASS**
 - reserved English batches — **E7–E10**
 - English drafted/source-checked — **0/4**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
@@ -124,13 +131,20 @@
 - `PART_002_TAMIL_ARCHIVAL_READY.md`
 - `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_002_ENGLISH_PLANNING_SETUP.md`
+- `translations/en/E7_SOURCE_CHECK.md` through `translations/en/E10_SOURCE_CHECK.md`
+- `translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
+- `translations/en/PART_002_TRANSLATION_REVIEW.md`
+- `translations/en/PART_002_BILINGUAL_REVIEW.md`
+- `translations/en/PART_002_RELEASE_REPORT.md`
+- `PART_002_RELEASE_READY_SYNC.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E7 draft + source-check / scan18**
+- prompt frontier — **Part002 final closure / freeze**
 - Part002 English planning/setup — **COMPLETE / PASS**
-- planned Part002 English reservations — **E7–E10 / E7 NEXT**
+- Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
+- Part002 release-ready synchronization — **PASS / CLOSED**
 - prompt rule — **LIVE MAIN IS AUTHORITATIVE; re-read live controls before continuing**
 - Part001 remains **FINAL CLOSED / FROZEN**
 - Part003 remains blocked until Part002 final closure
@@ -141,6 +155,6 @@
 
 ## Exact next activity
 
-**E7 — draft + source-check scan18 / `06-ananthanarayanan-paarattu-urai-part002-continuation.md`.**
+**Part002 final closure / freeze.**
 
-Part001 remains frozen. Part002 English planning/setup is COMPLETE / PASS. Do not begin E8 until E7 is SOURCE-CHECKED / COMPLETE.
+Part001 remains frozen. Part002 release-ready synchronization is PASS / CLOSED. Create and verify the durable Part002 final-closure record. Do not begin Part003 canonical transcription.
