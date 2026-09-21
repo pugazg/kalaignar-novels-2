@@ -54,6 +54,7 @@
 ## Current frontier
 
 - supplied / registered Parts — **2/39**
-- Part001 — **PASS 1 COMPLETE / 17/17 TEXT-COMPLETE**
+- Part001 — **PASS1 + PASS2A + PASS2B COMPLETE / 17/17 REVIEWED through Pass2B**
 - Part002 — **SUPPLIED / REGISTERED / BLOCKED**
-- exact next gate — **Part001 Pass2A scans1–17**
+- Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
+- exact next gate — **Part001 Pass3 scans1–17**
