@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன் / Part001
 
-Status: **INITIAL / ACTIVE — PLANNING SETUP COMPLETE**
+Status: **WHOLE-PART RECONCILED / PASS — RELEASE-READY SYNC CLOSED**
 
 This glossary is derived only from the verified Part001 canonical/assembled Tamil and source-visible English. It contains project translation choices, not external historical or linguistic claims.
 
@@ -162,3 +162,16 @@ The following distinctions are deliberate and must not be flattened during editi
 - `அவமகாம்` remains ***avamakaam*** with only the source-supplied gloss, not an outside-language correction.
 
 Unresolved glossary holds after E1–E6 drafting/source-check: **0**.
+
+
+## Whole-Part reconciliation result
+
+Part001 E1–E6 glossary reconciliation is **RECONCILED / PASS**.
+
+- maintained English files checked — **6/6**
+- accidental recurring-term drift requiring section edits — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits caused by glossary work — **0**
+- Part002 leakage — **0**
+
+Durable record: `GLOSSARY_RECONCILIATION.md`.
