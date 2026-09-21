@@ -123,3 +123,42 @@ Any later English normalization must be justified as an English-layer editorial 
 Part001 ends mid-sentence at scan17. The English layer must not complete that sentence from Part002.
 
 Unresolved planning holds: **0**.
+
+
+## E1–E6 additional source-facing decisions
+
+| Tamil/source form | English handling | Note |
+|---|---|---|
+| `மொழிஞாயிறு` | **Mozhignayiru** | retain source epithet in E2 |
+| `அருட்செல்வனார்` | **Arutselvanar** | retain source epithet in E5 |
+| `பாவரசு கண்ணதாசன்` | **Pavarasu Kannadasan** | distinct source epithet from E2 `கவியரசு கண்ணதாசன்` / **Kaviyarasu Kannadasan** |
+| `செல்வ சந்திரா` | **Selva Chandra** | source story title |
+| `காவிரிப்பூம்பட்டினம்` | **Kaveripoompattinam** | source place form |
+| `பூம்புகார்` | **Poompuhar** | source place/name form |
+| `பிரதாப முதலியார் சரித்திரம்` | **Prathapa Mudaliar Charithiram** | source literary title |
+| `கமலாம்பாள் சரித்திரம்` | **Kamalambal Charithiram** | source literary title |
+| `பத்மாவதி சரித்திரம்` | **Padmavathi Charithiram** | source literary title |
+| `அரிக்கமேடு` | **Arikamedu** | source place name |
+| `பெருவழுதிப் பாண்டியன்` | **Peruvazhuthi Pandiyan** | source character/historical label |
+| `செழியன்` | **Sezhiyan** | source character name |
+| `ஜீனோ` | **Geno** | source character/name form |
+| `முத்துநகை` | **Muthunagai** | source character name |
+| `அகம்` / `புறம்` | ***agam* / *puram*** | retain source literary categories |
+| `மறம்` | ***maram* / martial valour** | source concept; use contextual gloss |
+| `பூமாதேவி` | **Bhoomadevi** | source literary/divine name |
+| `செயங்கொண்டான்` | **Seyankondan** | source poet-name form |
+| `குலோத்துங்கச் சோழன்` | **Kulothunga Cholan** | source-facing project form |
+| `ஜராத்` | **Jaraath** | preserve source-printed form; terminal Part001 name |
+| source-visible `ROMAPURIP PAANDIYAN` | **ROMAPURIP PAANDIYAN** | preserve exactly in E1 bibliographic block; project working title remains **Romapuri Pandiyan** |
+
+## Whole-Part source-variant safeguards
+
+The following distinctions are deliberate and must not be flattened during editing:
+
+- **Kaviyarasu Kannadasan** / **Pavarasu Kannadasan** — different source epithets in E2/E5;
+- **Romapuri Pandiyan** / source-visible **ROMAPURIP PAANDIYAN** — project title vs printed English bibliography;
+- **M. Karunanidhi** / source-visible **Dr. Kalaignar M.Karunanidhi** — translated/project form vs printed English source block;
+- **Kaveripoompattinam** / **Poompuhar** — distinct source forms/contexts;
+- `அவமகாம்` remains ***avamakaam*** with only the source-supplied gloss, not an outside-language correction.
+
+Unresolved glossary holds after E1–E6 drafting/source-check: **0**.
