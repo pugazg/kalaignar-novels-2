@@ -89,6 +89,7 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part002 final metadata/status synchronization — **PASS / CLOSED**
 - Part002 Tamil status — **17/17 verified / 0 needs-review**
 - Part002 visual_fidelity — **17/17 verified / 0 needs-review**
+- Part002 documentation synchronization — **PASS / COMPLETE**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 34→35 — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part002 documentation synchronization**
+- exact next activity — **Part002 Tamil archival-ready checkpoint**
