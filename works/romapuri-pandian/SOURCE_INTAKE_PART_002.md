@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / AUTHORIZED / NOT STARTED.**
+**SUPPLIED / REGISTERED / PASS1 IN PROGRESS.**
 
 - local PDF pages: **17**
 - canonical overall scans: **18–34**
@@ -24,7 +24,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 - incoming split boundary: **17→18 — GENUINE CONTINUATION / AUDITED**
 - outgoing split boundary: **34→35 — PENDING Part003 adjacent witness**
 
-Part002 local page1 / overall scan18 is used only as the direct witness for the Part001 outgoing boundary until Part001 final closure.
+Part002 local page1 / overall scan18 originally served as the direct Part001 boundary witness and is now a canonical Part002 record after Part001 final closure.
 
 ## Canonical lock
 
@@ -41,8 +41,9 @@ Part002 local page1 / overall scan18 is used only as the direct witness for the 
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- Part002 canonical page records: **0**
-- Part002 canonical transcription: **AUTHORIZED / NOT STARTED**
+- Part002 canonical page records: **10/17 — scans18–27**
+- Part002 Pass1: **10/17 TEXT-COMPLETE / IN PROGRESS**
+- Part002 Pass1 pending: **scans28–34 / local pages11–17**
 - Part002 assembled Tamil: **BLOCKED pending Part002 Tamil archival workflow**
 - Part002 English: **BLOCKED pending Part002 Tamil + assembled-Tamil closure**
 
@@ -58,6 +59,8 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**Part002 Pass1 — global scans18–27 / local pages1–10.**
+**Part002 Pass1 — complete remaining global scans28–34 / local pages11–17.**
 
 Do not begin Pass2A until Part002 Pass1 covers all scans18–34.
+
+Progress control: `PART_002_PASS1_PROGRESS.md`.
