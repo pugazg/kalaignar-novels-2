@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans18–27"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans18–27; formal Part002 Pass 2A reviewed"
 ---
 
 # கவியரசு கண்ணதாசன் அவர்கள் ஆற்றிய உரை
@@ -35,4 +35,14 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - page ends mid-sentence and continues on scan20.
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 19; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word textual verification completed against the controlling source pixels;
+- source-text corrections at Pass2A: **0**;
+- no source-text correction required;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 19; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
