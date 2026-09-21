@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / PART AUDIT PASS / FINAL STATUS SYNC NEXT.**
+**SUPPLIED / REGISTERED / FINAL STATUS PASS / DOCUMENTATION SYNC NEXT.**
 
 - local PDF pages: **17**
 - canonical overall scans: **18–34**
@@ -57,6 +57,9 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - Part002 Pass3 structural metadata corrections: **0**
 - Part002 Pass3 unresolved visual/structural questions: **0**
 - Part002 Part audit: **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part002 final metadata/status synchronization: **PASS / CLOSED**
+- Part002 Tamil status: **17/17 verified / 0 needs-review**
+- Part002 visual fidelity: **17/17 verified / 0 needs-review**
 - outgoing 34→35 witness: **PENDING Part003 adjacent witness / deferred external boundary evidence**
 - Part002 assembled Tamil: **BLOCKED pending Part002 Tamil archival workflow**
 - Part002 English: **BLOCKED pending Part002 Tamil + assembled-Tamil closure**
@@ -73,9 +76,9 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**Part002 final metadata/status synchronization.**
+**Part002 documentation synchronization.**
 
-The Part audit has passed. Promote Part002 `status` and `visual_fidelity` only; do not alter canonical Tamil text.
+Final metadata/status synchronization has passed. Reconcile the live documentation/control layer to the verified 17/17 state without changing canonical page records.
 
 Progress control: `PART_002_PASS1_PROGRESS.md`.
 
@@ -87,3 +90,5 @@ Pass2B progress control: `PART_002_PASS2B_PROGRESS.md`.
 Pass3 progress control: `PART_002_PASS3_PROGRESS.md`.
 
 Part audit control: `PART_002_AUDIT.md`.
+
+Final status control: `PART_002_FINAL_STATUS_SYNC.md`.
