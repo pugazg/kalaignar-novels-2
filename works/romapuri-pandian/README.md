@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL STATUS PASS / DOCUMENTATION SYNC NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 DOCUMENTATION SYNC PASS / TAMIL ARCHIVAL-READY NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -55,6 +55,7 @@
 - Part002 final metadata/status synchronization — **PASS / CLOSED**
 - Part002 page status — **17/17 verified / 0 needs-review**
 - Part002 visual fidelity — **17/17 verified / 0 needs-review**
+- Part002 documentation synchronization — **PASS / COMPLETE**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -96,10 +97,11 @@
 - `PART_002_PASS3_PROGRESS.md`
 - `PART_002_AUDIT.md`
 - `PART_002_FINAL_STATUS_SYNC.md`
+- `PART_002_DOCUMENTATION_SYNC.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part002 documentation synchronization.**
+**Part002 Tamil archival-ready checkpoint.**
 
 Part001 is frozen; do not reopen it for stylistic polishing.
