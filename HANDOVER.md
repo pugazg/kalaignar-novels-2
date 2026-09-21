@@ -83,6 +83,9 @@
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
+- English translation planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E7–E10**
+- English drafted/source-checked — **0/4**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
 
 ## Boundary
@@ -120,12 +123,14 @@
 - `PART_002_DOCUMENTATION_SYNC.md`
 - `PART_002_TAMIL_ARCHIVAL_READY.md`
 - `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_002_ENGLISH_PLANNING_SETUP.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part002 English translation planning/setup**
-- planned Part002 English reservations — **E7–E10**
+- prompt frontier — **E7 draft + source-check / scan18**
+- Part002 English planning/setup — **COMPLETE / PASS**
+- planned Part002 English reservations — **E7–E10 / E7 NEXT**
 - prompt rule — **LIVE MAIN IS AUTHORITATIVE; re-read live controls before continuing**
 - Part001 remains **FINAL CLOSED / FROZEN**
 - Part003 remains blocked until Part002 final closure
@@ -136,6 +141,6 @@
 
 ## Exact next activity
 
-**Part002 English translation planning/setup.**
+**E7 — draft + source-check scan18 / `06-ananthanarayanan-paarattu-urai-part002-continuation.md`.**
 
-Part001 remains frozen. Part002 assembled Tamil is PASS / CLOSED — 4/4 VERIFIED. Reserve non-colliding English batches after Part001 E1–E6 and map the four verified Part002 assembled Tamil units.
+Part001 remains frozen. Part002 English planning/setup is COMPLETE / PASS. Do not begin E8 until E7 is SOURCE-CHECKED / COMPLETE.
