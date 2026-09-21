@@ -2,58 +2,55 @@
 
 ## Repository
 
-- Repository: `pugazg/kalaignar-novels-2`
-- Branch: `main`
+- Repository — `pugazg/kalaignar-novels-2`
+- Branch — `main`
 - **LIVE MAIN IS AUTHORITATIVE.**
-- Active work: `works/romapuri-pandian/`
+- Active work — `works/romapuri-pandian/`
 
-## Work
+## Source state
 
-- title: **ரோமாபுரிப் பாண்டியன்**
-- author: **கலைஞர் மு. கருணாநிதி**
-- original source: approximately **1.85 GB** (user-reported)
-- supplied-source design: **39 split PDF files**, each <= **50 MB**
-- split basis: **file size**, not a fixed page count
-- source family / archive identifier: **pending first supplied split**
-- total physical scan count: **pending intake**
+- work — **ரோமாபுரிப் பாண்டியன்**
+- author — **கலைஞர் மு. கருணாநிதி**
+- source family — **TVA_BOK_0065553**
+- planned split set — **39 size-based PDFs**
+- supplied / registered — **Part001 + Part002**
+- mapped physical scans — **1–34**
 - source PDFs remain outside Git
 
-## Canonical numbering rule
+### Part001
 
-- Parts are numbered by supplied split order: **Part001–Part039**
-- `part_page` resets inside each split
-- canonical `scan_page` is a single continuous physical-scan sequence across the entire work and **never resets**
-- no Part scan range is guessed in advance
-- each Part range is registered only after direct intake of that PDF
-- printed pagination is recorded exactly as source-visible and may differ from physical scan numbering
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf`
+- local pages — **17**
+- global scans — **1–17**
+- SHA-256 — `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79`
+- canonical records — **17/17**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- unresolved Pass1 holds — **0**
+- all page records — **needs-review**
+- Pass2A — **NOT STARTED / NEXT**
+
+### Part002
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf`
+- local pages — **17**
+- global scans — **18–34**
+- SHA-256 — `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0`
+- source intake — **REGISTERED**
+- canonical records — **0**
+- canonical transcription — **BLOCKED until Part001 final closure**
+
+## Boundary
+
+- **17→18 — GENUINE CONTINUATION / AUDITED**
+- Part002 scan18 was inspected only as a boundary witness
+- Part002 body leakage into Part001 — **0**
 
 ## Mandatory Part lock
 
-> **Finish the complete maintained workflow for the active Part before beginning canonical transcription of the next Part.**
-
-Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Part body text may leak into the active Part.
-
-## Current state
-
-- repository controls — **INITIALIZED**
-- Part001–Part039 manifest — **CREATED / all pending intake**
-- Part001 source intake — **NEXT**
-- canonical page records — **0**
-- verified pages — **0**
-- assembled Tamil — **NOT STARTED**
-- English — **BLOCKED pending Tamil closure**
-- unresolved source-reading holds — **0 recorded because transcription has not started**
+> Finish Part001 through final closure/freeze before beginning Part002 canonical transcription.
 
 ## Exact next activity
 
-When Part001 is supplied:
+**Part001 Pass2A — direct textual verification of scans1–17.**
 
-1. register exact filename, bytes and SHA-256;
-2. determine local physical PDF page count;
-3. register Part001 global `scan_page` range beginning at scan 1;
-4. identify source family / archive identifier from the controlling source where available;
-5. record whether a usable text layer exists, while treating rendered source pixels as controlling authority;
-6. create Part001 source-intake control;
-7. begin **Pass 1** only after intake is complete.
-
-Do not pre-register Part002 scan numbers until Part001 physical extent is known.
+Check every page directly against source pixels for words, punctuation, displayed structure, printed pagination and page boundaries. Do not begin Pass2B in the same activity.
