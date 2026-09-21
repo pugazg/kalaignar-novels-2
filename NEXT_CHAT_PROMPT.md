@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 source intake + 34→35 boundary setup
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Pass1 scans35–44
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,52 +13,72 @@ Read the live controls before making changes. If this prompt conflicts with live
 
 ### Part002
 
-Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf`
-
-- scans **18–34 / 17 pages**
-- canonical Tamil — **17/17 verified**
-- visual fidelity — **17/17 verified**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
-- English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
-- glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- bilingual review — **PASS / CLOSED**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- final closure — **PASS / CLOSED / FROZEN**
-- unresolved blockers — **0**
+- scans **18–34**
+- **FINAL CLOSED / FROZEN**
+- outgoing 34→35 — **GENUINE CONTINUATION / AUDITED**
 
 Do not reopen Parts001–002 for stylistic polishing.
 
-## Outgoing boundary
+## Active Part003 source
+
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf`
+
+Source identity:
+
+- local PDF pages — **18**
+- global scans — **35–52**
+- file size — **49,781,150 bytes**
+- SHA-256 — `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a`
+- source intake — **REGISTERED / AUTHORIZED**
+- canonical Part003 records — **0**
+- Pass1 — **NOT STARTED**
+
+## Incoming boundary lock
 
 Part002 scan34 ends:
 
-- Tamil — `குதிரைகள்`
-- English — **"The horses..."**
+`குதிரைகள்`
 
-Boundary state:
+Part003 scan35 begins:
 
-**34→35 — PENDING Part003 adjacent witness**
+`ஒன்றன் மீதொன்று பாய்ந்து பாய்ந்து சண்டையிட்டன.`
 
-No scan35 wording has been inferred, imported or translated.
+Combined source continuity:
 
-## Part003 state
+`குதிரைகள் ஒன்றன் மீதொன்று பாய்ந்து பாய்ந்து சண்டையிட்டன.`
 
-- source file — **NOT SUPPLIED**
-- source intake — **NOT REGISTERED**
-- canonical records — **0**
-- scan35 adjacent witness — **NOT AVAILABLE**
+Decision:
+
+**34→35 — GENUINE CONTINUATION / AUDITED**
+
+Durable audit:
+
+`works/romapuri-pandian/PART_002_BOUNDARY_AUDIT_34_35.md`
+
+Do not alter frozen Part002 canonical, assembled-Tamil or English body text merely to backfill the continuation.
+
+## Read first
+
+1. `HANDOVER.md`
+2. `works/romapuri-pandian/README.md`
+3. `works/romapuri-pandian/ROMAPURI_ARCHIVAL_GUIDELINES.md`
+4. `works/romapuri-pandian/SOURCE_INTAKE_PART_003.md`
+5. `works/romapuri-pandian/PART_002_BOUNDARY_AUDIT_34_35.md`
+6. `works/romapuri-pandian/SOURCE_SPLIT_MANIFEST.md`
+7. `works/romapuri-pandian/indexes/page-map.md`
 
 ## Exact next activity
 
-After the user supplies Part003:
+**Part003 Pass1 — global scans35–44 / Part003 local pages1–10.**
 
-1. register the exact Part003 source filename, byte size, SHA-256, local page count and global scan range;
-2. inspect only the adjacent first Part003 page / global scan35 as the **34→35 boundary witness**;
-3. classify that boundary before Part003 canonical transcription;
-4. update `SOURCE_SPLIT_MANIFEST.md`, source-intake control, page-map frontier, `HANDOVER.md` and this prompt;
-5. only then begin the normal Part003 workflow under the mandatory Part lock.
+Pass1 rules:
 
-Do **not** invent scan35 or start Part003 canonical transcription without the supplied source.
+- create canonical page records only from direct source pixels;
+- preserve exact source wording, punctuation, paragraph/dialogue structure and page furniture;
+- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+- record exact `part: 3`, local `part_page`, global `scan_page`, exact Part003 source filename, source-visible printed page when present, page type and section;
+- preserve the incoming 34→35 continuation evidence without importing scan34 text into the Part003 canonical record;
+- include scan44 even if it is structurally blank, if direct source inspection confirms that state;
+- record uncertain readings as explicit holds rather than guessing.
+
+Do not begin Pass2A until Pass1 covers the complete Part003 range **scans35–52**.
