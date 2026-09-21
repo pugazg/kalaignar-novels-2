@@ -119,8 +119,10 @@ Pass2A does not promote status.
 
 ## Exact next activity
 
-**Part002 Pass2B — independent lexical / historical-glyph reread of scans18–34.**
+**Part002 Pass2B — first 9-page iteration: scans18–26 / local pages1–9.**
 
 Pass2B must independently re-read word boundaries, spacing, punctuation-sensitive forms and historical Tamil glyph identity from source pixels.
+
+Pass2B cadence is fixed at **9 physical pages per iteration**. For Part002 this yields batch 1 **scans18–26 / local pages1–9**, then the final remainder batch **scans27–34 / local pages10–17**.
 
 Do not begin Pass3 until Pass2B closes.
