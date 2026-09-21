@@ -78,7 +78,8 @@ source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்
 - visual fidelity — **17/17 verified / 0 needs-review**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
-- assembled Tamil — **NOT STARTED / NEXT**
+- assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
+- English translation planning/setup — **NOT STARTED / NEXT**
 - Part002 canonical records — **0 / BLOCKED**
 
 Durable progress records:
@@ -90,9 +91,10 @@ Durable progress records:
 - `PART_001_FINAL_STATUS_SYNC.md`
 - `PART_001_DOCUMENTATION_SYNC.md`
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
+- `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Exact next activity
 
-**Part001 assembled Tamil construction + audit.**
+**Part001 English translation planning/setup.**
 
-Construct only from verified canonical Part001 pages.
+Use only the verified assembled Tamil reading layer and canonical Tamil authority.
