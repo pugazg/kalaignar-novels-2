@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans18–27"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans18–27; formal Part002 Pass 2A reviewed"
 ---
 
 # அறிமுகம்
 
 ## Source transcription
 
-உரியவன்; இவனோ போரின் கண் மாட்சிமைப்பட்ட பாண்டியர் குடியில் ஏறு போன்றவன்; பொதிகைமலைச் சந்தனமும், திரைகடல் முத்தும், மும்முரசமும் கொண்டவன். நீவிர் இரு பெருந்தெய்வங்கள் ஒருங்கு நின்றாற்போல் காட்சி தருகின்றீர்! இன்றுபோல் என்றும் நிலைத்திடுக நமது நட்பு! வென்று வென்று போர்க்களத்தில் மேம்படுக உமது வேல்! புலி, கயல் பொறித்து, உம் வெற்றியைப் பிற நாட்டுக் குன்றுகளில் செதுக்கிடுவீராக!”
+உரியவன்; இவனோ போரின் கண் மாட்சிமைப்பட்ட பாண்டியர் குடியில் ஏறு போன்றவன்; பொதிகைமலைச் சந்தனமும், திரைகடல் முத்தும், மும்முரசமும் கொண்டவன். நீவிர் இரு பெருந் தெய்வங்கள் ஒருங்கு நின்றாற்போல் காட்சி தருகின்றீர்! இன்றுபோல் என்றும் நிலைத்திடுக நமது நட்பு! வென்று வென்று போர்க்களத்தில் மேம்படுக உமது வேல்! புலி, கயல் பொறித்து, உம் வெற்றியைப் பிற நாட்டுக் குன்றுகளில் செதுக்கிடுவீராக!”
 
 புறம் ஐம்பத்தெட்டாவது பாடலில் இந்த அழகிய கருத்தினைத் தந்து காரிக்கண்ணனார், சோழன் கரிகாலனையும், பாண்டியன் பெருவழுதியையும் ஒருசேர வாழ்த்துகிறார்.
 
@@ -44,4 +44,14 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - page ends with physical split word `கொண்டா` → scan26 begins `னாம்.`; no reconstruction is performed in this page record.
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 23; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word textual verification completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- correction: `நீவிர் இரு பெருந்தெய்வங்கள்` → `நீவிர் இரு பெருந் தெய்வங்கள்`;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 23; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
