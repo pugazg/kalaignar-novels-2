@@ -221,5 +221,9 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 Pass2B source-text / lexical / spacing / punctuation corrections — **5**
 - Part002 Pass2B historical-glyph corrections — **0**
 - Part002 Pass2B unresolved lexical/historical-glyph questions — **0**
-- Part002 Pass3 — **NOT STARTED / NEXT**
-- exact next gate — **Part002 Pass3 scans18–34**
+- Part002 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part002 Pass3 source-text corrections — **0**
+- Part002 Pass3 structural metadata corrections — **0**
+- Part002 Pass3 unresolved visual / structural questions — **0**
+- Part002 Part audit — **NOT STARTED / NEXT**
+- exact next gate — **Part002 Part audit**
