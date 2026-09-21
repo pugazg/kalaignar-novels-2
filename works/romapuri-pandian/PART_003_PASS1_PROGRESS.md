@@ -1,8 +1,8 @@
 # ரோமாபுரிப் பாண்டியன் — Part003 Pass 1 Progress
 
-## Current result
+## Final result
 
-**PART003 PASS 1 — IN PROGRESS — 10/18 TEXT-COMPLETE**
+**PART003 PASS 1 — COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 
 Controlling source:
 
@@ -23,38 +23,57 @@ Source identity:
 
 - global scans — **35–44**
 - local pages — **1–10**
-- canonical records — **10**
+- canonical records — **10/10**
 - text-bearing scans — **35–43**
 - verified blank physical scan — **44**
-- result — **TEXT-COMPLETE**
 - unresolved source-reading holds — **0**
-- status promotions — **0**
 
-### Remaining Pass1 work
+### Batch 2 — COMPLETE / TEXT-COMPLETE
 
 - global scans — **45–52**
 - local pages — **11–18**
-- canonical records still to create — **8**
-- Pass1 whole-Part gate — **OPEN**
+- canonical records — **8/8**
+- scan45 — illustrated Chapter 2 title page
+- scans46–52 — Chapter 2 `முத்துநகை`
+- unresolved source-reading holds — **0**
 
-Pass2A remains blocked until all **18/18** Part003 physical scans are captured.
+Whole-Part coverage:
 
-## Structural progression — scans35–44
+- canonical records — **18/18**
+- global scan range — **35–52 continuous**
+- local Part-page range — **1–18 continuous**
+- missing physical scans — **0**
+- duplicate physical scans — **0**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
 
-- scans35–43 — Chapter **1**, `கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்`, continuation through apparent chapter close;
-- scan35 — direct continuation of frozen Part002 scan34;
-- scan37 — source-visible displayed two-line verse retained;
-- scan38 — source-visible four-line verse retained;
-- scan38 ends with physical split `ஒப்பிடுவதற்`;
-- scan39 begins `கரிய`, giving source continuation `ஒப்பிடுவதற்கரிய` across the physical page boundary;
-- scan41 ends inside direct speech at `பாண்டிய மன்னரே; நீங்கள் குறிப்பிடும்`;
-- scan42 directly continues that speech with `செழியனா என்று பாருங்கள்!`;
-- scan43 — Chapter 1 apparent close with a large intentional blank lower field;
-- scan44 — **blank physical page**, no running header, printed numeral, body text, illustration or other page furniture.
+## Structural progression
 
-The next physical scan45 is expected to begin the next structural unit, but it is not transcribed or classified by this batch.
+### Chapter 1 continuation
 
-## Printed-page mapping — batch 1
+- scans35–43 — Chapter **1**, `கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்`
+- scan35 — direct continuation of frozen Part002 scan34
+- scan37 — displayed two-line verse
+- scan38 — displayed four-line verse
+- scan38→39 physical split — `ஒப்பிடுவதற்` → `கரிய`
+- scan41→42 — direct-speech continuation
+- scan43 — apparent Chapter 1 close with large intentional blank lower field
+
+### Structural separator
+
+- scan44 — **blank physical page**
+- no visible printed numeral, running header, illustration or body text
+
+### Chapter 2
+
+- scan45 — illustrated Chapter 2 title page, large numeral `2`, title `முத்துநகை`
+- scan46 — Chapter 2 narrative opening with large intentional blank upper field
+- scans47–52 — Chapter 2 continuation
+- scan47→48 physical sentence continuation — `மறைத்து` → `வைக்கப்பட்டிருப்பதை`
+- scan49→50 physical sentence continuation — `இந்த` → `ஆபத்து வந்திருக்காதல்லவா?`
+- scan52 — Part003 terminal page; narrative sentence closes normally
+
+## Printed-page mapping
 
 Directly visible printed numerals:
 
@@ -67,12 +86,20 @@ Directly visible printed numerals:
 - scan41 → **39**
 - scan42 → **40**
 - scan43 → **41**
+- scan47 → **45**
+- scan48 → **46**
+- scan49 → **47**
+- scan50 → **48**
+- scan51 → **49**
+- scan52 → **50**
 
 No directly visible printed numeral:
 
 - scan44 → `printed_page: null`
+- scan45 → `printed_page: null`
+- scan46 → `printed_page: null`
 
-No inferred numeral was inserted for the blank page.
+No inferred numerals were inserted.
 
 ## Incoming Part boundary
 
@@ -84,7 +111,7 @@ Part003 scan35 begins:
 
 `ஒன்றன் மீதொன்று பாய்ந்து பாய்ந்து சண்டையிட்டன.`
 
-Decision already closed before Pass1:
+Decision:
 
 **34→35 — GENUINE CONTINUATION / AUDITED**
 
@@ -95,11 +122,27 @@ Pass1 integrity:
 - Part002 assembled Tamil mutation — **0**
 - Part002 English mutation — **0**
 
-## Direct-pixel batch recheck
+## Outgoing Part boundary
 
-After the initial canonical draft, scans35–44 were reread against the rendered source pixels before closing Batch 1.
+Part003 scan52 ends on a complete sentence:
 
-Source-supported corrections applied during that reread — **12**:
+`முத்துநகைக்குத் தூக்கமே வரவில்லை. புரண்டு புரண்டு படுத்தாள்.`
+
+Part004 is not supplied / registered.
+
+Outgoing state:
+
+**52→53 — PENDING Part004 adjacent witness / deferred external boundary evidence**
+
+No Part004 wording is inferred or imported.
+
+The missing outgoing witness is not an unresolved source-reading hold within supplied Part003.
+
+## Batch 1 direct-pixel correction ledger
+
+After the initial canonical draft, Batch 1 scans35–44 were reread directly against source pixels.
+
+Source-supported Pass1 capture corrections — **12**:
 
 ### scan35
 
@@ -134,13 +177,28 @@ Source-supported corrections applied during that reread — **12**:
 11. `எனக்குச் சொந்தேன்` → `எனக்குச் செந்தேன்`
 12. `முழுவிவரம் பெரிய கதை` → `முழுவிவரமும் பெரிய கதை`
 
-Post-recheck unresolved Pass1 source-reading holds — **0**.
+These are Pass1 source-capture corrections, not formal Pass2A corrections.
 
-These are Pass1 source-capture corrections, not formal Pass2A corrections. Formal Pass2A has **not** begun.
+## Batch 2 source-sensitive forms retained
+
+Direct-pixel capture preserves unusual or source-sensitive forms for later independent Pass2 review, including:
+
+- scan46 — `பாண்டியநாட்டுத் தந்தையும் தமிழ்த்தாயும்`
+- scan47 — `‘குபுகுபு’ வென`
+- scan48 — `தூக்கிவாரிப் போட்டது`
+- scan49 — `பழிக்குப்பழி`
+- scan50 — `அமளியை உருவாக்க`
+- scan50 — `கூறினார்களே யப்பா`
+- scan51 — `ஒருவருக்குக்காயமோ`
+- scan51 — `புதிய நோக்கு`
+- scan51 — `இஃதென்ன`
+- scan52 — source-visible unmatched opening thought quotation before `இருங்கோவேள்`
+
+These are not unresolved Pass1 holds. They are preserved source readings and may be independently rechecked in Pass2A/Pass2B.
 
 ## Status rule
 
-All 10 current Part003 canonical records remain:
+All 18 Part003 canonical records remain:
 
 ```yaml
 status: "needs-review"
@@ -153,20 +211,19 @@ Pass1 does not promote status.
 
 - Part001 canonical records — **17 / FINAL CLOSED / FROZEN**
 - Part002 canonical records — **17 / FINAL CLOSED / FROZEN**
-- Part003 canonical records — **10/18**
-- repository canonical records total — **44**
-- Part003 Pass1 — **IN PROGRESS — 10/18 TEXT-COMPLETE**
+- Part003 canonical records — **18/18**
+- repository canonical records total — **52**
+- Part003 Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 - unresolved Part003 Pass1 holds — **0**
-- remaining Part003 Pass1 scans — **45–52**
 
 ## Gate decision
 
-**PART003 PASS 1 BATCH 1 — COMPLETE / TEXT-COMPLETE — scans35–44**
-
-The whole-Part Pass1 gate remains open.
+**PART003 PASS 1 — COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 
 ## Exact next activity
 
-**Part003 Pass1 — global scans45–52 / local pages11–18.**
+**Part003 Pass2A — global scans35–52 / local pages1–18.**
 
-Do not begin Part003 Pass2A until Pass1 reaches **18/18 TEXT-COMPLETE**.
+Pass2A must independently reread source wording against direct pixels and record only source-supported textual corrections.
+
+Do not begin Pass2B until Pass2A closes.
