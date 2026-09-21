@@ -267,12 +267,25 @@ This planning/setup activity creates or changes English control metadata only.
 - Part002 bilingual review — **PASS / CLOSED**
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 release-ready synchronization — **PASS / CLOSED**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
 - unresolved Part002 English blockers — **0**
 
 Part001 remains **FINAL CLOSED / FROZEN**.
 
-## Part002 current lifecycle frontier
+## Part002 final lifecycle state
 
-**Part002 final closure / freeze.**
+Part002 English is **FINAL CLOSED / FROZEN**.
 
-Do not begin Part003 canonical transcription until final Part002 closure passes.
+- E7–E10 — **SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+
+## Exact next activity
+
+**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
+
+Part003 is not supplied / registered. Do not infer scan35.
