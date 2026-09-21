@@ -1,6 +1,6 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன் / Part001
 
-Status: **PLANNING / SETUP — COMPLETE / PASS**
+Status: **RELEASE-READY SYNCHRONIZATION — PASS / CLOSED; FINAL CLOSURE NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -162,8 +162,12 @@ After E6 closes:
 6. no-post-release textual-drift verification;
 7. Part001 final closure / freeze.
 
+## Current lifecycle frontier
+
+E1–E6 are **SOURCE-CHECKED / COMPLETE**. Whole-Part glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization are all **PASS / CLOSED**.
+
 ## Exact next activity
 
-**E1 — draft + source-check `00-front-matter.md` / scans1–4.**
+**Part001 final closure / freeze.**
 
-Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**. Do not begin Part002 transcription.
+Do not begin Part002 transcription until final closure passes.
