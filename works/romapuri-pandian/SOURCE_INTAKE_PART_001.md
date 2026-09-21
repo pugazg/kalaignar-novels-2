@@ -80,7 +80,13 @@ source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - English translation planning/setup — **COMPLETE / PASS**
-- English batches — **E1–E6 RESERVED / E1 NEXT**
+- English E1–E6 — **SOURCE-CHECKED / COMPLETE — 6/6**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **NOT STARTED / NEXT**
 - Part002 canonical records — **0 / BLOCKED**
 
 Durable progress records:
@@ -96,6 +102,4 @@ Durable progress records:
 
 ## Exact next activity
 
-**Part001 E1 — draft + source-check scans1–4 / `00-front-matter.md`.**
-
-Use only the verified assembled Tamil reading layer and canonical Tamil authority.
+**Part001 final closure / freeze.**
