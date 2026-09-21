@@ -101,4 +101,8 @@ Part002 Tamil archival-ready — **PASS / CLOSED**.
 
 Part002 assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**.
 
-Exact next maintained gate — **Part002 English translation planning/setup**.
+Part002 English translation planning/setup — **COMPLETE / PASS**.
+
+Part002 English reservations — **E7–E10 / E7 NEXT**.
+
+Exact next maintained gate — **E7 draft + source-check / scan18**.
