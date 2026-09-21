@@ -23,7 +23,7 @@ But Tamil is older than that. Tamil Nadu had not only trade relations with Rome;
 
 Here he has taken a real person as the hero and beautifully woven together what existed and what did not. Looking at this, one feels that he was born with the talent for it. One might even be led to believe that Karikala Valavan himself had been born again as our Karunanidhi. Karikala Valavan too was born in this very Kaveri country. So was he. Karikala enriched Poompuhar; he too is now renewing it. Karikala built banks for the Kaveri; he too is trying as far as he can to build a protective bank for the waters of the Kaveri. In his youth Karikala was beset and tormented by enemies and escaped from them. In the same way, everyone knows that in the last general election he too somehow fell into the hands of his enemies and escaped. Even the names invite comparison: the first sound in Karikalan and the first sound in Karunanidhi are somewhat alike. If only there had been a photograph or painted portrait of Karikalan in those days, we might even wonder whether their facial features too would resemble one another. To that extent, his whole heart, and all three—his knowledge, memory and intellect—are directed toward renewing Poompuhar and enriching the Kaveri.
 
-He is now, by the order of authority, in the position of a king—the position of a ruling king.
+He is now, by virtue of office, in the position of a king—the position of a ruling king.
 
 Fearlessness, generosity, wisdom and energy—these four,  
 Without any one lacking, are a king's qualities.
