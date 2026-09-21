@@ -12,7 +12,7 @@
 | Part | Supplied | Exact filename | Bytes | SHA-256 | Local PDF pages | Global scans | Intake | Final closure |
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf` | 48,382,555 | `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79` | 17 | 1–17 | REGISTERED | **PASS / CLOSED / FROZEN** |
-| 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | **REGISTERED / ACTIVE** | **ASSEMBLED TAMIL PASS / ENGLISH PLANNING NEXT** |
+| 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | **REGISTERED / ACTIVE** | **ENGLISH PLANNING PASS / E7 NEXT** |
 | 003 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -55,7 +55,7 @@
 
 - supplied / registered Parts — **2/39**
 - Part001 — **FINAL CLOSED / FROZEN**
-- Part002 — **ACTIVE / ASSEMBLED TAMIL PASS / ENGLISH PLANNING NEXT**
+- Part002 — **ACTIVE / ENGLISH PLANNING PASS / E7 NEXT**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
 - Pass3 — **0 text corrections; 7 structural metadata corrections; 0 unresolved**
 - Part audit — **17/17 canonical records; 0 missing / 0 duplicate / 0 unresolved**
@@ -86,5 +86,8 @@
 - Part002 documentation synchronization — **PASS / COMPLETE**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
 - Part002 assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
+- Part002 English planning/setup — **COMPLETE / PASS**
+- Part002 English reservations — **E7–E10 / E7 NEXT**
+- Part002 English drafted/source-checked — **0/4**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part002 English translation planning/setup**
+- exact next gate — **E7 draft + source-check / scan18**
