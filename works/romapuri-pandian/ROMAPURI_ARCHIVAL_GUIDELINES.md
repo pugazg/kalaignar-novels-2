@@ -234,8 +234,15 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 documentation synchronization — **PASS / COMPLETE**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
 - Part002 assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
+- Part002 English planning/setup — **COMPLETE / PASS**
+- Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
+- Part002 glossary reconciliation — **RECONCILED / PASS**
+- Part002 English editorial review — **PASS / CLOSED**
+- Part002 bilingual review — **PASS / CLOSED**
+- Part002 release/readiness — **PASS / CLOSED**
+- Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 English translation planning/setup — **COMPLETE / PASS**
 - Part002 English reservations — **E7–E10 / E7 NEXT**
 - Part002 English drafted/source-checked — **0/4**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- exact next gate — **E7 draft + source-check / scan18**
+- exact next gate — **Part002 final closure / freeze**
