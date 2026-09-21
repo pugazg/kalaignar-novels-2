@@ -1,6 +1,6 @@
-# English Section Workspace — ரோமாபுரிப் பாண்டியன் / Part001
+# English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation of the verified Part001 assembled Tamil layer.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Part001 is frozen; Part002 is the active English Part.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -44,3 +44,35 @@ Part001 English is frozen. Reopen only for an explicitly documented source-fidel
 ## Exact next source activity
 
 **Part002 Pass1 — global scans18–27 / local pages1–10.**
+
+
+## Part002 — PLANNED / E7 NEXT
+
+Part002 planning/setup is **COMPLETE / PASS**.
+
+No Part002 English section draft exists yet.
+
+| Batch | Verified Tamil source | Planned English file | Scans | State |
+|---|---|---|---:|---|
+| E7 | `../../../sections/06-ananthanarayanan-paarattu-urai-part002-continuation.md` | `06-ananthanarayanan-appreciation-address-part002-continuation.md` | 18 | **RESERVED / NEXT** |
+| E8 | `../../../sections/07-kaviyarasu-kannadasan-urai.md` | `07-kaviyarasu-kannadasan-address.md` | 19–22 | **RESERVED** |
+| E9 | `../../../sections/08-arimugam.md` | `08-introduction.md` | 23–28 | **RESERVED** |
+| E10 | `../../../sections/09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | `09-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan.md` | 29–34 | **RESERVED** |
+
+### Part002 boundary safeguards
+
+- incoming **17→18 = GENUINE CONTINUATION / AUDITED**
+- Part001 English remains frozen; E7 must not backfill E6
+- outgoing **34→35 = PENDING Part003 adjacent witness**
+- E10 must not import or invent Part003 continuation
+
+### Planning integrity
+
+- Part002 English files created during planning — **0**
+- Part001 English files modified during planning — **0**
+- canonical/assembled Tamil changes caused by planning — **0**
+- Part003 leakage — **0**
+
+## Exact next English activity
+
+**E7 — draft + source-check scan18.**
