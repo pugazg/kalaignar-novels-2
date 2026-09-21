@@ -67,10 +67,12 @@ In the fifty-sixth *Puram* poem sung by Nakkiranar, the line "the cool fragrant 
 
 Among the food products exported from the south to Romapuri, pepper was especially important. It is said that when Alaric once conquered Rome, the agreement for compensation required that three thousand pounds of Tamil-country pepper also be given. <!-- verified Tamil split-word boundary: scan 25 → scan 26 --> Pearls dived for by prisoners sentenced to death at a place called Kulachal, south of Musiri, were also exported to Rome.
 
-Ptolemy writes down the name of one Tamil port connected with Rome as the port of "Kolavaris"; scholars say that he may have been referring to Kaveripoompattinam by that name. He also mentions a port called "Pudogi". They say that it was probably Puduvai. Near the great port of Korkai in the Pandiyan country, pearls and conches were found in great abundance and were praised by people in all parts of the world. An *agam* poem beautifully explains that there is no equal to the pearl of Korkai:
+Ptolemy writes down the name of one Tamil port connected with Rome as the port of "Kolavaris"; scholars say that he may have been referring to Kaveripoompattinam by that name. He also mentions a port called "Pudogi". They say that it was probably Puduvai. Near the great port of Korkai in the Pandiyan country, pearls and conches were found in great abundance and were praised by people in all parts of the world. That there is no equal to the pearl of Korkai is shown by the lines:
 
 "Korkai, guarded in righteousness by the warlike Pandyas,  
 and the pearls of its great harbour."
+
+So an *agam* poem beautifully explains.
 
 Pearls, fine cotton cloth, and garments woven from rat hair and silk were sent to countries such as Romapuri; from there horses, varieties of wine and glassware continually arrived and were unloaded at the great port of Korkai.
 
