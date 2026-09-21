@@ -39,8 +39,6 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 - incoming split boundary — **none**
 - outgoing **17→18 — GENUINE CONTINUATION / AUDITED**
-- scan17 / printed15 ends after `ஜராத் என்ற அவளது பணிப்பெண்ணும் அது`
-- Part002 scan18 / printed16 directly continues `மாதிரித் தற்கொலை புரிந்து கொள்கிறாள்.`
 - Part002 body imported into Part001 canonical records — **0**
 
 Durable boundary record:
@@ -58,19 +56,20 @@ source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்
 
 ## Current gate
 
-**PART001 PASS 1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE.**
-
 - canonical Part001 records — **17/17**
-- unresolved Pass1 source-reading holds — **0**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass2A source-supported corrections — **19**
+- unresolved Pass2A textual questions — **0**
 - all pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
-- Pass2A — **NOT STARTED / NEXT GATE**
 - Part002 canonical records — **0 / BLOCKED**
 
-Durable Pass1 record:
+Durable progress records:
 - `PART_001_PASS1_PROGRESS.md`
+- `PART_001_PASS2A_PROGRESS.md`
 
 ## Exact next activity
 
-**Part001 Pass2A — direct textual verification of scans1–17.**
+**Part001 Pass2B — independent lexical / word-boundary / punctuation-sensitive / historical-glyph reread of scans1–17.**
 
-Do not begin Pass2B in the same activity.
+Do not begin Pass3 in the same activity.
