@@ -69,6 +69,10 @@ source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்
 - Pass3 source-text corrections — **0**
 - Pass3 structural metadata corrections — **7**
 - unresolved Pass3 visual / structural questions — **0**
+- Part audit — **PASS / COMPLETE**
+- audit missing canonical pages — **0**
+- audit duplicate canonical pages — **0**
+- audit unresolved blockers — **0**
 - all pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - Part002 canonical records — **0 / BLOCKED**
 
@@ -77,9 +81,10 @@ Durable progress records:
 - `PART_001_PASS2A_PROGRESS.md`
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
+- `PART_001_AUDIT.md`
 
 ## Exact next activity
 
-**Part001 Part audit — whole-Part audit of scans1–17.**
+**Part001 final metadata/status synchronization — scans1–17.**
 
-Do not promote statuses until the separate metadata/status synchronization gate.
+Promote only audited status/visual_fidelity; do not change canonical Tamil.
