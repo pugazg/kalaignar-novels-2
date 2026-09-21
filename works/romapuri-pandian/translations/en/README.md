@@ -48,11 +48,10 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- final Part002 closure — **PASS / CLOSED / FROZEN**
 - final Part001 closure — **PASS / CLOSED / FROZEN**
 - historical next gate at Part001 closure — **Part002 Pass1 / global scans18–27 / local pages1–10**
 
-Planning/setup and E1–E6 drafting/source-check are complete. Glossary reconciliation, editorial review and bilingual review are also closed. Release/readiness and release-ready synchronization are now closed. Final Part001 closure is next.
+Historical note: this handoff is retained only to record the Part001 frontier that once preceded Part002 activation. Part001 is now final closed / frozen.
 
 
 Closed Part001 English controls now include:
@@ -75,7 +74,7 @@ Part001 English is frozen under `../../PART_001_FINAL_CLOSURE.md`.
 - final closure — **PASS / CLOSED / FROZEN**
 - unresolved English blockers — **0**
 
-Part002 is now authorized for Tamil Pass1 only; Part002 English remains blocked until its own Tamil + assembled-Tamil English-entry gate.
+Historical activation note superseded: Part002 has since completed its full Tamil + English workflow and is now final closed / frozen.
 
 
 ## Part002 — FINAL CLOSED / FROZEN
@@ -89,6 +88,7 @@ Part002 is now authorized for Tamil Pass1 only; Part002 English remains blocked 
 - whole-Part bilingual review — **PASS / CLOSED — 4/4**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
 - unresolved English blockers — **0**
 - Part003 leakage — **0**
 
