@@ -200,7 +200,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 documentation synchronization — **PASS / COMPLETE**
 - Part001 Tamil archival-ready — **PASS / CLOSED**
 - Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
-- Part001 English translation planning/setup — **NOT STARTED / NEXT**
+- Part001 English translation planning/setup — **COMPLETE / PASS**
+- Part001 English batches — **E1–E6 RESERVED / E1 NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
-- exact next gate — **Part001 English translation planning/setup**
+- exact next gate — **Part001 E1 draft + source-check / scans1–4**
