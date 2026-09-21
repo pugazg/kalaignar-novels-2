@@ -73,7 +73,7 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - Part002 English planning/setup: **COMPLETE / PASS**
-- Part002 English reservations: **E7–E10 / E7 NEXT**
+- Part002 English E7–E10: **SOURCE-CHECKED / COMPLETE — 4/4**
 - Part002 English drafted/source-checked: **0/4**
 
 No Part002 body text may be imported into Part001.
