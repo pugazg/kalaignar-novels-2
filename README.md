@@ -37,6 +37,9 @@
 - Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Part002 Pass2A corrections — **16 / 0 unresolved**
 - Part002 Pass2B — **NOT STARTED / NEXT**
+- Pass2B cadence — **9 pages per iteration**
+- next Pass2B batch — **scans18–26 / local pages1–9**
+- final Pass2B batch — **scans27–34 / local pages10–17**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
 
@@ -48,4 +51,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part002 Pass2B — independent lexical / historical-glyph reread of scans18–34.**
+**Part002 Pass2B — first 9-page iteration: scans18–26 / local pages1–9.**
