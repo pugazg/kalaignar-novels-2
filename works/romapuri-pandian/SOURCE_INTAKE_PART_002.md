@@ -48,6 +48,9 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - Part002 Pass2A corrections: **16**
 - Part002 Pass2A unresolved textual questions: **0**
 - Part002 Pass2B: **NOT STARTED / NEXT**
+- Part002 Pass2B cadence: **9 pages per iteration**
+- Part002 Pass2B batch 1: **scans18–26 / local pages1–9**
+- Part002 Pass2B batch 2: **scans27–34 / local pages10–17**
 - Part002 assembled Tamil: **BLOCKED pending Part002 Tamil archival workflow**
 - Part002 English: **BLOCKED pending Part002 Tamil + assembled-Tamil closure**
 
@@ -63,7 +66,7 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**Part002 Pass2B — independent lexical / historical-glyph reread of scans18–34.**
+**Part002 Pass2B — first 9-page iteration: scans18–26 / local pages1–9.**
 
 Do not begin Pass3 until Pass2B closes.
 
