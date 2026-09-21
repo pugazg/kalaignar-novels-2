@@ -31,16 +31,15 @@
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- Part002 — **ACTIVE / PASS2A COMPLETE / PASS2B NEXT**
+- Part002 — **ACTIVE / PASS2B COMPLETE / PASS3 NEXT**
 - Part002 canonical records — **17/17 — scans18–34**
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Part002 Pass2A corrections — **16 / 0 unresolved**
-- Part002 Pass2B — **IN PROGRESS — 9/17 REVIEWED**
+- Part002 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2B cadence — **9 pages per iteration**
-- Pass2B corrections so far — **3 / 0 historical-glyph / 0 unresolved**
-- completed Pass2B batch — **scans18–26 / local pages1–9**
-- next/final Pass2B batch — **scans27–34 / local pages10–17**
+- Pass2B corrections — **5 / 0 historical-glyph / 0 unresolved**
+- Part002 Pass3 — **NOT STARTED / NEXT**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
 
@@ -52,4 +51,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part002 Pass2B — final batch scans27–34 / local pages10–17.**
+**Part002 Pass3 — full-page visual / structural verification of scans18–34.**
