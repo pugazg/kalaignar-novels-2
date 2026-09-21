@@ -73,7 +73,10 @@ source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்
 - audit missing canonical pages — **0**
 - audit duplicate canonical pages — **0**
 - audit unresolved blockers — **0**
-- all pages remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
+- documentation synchronization — **PASS / COMPLETE**
 - Part002 canonical records — **0 / BLOCKED**
 
 Durable progress records:
@@ -82,9 +85,11 @@ Durable progress records:
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 - `PART_001_AUDIT.md`
+- `PART_001_FINAL_STATUS_SYNC.md`
+- `PART_001_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-**Part001 final metadata/status synchronization — scans1–17.**
+**Part001 Tamil archival-ready checkpoint.**
 
-Promote only audited status/visual_fidelity; do not change canonical Tamil.
+Confirm the verified 17/17 state and zero unresolved blockers before assembled Tamil.
