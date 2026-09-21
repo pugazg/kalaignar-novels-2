@@ -29,7 +29,7 @@ Part002 local page1 / overall scan18 is used only as the direct witness for the 
 ## Canonical lock
 
 - Part001 is the only active content Part
-- Part001 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED; Pass3 NEXT**
+- Part001 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED; Part audit NEXT**
 - Part002 canonical page records: **0**
 - Part002 canonical transcription: **BLOCKED**
 - Part002 assembled Tamil: **BLOCKED**
