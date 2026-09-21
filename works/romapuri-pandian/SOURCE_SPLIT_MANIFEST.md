@@ -55,7 +55,7 @@
 
 - supplied / registered Parts — **2/39**
 - Part001 — **FINAL CLOSED / FROZEN**
-- Part002 — **ACTIVE / PASS2A IN PROGRESS — 7/17 REVIEWED**
+- Part002 — **ACTIVE / PASS2A COMPLETE / PASS2B NEXT**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
 - Pass3 — **0 text corrections; 7 structural metadata corrections; 0 unresolved**
 - Part audit — **17/17 canonical records; 0 missing / 0 duplicate / 0 unresolved**
@@ -74,6 +74,6 @@
 - Part002 canonical records — **17/17 / scans18–34**
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass1 unresolved holds — **0**
-- Part002 Pass2A — **IN PROGRESS — scans18–24 reviewed / 12 corrections / 0 unresolved**
-- Part002 Pass2A pending — **scans25–34 / local pages8–17**
-- exact next gate — **continue Part002 Pass2A scans25–34**
+- Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED / 16 corrections / 0 unresolved**
+- Part002 Pass2B — **NOT STARTED / NEXT**
+- exact next gate — **Part002 Pass2B scans18–34**
