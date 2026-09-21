@@ -100,6 +100,7 @@
 - file size — **49,781,150 bytes**
 - SHA-256 — `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a`
 - source intake — **REGISTERED / AUTHORIZED**
+- intake + incoming-boundary setup — **PASS / COMPLETE**
 - incoming 34→35 — **GENUINE CONTINUATION / AUDITED**
 - canonical records — **0**
 - Pass1 — **NOT STARTED**
@@ -150,6 +151,7 @@
 - `PART_002_FINAL_CLOSURE.md`
 - `SOURCE_INTAKE_PART_003.md`
 - `PART_002_BOUNDARY_AUDIT_34_35.md`
+- `PART_003_INTAKE_BOUNDARY_SETUP.md`
 
 ## Next-chat handoff
 
