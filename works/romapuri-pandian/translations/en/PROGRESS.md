@@ -59,7 +59,7 @@ English activity must cause:
 - assembled Tamil body edits — **0**
 - Part002 Tamil/English leakage — **0**
 
-## Exact next activity
+## Historical Part001 next activity — SUPERSEDED
 
 **Part002 Pass1 — global scans18–27 / local pages1–10.**
 
@@ -158,7 +158,7 @@ Part002 batch discipline:
 - outgoing 34→35 — **PENDING Part003 adjacent witness**
 - E10 must end with the translated equivalent of the incomplete scan34 state and must not invent scan35
 
-## Exact next activity — Part002
+## Historical Part002 post-draft activity — SUPERSEDED
 
 **Part002 whole-Part glossary reconciliation across E7–E10.**
 
@@ -192,7 +192,7 @@ Part002 batch discipline:
 - unresolved release/readiness blockers — **0**
 - Part003 leakage — **0**
 
-## Exact next activity — Part002
+## Historical Part002 pre-closure activity — SUPERSEDED
 
 **Part002 final closure / freeze.**
 
