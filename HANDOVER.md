@@ -72,7 +72,11 @@
 - Pass2B source-text/lexical/spacing/punctuation corrections — **5**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical/historical-glyph questions — **0**
-- Pass3 — **NOT STARTED / NEXT**
+- Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass3 source-text corrections — **0**
+- Pass3 structural metadata corrections — **0**
+- Pass3 unresolved visual / structural questions — **0**
+- Part audit — **NOT STARTED / NEXT**
 
 ## Boundary
 
@@ -102,6 +106,7 @@
 - `PART_002_PASS1_PROGRESS.md`
 - `PART_002_PASS2A_PROGRESS.md`
 - `PART_002_PASS2B_PROGRESS.md`
+- `PART_002_PASS3_PROGRESS.md`
 
 ## Mandatory Part lock
 
@@ -109,6 +114,6 @@
 
 ## Exact next activity
 
-**Part002 Pass3 — full-page visual / structural verification of scans18–34.**
+**Part002 Part audit.**
 
-Part001 remains frozen. Do not begin the Part002 Part audit until Pass3 closes.
+Part001 remains frozen. Do not perform final metadata/status promotion until the Part002 Part audit passes.
