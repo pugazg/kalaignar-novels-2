@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 ENGLISH PLANNING COMPLETE / E1 NEXT**
+**PART001 RELEASE-READY SYNC CLOSED / FINAL CLOSURE NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -34,8 +34,13 @@
 - Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - assembled publication-text coverage — **16/16; scan2 copy-specific donation label excluded by policy**
 - Part001 English translation planning/setup — **COMPLETE / PASS**
-- Part001 English batches — **E1–E6 RESERVED**
-- English section drafts/source-checks — **0/6 / E1 NEXT**
+- Part001 English E1–E6 — **SOURCE-CHECKED / COMPLETE — 6/6**
+- Part001 glossary reconciliation — **RECONCILED / PASS**
+- Part001 English editorial review — **PASS / CLOSED**
+- Part001 bilingual review — **PASS / CLOSED**
+- Part001 release/readiness — **PASS / CLOSED**
+- Part001 release-ready synchronization — **PASS / CLOSED**
+- Part001 final closure — **NOT STARTED / NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
 - source PDFs in Git — **0 / prohibited by archive policy**
@@ -73,6 +78,6 @@
 
 ## Exact next activity
 
-**Part001 E1 — draft + source-check scans1–4 / `00-front-matter.md`.**
+**Part001 final closure / freeze.**
 
-Do not begin E2 until E1 closes; Part002 stays blocked until Part001 final closure.
+Part002 remains blocked until that closure commits.
