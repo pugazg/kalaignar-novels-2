@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans28–34"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans28–34; formal Part002 Pass 2A reviewed"
 ---
 
 # 1. கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்
 
 ## Source transcription
 
-காரிக்கண்ணனாரிடத்தில் கரிகாலன் அதிக அளவு அன்பையும் மரியாதையையும் காட்டுவதைக் பாண்டியன் உணர்ந்து, தன் கழுத்திலே யிருந்த முத்தாரம் ஒன்றினைக் கழற்றிப் புலவருக்கு அணிவித்து மகிழ்ந்தான்.
+காரிக்கண்ணனாரிடத்தில் கரிகாலன் அதிக அளவு அன்பையும் மரியாதையையும் காட்டுவதைப் பாண்டியன் உணர்ந்து, தன் கழுத்திலே யிருந்த முத்தாரம் ஒன்றினைக் கழற்றிப் புலவருக்கு அணிவித்து மகிழ்ந்தான்.
 
 “புலவரே! அரண்மனை சேர்ந்ததும் ஆள் அனுப்புகிறேன். வந்து எம்மைத் தமிழால் வாழ்த்துவீராக!” என்று கேட்டுக் கொண்டான் சோழநாட்டு வேந்தர் பெருந்தகை!
 
@@ -43,4 +43,14 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - page ends with physical split word `முத்` → scan34 begins `தாரத்தையெடுத்து`.
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 33; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 31; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word textual verification completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- correction: `மரியாதையையும் காட்டுவதைக் பாண்டியன் உணர்ந்து` → `மரியாதையையும் காட்டுவதைப் பாண்டியன் உணர்ந்து`;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 33; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 31; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
