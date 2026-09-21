@@ -185,3 +185,30 @@ Part002 remains **TRANSCRIPTION BLOCKED** until the full Part001 final closure c
 **Part001 assembled Tamil construction + audit.**
 
 Do not begin English translation/review, release/readiness, final Part001 closure, or Part002 transcription in this checkpoint.
+
+
+## Post-checkpoint assembled Tamil closure
+
+This Tamil archival-ready declaration remains historically correct and closed.
+
+After this checkpoint, the Part001 assembled Tamil reading layer was constructed and independently audited from the verified canonical page records:
+
+- assembled section files — **6/6 VERIFIED**
+- represented physical scans — **17/17**
+- publication-text source-transcription pages represented — **16/16**
+- scan2 copy-specific donation-label text — **excluded by policy / provenance retained**
+- omitted publication-text pages — **0**
+- duplicate publication-text pages — **0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- Part002 text leakage — **0**
+- canonical Tamil page mutations caused by assembly — **0**
+- scan12→13 split word rendered as source-supported `வந்திருக்கின்றன.`
+- scan17 terminal incompleteness retained
+- validation — `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+
+The forward instruction above to begin assembled Tamil is superseded only as the live frontier.
+
+Current next gate:
+
+**Part001 English translation planning/setup.**
