@@ -48,12 +48,20 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 003 | 8 | 42 | 40 | Chapter 1 continuation; completes scan41 direct speech | needs-review | `pages/0042-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 | 003 | 9 | 43 | 41 | Chapter 1 apparent close; large intentional blank lower field | needs-review | `pages/0043-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 | 003 | 10 | 44 | — | Blank physical page | needs-review | `pages/0044-blank.md` |
+| 003 | 11 | 45 | — | Chapter 2 illustrated title page — `முத்துநகை` | needs-review | `pages/0045-chapter-02-title.md` |
+| 003 | 12 | 46 | — | Chapter 2 opening; large intentional blank upper field | needs-review | `pages/0046-muthunagai.md` |
+| 003 | 13 | 47 | 45 | Chapter 2 continuation; terminal physical continuation `மறைத்து` | needs-review | `pages/0047-muthunagai.md` |
+| 003 | 14 | 48 | 46 | Chapter 2 continuation; opens physical continuation `வைக்கப்பட்டிருப்பதை` | needs-review | `pages/0048-muthunagai.md` |
+| 003 | 15 | 49 | 47 | Chapter 2 continuation; ends mid-sentence at `இந்த` | needs-review | `pages/0049-muthunagai.md` |
+| 003 | 16 | 50 | 48 | Chapter 2 continuation; completes scan49 sentence | needs-review | `pages/0050-muthunagai.md` |
+| 003 | 17 | 51 | 49 | Chapter 2 continuation | needs-review | `pages/0051-muthunagai.md` |
+| 003 | 18 | 52 | 50 | Chapter 2 continuation; Part003 terminal page | needs-review | `pages/0052-muthunagai.md` |
 
 ## Current state
 
 - registered Parts — **3/39**
 - source-mapped scans — **1–52**
-- canonical page records — **44**
+- canonical page records — **52**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A corrections — **19**
@@ -112,8 +120,10 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 34→35 — **GENUINE CONTINUATION / AUDITED**
 - Part003 source — **REGISTERED / scans35–52 / 18 pages**
-- Part003 canonical records — **10/18 — scans35–44**
-- Part003 Pass1 — **IN PROGRESS — 10/18 TEXT-COMPLETE**
+- Part003 canonical records — **18/18 — scans35–52**
+- Part003 Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
+- Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
-- exact next activity — **Part003 Pass1 / scans45–52 / local pages11–18**
+- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
+- exact next activity — **Part003 Pass2A / scans35–52 / local pages1–18**
