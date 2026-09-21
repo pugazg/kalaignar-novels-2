@@ -81,6 +81,9 @@
 - `PART_001_DOCUMENTATION_SYNC.md`
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
 - `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- `translations/en/RELEASE_REPORT.md`
+- `PART_001_RELEASE_READY_SYNC.md`
+- `PART_001_FINAL_CLOSURE.md`
 - `translations/en/TRANSLATION_PLAN.md`
 - `translations/en/GLOSSARY.md`
 - `translations/en/PROGRESS.md`
