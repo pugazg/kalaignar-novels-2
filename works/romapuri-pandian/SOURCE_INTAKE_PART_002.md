@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / PASS2B COMPLETE / PASS3 NEXT.**
+**SUPPLIED / REGISTERED / PASS3 COMPLETE / PART AUDIT NEXT.**
 
 - local PDF pages: **17**
 - canonical overall scans: **18–34**
@@ -52,7 +52,11 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - Part002 Pass2B corrections: **5**
 - Part002 Pass2B historical-glyph corrections: **0**
 - Part002 Pass2B unresolved lexical/historical-glyph questions: **0**
-- Part002 Pass3: **NOT STARTED / NEXT**
+- Part002 Pass3: **COMPLETE / PASS — 17/17 REVIEWED**
+- Part002 Pass3 source-text corrections: **0**
+- Part002 Pass3 structural metadata corrections: **0**
+- Part002 Pass3 unresolved visual/structural questions: **0**
+- Part002 Part audit: **NOT STARTED / NEXT**
 - Part002 assembled Tamil: **BLOCKED pending Part002 Tamil archival workflow**
 - Part002 English: **BLOCKED pending Part002 Tamil + assembled-Tamil closure**
 
@@ -68,9 +72,9 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**Part002 Pass3 — full-page visual / structural verification of scans18–34.**
+**Part002 Part audit.**
 
-Do not begin the Part audit until Pass3 closes.
+Do not perform final metadata/status promotion until the Part audit passes.
 
 Progress control: `PART_002_PASS1_PROGRESS.md`.
 
@@ -78,3 +82,5 @@ Progress control: `PART_002_PASS1_PROGRESS.md`.
 Pass2A progress control: `PART_002_PASS2A_PROGRESS.md`.
 
 Pass2B progress control: `PART_002_PASS2B_PROGRESS.md`.
+
+Pass3 progress control: `PART_002_PASS3_PROGRESS.md`.
