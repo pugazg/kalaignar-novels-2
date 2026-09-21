@@ -52,8 +52,12 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Pass2B corrections — **7**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical / historical-glyph questions — **0**
+- Part001 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass3 source-text corrections — **0**
+- Pass3 structural metadata corrections — **7**
+- Pass3 unresolved visual / structural questions — **0**
 - Part001 pages still `needs-review` — **17/17**
 - Part001 visual_fidelity still `needs-review` — **17/17**
 - Part002 canonical records — **0**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part001 Pass3 scans1–17**
+- exact next activity — **Part001 Part audit scans1–17**
