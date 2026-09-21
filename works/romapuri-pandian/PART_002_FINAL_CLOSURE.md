@@ -204,11 +204,11 @@ Do not infer scan35 or begin Part003 canonical transcription without the supplie
 
 After the final-closure record was committed, live lifecycle/navigation controls were synchronized to the frozen Part001 + Part002 / Part003-source-needed frontier.
 
-Post-closure synchronization checkpoint:
+Post-closure synchronization checkpoint before this record refresh:
 
-`2482182f7b8b196a29c9f866555631b04146388a`
+`40ddcc7e6577cee71c68aa3ca10aef6a82b75cae`
 
-Comparison against the final-closure commit `fe26576160cff7aa3c7e72f3753c61470494b5ed` confirms that the post-closure changes are limited to control/navigation documentation.
+Comparison against the final-closure commit `fe26576160cff7aa3c7e72f3753c61470494b5ed` confirms that the post-closure changes are limited to control/navigation documentation plus this durable closure record.
 
 - canonical `pages/` changes — **0**
 - assembled Tamil section-body changes — **0**
