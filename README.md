@@ -60,10 +60,12 @@
 - Part003 source — **REGISTERED / AUTHORIZED**
 - Part003 intake + incoming-boundary setup — **PASS / COMPLETE**
 - Part003 source extent — **18 pages / scans35–52**
-- Part003 canonical records — **10/18 — scans35–44**
-- Part003 Pass1 — **IN PROGRESS — 10/18 TEXT-COMPLETE**
+- Part003 canonical records — **18/18 — scans35–52**
+- Part003 Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
+- Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
+- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
 
@@ -75,4 +77,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part003 Pass1 — global scans45–52 / local pages11–18.**
+**Part003 Pass2A — global scans35–52 / local pages1–18.**
