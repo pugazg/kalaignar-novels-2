@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf"
-transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans18–27; formal Part002 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch scans18–27; formal Part002 Pass 2A reviewed; formal Part002 Pass 2B lexical/historical-glyph reviewed"
 ---
 
 # கவியரசு கண்ணதாசன் அவர்கள் ஆற்றிய உரை
 
 ## Source transcription
 
-நிறுத்தும்போது கதாசிரியனுடைய - தொடர் கதாசிரியனுடைய பலவீனம், ஜனங்களுடைய பலவீனம் என்று நினைத்துக் கொள்வது என்னவென்றால், நிறுத்துகிற இடத்தைப் பொறுத்துத்தான் அடுத்த வாரப் பத்திரிகையின் விற்பனை என்று.
+நிறுத்தும்போது கதாசிரியனுடைய - தொடர் கதையாசிரியனுடைய பலவீனம், ஜனங்களுடைய பலவீனம் என்று நினைத்துக் கொள்வது என்னவென்றால், நிறுத்துகிற இடத்தைப் பொறுத்துத்தான் அடுத்த வாரப் பத்திரிகையின் விற்பனை என்று.
 
 கலைஞர் கருணாநிதி அவர்கள் எழுதிய தொடர்கதை விழுந்து எழாமல், நிமிர்ந்தே நின்றுகொண்டு இருப்பதற்குக் காரணம் அவர் எடுத்துக் கொண்ட சரித்திரத்தினுடைய பலமான பின்னணி என்பதுதான் மிக முக்கியமானதாகும்.
 
@@ -46,4 +46,15 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch s
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 21; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 19; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part002 Pass 2B lexical / historical-glyph reread
+
+- independent lexical, word-boundary, spacing, punctuation-sensitive and historical-glyph reread completed against the controlling source pixels;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- correction: `தொடர் கதாசிரியனுடைய பலவீனம்` → `தொடர் கதையாசிரியனுடைய பலவீனம்`;
+- historical-glyph corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 21; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: 19; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED + PASS 2B REVIEWED / needs-review -->
