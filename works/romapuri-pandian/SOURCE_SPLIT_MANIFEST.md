@@ -11,8 +11,8 @@
 
 | Part | Supplied | Exact filename | Bytes | SHA-256 | Local PDF pages | Global scans | Intake | Final closure |
 |---:|---|---|---:|---|---:|---|---|---|
-| 001 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
-| 002 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 001 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf` | 48,382,555 | `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79` | 17 | 1–17 | REGISTERED | NOT STARTED |
+| 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | REGISTERED / BLOCKED | NOT STARTED |
 | 003 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -53,4 +53,7 @@
 
 ## Current frontier
 
-**Part001 source intake next.**
+- supplied / registered Parts — **2/39**
+- Part001 — **PASS 1 COMPLETE / 17/17 TEXT-COMPLETE**
+- Part002 — **SUPPLIED / REGISTERED / BLOCKED**
+- exact next gate — **Part001 Pass2A scans1–17**
