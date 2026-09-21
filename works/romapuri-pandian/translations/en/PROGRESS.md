@@ -132,10 +132,10 @@ Part002 Tamil prerequisites:
 
 | Batch | Tamil unit | Scans | Planned English file | Status |
 |---|---|---:|---|---|
-| **E7** | `06-ananthanarayanan-paarattu-urai-part002-continuation.md` | 18 | `sections/06-ananthanarayanan-appreciation-address-part002-continuation.md` | **RESERVED / NEXT** |
-| **E8** | `07-kaviyarasu-kannadasan-urai.md` | 19–22 | `sections/07-kaviyarasu-kannadasan-address.md` | **RESERVED** |
-| **E9** | `08-arimugam.md` | 23–28 | `sections/08-introduction.md` | **RESERVED** |
-| **E10** | `09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | 29–34 | `sections/09-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan.md` | **RESERVED** |
+| **E7** | `06-ananthanarayanan-paarattu-urai-part002-continuation.md` | 18 | `sections/06-ananthanarayanan-appreciation-address-part002-continuation.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E8** | `07-kaviyarasu-kannadasan-urai.md` | 19–22 | `sections/07-kaviyarasu-kannadasan-address.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E9** | `08-arimugam.md` | 23–28 | `sections/08-introduction.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E10** | `09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | 29–34 | `sections/09-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan.md` | **SOURCE-CHECKED / COMPLETE** |
 
 Part002 batch discipline:
 
@@ -143,8 +143,8 @@ Part002 batch discipline:
 
 ### Part002 planning integrity
 
-- English Part002 drafts created — **0/4**
-- English Part002 source-checked units — **0/4**
+- English Part002 drafts created — **4/4**
+- English Part002 source-checked units — **4/4**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
 - Part001 English edits caused by planning — **0**
@@ -160,6 +160,16 @@ Part002 batch discipline:
 
 ## Exact next activity — Part002
 
-**E7 — draft + source-check scan18 / `06-ananthanarayanan-paarattu-urai-part002-continuation.md`.**
+**Part002 whole-Part glossary reconciliation across E7–E10.**
 
-Do not begin E8 until E7 closes.
+
+## Part002 E7–E10 completion accounting
+
+- maintained Part002 English section files — **4/4**
+- source-checked Part002 English section files — **4/4**
+- E7–E10 durable source-check records — **4/4**
+- unresolved source-check holds — **0**
+- canonical Tamil edits caused by English drafting/source-check — **0**
+- assembled Tamil edits caused by English drafting/source-check — **0**
+- Part001 English edits caused by Part002 drafting — **0**
+- Part003 content leakage — **0**
