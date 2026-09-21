@@ -1,8 +1,14 @@
 # English Translation Progress — ரோமாபுரிப் பாண்டியன்
 
-## Overall state
+## Current project English state
 
-**E1–E6 DRAFT + SOURCE-CHECK — COMPLETE / PASS**
+**PARTS001–002 ENGLISH — FINAL CLOSED / FROZEN**
+
+- Part001 English — **FINAL CLOSED / FROZEN**
+- Part002 English — **FINAL CLOSED / FROZEN**
+- Part003 English — **NOT AUTHORIZED / SOURCE NOT SUPPLIED**
+
+## Part001 historical progress
 
 Tamil prerequisites:
 
