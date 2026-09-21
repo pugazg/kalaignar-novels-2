@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / RELEASE-READY PASS / FINAL CLOSURE NEXT.**
+**SUPPLIED / REGISTERED / FINAL CLOSED / FROZEN.**
 
 - local PDF pages: **17**
 - canonical overall scans: **18–34**
@@ -71,6 +71,7 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - Part002 bilingual review: **PASS / CLOSED**
 - Part002 release/readiness: **PASS / CLOSED**
 - Part002 release-ready synchronization: **PASS / CLOSED**
+- Part002 final closure: **PASS / CLOSED / FROZEN**
 - Part002 English planning/setup: **COMPLETE / PASS**
 - Part002 English reservations: **E7–E10 / E7 NEXT**
 - Part002 English drafted/source-checked: **0/4**
@@ -87,6 +88,6 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**Part002 final closure / freeze.**
+**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
 
-Release-ready synchronization has passed. Create and verify the durable final-closure record; do not begin Part003 canonical transcription.
+Part003 is not supplied. Do not infer scan35 or begin canonical Part003 transcription without the source.
