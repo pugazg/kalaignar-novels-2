@@ -64,10 +64,10 @@
 - canonical records — **17/17 — scans18–34**
 - Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Pass1 unresolved source-reading holds — **0**
-- Pass2A — **IN PROGRESS — 7/17 REVIEWED / scans18–24**
-- Pass2A source-supported corrections so far — **12**
-- Pass2A unresolved textual questions in reviewed pages — **0**
-- Pass2A pending — **scans25–34 / local pages8–17**
+- Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass2A source-supported corrections — **16**
+- Pass2A unresolved textual questions — **0**
+- Pass2B — **NOT STARTED / NEXT**
 
 ## Boundary
 
@@ -103,6 +103,6 @@
 
 ## Exact next activity
 
-**Continue Part002 Pass2A — scans25–34 / local pages8–17.**
+**Part002 Pass2B — independent lexical / historical-glyph reread of scans18–34.**
 
-Part001 remains frozen. Do not begin Part002 Pass2B until Pass2A closes.
+Part001 remains frozen. Do not begin Part002 Pass3 until Pass2B closes.
