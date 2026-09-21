@@ -64,7 +64,10 @@
 - canonical records — **17/17 — scans18–34**
 - Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Pass1 unresolved source-reading holds — **0**
-- Pass2A — **NOT STARTED / NEXT**
+- Pass2A — **IN PROGRESS — 7/17 REVIEWED / scans18–24**
+- Pass2A source-supported corrections so far — **12**
+- Pass2A unresolved textual questions in reviewed pages — **0**
+- Pass2A pending — **scans25–34 / local pages8–17**
 
 ## Boundary
 
@@ -92,6 +95,7 @@
 - `translations/en/sections/README.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 - `PART_002_PASS1_PROGRESS.md`
+- `PART_002_PASS2A_PROGRESS.md`
 
 ## Mandatory Part lock
 
@@ -99,6 +103,6 @@
 
 ## Exact next activity
 
-**Part002 Pass2A — direct textual verification of scans18–34.**
+**Continue Part002 Pass2A — scans25–34 / local pages8–17.**
 
 Part001 remains frozen. Do not begin Part002 Pass2B until Pass2A closes.
