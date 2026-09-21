@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 ASSEMBLED TAMIL PASS / ENGLISH PLANNING NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 ENGLISH PLANNING PASS / E7 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -58,6 +58,9 @@
 - Part002 documentation synchronization — **PASS / COMPLETE**
 - Part002 Tamil archival-ready — **PASS / CLOSED**
 - Part002 assembled Tamil — **PASS / CLOSED — 4/4 VERIFIED**
+- Part002 English translation planning/setup — **COMPLETE / PASS**
+- Part002 English reservations — **E7–E10 / E7 NEXT**
+- Part002 English drafted/source-checked — **0/4**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -102,10 +105,11 @@
 - `PART_002_DOCUMENTATION_SYNC.md`
 - `PART_002_TAMIL_ARCHIVAL_READY.md`
 - `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_002_ENGLISH_PLANNING_SETUP.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part002 English translation planning/setup.**
+**E7 — draft + source-check scan18 / Part002 Ananthanarayanan address continuation.**
 
 Part001 is frozen; do not reopen it for stylistic polishing.
