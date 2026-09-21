@@ -2,14 +2,14 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 AUTHORIZED NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 PASS1 IN PROGRESS**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - supplied design — **39 size-based split PDFs**
 - supplied / registered Parts — **2/39**
 - Part001 — **17 pages / global scans1–17**
-- Part002 — **17 pages / global scans18–34 / supplied + registered / AUTHORIZED / NOT STARTED**
+- Part002 — **17 pages / global scans18–34 / ACTIVE / PASS1 10/17 TEXT-COMPLETE**
 - Part001 canonical records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -42,10 +42,10 @@
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- Part002 canonical records — **0**
+- Part002 canonical records — **10/17 — scans18–27**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
-- English — **PLANNING/SETUP COMPLETE / E1 NEXT**
+- Part001 English — **FINAL CLOSED / FROZEN**
 
 ## Authority
 
@@ -77,10 +77,11 @@
 - `translations/en/TRANSLATION_PLAN.md`
 - `translations/en/GLOSSARY.md`
 - `translations/en/PROGRESS.md`
+- `PART_002_PASS1_PROGRESS.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part002 Pass1 — global scans18–27 / local pages1–10.**
+**Part002 Pass1 — complete remaining global scans28–34 / local pages11–17.**
 
 Part001 is frozen; do not reopen it for stylistic polishing.
