@@ -61,14 +61,16 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - source supplied — **YES**
 - source registered — **YES**
 - incoming 34→35 boundary — **GENUINE CONTINUATION / AUDITED**
-- canonical Part003 records — **10/18 — scans35–44**
-- Pass1 — **IN PROGRESS — 10/18 TEXT-COMPLETE**
+- canonical Part003 records — **18/18 — scans35–52**
+- Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
+- Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
+- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
 - unresolved intake blockers — **0**
 
 ## Exact next activity
 
-**Part003 Pass1 — global scans45–52 / Part003 local pages11–18.**
+**Part003 Pass2A — global scans35–52 / Part003 local pages1–18.**
 
-Batch 1 scans35–44 is TEXT-COMPLETE. Do not begin Pass2A until Pass1 covers the complete Part003 range scans35–52.
+Pass1 is COMPLETE / PASS — 18/18 TEXT-COMPLETE. Do not begin Pass2B until Pass2A closes.
