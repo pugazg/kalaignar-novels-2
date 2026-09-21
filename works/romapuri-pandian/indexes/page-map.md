@@ -37,7 +37,7 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 002 | 14 | 31 | 29 | Chapter 1 continuation | verified | `pages/0031-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 | 002 | 15 | 32 | 30 | Chapter 1 continuation | verified | `pages/0032-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 | 002 | 16 | 33 | 31 | Chapter 1 continuation; terminal split word `முத்` | verified | `pages/0033-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 002 | 17 | 34 | 32 | Chapter 1 continuation; outgoing 34→35 witness pending | verified | `pages/0034-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 002 | 17 | 34 | 32 | Chapter 1 continuation; outgoing 34→35 genuine continuation audited | verified | `pages/0034-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 
 ## Current state
 
