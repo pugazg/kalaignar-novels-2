@@ -46,18 +46,18 @@ Part001 English is frozen. Reopen only for an explicitly documented source-fidel
 **Part002 Pass1 — global scans18–27 / local pages1–10.**
 
 
-## Part002 — PLANNED / E7 NEXT
+## Part002 — E7–E10 SOURCE-CHECKED / COMPLETE
 
 Part002 planning/setup is **COMPLETE / PASS**.
 
-No Part002 English section draft exists yet.
+Part002 English drafting and source-check are **COMPLETE — 4/4**.
 
 | Batch | Verified Tamil source | Planned English file | Scans | State |
 |---|---|---|---:|---|
-| E7 | `../../../sections/06-ananthanarayanan-paarattu-urai-part002-continuation.md` | `06-ananthanarayanan-appreciation-address-part002-continuation.md` | 18 | **RESERVED / NEXT** |
-| E8 | `../../../sections/07-kaviyarasu-kannadasan-urai.md` | `07-kaviyarasu-kannadasan-address.md` | 19–22 | **RESERVED** |
-| E9 | `../../../sections/08-arimugam.md` | `08-introduction.md` | 23–28 | **RESERVED** |
-| E10 | `../../../sections/09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | `09-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan.md` | 29–34 | **RESERVED** |
+| E7 | `../../../sections/06-ananthanarayanan-paarattu-urai-part002-continuation.md` | `06-ananthanarayanan-appreciation-address-part002-continuation.md` | 18 | **SOURCE-CHECKED / COMPLETE** |
+| E8 | `../../../sections/07-kaviyarasu-kannadasan-urai.md` | `07-kaviyarasu-kannadasan-address.md` | 19–22 | **SOURCE-CHECKED / COMPLETE** |
+| E9 | `../../../sections/08-arimugam.md` | `08-introduction.md` | 23–28 | **SOURCE-CHECKED / COMPLETE** |
+| E10 | `../../../sections/09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | `09-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan.md` | 29–34 | **SOURCE-CHECKED / COMPLETE** |
 
 ### Part002 boundary safeguards
 
@@ -68,11 +68,11 @@ No Part002 English section draft exists yet.
 
 ### Planning integrity
 
-- Part002 English files created during planning — **0**
-- Part001 English files modified during planning — **0**
-- canonical/assembled Tamil changes caused by planning — **0**
+- Part002 English files — **4/4 source-checked**
+- Part001 English files modified by Part002 work — **0**
+- canonical/assembled Tamil changes caused by Part002 English work — **0**
 - Part003 leakage — **0**
 
 ## Exact next English activity
 
-**E7 — draft + source-check scan18.**
+**Part002 whole-Part glossary reconciliation across E7–E10.**
