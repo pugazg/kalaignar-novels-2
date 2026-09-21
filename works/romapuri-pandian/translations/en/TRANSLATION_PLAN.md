@@ -178,11 +178,11 @@ Part001 English is **FINAL CLOSED / FROZEN**.
 - release-ready synchronization — **PASS / CLOSED**
 - final Part001 closure — **PASS / CLOSED / FROZEN**
 
-## Exact next activity
+## Historical Part001 next activity — SUPERSEDED
 
 **Part002 Pass1 — global scans18–27 / local pages1–10.**
 
-Do not begin Part002 English until its own Tamil + assembled-Tamil prerequisites close.
+This historical frontier is superseded by the closed Part002 lifecycle recorded below.
 
 
 ## Part002 planning/setup — COMPLETE / PASS
@@ -254,9 +254,11 @@ This planning/setup activity creates or changes English control metadata only.
 - Part003 leakage — **0**
 - unresolved planning holds — **0**
 
-## Current lifecycle frontier — Part002
+## Historical Part002 post-draft frontier — SUPERSEDED
 
 **Part002 whole-Part glossary reconciliation across E7–E10.**
+
+This historical frontier is superseded by the final Part002 state below.
 
 
 ## Part002 post-draft closure state
