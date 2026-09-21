@@ -241,8 +241,9 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 bilingual review — **PASS / CLOSED**
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 release-ready synchronization — **PASS / CLOSED**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 English translation planning/setup — **COMPLETE / PASS**
 - Part002 English reservations — **E7–E10 / E7 NEXT**
 - Part002 English drafted/source-checked — **0/4**
 - outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part002 final closure / freeze**
+- exact next gate — **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**
