@@ -46,9 +46,13 @@
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - English translation planning/setup — **COMPLETE / PASS**
-- English batches reserved — **E1–E6**
-- English drafted/source-checked — **0/6**
-- E1 — **NOT STARTED / NEXT**
+- English E1–E6 — **SOURCE-CHECKED / COMPLETE — 6/6**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **NOT STARTED / NEXT**
 
 ### Part002
 
@@ -89,6 +93,6 @@
 
 ## Exact next activity
 
-**Part001 E1 — draft + source-check scans1–4 / `00-front-matter.md`.**
+**Part001 final closure / freeze.**
 
-Do not begin E2 until E1 is SOURCE-CHECKED / COMPLETE. Part002 remains blocked.
+Do not begin Part002 transcription until final closure is committed.
