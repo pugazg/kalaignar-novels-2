@@ -195,3 +195,22 @@ Part002 batch discipline:
 ## Exact next activity — Part002
 
 **Part002 final closure / freeze.**
+
+
+## Final Part002 counts
+
+- canonical Tamil — **17/17 verified**
+- assembled Tamil — **4/4 VERIFIED / PASS / CLOSED**
+- English translated/source-checked — **4/4**
+- glossary reconciliation — **PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- Part003 leakage — **0**
+
+## Exact next activity — project
+
+**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
