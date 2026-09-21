@@ -38,12 +38,22 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 002 | 15 | 32 | 30 | Chapter 1 continuation | verified | `pages/0032-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 | 002 | 16 | 33 | 31 | Chapter 1 continuation; terminal split word `முத்` | verified | `pages/0033-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 | 002 | 17 | 34 | 32 | Chapter 1 continuation; outgoing 34→35 genuine continuation audited | verified | `pages/0034-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 1 | 35 | 33 | Chapter 1 continuation; incoming 34→35 genuine continuation audited | needs-review | `pages/0035-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 2 | 36 | 34 | Chapter 1 continuation | needs-review | `pages/0036-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 3 | 37 | 35 | Chapter 1 continuation; displayed verse | needs-review | `pages/0037-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 4 | 38 | 36 | Chapter 1 continuation; displayed verse; terminal split `ஒப்பிடுவதற்` | needs-review | `pages/0038-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 5 | 39 | 37 | Chapter 1 continuation; opens split continuation `கரிய` | needs-review | `pages/0039-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 6 | 40 | 38 | Chapter 1 continuation | needs-review | `pages/0040-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 7 | 41 | 39 | Chapter 1 continuation; ends inside direct speech | needs-review | `pages/0041-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 8 | 42 | 40 | Chapter 1 continuation; completes scan41 direct speech | needs-review | `pages/0042-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 9 | 43 | 41 | Chapter 1 apparent close; large intentional blank lower field | needs-review | `pages/0043-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 10 | 44 | — | Blank physical page | needs-review | `pages/0044-blank.md` |
 
 ## Current state
 
 - registered Parts — **3/39**
 - source-mapped scans — **1–52**
-- canonical page records — **34**
+- canonical page records — **44**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A corrections — **19**
@@ -102,6 +112,8 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 34→35 — **GENUINE CONTINUATION / AUDITED**
 - Part003 source — **REGISTERED / scans35–52 / 18 pages**
-- Part003 canonical records — **0**
-- Part003 Pass1 — **NOT STARTED**
-- exact next activity — **Part003 Pass1 / scans35–44 / local pages1–10**
+- Part003 canonical records — **10/18 — scans35–44**
+- Part003 Pass1 — **IN PROGRESS — 10/18 TEXT-COMPLETE**
+- Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
+- Part003 Pass1 unresolved holds — **0**
+- exact next activity — **Part003 Pass1 / scans45–52 / local pages11–18**
