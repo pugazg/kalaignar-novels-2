@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf"
-transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch scans1–10"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch scans1–10; formal Part001 Pass 2A reviewed"
 ---
 
 # காணிக்கை
@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 
 இன்று தமிழகத்தை ஆட்சி புரியும் முதலமைச்சர் பொறுப்பையேற்று அதற்குப் பிறகு காவிரிப்பூம்பட்டினத்தில் 'பூம்புகார்' உருவாக்க வேண்டுமென்று நான் புதிதாகக் கருதியதாக யாரும் நினைக்கக் கூடாது.
 
-தமிழகத்தின் வரலாற்றுச் சிறப்புமிக்க இடங்களும், புகழ் பரப்பிய தமிழ் வீரர்களின் பெயர்களும், பிஞ்சு வயது முதல் என் நெஞ்சில் நிலை பெற்றவைகளாகும்.
+தமிழகத்தின் வரலாற்றுச் சிறப்புமிக்க இடங்களும், புகழ் பரப்பிய தமிழ் வீரர்களின் பெயர்களும், பிஞ்சு வயதுமுதல் என் நெஞ்சில் நிலை பெற்றவைகளாகும்.
 
 அந்த ஆழமான வேர்களின் அடிப்படையில் எழுந்ததுதான் இந்த வரலாற்றுக் கற்பனை.
 
@@ -36,4 +36,13 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 - no printed page numeral is directly visible on this scan;
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 6; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 6; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, displayed/paragraph structure, printed-pagination and physical page-boundary comparison completed against the user-supplied Part001 source pixels;
+- source-text corrections: **1**;
+- correction: `பிஞ்சு வயது முதல்` → `பிஞ்சு வயதுமுதல்`;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass 2B, Pass 3, Part audit and final metadata/status synchronization.
