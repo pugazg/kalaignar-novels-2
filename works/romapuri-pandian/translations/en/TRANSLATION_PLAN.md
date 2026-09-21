@@ -257,3 +257,22 @@ This planning/setup activity creates or changes English control metadata only.
 ## Current lifecycle frontier — Part002
 
 **Part002 whole-Part glossary reconciliation across E7–E10.**
+
+
+## Part002 post-draft closure state
+
+- E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
+- Part002 glossary reconciliation — **RECONCILED / PASS**
+- Part002 English editorial review — **PASS / CLOSED**
+- Part002 bilingual review — **PASS / CLOSED**
+- Part002 release/readiness — **PASS / CLOSED**
+- Part002 release-ready synchronization — **PASS / CLOSED**
+- unresolved Part002 English blockers — **0**
+
+Part001 remains **FINAL CLOSED / FROZEN**.
+
+## Part002 current lifecycle frontier
+
+**Part002 final closure / freeze.**
+
+Do not begin Part003 canonical transcription until final Part002 closure passes.
