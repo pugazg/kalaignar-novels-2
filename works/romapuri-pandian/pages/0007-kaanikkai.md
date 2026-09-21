@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf"
-transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch scans1–10; formal Part001 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch scans1–10; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed"
 ---
 
 # காணிக்கை — தொடர்ச்சி
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 
 கற்பனை வேகத்தில் வரலாறு சிதைந்துவிடாமல் எச்சரிக்கையாக இருக்கவேண்டியிருந்தது. கதையாக மட்டுமன்றி அன்றைய தமிழகத்தின் சரித்திர சித்திரமாகவும் இதனைத் தீட்டியிருக்கிறேன்.
 
-துணையாக இருந்து குறிப்புகள் தந்து உதவிய நண்பர் மறைமலை யான் மெத்தவும் பயன்பட்டார். அவருக்கும் இந்த பெரிய நூலை அச்சியற்றுப் பணியாற்றிய அருமை நண்பர் கவிஞர் ஆனந்தம் அவர்கட்கும் தமிழ்க்கனிப் பதிப்பகத்தாருக்கும் விற்பனை உரிமைபெற்றுள்ள பாரி நிலையத்தாருக்கும் என் நன்றியும் அன்பும் என்றும் உண்டு.
+துணையாக இருந்து குறிப்புகள் தந்து உதவிய நண்பர் மறைமலை யான் மெத்தவும் பயன்பட்டார். அவருக்கும் இந்த பெரிய நூலை அச்சியற்றப் பணியாற்றிய அருமை நண்பர் கவிஞர் ஆனந்தம் அவர்கட்கும் தமிழ்க்கனிப் பதிப்பகத்தாருக்கும் விற்பனை உரிமைபெற்றுள்ள பாரி நிலையத்தாருக்கும் என் நன்றியும் அன்பும் என்றும் உண்டு.
 
 இதனைப் படித்துத் தமிழர்கள் தங்கள் கருத்துக்களை அவ்வப்போது வழங்கி என்னை ஊக்கப்படுத்தியிருக்கிறார்கள். அவர்களுக்கு என் வணக்கம்.
 
@@ -38,7 +38,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 - substantial blank lower field after the signature/address block is source-visible;
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 7; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 5; PASS 1 TEXT-COMPLETE + PASS 2A REVIEWED / needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 7; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 5; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
 
 ## Formal Part001 Pass 2A review
 
@@ -48,3 +48,15 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass 2B, Pass 3, Part audit and final metadata/status synchronization.
+
+## Formal Part001 Pass 2B lexical / historical-glyph reread
+
+- independently reread the complete source-visible text from the controlling source pixels rather than merely confirming Pass 2A;
+- lexical boundaries, spacing, punctuation-sensitive readings and reform-sensitive Tamil glyph families were checked occurrence by occurrence where present;
+- source-text / lexical / spacing / punctuation corrections: **1**;
+- correction: `அச்சியற்றுப்` → `அச்சியற்றப்`;
+- historical-glyph corrections: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- no global replacement, spelling modernization or silent glyph normalization was used;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass 3, Part audit and final metadata/status synchronization.
