@@ -52,6 +52,7 @@
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
+- final Part002 closure — **PASS / CLOSED / FROZEN**
 - final Part001 closure — **PASS / CLOSED / FROZEN**
 
 ### Part002
@@ -137,14 +138,16 @@
 - `translations/en/PART_002_BILINGUAL_REVIEW.md`
 - `translations/en/PART_002_RELEASE_REPORT.md`
 - `PART_002_RELEASE_READY_SYNC.md`
+- `PART_002_FINAL_CLOSURE.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part002 final closure / freeze**
+- prompt frontier — **Part003 source intake + 34→35 boundary witness setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
 - prompt rule — **LIVE MAIN IS AUTHORITATIVE; re-read live controls before continuing**
 - Part001 remains **FINAL CLOSED / FROZEN**
 - Part003 remains blocked until Part002 final closure
@@ -155,6 +158,6 @@
 
 ## Exact next activity
 
-**Part002 final closure / freeze.**
+**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
 
-Part001 remains frozen. Part002 release-ready synchronization is PASS / CLOSED. Create and verify the durable Part002 final-closure record. Do not begin Part003 canonical transcription.
+Part001 and Part002 are FINAL CLOSED / FROZEN. Part003 is NOT SUPPLIED / NOT REGISTERED. Supply the Part003 source before any canonical transcription.
