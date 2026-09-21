@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf"
-transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch scans1–10; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch scans1–10; formal Part001 Pass 2A reviewed; formal Part001 Pass 2B lexical/historical-glyph reread reviewed; formal Part001 Pass 3 visual/structural review completed"
 ---
 
 # பதிப்புரை
@@ -32,7 +32,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 - no printed page numeral is directly visible;
 - status and visual fidelity remain needs-review.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 8; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B REVIEWED / needs-review -->
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 8; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE + PASS 2A + PASS 2B + PASS 3 REVIEWED / needs-review -->
 
 ## Formal Part001 Pass 2A review
 
@@ -56,3 +56,14 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch s
 - no global replacement, spelling modernization or silent glyph normalization was used;
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass 3, Part audit and final metadata/status synchronization.
+
+## Formal Part001 Pass 3 review
+
+- direct full-page visual / structural verification completed against the controlling source image;
+- structural classification confirmed: **publisher-preface opening/close — centered `பதிப்புரை` heading, body paragraphs and publisher signature block at lower right; no visible printed page number**;
+- heading hierarchy, text blocks, copy-specific marks/furniture, blank-field usage, printed-pagination visibility and physical page-boundary state were checked;
+- source-text corrections at Pass 3: **0**;
+- structural metadata corrections: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Part audit and final metadata/status synchronization.
