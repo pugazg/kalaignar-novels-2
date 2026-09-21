@@ -212,8 +212,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 canonical records — **17/17 / scans18–34**
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass1 unresolved holds — **0**
-- Part002 Pass2A — **IN PROGRESS — 7/17 REVIEWED / scans18–24**
-- Part002 Pass2A source-supported corrections so far — **12**
-- Part002 Pass2A unresolved textual questions in reviewed pages — **0**
-- Part002 Pass2A pending — **scans25–34 / local pages8–17**
-- exact next gate — **continue Part002 Pass2A scans25–34**
+- Part002 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part002 Pass2A source-supported corrections — **16**
+- Part002 Pass2A unresolved textual questions — **0**
+- Part002 Pass2B — **NOT STARTED / NEXT**
+- exact next gate — **Part002 Pass2B scans18–34**
