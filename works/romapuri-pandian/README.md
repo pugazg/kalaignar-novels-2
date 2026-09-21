@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
+**PART001 ENGLISH PLANNING COMPLETE / E1 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -33,12 +33,14 @@
 - Part001 Tamil archival-ready — **PASS / CLOSED**
 - Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - assembled publication-text coverage — **16/16; scan2 copy-specific donation label excluded by policy**
-- Part001 English translation planning/setup — **NOT STARTED / NEXT**
+- Part001 English translation planning/setup — **COMPLETE / PASS**
+- Part001 English batches — **E1–E6 RESERVED**
+- English section drafts/source-checks — **0/6 / E1 NEXT**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
-- English — **PLANNING/SETUP NEXT**
+- English — **PLANNING/SETUP COMPLETE / E1 NEXT**
 
 ## Authority
 
@@ -64,10 +66,13 @@
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
 - `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - `sections/README.md`
+- `translations/en/TRANSLATION_PLAN.md`
+- `translations/en/GLOSSARY.md`
+- `translations/en/PROGRESS.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part001 English translation planning/setup.**
+**Part001 E1 — draft + source-check scans1–4 / `00-front-matter.md`.**
 
-Do not begin Part002 transcription until Part001 final closure.
+Do not begin E2 until E1 closes; Part002 stays blocked until Part001 final closure.
