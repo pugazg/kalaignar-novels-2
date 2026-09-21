@@ -39,9 +39,9 @@ After E6:
 - glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
 - bilingual review — **PASS / CLOSED**
-- release/readiness — **NOT STARTED / NEXT**
-- release-ready synchronization — **BLOCKED**
-- final Part001 closure — **BLOCKED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **NOT STARTED / NEXT**
 
 ## Permanent boundary lock
 
@@ -60,6 +60,11 @@ English activity must cause:
 - Part002 Tamil/English leakage — **0**
 
 ## Exact next activity
+
+**Part001 final closure / freeze.**
+
+Do not begin Part002 transcription until final closure passes.
+
 
 **Part001 release/readiness report.**
 
