@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 1 COMPLETE / PASS2A NEXT**
+**PART001 PASS2A COMPLETE / PASS2B NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -12,8 +12,11 @@
 - Part002 — **17 pages / global scans18–34 / supplied + registered / blocked**
 - Part001 canonical records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
-- Part001 unresolved Pass1 holds — **0**
+- Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass2A source-supported corrections — **19**
+- Pass2A unresolved textual questions — **0**
 - Part001 page status — **17/17 needs-review**
+- Part001 visual fidelity — **17/17 needs-review**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
 - Part002 canonical records — **0**
 - source PDFs in Git — **0 / prohibited by archive policy**
@@ -35,10 +38,11 @@
 - `SOURCE_INTAKE_PART_002.md`
 - `PART_001_BOUNDARY_AUDIT_17_18.md`
 - `PART_001_PASS1_PROGRESS.md`
+- `PART_001_PASS2A_PROGRESS.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part001 Pass2A — direct textual verification of scans1–17.**
+**Part001 Pass2B — independent lexical / historical-glyph reread of scans1–17.**
 
-Do not begin Pass2B until Pass2A closes.
+Do not begin Pass3 until Pass2B closes.
