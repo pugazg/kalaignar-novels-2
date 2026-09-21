@@ -77,6 +77,9 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part002 canonical records — **17/17 — scans18–34**
 - Part002 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part002 Pass1 unresolved holds — **0**
-- Part002 Pass2A — **NOT STARTED / NEXT**
+- Part002 Pass2A — **IN PROGRESS — 7/17 REVIEWED / scans18–24**
+- Part002 Pass2A corrections so far — **12**
+- Part002 Pass2A unresolved textual questions in reviewed pages — **0**
+- Part002 Pass2A pending — **scans25–34 / local pages8–17**
 - outgoing 17→18 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part002 Pass2A scans18–34**
+- exact next activity — **continue Part002 Pass2A scans25–34**
