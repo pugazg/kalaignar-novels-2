@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PLANNING / SETUP — COMPLETE / PASS**
+**E1–E6 DRAFT + SOURCE-CHECK — COMPLETE / PASS**
 
 Tamil prerequisites:
 
@@ -17,12 +17,12 @@ Tamil prerequisites:
 
 | Batch | Tamil unit | Scans | Planned English file | Status |
 |---|---|---:|---|---|
-| **E1** | `00-front-matter.md` | 1–4 | `sections/00-front-matter.md` | **NOT STARTED / NEXT** |
-| **E2** | `01-moondram-pathippin-munnurai.md` | 5 | `sections/01-preface-to-the-third-edition.md` | **NOT STARTED** |
-| **E3** | `02-kaanikkai.md` | 6–7 | `sections/02-dedication.md` | **NOT STARTED** |
-| **E4** | `03-pathippurai.md` | 8 | `sections/03-publishers-note.md` | **NOT STARTED** |
-| **E5** | `04-devaneyap-paavanar-thalaimai-urai.md` | 9–11 | `sections/04-devaneya-pavanar-presidential-address.md` | **NOT STARTED** |
-| **E6** | `05-ananthanarayanan-paarattu-urai.md` | 12–17 | `sections/05-ananthanarayanan-appreciation-address.md` | **NOT STARTED** |
+| **E1** | `00-front-matter.md` | 1–4 | `sections/00-front-matter.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E2** | `01-moondram-pathippin-munnurai.md` | 5 | `sections/01-preface-to-the-third-edition.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E3** | `02-kaanikkai.md` | 6–7 | `sections/02-dedication.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E4** | `03-pathippurai.md` | 8 | `sections/03-publishers-note.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E5** | `04-devaneyap-paavanar-thalaimai-urai.md` | 9–11 | `sections/04-devaneya-pavanar-presidential-address.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E6** | `05-ananthanarayanan-paarattu-urai.md` | 12–17 | `sections/05-ananthanarayanan-appreciation-address.md` | **SOURCE-CHECKED / COMPLETE** |
 
 ## Batch discipline
 
@@ -36,7 +36,7 @@ A draft alone is not a closed batch.
 
 After E6:
 
-- glossary reconciliation — **BLOCKED**
+- glossary reconciliation — **NOT STARTED / NEXT**
 - English editorial review — **BLOCKED**
 - bilingual review — **BLOCKED**
 - release/readiness — **BLOCKED**
@@ -61,6 +61,17 @@ English activity must cause:
 
 ## Exact next activity
 
-**E1 — draft + source-check scans1–4 / `00-front-matter.md`.**
+**Whole-Part English glossary reconciliation across E1–E6.**
 
-Do not begin E2 until E1 closes **SOURCE-CHECKED / COMPLETE**.
+Do not begin editorial review until glossary reconciliation closes.
+
+
+## Draft/source-check completion accounting
+
+- maintained English section files — **6/6**
+- source-checked English section files — **6/6**
+- E1–E6 durable source-check records — **6/6**
+- unresolved source-check holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- Part002 content leakage — **0**
