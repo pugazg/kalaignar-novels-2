@@ -30,8 +30,8 @@
 - Part001 whole-Part bilingual review — **PASS / CLOSED**
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
-- Part001 final closure — **NOT STARTED / NEXT**
-- Part002 — **SUPPLIED / REGISTERED / BLOCKED**
+- Part001 final closure — **PASS / CLOSED / FROZEN**
+- Part002 — **NEXT ACTIVE PART / SUPPLIED / REGISTERED / AUTHORIZED / NOT STARTED**
 - Part002 canonical records — **0**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
@@ -44,4 +44,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part001 final closure / freeze.**
+**Part002 Pass1 — global scans18–27 / local pages1–10.**
