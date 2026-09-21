@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / PASS1 IN PROGRESS.**
+**SUPPLIED / REGISTERED / PASS1 COMPLETE / PASS2A NEXT.**
 
 - local PDF pages: **17**
 - canonical overall scans: **18–34**
@@ -41,9 +41,10 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- Part002 canonical page records: **10/17 — scans18–27**
-- Part002 Pass1: **10/17 TEXT-COMPLETE / IN PROGRESS**
-- Part002 Pass1 pending: **scans28–34 / local pages11–17**
+- Part002 canonical page records: **17/17 — scans18–34**
+- Part002 Pass1: **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Part002 Pass1 unresolved holds: **0**
+- Part002 Pass2A: **NOT STARTED / NEXT**
 - Part002 assembled Tamil: **BLOCKED pending Part002 Tamil archival workflow**
 - Part002 English: **BLOCKED pending Part002 Tamil + assembled-Tamil closure**
 
@@ -59,8 +60,8 @@ Part002 is now the next active Part.
 
 ## Exact next activity
 
-**Part002 Pass1 — complete remaining global scans28–34 / local pages11–17.**
+**Part002 Pass2A — direct textual verification of scans18–34.**
 
-Do not begin Pass2A until Part002 Pass1 covers all scans18–34.
+Do not begin Pass2B until Pass2A closes.
 
 Progress control: `PART_002_PASS1_PROGRESS.md`.
