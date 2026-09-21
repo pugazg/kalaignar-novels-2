@@ -206,7 +206,7 @@ After the final-closure record was committed, live lifecycle/navigation controls
 
 Post-closure synchronization checkpoint before this record refresh:
 
-`40ddcc7e6577cee71c68aa3ca10aef6a82b75cae`
+`b1d92510f88f74ddf5b0a717ef86561134364163`
 
 Comparison against the final-closure commit `fe26576160cff7aa3c7e72f3753c61470494b5ed` confirms that the post-closure changes are limited to control/navigation documentation plus this durable closure record.
 
