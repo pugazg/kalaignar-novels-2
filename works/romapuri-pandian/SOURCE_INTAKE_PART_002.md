@@ -28,7 +28,7 @@ Part002 local page1 / overall scan18 originally served as the direct Part001 bou
 
 ## Canonical lock
 
-- Part001 is the only active content Part
+- Part001 is **FINAL CLOSED / FROZEN**; Part002 is the active content Part
 - Part001 final metadata/status synchronization — **PASS / CLOSED**
 - Part001 documentation synchronization — **PASS / COMPLETE**
 - Part001 Tamil archival-ready — **PASS / CLOSED**
