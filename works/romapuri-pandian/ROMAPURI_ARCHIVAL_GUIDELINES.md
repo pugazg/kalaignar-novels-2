@@ -53,6 +53,7 @@ A later Part may be opened only as an adjacent boundary witness when needed for 
    - punctuation-sensitive readings
    - historical Tamil glyph identity
    - no silent modernization
+   - **batch cadence: 9 physical pages per iteration; only the final Pass2B iteration may contain fewer pages when the Part remainder is <9**
 5. **Pass 3 — meaningful full-page visual / structural verification**
    - headings
    - chapter boundaries
@@ -216,4 +217,7 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 Pass2A source-supported corrections — **16**
 - Part002 Pass2A unresolved textual questions — **0**
 - Part002 Pass2B — **NOT STARTED / NEXT**
-- exact next gate — **Part002 Pass2B scans18–34**
+- Part002 Pass2B cadence — **9 pages per iteration**
+- Part002 Pass2B batch 1 — **scans18–26 / local pages1–9**
+- Part002 Pass2B batch 2 — **scans27–34 / local pages10–17**
+- exact next gate — **Part002 Pass2B scans18–26**
