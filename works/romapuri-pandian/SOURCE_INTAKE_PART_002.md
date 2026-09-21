@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டிய
 
 ## Intake result
 
-**SUPPLIED / REGISTERED / BLOCKED FOR CANONICAL TRANSCRIPTION.**
+**SUPPLIED / REGISTERED / AUTHORIZED / NOT STARTED.**
 
 - local PDF pages: **17**
 - canonical overall scans: **18–34**
@@ -40,16 +40,24 @@ Part002 local page1 / overall scan18 is used only as the direct witness for the 
 - Part001 bilingual review — **PASS / CLOSED**
 - Part001 release/readiness — **PASS / CLOSED**
 - Part001 release-ready synchronization — **PASS / CLOSED**
-- Part001 final closure — **NOT STARTED / NEXT**
+- Part001 final closure — **PASS / CLOSED / FROZEN**
 - Part002 canonical page records: **0**
-- Part002 canonical transcription: **BLOCKED**
-- Part002 assembled Tamil: **BLOCKED**
-- Part002 English: **BLOCKED**
+- Part002 canonical transcription: **AUTHORIZED / NOT STARTED**
+- Part002 assembled Tamil: **BLOCKED pending Part002 Tamil archival workflow**
+- Part002 English: **BLOCKED pending Part002 Tamil + assembled-Tamil closure**
 
 No Part002 body text may be imported into Part001.
 
 ## Activation rule
 
-Part002 Pass1 may begin only after:
+Part001 final closure has passed:
 
-**PART001 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+**PART001 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Part002 is now the next active Part.
+
+## Exact next activity
+
+**Part002 Pass1 — global scans18–27 / local pages1–10.**
+
+Do not begin Pass2A until Part002 Pass1 covers all scans18–34.
