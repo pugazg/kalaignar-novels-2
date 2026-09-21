@@ -15,6 +15,7 @@
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED — 19 corrections / 0 unresolved**
 - Part001 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED — 7 corrections / 0 historical-glyph corrections / 0 unresolved**
+- Part001 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED — 0 text corrections / 7 structural metadata corrections / 0 unresolved**
 - Part001 status — **17/17 needs-review; visual_fidelity 17/17 needs-review**
 - Part002 — **SUPPLIED / REGISTERED / BLOCKED**
 - Part002 canonical records — **0**
@@ -29,4 +30,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part001 Pass3 — full-page visual / structural verification of scans1–17.**
+**Part001 Part audit — whole-Part audit of scans1–17.**
