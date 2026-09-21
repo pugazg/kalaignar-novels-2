@@ -212,3 +212,28 @@ Part003 canonical transcription remains blocked by the mandatory Part lock until
 **Part002 assembled Tamil construction + audit.**
 
 Do not begin English translation/review, release/readiness, final Part002 closure, or Part003 canonical transcription in this checkpoint.
+
+
+## Post-checkpoint assembled Tamil closure
+
+This Tamil archival-ready declaration remains historically correct and closed.
+
+After this checkpoint, the Part002 assembled Tamil reading layer was constructed and independently audited from the verified canonical page records:
+
+- assembled section files — **4/4 VERIFIED**
+- represented physical scans — **17/17 — scans18–34**
+- publication-text source-transcription pages represented — **17/17**
+- omitted publication-text pages — **0**
+- duplicate publication-text pages — **0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- Part003 text leakage — **0**
+- canonical Tamil page mutations caused by assembly — **0**
+- scan25→26 split word rendered as source-supported `கொண்டானாம்.`
+- scan33→34 split word rendered as source-supported `முத்தாரத்தையெடுத்து`
+- scan34 terminal incompleteness retained at `குதிரைகள்`
+- validation — `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current next gate:
+
+**Part002 English translation planning/setup.**
