@@ -2,14 +2,14 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 SOURCE NEEDED**
+**PART001–002 FINAL CLOSED / FROZEN — PART003 REGISTERED / PASS1 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - supplied design — **39 size-based split PDFs**
-- supplied / registered Parts — **2/39**
+- supplied / registered Parts — **3/39**
 - Part001 — **17 pages / global scans1–17**
-- Part002 — **17 pages / global scans18–34 / ACTIVE / PASS1 COMPLETE**
+- Part002 — **17 pages / global scans18–34 / FINAL CLOSED / FROZEN**
 - Part001 canonical records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -66,11 +66,11 @@
 - Part002 release/readiness — **PASS / CLOSED**
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
-- Part002 English translation planning/setup — **COMPLETE / PASS**
-- Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**
-- Part002 English drafted/source-checked — **0/4**
-- outgoing 34→35 witness — **PENDING Part003 adjacent witness / deferred external boundary evidence**
-- Part003 source — **NOT SUPPLIED / NOT REGISTERED**
+- outgoing 34→35 witness — **GENUINE CONTINUATION / AUDITED**
+- Part003 source — **REGISTERED / AUTHORIZED**
+- Part003 — **18 pages / global scans35–52**
+- Part003 canonical records — **0**
+- Part003 Pass1 — **NOT STARTED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
 - Part001 English — **FINAL CLOSED / FROZEN**
@@ -122,10 +122,12 @@
 - `translations/en/PART_002_RELEASE_REPORT.md`
 - `PART_002_RELEASE_READY_SYNC.md`
 - `PART_002_FINAL_CLOSURE.md`
+- `SOURCE_INTAKE_PART_003.md`
+- `PART_002_BOUNDARY_AUDIT_34_35.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
+**Part003 Pass1 — global scans35–44 / local pages1–10.**
 
 Parts001–002 are frozen; do not reopen them for stylistic polishing.
