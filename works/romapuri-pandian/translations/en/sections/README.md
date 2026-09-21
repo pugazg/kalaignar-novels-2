@@ -46,11 +46,17 @@ Part001 English is frozen. Reopen only for an explicitly documented source-fidel
 **Part002 Pass1 — global scans18–27 / local pages1–10.**
 
 
-## Part002 — E7–E10 SOURCE-CHECKED / COMPLETE
+## Part002 — RELEASE-READY PASS / FINAL CLOSURE NEXT
 
 Part002 planning/setup is **COMPLETE / PASS**.
 
 Part002 English drafting and source-check are **COMPLETE — 4/4**.
+
+- Part002 glossary reconciliation — **RECONCILED / PASS**
+- Part002 English editorial review — **PASS / CLOSED**
+- Part002 bilingual review — **PASS / CLOSED**
+- Part002 release/readiness — **PASS / CLOSED**
+- Part002 release-ready synchronization — **PASS / CLOSED**
 
 | Batch | Verified Tamil source | Planned English file | Scans | State |
 |---|---|---|---:|---|
@@ -75,4 +81,4 @@ Part002 English drafting and source-check are **COMPLETE — 4/4**.
 
 ## Exact next English activity
 
-**Part002 whole-Part glossary reconciliation across E7–E10.**
+**Part002 final closure / freeze.**
