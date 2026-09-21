@@ -17,7 +17,7 @@ working_title: "Romapuri Pandiyan"
 
 commits suicide in the same way. Even before Cleopatra dies, the serpent has bitten her. At once that maid becomes a corpse.
 
-"She may think, 'If she meets my lover Antony in the heavenly world before I do, he will receive that kiss on the lips first. I must die first!'" How did Seyankondan's idea reach that Shakespeare? How did this man describe the same imagination? How did that man describe it? When we look at many such connections—at many literatures—the poet's mind is a great ocean. Individual poets merely float in it; one may say that it does not belong to any one poet alone.
+"'If she meets my lover Antony first in the heavenly world, he will receive that kiss on the lips first. We must die first,' she is said to think!" How did Seyankondan's idea reach that Shakespeare? How did this man describe the same imagination? How did that man describe it? When we look at many such connections—at many literatures—the poet's mind is a great ocean. Individual poets merely float in it; one may say that it does not belong to any one poet alone.
 
 I mentioned earlier, did I not, that the idea of the great poet Shakespeare and the idea of our Kalaignar correspond in just this way.
 
