@@ -93,6 +93,7 @@
 
 ## Durable progress controls
 
+- `NEXT_CHAT_PROMPT.md` — synchronized next-chat continuation prompt
 - `PART_001_PASS1_PROGRESS.md`
 - `PART_001_PASS2A_PROGRESS.md`
 - `PART_001_PASS2B_PROGRESS.md`
@@ -119,6 +120,15 @@
 - `PART_002_DOCUMENTATION_SYNC.md`
 - `PART_002_TAMIL_ARCHIVAL_READY.md`
 - `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+
+## Next-chat handoff
+
+- root continuation prompt — `NEXT_CHAT_PROMPT.md`
+- prompt frontier — **Part002 English translation planning/setup**
+- planned Part002 English reservations — **E7–E10**
+- prompt rule — **LIVE MAIN IS AUTHORITATIVE; re-read live controls before continuing**
+- Part001 remains **FINAL CLOSED / FROZEN**
+- Part003 remains blocked until Part002 final closure
 
 ## Mandatory Part lock
 
