@@ -34,7 +34,13 @@ Part002 local page1 / overall scan18 is used only as the direct witness for the 
 - Part001 Tamil archival-ready — **PASS / CLOSED**
 - Part001 assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - Part001 English translation planning/setup — **COMPLETE / PASS**
-- Part001 English batches — **E1–E6 RESERVED / E1 NEXT**
+- Part001 English E1–E6 — **SOURCE-CHECKED / COMPLETE — 6/6**
+- Part001 glossary reconciliation — **RECONCILED / PASS**
+- Part001 editorial review — **PASS / CLOSED**
+- Part001 bilingual review — **PASS / CLOSED**
+- Part001 release/readiness — **PASS / CLOSED**
+- Part001 release-ready synchronization — **PASS / CLOSED**
+- Part001 final closure — **NOT STARTED / NEXT**
 - Part002 canonical page records: **0**
 - Part002 canonical transcription: **BLOCKED**
 - Part002 assembled Tamil: **BLOCKED**
