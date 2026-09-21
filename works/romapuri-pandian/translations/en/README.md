@@ -42,7 +42,17 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - glossary — **INITIAL / ACTIVE**
 - progress control — **CREATED / ACTIVE**
 - reserved English batches — **E1–E6 / 6 units**
-- English section drafts — **0/6**
-- exact next gate — **E1 draft + source-check / scans1–4**
+- English sections source-checked — **6/6**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- exact next gate — **Part001 release/readiness report**
 
-Planning/setup is now complete. Controls: `TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`, and `sections/README.md`. E1 is next; E2 remains blocked until E1 is SOURCE-CHECKED / COMPLETE.
+Planning/setup and E1–E6 drafting/source-check are complete. Glossary reconciliation, editorial review and bilingual review are also closed. Release/readiness is next.
+
+
+Closed Part001 English controls now include:
+- `E1_SOURCE_CHECK.md` through `E6_SOURCE_CHECK.md`
+- `GLOSSARY_RECONCILIATION.md`
+- `TRANSLATION_REVIEW.md`
+- `BILINGUAL_REVIEW.md`
