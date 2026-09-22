@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans35–44; formal Part003 Pass 2A reviewed; formal Part003 Pass 2B lexical/historical-glyph reviewed"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans35–44; formal Part003 Pass 2A reviewed; formal Part003 Pass 2B lexical/historical-glyph reviewed; formal Part003 Pass 3 visual/structural reviewed"
 ---
 
 # 1. கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்
@@ -56,3 +56,18 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - unresolved lexical / historical-glyph questions after this reread: **0**;
 - Pass2B result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
+
+
+## Formal Part003 Pass 3 visual / structural verification
+
+- meaningful full-page visual / structural verification completed against the controlling source image;
+- Chapter 1 closing prose page;
+- running header — work title at upper left;
+- visible printed page — **41** at upper right;
+- large intentional blank lower field follows the final paragraph;
+- chapter close is visually separated from the next structural unit.
+- source-text corrections at Pass3: **0**;
+- structural metadata corrections at Pass3: **0**;
+- unresolved visual / structural questions after this verification: **0**;
+- Pass3 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; promotion is deferred until the Part audit and final metadata/status synchronization.
