@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans45–52"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans45–52; formal Part003 Pass 2A reviewed"
 ---
 
 # 2. முத்துநகை
 
 ## Source transcription
 
-ஆபத்து வந்திருக்காதல்லவா? தவறு என்மீதுதான்!” என்று தன்னைத்தானே நொந்து கொண்டார் புலவர்.
+ஆபத்து வந்திருக்காதல்லவா? தவறு என்மீதுதான்!” என்று தன்னைத் தானே நொந்து கொண்டார் புலவர்.
 
 “உங்கள்மீது தவறொன்றுமில்லையப்பா; தவறு செழியனுடையது தான்! மன்னர்களிடம் தகவல் கொடுக்கவேண்டாமென்று முதலில் தடுத்தது அவர்தானே!” எனத் தந்தைக்குச் சமாதானங் கூறினாள் முத்துநகை.
 
@@ -41,3 +41,13 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 50; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 48; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part003 Pass 2A review
+
+- direct word-by-word textual verification completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- correction: `என்று தன்னைத்தானே நொந்து கொண்டார் புலவர்.` → `என்று தன்னைத் தானே நொந்து கொண்டார் புலவர்.`;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
