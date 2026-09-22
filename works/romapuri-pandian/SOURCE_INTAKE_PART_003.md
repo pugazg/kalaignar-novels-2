@@ -89,7 +89,11 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - assembled Tamil coverage — **18/18 physical scans / 17/17 publication-text pages + blank scan44 provenance**
 - assembled Tamil validation blockers — **0**
-- English translation planning/setup — **NEXT GATE / NOT YET STARTED**
+- English translation planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E11–E12**
+- English drafts created in planning — **0/2**
+- unresolved English planning holds — **0**
+- E11 — **NEXT GATE / NOT YET STARTED**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
@@ -98,6 +102,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 English translation planning/setup.**
+**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
 
-Assembled Tamil is PASS / CLOSED — 2/2 VERIFIED with exact canonical coverage and 0 Part004 leakage. Extend English planning controls only; canonical and assembled Tamil remain frozen for downstream use.
+English planning/setup is COMPLETE / PASS. E11 may now be drafted only from the verified Part003 assembled Tamil unit; canonical and assembled Tamil remain frozen.
