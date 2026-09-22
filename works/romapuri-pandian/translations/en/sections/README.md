@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Part001 is frozen; Part002 is the active English Part.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–002 are final closed/frozen; Part003 planning/setup is complete and E11 is next.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -83,3 +83,45 @@ Part002 English drafting and source-check are **COMPLETE — 4/4**.
 ## Exact next English activity
 
 **Part003 is not supplied / registered. No Part003 English activity is authorized.**
+
+
+## Part003 — PLANNING / SETUP COMPLETE / PASS
+
+Part003 Tamil prerequisites are closed:
+
+- canonical Tamil — **18/18 verified**
+- visual fidelity — **18/18 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil blockers — **0**
+
+### Reserved mapping
+
+| Batch | Verified Tamil source | Planned English file | Scans | State |
+|---|---|---|---:|---|
+| E11 | `../../../sections/10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | `10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | 35–44 | **RESERVED / NEXT** |
+| E12 | `../../../sections/11-chapter-02-muthunagai.md` | `11-chapter-02-muthunagai.md` | 45–52 | **RESERVED** |
+
+No E11/E12 English section file exists yet.
+
+### Part003 boundary safeguards
+
+- incoming **34→35 = GENUINE CONTINUATION / AUDITED**
+- Part002 E10 remains frozen; E11 must not backfill it
+- scan44 is a blank physical separator and has no English body text
+- outgoing **52→53 = PENDING Part004 adjacent witness / deferred external boundary evidence**
+- Part004 wording must not be inferred or imported
+
+### Planning integrity
+
+- Part003 English draft files created — **0**
+- Part001/Part002 English section files modified — **0**
+- canonical/assembled Tamil changes caused by planning — **0**
+- Part004 leakage — **0**
+- unresolved planning holds — **0**
+
+## Exact next English activity
+
+**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
+
+Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
