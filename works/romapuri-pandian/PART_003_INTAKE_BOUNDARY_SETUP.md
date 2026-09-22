@@ -252,3 +252,24 @@ Part003 assembled Tamil is now closed:
 Current frontier:
 
 **Part003 English translation planning/setup.**
+
+
+## Post-English-planning/setup
+
+Part003 English translation planning/setup is now closed:
+
+- planning/setup — **COMPLETE / PASS**
+- reserved batches — **E11–E12**
+- E11 — **RESERVED / NEXT**
+- E12 — **RESERVED**
+- English drafts created during planning — **0**
+- unresolved planning holds — **0**
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil content changes caused by planning — **0**
+- Part001/Part002 English section changes caused by planning — **0**
+- Part004 leakage — **0**
+- durable control — `PART_003_ENGLISH_PLANNING_SETUP.md`
+
+Current frontier:
+
+**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
