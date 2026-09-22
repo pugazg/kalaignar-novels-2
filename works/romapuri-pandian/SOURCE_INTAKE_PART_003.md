@@ -86,7 +86,10 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled Tamil coverage — **18/18 physical scans / 17/17 publication-text pages + blank scan44 provenance**
+- assembled Tamil validation blockers — **0**
+- English translation planning/setup — **NEXT GATE / NOT YET STARTED**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
@@ -95,6 +98,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 assembled Tamil construction + audit.**
+**Part003 English translation planning/setup.**
 
-Tamil archival-ready is PASS / CLOSED. Build the maintained reading layer only from verified canonical Part003 pages and audit exact coverage; do not modify canonical pages.
+Assembled Tamil is PASS / CLOSED — 2/2 VERIFIED with exact canonical coverage and 0 Part004 leakage. Extend English planning controls only; canonical and assembled Tamil remain frozen for downstream use.
