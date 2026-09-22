@@ -84,6 +84,8 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - Tamil status — **18/18 verified / 0 needs-review**
 - visual fidelity — **18/18 verified / 0 needs-review**
 - unresolved status exceptions — **0**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
@@ -92,6 +94,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 documentation synchronization.**
+**Part003 Tamil archival-ready checkpoint.**
 
-Final metadata/status synchronization is PASS / CLOSED. Reconcile documentation/control files only; canonical page records remain unchanged.
+Documentation synchronization is PASS / COMPLETE. The next checkpoint should validate and close the supplied Part003 Tamil archival chain without reopening the verified canonical layer.
