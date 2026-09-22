@@ -353,3 +353,20 @@ Part003 planning glossary holds — **0**.
 Exact next glossary-bearing activity:
 
 **E11 draft + source-check.**
+
+
+## Part003 whole-Part reconciliation result
+
+Part003 E11–E12 glossary reconciliation is **RECONCILED / PASS**.
+
+- maintained Part003 English files checked — **2/2**
+- recurring-term drift requiring section edits — **0**
+- unresolved Part003 glossary holds — **0**
+- canonical Tamil edits caused by glossary work — **0**
+- assembled Tamil edits caused by glossary work — **0**
+- Parts001–002 English edits caused by Part003 glossary work — **0**
+- Part004 leakage — **0**
+
+Durable record: `PART_003_GLOSSARY_RECONCILIATION.md`.
+
+Current next gate — **Part003 English editorial review across E11–E12**.
