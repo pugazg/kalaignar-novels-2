@@ -122,6 +122,8 @@
 - Tamil textual status — **18/18 verified / 0 needs-review**
 - visual fidelity — **18/18 verified / 0 needs-review**
 - unresolved status exceptions — **0**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
@@ -180,11 +182,12 @@
 - `PART_003_PASS3_PROGRESS.md`
 - `PART_003_AUDIT.md`
 - `PART_003_FINAL_STATUS_SYNC.md`
+- `PART_003_DOCUMENTATION_SYNC.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 documentation synchronization**
+- prompt frontier — **Part003 Tamil archival-ready checkpoint**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -199,6 +202,6 @@
 
 ## Exact next activity
 
-**Part003 documentation synchronization.**
+**Part003 Tamil archival-ready checkpoint.**
 
-Part003 final metadata/status synchronization is PASS / CLOSED — 18/18 verified Tamil, 18/18 verified visual fidelity, 0 needs-review, 0 status exceptions. Reconcile documentation/control files only; do not change canonical page records.
+Part003 documentation synchronization is PASS / COMPLETE. Verify the closed evidence chain and declare the supplied Part003 Tamil archival layer ready without reopening canonical transcription or changing verified page records.
