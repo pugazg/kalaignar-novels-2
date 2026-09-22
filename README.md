@@ -79,6 +79,8 @@
 - Part003 Tamil status — **18/18 verified / 0 needs-review**
 - Part003 visual fidelity — **18/18 verified / 0 needs-review**
 - Part003 status exceptions — **0**
+- Part003 documentation synchronization — **PASS / COMPLETE**
+- Part003 Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
@@ -94,4 +96,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part003 documentation synchronization.**
+**Part003 Tamil archival-ready checkpoint.**
