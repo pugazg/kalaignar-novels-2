@@ -273,10 +273,15 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part003 assembled Tamil coverage — **18/18 physical scans / 17/17 publication-text pages + blank scan44 provenance**
 - Part003 assembled Tamil validation blockers — **0**
 - Part003 English translation planning/setup — **COMPLETE / PASS**
-- Part003 English E11 — **NEXT GATE / NOT YET STARTED**
-- Part003 English E12 — **RESERVED**
+- Part003 English E11–E12 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- Part003 glossary reconciliation — **RECONCILED / PASS**
+- Part003 English editorial review — **PASS / CLOSED**
+- Part003 bilingual review — **PASS / CLOSED**
+- Part003 release/readiness — **PASS / CLOSED**
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 final closure — **NEXT GATE / NOT YET STARTED**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next gate — **E11 draft + source-check / Part003 scans35–44**
+- exact next gate — **Part003 final closure / freeze**
