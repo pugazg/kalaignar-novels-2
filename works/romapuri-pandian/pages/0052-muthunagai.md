@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans45–52; formal Part003 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans45–52; formal Part003 Pass 2A reviewed; formal Part003 Pass 2B lexical/historical-glyph reviewed"
 ---
 
 # 2. முத்துநகை
@@ -48,3 +48,13 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part003 Pass 2B lexical / historical-glyph reread
+
+- independent lexical, word-boundary, spacing, punctuation-sensitive and historical-glyph reread completed against the controlling source pixels;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **0**;
+- historical-glyph corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
