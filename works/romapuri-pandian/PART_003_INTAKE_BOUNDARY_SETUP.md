@@ -232,3 +232,23 @@ Part003 Tamil archival-ready checkpoint is now closed:
 Current frontier:
 
 **Part003 assembled Tamil construction + audit.**
+
+
+## Post-assembled-Tamil closure
+
+Part003 assembled Tamil is now closed:
+
+- assembled files — **2/2 VERIFIED**
+- represented physical scans — **18/18 / scans35–52**
+- publication-text source-transcription pages — **17/17**
+- blank scan44 — **represented by provenance only**
+- missing / duplicate publication-text coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations — **0**
+- Part004 leakage — **0**
+- durable control — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part003 English translation planning/setup.**
