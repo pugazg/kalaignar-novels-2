@@ -73,6 +73,10 @@
 - Pass2B corrections — **3**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical / historical-glyph questions — **0**
+- Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
+- Pass3 source-text corrections — **0**
+- Pass3 structural metadata corrections — **0**
+- Pass3 unresolved visual / structural questions — **0**
 - Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2B cadence — **9 pages per iteration**
 - Pass2B source-text/lexical/spacing/punctuation corrections — **5**
@@ -168,11 +172,12 @@
 - `PART_003_PASS1_PROGRESS.md`
 - `PART_003_PASS2A_PROGRESS.md`
 - `PART_003_PASS2B_PROGRESS.md`
+- `PART_003_PASS3_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 Pass3 / scans35–52**
+- prompt frontier — **Part003 Part audit**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -187,6 +192,6 @@
 
 ## Exact next activity
 
-**Part003 Pass3 — full-page visual / structural verification of scans35–52.**
+**Part003 Part audit.**
 
-Part003 Pass2B is COMPLETE / PASS — 18/18 reviewed, 3 corrections, 0 historical-glyph corrections, 0 unresolved questions. Do not begin the Part audit until Pass3 closes.
+Part003 Pass3 is COMPLETE / PASS — 18/18 REVIEWED with 0 text corrections, 0 structural metadata corrections and 0 unresolved visual/structural questions. Do not promote final status until the Part audit passes.
