@@ -139,7 +139,7 @@
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
-- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
+- outgoing 52→53 witness — **RESOLVED BY PART004 ADJACENT WITNESS / GENUINE CONTINUATION / AUDITED**
 - unresolved intake blockers — **0**
 
 
