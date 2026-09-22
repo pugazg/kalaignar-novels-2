@@ -128,10 +128,14 @@
 - assembled Tamil coverage — **18/18 physical scans / 17/17 publication-text pages + blank scan44 provenance**
 - assembled Tamil missing / duplicate / unsupported insertion / Part004 leakage — **0 / 0 / 0 / 0**
 - English translation planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E11–E12**
-- English drafts created in planning — **0/2**
-- unresolved English planning holds — **0**
-- English E11 — **NEXT GATE / NOT YET STARTED**
+- English E11–E12 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/release blockers — **0**
+- final Part003 closure — **NEXT GATE / NOT YET STARTED**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
@@ -198,7 +202,7 @@
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E11 draft + source-check / Part003 scans35–44**
+- prompt frontier — **Part003 final closure / freeze**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -213,6 +217,6 @@
 
 ## Exact next activity
 
-**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
+**Part003 final closure / freeze.**
 
-Part003 English planning/setup is COMPLETE / PASS. E11 is reserved against the verified assembled Tamil Chapter 1 continuation. Draft and source-check E11 only; do not begin E12.
+Part003 Tamil, assembled Tamil, E11–E12 source-check, glossary, editorial, bilingual, release/readiness and release-ready synchronization are all closed. Verify no post-release textual drift and freeze Part003.
