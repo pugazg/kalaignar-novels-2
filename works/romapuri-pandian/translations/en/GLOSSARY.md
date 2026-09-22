@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–002 FINAL CLOSED / FROZEN — PART003 RECONCILED / RELEASE-READY**
+Status: **PARTS001–003 FINAL CLOSED / FROZEN**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -385,4 +385,6 @@ Part003 glossary state is now closed for the release-ready layer:
 
 The Part003 decisions above remain controlling unless an explicit source-fidelity reopening is approved.
 
-Next gate — **Part003 final closure / freeze**.
+Final Part003 closure — **PASS / CLOSED / FROZEN**.
+
+Next gate — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**.
