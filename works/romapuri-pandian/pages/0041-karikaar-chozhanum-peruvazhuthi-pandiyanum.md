@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans35–44"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans35–44; formal Part003 Pass 2A reviewed"
 ---
 
 # 1. கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 
 “இதோ, ஆவன செய்கிறேன். நானும் வருகிறேன்!” என்று விடை பகர்ந்த கரிகாலன், காவலனிடம் ஏற்பாடுகளைச் செய்யக் கட்டளை பிறப்பித்தான்.
 
-புலவர் கரங்கூப்பி விடைபெற்றுக் கொண்டார். அவருக்குத் தெரியும்; பாண்டியனின் அன்புக்குப் பாத்திரமான செழியன் சாகவில்லையென்று! அதனால் அவரது முகத்தில் எந்த மாறுதலும் ஏற்படவில்லை. கரிகாலன், புலவருடன் எழுந்துக் தூரம் நடந்து சென்று வழியனுப்பிவிட்டுப் பாண்டியனை அழைத்துக்கொண்டு அரண்மனைக்குப் பின்புறமுள்ள பாழ்மண்டபம் நோக்கி விரைந்தான். பெருவழுதிப் பாண்டியனின் உள்ளம், அவனையும் முந்திக்கொண்டு பாழ்மண்டபத்துக்கு ஓட முயன்றது. அரண்மனையின் அழகு குலுங்கும் பல பகுதிகளைக் கடந்து இரு மன்னர்களும் குறிப்பிட்ட மண்டபம் நோக்கி நடந்தனர்.
+புலவர் கரங்கூப்பி விடைபெற்றுக் கொண்டார். அவருக்குத் தெரியும்; பாண்டியனின் அன்புக்குப் பாத்திரமான செழியன் சாகவில்லையென்று! அதனால் அவரது முகத்தில் எந்த மாறுதலும் ஏற்படவில்லை. கரிகாலன், புலவருடன் எழுந்து தூரம் நடந்து சென்று வழியனுப்பிவிட்டுப் பாண்டியனை அழைத்துக்கொண்டு அரண்மனைக்குப் பின்புறமுள்ள பாழ்மண்டபம் நோக்கி விரைந்தான். பெருவழுதிப் பாண்டியனின் உள்ளம், அவனையும் முந்திக்கொண்டு பாழ்மண்டபத்துக்கு ஓட முயன்றது. அரண்மனையின் அழகு குலுங்கும் பல பகுதிகளைக் கடந்து இரு மன்னர்களும் குறிப்பிட்ட மண்டபம் நோக்கி நடந்தனர்.
 
 செல்லும்போதே அருகிருந்த வீரர்களிடம் கரிகாலன் கேட்டான்: “மண்டபத்தைச் சுற்றிக் காவல் போடப்பட்டிருக்கிறதா?”
 
@@ -45,3 +45,13 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 41; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 39; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part003 Pass 2A review
+
+- direct word-by-word textual verification completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- correction: `புலவருடன் எழுந்துக் தூரம் நடந்து சென்று` → `புலவருடன் எழுந்து தூரம் நடந்து சென்று`;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
