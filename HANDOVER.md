@@ -135,7 +135,7 @@
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
 - unresolved English/release blockers — **0**
-- final Part003 closure — **NEXT GATE / NOT YET STARTED**
+- final Part003 closure — **PASS / CLOSED / FROZEN**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
@@ -198,11 +198,19 @@
 - `PART_003_TAMIL_ARCHIVAL_READY.md`
 - `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_003_ENGLISH_PLANNING_SETUP.md`
+- `translations/en/E11_SOURCE_CHECK.md`
+- `translations/en/E12_SOURCE_CHECK.md`
+- `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
+- `translations/en/PART_003_TRANSLATION_REVIEW.md`
+- `translations/en/PART_003_BILINGUAL_REVIEW.md`
+- `translations/en/PART_003_RELEASE_REPORT.md`
+- `PART_003_RELEASE_READY_SYNC.md`
+- `PART_003_FINAL_CLOSURE.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 final closure / freeze**
+- prompt frontier — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -217,6 +225,6 @@
 
 ## Exact next activity
 
-**Part003 final closure / freeze.**
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
 
-Part003 Tamil, assembled Tamil, E11–E12 source-check, glossary, editorial, bilingual, release/readiness and release-ready synchronization are all closed. Verify no post-release textual drift and freeze Part003.
+Parts001–003 are FINAL CLOSED / FROZEN. Part004 is not supplied / registered. Do not infer scan53 or begin Part004 canonical transcription without the supplied source.
