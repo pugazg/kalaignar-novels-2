@@ -92,10 +92,12 @@
 - Part003 release/readiness — **PASS / CLOSED**
 - Part003 release-ready synchronization — **PASS / CLOSED**
 - Part003 unresolved English/release blockers — **0**
-- Part003 final closure — **NEXT GATE / NOT YET STARTED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
+- Part004 source — **NOT SUPPLIED / NOT REGISTERED**
+- outgoing 52→53 — **PENDING Part004 adjacent witness / deferred external boundary evidence**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
@@ -108,4 +110,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part003 final closure / freeze.**
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
