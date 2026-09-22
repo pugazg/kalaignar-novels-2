@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 source intake + 52→53 boundary witness
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 Pass1 scans53–62
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,68 +12,67 @@ Read live controls first. If this prompt conflicts with live `main`, live `main`
 
 Do not reopen Parts001–003 for stylistic polishing.
 
-## Part003 final closure
+## Part004 registered source
 
-Part003 source:
+Source:
 
-`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf`
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf`
 
-Closed state:
+Registered metadata:
 
-- canonical Tamil — **18/18 verified**
-- visual fidelity — **18/18 verified**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
-- English E11–E12 — **SOURCE-CHECKED / COMPLETE — 2/2**
-- glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- bilingual review — **PASS / CLOSED**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- final Part003 closure — **PASS / CLOSED / FROZEN**
-- unresolved blockers — **0**
-- Part004 leakage — **0**
+- local PDF pages — **16**
+- global scans — **53–68**
+- file size — **47,813,374 bytes**
+- SHA-256 — `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5`
+- source text layer — **no usable parsed text**
+- controlling representation — **rendered source page images**
+- source intake — **REGISTERED / AUTHORIZED**
+- canonical records — **0/16**
+- Pass1 — **NOT STARTED**
 
-Durable final closure:
+Durable intake controls:
 
-`works/romapuri-pandian/PART_003_FINAL_CLOSURE.md`
+- `works/romapuri-pandian/SOURCE_INTAKE_PART_004.md`
+- `works/romapuri-pandian/PART_004_INTAKE_BOUNDARY_SETUP.md`
 
-Part003 maintained ending:
+## 52→53 incoming boundary
 
-- Tamil — `முத்துநகைக்குத் தூக்கமே வரவில்லை. புரண்டு புரண்டு படுத்தாள்.`
-- English — **"Muthunagai could not sleep at all. She turned over and over."**
+Part003 scan52 / printed50 ends:
 
-Outgoing boundary:
+`முத்துநகைக்குத் தூக்கமே வரவில்லை. புரண்டு புரண்டு படுத்தாள்.`
 
-**52→53 — PENDING Part004 adjacent witness / deferred external boundary evidence**
+Part004 scan53 / printed51 begins:
 
-## Part004 current state
+`செழியனை எங்கே கொண்டு போயிருப்பார்களோ? என்ன செய்திருப்பார்களோ?`
 
-- source file — **NOT SUPPLIED**
-- source intake — **NOT REGISTERED**
-- canonical records — **0**
-- scan53 adjacent witness — **NOT AVAILABLE**
-- Part004 canonical transcription — **NOT AUTHORIZED**
+Classification:
 
-The mandatory Part lock is satisfied by Part003 final closure, but Part004 cannot start until its source is supplied and registered.
+**52→53 — GENUINE CONTINUATION / AUDITED**
+
+This is a continuous Chapter 2 narrative transition, not a split sentence. There is no new heading at scan53, and printed pagination is continuous **50→51**.
+
+Durable boundary record:
+
+`works/romapuri-pandian/PART_003_BOUNDARY_AUDIT_52_53.md`
+
+## Activation state
+
+- mandatory Part lock — **SATISFIED**
+- Part004 intake — **PASS / COMPLETE**
+- incoming boundary setup — **PASS / COMPLETE**
+- unresolved intake/boundary blockers — **0**
+- Part004 canonical transcription — **AUTHORIZED**
 
 ## Exact next activity
 
-When the user supplies Part004:
+**Part004 Pass1 — global scans53–62 / Part004 local pages1–10.**
 
-**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+Requirements:
 
-Required order:
-
-1. register exact Part004 source filename;
-2. record file size, SHA-256, local PDF page count and global scan mapping;
-3. inspect Part003 scan52 terminal text against Part004 first physical page / global scan53;
-4. classify 52→53 as:
-   - genuine continuation,
-   - genuine break/new structural unit,
-   - or unresolved source boundary;
-5. create durable Part004 intake/boundary controls;
-6. synchronize HANDOVER, source manifest, page map and next-chat prompt;
-7. only after intake/boundary setup passes may Part004 Pass1 begin.
-
-Do **not** infer scan53, fabricate Part004 text, or begin canonical transcription without the supplied Part004 source.
+1. create canonical page records only from direct source-pixel reading;
+2. preserve source wording, punctuation, historical glyphs and visible structure;
+3. record printed-page and structural metadata page by page;
+4. do not import text from later scans backward;
+5. keep Parts001–003 frozen;
+6. after scans53–62, synchronize the Part004 Pass1 progress control and live handover;
+7. do **not** begin Pass2A until Pass1 covers the full Part004 range **53–68**.
