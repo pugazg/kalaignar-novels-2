@@ -76,6 +76,10 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - Pass3 source-text corrections — **0**
 - Pass3 structural metadata corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
+- Part audit — **PASS / COMPLETE**
+- audit canonical coverage — **18/18 / continuous scans35–52 / local1–18**
+- audit missing / duplicate records — **0 / 0**
+- audit supplied-Part blockers — **0**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
@@ -84,6 +88,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 Part audit.**
+**Part003 final metadata/status synchronization.**
 
-Pass3 is COMPLETE / PASS — 18/18 REVIEWED. Do not perform final metadata/status promotion until the Part audit passes.
+The Part audit is PASS / COMPLETE. The next gate may promote status/visual_fidelity only; canonical Tamil text must remain unchanged.
