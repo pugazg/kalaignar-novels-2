@@ -85,10 +85,14 @@
 - Part003 assembled Tamil coverage — **18/18 physical scans / 17/17 publication-text pages + blank scan44 provenance**
 - Part003 assembled Tamil validation — **0 missing / 0 duplicate / 0 unsupported insertion / 0 Part004 leakage**
 - Part003 English translation planning/setup — **COMPLETE / PASS**
-- Part003 reserved English batches — **E11–E12**
-- Part003 English drafts created in planning — **0/2**
-- Part003 unresolved English planning holds — **0**
-- Part003 E11 — **NEXT GATE / NOT YET STARTED**
+- Part003 English E11–E12 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- Part003 glossary reconciliation — **RECONCILED / PASS**
+- Part003 English editorial review — **PASS / CLOSED**
+- Part003 bilingual review — **PASS / CLOSED**
+- Part003 release/readiness — **PASS / CLOSED**
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 unresolved English/release blockers — **0**
+- Part003 final closure — **NEXT GATE / NOT YET STARTED**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
@@ -104,4 +108,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
+**Part003 final closure / freeze.**
