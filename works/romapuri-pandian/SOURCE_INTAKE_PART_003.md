@@ -80,6 +80,10 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - audit canonical coverage — **18/18 / continuous scans35–52 / local1–18**
 - audit missing / duplicate records — **0 / 0**
 - audit supplied-Part blockers — **0**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil status — **18/18 verified / 0 needs-review**
+- visual fidelity — **18/18 verified / 0 needs-review**
+- unresolved status exceptions — **0**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
@@ -88,6 +92,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 final metadata/status synchronization.**
+**Part003 documentation synchronization.**
 
-The Part audit is PASS / COMPLETE. The next gate may promote status/visual_fidelity only; canonical Tamil text must remain unchanged.
+Final metadata/status synchronization is PASS / CLOSED. Reconcile documentation/control files only; canonical page records remain unchanged.
