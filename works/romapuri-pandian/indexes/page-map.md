@@ -57,10 +57,22 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 003 | 17 | 51 | 49 | Chapter 2 continuation | verified | `pages/0051-muthunagai.md` |
 | 003 | 18 | 52 | 50 | Chapter 2 continuation; Part003 terminal page | verified | `pages/0052-muthunagai.md` |
 
+## Registered source beyond current canonical rows
+
+Part004 is registered, but canonical Pass1 has not started. Therefore no scan53–68 canonical rows are created yet.
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf`
+- Part004 local pages — **1–16**
+- source-mapped global scans — **53–68**
+- scan53 printed witness — **51**
+- incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part004 records — **0/16**
+- row-level printed-page / structure / canonical-file entries — **deferred to direct Pass1 source-pixel transcription**
+
 ## Current state
 
-- registered Parts — **3/39**
-- source-mapped scans — **1–52**
+- registered Parts — **4/39**
+- source-mapped scans — **1–68**
 - canonical page records — **52**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
@@ -154,5 +166,8 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
-- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**
+- outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
+- Part004 source intake + incoming boundary setup — **PASS / COMPLETE**
+- Part004 canonical records — **0/16**
+- Part004 Pass1 — **NOT STARTED**
+- exact next activity — **Part004 Pass1 — scans53–62 / local1–10**
