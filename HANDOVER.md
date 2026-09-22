@@ -67,16 +67,6 @@
 - Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A source-supported corrections — **16**
 - Pass2A unresolved textual questions — **0**
-- Pass2B — **COMPLETE / PASS — 18/18 REVIEWED**
-- Pass2B Batch 1 — **COMPLETE / PASS — scans35–43 / local1–9**
-- Pass2B Batch 2 — **COMPLETE / PASS — scans44–52 / local10–18**
-- Pass2B corrections — **3**
-- Pass2B historical-glyph corrections — **0**
-- Pass2B unresolved lexical / historical-glyph questions — **0**
-- Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
-- Pass3 source-text corrections — **0**
-- Pass3 structural metadata corrections — **0**
-- Pass3 unresolved visual / structural questions — **0**
 - Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2B cadence — **9 pages per iteration**
 - Pass2B source-text/lexical/spacing/punctuation corrections — **5**
@@ -100,6 +90,7 @@
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
+- final Part002 closure — **PASS / CLOSED / FROZEN**
 - outgoing 34→35 witness — **GENUINE CONTINUATION / AUDITED**
 
 ### Part003
@@ -117,6 +108,16 @@
 - Pass2A — **COMPLETE / PASS — 18/18 REVIEWED**
 - Pass2A corrections — **5**
 - Pass2A unresolved textual questions — **0**
+- Pass2B — **COMPLETE / PASS — 18/18 REVIEWED**
+- Pass2B corrections — **3**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B unresolved lexical / historical-glyph questions — **0**
+- Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
+- Pass3 source-text corrections — **0**
+- Pass3 structural metadata corrections — **0**
+- Pass3 unresolved visual / structural questions — **0**
+- Part audit — **PASS / COMPLETE — 18/18 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part audit unresolved blockers — **0**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
@@ -173,11 +174,12 @@
 - `PART_003_PASS2A_PROGRESS.md`
 - `PART_003_PASS2B_PROGRESS.md`
 - `PART_003_PASS3_PROGRESS.md`
+- `PART_003_AUDIT.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 Part audit**
+- prompt frontier — **Part003 final metadata/status synchronization**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -192,6 +194,6 @@
 
 ## Exact next activity
 
-**Part003 Part audit.**
+**Part003 final metadata/status synchronization.**
 
-Part003 Pass3 is COMPLETE / PASS — 18/18 REVIEWED with 0 text corrections, 0 structural metadata corrections and 0 unresolved visual/structural questions. Do not promote final status until the Part audit passes.
+Part003 Part audit is PASS / COMPLETE — 18/18 canonical, 0 missing, 0 duplicate, 0 supplied-Part blockers. Promote only metadata/status; do not change canonical Tamil text.
