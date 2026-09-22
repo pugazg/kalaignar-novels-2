@@ -85,7 +85,8 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - visual fidelity — **18/18 verified / 0 needs-review**
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
@@ -94,6 +95,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 Tamil archival-ready checkpoint.**
+**Part003 assembled Tamil construction + audit.**
 
-Documentation synchronization is PASS / COMPLETE. The next checkpoint should validate and close the supplied Part003 Tamil archival chain without reopening the verified canonical layer.
+Tamil archival-ready is PASS / CLOSED. Build the maintained reading layer only from verified canonical Part003 pages and audit exact coverage; do not modify canonical pages.
