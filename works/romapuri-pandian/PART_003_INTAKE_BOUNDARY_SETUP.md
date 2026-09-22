@@ -100,3 +100,18 @@ Durable Pass1 control: `PART_003_PASS1_PROGRESS.md`.
 Current frontier:
 
 **Part003 Pass2A — scans35–52 / local pages1–18.**
+
+
+## Post-Pass1 Pass2A closure
+
+Part003 Pass2A has since closed:
+
+- reviewed pages — **18/18**
+- source-supported corrections — **5**
+- unresolved textual questions — **0**
+- status promotions — **0**
+- durable control — `PART_003_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part003 Pass2B — scans35–43 / local pages1–9.**
