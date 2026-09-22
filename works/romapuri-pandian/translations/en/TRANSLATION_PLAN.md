@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PART001 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+Status: **PARTS001–002 FINAL CLOSED / FROZEN — PART003 ENGLISH PLANNING / SETUP**
 
-This is the control plan for the project-created English translation of **Part001 only**.
+This is the cumulative control plan for the project-created English translation. Parts001–002 are final closed/frozen; Part003 English planning/setup is active.
 
 ## Authority hierarchy
 
@@ -291,3 +291,77 @@ Part002 English is **FINAL CLOSED / FROZEN**.
 **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
 
 Part003 is not supplied / registered. Do not infer scan35.
+
+
+## Part003 planning/setup — COMPLETE / PASS
+
+Parts001–002 remain **FINAL CLOSED / FROZEN** and are not reopened by this extension.
+
+Part003 English prerequisites are closed:
+
+- canonical Tamil — **18/18 verified**
+- visual fidelity — **18/18 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
+- Part004 leakage — **0**
+
+Verified Part003 assembled inputs:
+
+1. `../../sections/10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` — scans35–44
+2. `../../sections/11-chapter-02-muthunagai.md` — scans45–52
+
+### Reserved Part003 English units
+
+| Batch | Tamil input | Planned English file | Scans | Planning state |
+|---|---|---|---:|---|
+| **E11** | `../../sections/10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | `sections/10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | 35–44 | **RESERVED / NEXT** |
+| **E12** | `../../sections/11-chapter-02-muthunagai.md` | `sections/11-chapter-02-muthunagai.md` | 45–52 | **RESERVED** |
+
+Batch discipline:
+
+**E11 closes draft + source-check before E12 begins.**
+
+A draft alone does not close a batch. Each batch requires a durable source-check record.
+
+### Part003 translation safeguards
+
+Incoming boundary:
+
+- **34→35 = GENUINE CONTINUATION / AUDITED**;
+- Part002 E10 remains frozen and visibly incomplete;
+- E11 translates only the verified Part003 assembled unit;
+- E11 must not backfill or alter Part002 English.
+
+Verified Tamil joins/structure are already resolved in the assembled authority and must not be reinterpreted:
+
+- scan38→39 — `ஒப்பிடுவதற்கரிய`
+- scan41→42 — direct-speech continuation
+- scan44 — blank separator represented by provenance only
+- scan45 — illustrated Chapter 2 title page
+- scan47→48 — `மறைத்து வைக்கப்பட்டிருப்பதை`
+- scan49→50 — `இந்த ஆபத்து வந்திருக்காதல்லவா?`
+
+Outgoing boundary:
+
+- scan52 ends on a complete narrative sentence;
+- **52→53 = PENDING Part004 adjacent witness / deferred external boundary evidence**;
+- Part004 is not supplied / registered;
+- E12 must not infer, translate or import scan53 wording.
+
+### Planning integrity
+
+This planning/setup activity changes English control metadata only.
+
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- Part001/Part002 English section changes — **0**
+- E11/E12 drafts created in planning — **0**
+- Part004 leakage — **0**
+- unresolved planning holds — **0**
+
+## Current exact English activity
+
+**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
+
+Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
