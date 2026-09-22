@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–002 are final closed/frozen; Part003 E11–E12 are source-checked and release-ready synchronization is closed.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–003 are final closed/frozen.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -140,4 +140,22 @@ Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
 
 ## Exact next English activity
 
-**Part003 final closure / freeze.**
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+
+
+## Part003 — FINAL CLOSED / FROZEN
+
+- maintained English section files — **2/2**
+- E11–E12 — **SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved English blockers — **0**
+- Part004 content leakage — **0**
+
+## Exact next English activity
+
+**None until Part004 source intake authorizes the next Part.**
