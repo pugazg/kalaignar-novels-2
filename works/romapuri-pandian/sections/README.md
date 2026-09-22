@@ -157,3 +157,20 @@ Part003 Tamil archival-ready — **PASS / CLOSED**.
 Part003 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**.
 
 Exact next maintained gate — **Part003 English translation planning/setup**.
+
+
+## Part003 downstream English state
+
+Part003 English E11–E12 — **SOURCE-CHECKED / COMPLETE — 2/2**.
+
+Part003 glossary reconciliation — **RECONCILED / PASS**.
+
+Part003 English editorial review — **PASS / CLOSED**.
+
+Part003 bilingual review — **PASS / CLOSED**.
+
+Part003 release/readiness — **PASS / CLOSED**.
+
+Part003 release-ready synchronization — **PASS / CLOSED**.
+
+Exact next maintained gate — **Part003 final closure / freeze**.
