@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–002 FINAL CLOSED / FROZEN — PART003 AUDIT PASS / FINAL STATUS SYNC NEXT**
+**PART001–002 FINAL CLOSED / FROZEN — PART003 FINAL STATUS SYNC PASS / DOCUMENTATION SYNC NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -87,6 +87,10 @@
 - Part003 Pass3 unresolved visual / structural questions — **0**
 - Part003 Part audit — **PASS / COMPLETE — 18/18 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part003 audit unresolved blockers — **0**
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- Part003 page status — **18/18 verified / 0 needs-review**
+- Part003 visual fidelity — **18/18 verified / 0 needs-review**
+- Part003 status exceptions — **0**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
@@ -150,10 +154,11 @@
 - `PART_003_PASS2B_PROGRESS.md`
 - `PART_003_PASS3_PROGRESS.md`
 - `PART_003_AUDIT.md`
+- `PART_003_FINAL_STATUS_SYNC.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part003 final metadata/status synchronization.**
+**Part003 documentation synchronization.**
 
 Parts001–002 are frozen; do not reopen them for stylistic polishing.
