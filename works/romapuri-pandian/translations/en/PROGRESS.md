@@ -6,7 +6,7 @@
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
-- Part003 English — **E11–E12 SOURCE-CHECKED / COMPLETE; RELEASE-READY SYNC PASS / FINAL CLOSURE NEXT**
+- Part003 English — **FINAL CLOSED / FROZEN — E11–E12 SOURCE-CHECKED / COMPLETE**
 
 ## Part001 historical progress
 
@@ -285,4 +285,23 @@ Part003 batch discipline:
 
 ## Exact next activity — project
 
-**Part003 final closure / freeze.**
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+
+
+## Final Part003 counts
+
+- canonical Tamil — **18/18 verified**
+- assembled Tamil — **2/2 VERIFIED / PASS / CLOSED**
+- English translated/source-checked — **2/2**
+- glossary reconciliation — **PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- Part004 leakage — **0**
+
+## Exact next activity — project
+
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
