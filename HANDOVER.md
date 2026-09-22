@@ -104,6 +104,9 @@
 - incoming 34→35 — **GENUINE CONTINUATION / AUDITED**
 - canonical records — **18/18 — scans35–52**
 - Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 18/18 REVIEWED**
+- Pass2A corrections — **5**
+- Pass2A unresolved textual questions — **0**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
@@ -157,11 +160,12 @@
 - `PART_002_BOUNDARY_AUDIT_34_35.md`
 - `PART_003_INTAKE_BOUNDARY_SETUP.md`
 - `PART_003_PASS1_PROGRESS.md`
+- `PART_003_PASS2A_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 Pass2A / scans35–52 / local1–18**
+- prompt frontier — **Part003 Pass2B / scans35–43 / local1–9**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -176,6 +180,6 @@
 
 ## Exact next activity
 
-**Part003 Pass2A — global scans35–52 / local pages1–18.**
+**Part003 Pass2B — first 9-page iteration: global scans35–43 / local pages1–9.**
 
-Part003 Pass1 is COMPLETE / PASS — 18/18 TEXT-COMPLETE with 0 unresolved holds. Do not begin Pass2B until Pass2A closes.
+Part003 Pass2A is COMPLETE / PASS — 18/18 REVIEWED with 5 source-supported corrections and 0 unresolved textual questions.
