@@ -123,7 +123,8 @@
 - visual fidelity — **18/18 verified / 0 needs-review**
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
-- Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
+- Tamil archival-ready checkpoint — **PASS / CLOSED**
+- assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
@@ -183,11 +184,12 @@
 - `PART_003_AUDIT.md`
 - `PART_003_FINAL_STATUS_SYNC.md`
 - `PART_003_DOCUMENTATION_SYNC.md`
+- `PART_003_TAMIL_ARCHIVAL_READY.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 Tamil archival-ready checkpoint**
+- prompt frontier — **Part003 assembled Tamil construction + audit**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -202,6 +204,6 @@
 
 ## Exact next activity
 
-**Part003 Tamil archival-ready checkpoint.**
+**Part003 assembled Tamil construction + audit.**
 
-Part003 documentation synchronization is PASS / COMPLETE. Verify the closed evidence chain and declare the supplied Part003 Tamil archival layer ready without reopening canonical transcription or changing verified page records.
+Part003 Tamil archival-ready is PASS / CLOSED. Build the maintained reading layer only from the verified canonical Part003 pages, preserve source-supported physical joins and structural boundaries, then audit exact coverage without modifying canonical pages.
