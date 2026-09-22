@@ -14,7 +14,7 @@
 | 001 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf` | 48,382,555 | `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79` | 17 | 1–17 | REGISTERED | **PASS / CLOSED / FROZEN** |
 | 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | REGISTERED | **PASS / CLOSED / FROZEN** |
 | 003 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf` | 49,781,150 | `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a` | 18 | 35–52 | REGISTERED | **FINAL CLOSED / FROZEN** |
-| 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 004 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf` | 47,813,374 | `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5` | 16 | 53–68 | REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 007 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -53,7 +53,7 @@
 
 ## Current frontier
 
-- supplied / registered Parts — **3/39**
+- supplied / registered Parts — **4/39**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
@@ -131,5 +131,10 @@
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
-- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**
+- outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
+- Part004 source — **REGISTERED / scans53–68 / 16 pages**
+- Part004 source intake + incoming boundary setup — **PASS / COMPLETE**
+- Part004 canonical records — **0/16**
+- Part004 Pass1 — **NOT STARTED**
+- Part004 unresolved intake/boundary blockers — **0**
+- exact next gate — **Part004 Pass1 — scans53–62 / local1–10**
