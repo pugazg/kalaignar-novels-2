@@ -251,3 +251,30 @@ The synchronized controls now agree on:
 - exact next gate — **Part003 assembled Tamil construction + audit**
 
 Therefore this checkpoint introduced no canonical Tamil, assembled-Tamil, English-body, or Part004 drift.
+
+
+## Post-checkpoint assembled Tamil closure
+
+This Tamil archival-ready declaration remains historically correct and closed.
+
+After this checkpoint, the Part003 assembled Tamil reading layer was constructed and independently audited from the verified canonical page records:
+
+- assembled section files — **2/2 VERIFIED**
+- represented physical scans — **18/18 — scans35–52**
+- publication-text source-transcription pages represented — **17/17**
+- blank scan44 — **represented by provenance only**
+- omitted publication-text pages — **0**
+- duplicate publication-text pages — **0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- Part004 text leakage — **0**
+- canonical Tamil page mutations caused by assembly — **0**
+- scan38→39 split word rendered as source-supported `ஒப்பிடுவதற்கரிய`
+- scan41→42 direct-speech continuation preserved
+- scan47→48 continuation preserved as `மறைத்து வைக்கப்பட்டிருப்பதை`
+- scan49→50 continuation preserved as `இந்த ஆபத்து வந்திருக்காதல்லவா?`
+- validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current next gate:
+
+**Part003 English translation planning/setup.**
