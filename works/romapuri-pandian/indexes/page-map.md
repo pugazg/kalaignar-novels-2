@@ -133,8 +133,10 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part003 Pass2B unresolved questions — **0**
 - Part003 Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
 - Part003 Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
+- Part003 Part audit — **PASS / COMPLETE — 18/18 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part003 audit unresolved blockers — **0**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part003 Part audit**
+- exact next activity — **Part003 final metadata/status synchronization**
