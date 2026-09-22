@@ -13,7 +13,7 @@
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf` | 48,382,555 | `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79` | 17 | 1–17 | REGISTERED | **PASS / CLOSED / FROZEN** |
 | 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | REGISTERED | **PASS / CLOSED / FROZEN** |
-| 003 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf` | 49,781,150 | `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a` | 18 | 35–52 | REGISTERED | **ACTIVE / PASS2B COMPLETE / PASS3 NEXT** |
+| 003 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf` | 49,781,150 | `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a` | 18 | 35–52 | REGISTERED | **ACTIVE / PASS3 COMPLETE / PART AUDIT NEXT** |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -107,8 +107,10 @@
 - Part003 Pass2B corrections — **3**
 - Part003 Pass2B historical-glyph corrections — **0**
 - Part003 Pass2B unresolved questions — **0**
+- Part003 Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
+- Part003 Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part003 Pass3 / scans35–52**
+- exact next gate — **Part003 Part audit**
