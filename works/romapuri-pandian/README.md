@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–002 FINAL CLOSED / FROZEN — PART003 ASSEMBLED TAMIL PASS / ENGLISH PLANNING NEXT**
+**PART001–002 FINAL CLOSED / FROZEN — PART003 ENGLISH PLANNING PASS / E11 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -96,7 +96,11 @@
 - Part003 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - Part003 assembled Tamil coverage — **18/18 physical scans / 17/17 publication-text pages + blank scan44 provenance**
 - Part003 assembled Tamil validation — **0 missing / 0 duplicate / 0 unsupported insertion / 0 audit-note leakage / 0 canonical mutation / 0 Part004 leakage**
-- Part003 English translation planning/setup — **NEXT GATE / NOT YET STARTED**
+- Part003 English translation planning/setup — **COMPLETE / PASS**
+- Part003 reserved English batches — **E11–E12**
+- Part003 English drafts created in planning — **0/2**
+- Part003 unresolved English planning holds — **0**
+- Part003 E11 — **NEXT GATE / NOT YET STARTED**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
@@ -164,10 +168,11 @@
 - `PART_003_DOCUMENTATION_SYNC.md`
 - `PART_003_TAMIL_ARCHIVAL_READY.md`
 - `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_003_ENGLISH_PLANNING_SETUP.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part003 English translation planning/setup.**
+**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
 
 Parts001–002 are frozen; do not reopen them for stylistic polishing.
