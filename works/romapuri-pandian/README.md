@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–002 FINAL CLOSED / FROZEN — PART003 DOCUMENTATION SYNC PASS / TAMIL ARCHIVAL-READY NEXT**
+**PART001–002 FINAL CLOSED / FROZEN — PART003 TAMIL ARCHIVAL-READY PASS / ASSEMBLED TAMIL NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -92,7 +92,8 @@
 - Part003 visual fidelity — **18/18 verified / 0 needs-review**
 - Part003 status exceptions — **0**
 - Part003 documentation synchronization — **PASS / COMPLETE**
-- Part003 Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- Part003 assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
@@ -158,10 +159,11 @@
 - `PART_003_AUDIT.md`
 - `PART_003_FINAL_STATUS_SYNC.md`
 - `PART_003_DOCUMENTATION_SYNC.md`
+- `PART_003_TAMIL_ARCHIVAL_READY.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part003 Tamil archival-ready checkpoint.**
+**Part003 assembled Tamil construction + audit.**
 
 Parts001–002 are frozen; do not reopen them for stylistic polishing.
