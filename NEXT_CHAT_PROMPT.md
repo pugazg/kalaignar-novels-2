@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Pass2A scans35–52
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Pass2B scans35–43
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -29,82 +29,82 @@ Do not reopen Parts001–002 for stylistic polishing.
 - SHA-256 — `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a`
 - source intake — **REGISTERED / AUTHORIZED**
 
-## Part003 Pass1 closed state
+## Part003 closed gates
 
-**COMPLETE / PASS — 18/18 TEXT-COMPLETE**
+- Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
+- Pass1 unresolved holds — **0**
+- Pass2A — **COMPLETE / PASS — 18/18 REVIEWED**
+- Pass2A source-supported corrections — **5**
+- Pass2A unresolved textual questions — **0**
 
-Coverage:
-
-- scans35–52 — **18/18 canonical records**
-- local pages1–18 — **continuous**
-- missing scans — **0**
-- duplicates — **0**
-- unresolved Pass1 source-reading holds — **0**
-- status promotions — **0**
-
-All Part003 records remain:
+All 18 Part003 records remain:
 
 ```yaml
 status: "needs-review"
 visual_fidelity: "needs-review"
 ```
 
-Structural map:
+### Pass2A corrections
 
-- scans35–43 — Chapter 1 continuation
+- scan36 — `நடைபெறதாகச் செய்தி வருவது` → `நடைபெறதாகச் செய்திகள் வருவது`
+- scan37 — `வெளியிலே சென்றுவிட்டார்` → `வெளியில் சென்றுவிட்டார்`
+- scan41 — `எழுந்துக் தூரம்` → `எழுந்து தூரம்`
+- scan50 — `தன்னைத்தானே` → `தன்னைத் தானே`
+- scan51 — `ஒருவருக்குக்காயமோ` → `ஒருவருக்குக் காயமோ`
+
+Durable control:
+
+`works/romapuri-pandian/PART_003_PASS2A_PROGRESS.md`
+
+## Structure/boundaries to preserve
+
+- scan38→39 — physical split `ஒப்பிடுவதற்` → `கரிய`
+- scan41→42 — direct-speech continuation
 - scan44 — blank physical page
-- scan45 — illustrated Chapter 2 title `முத்துநகை`
-- scans46–52 — Chapter 2 continuation
+- scan45 — illustrated Chapter 2 title page `2 / முத்துநகை`
 - scan47→48 — `மறைத்து` → `வைக்கப்பட்டிருப்பதை`
 - scan49→50 — `இந்த` → `ஆபத்து வந்திருக்காதல்லவா?`
-
-Outgoing boundary:
-
-- scan52 ends on a complete sentence: `முத்துநகைக்குத் தூக்கமே வரவில்லை. புரண்டு புரண்டு படுத்தாள்.`
+- scan52 ends on a complete sentence
 - **52→53 — PENDING Part004 adjacent witness / deferred external boundary evidence**
-- Part004 is not supplied / registered
-- do not infer scan53
-
-Durable Pass1 control:
-
-`works/romapuri-pandian/PART_003_PASS1_PROGRESS.md`
-
-## Read first
-
-1. `HANDOVER.md`
-2. `works/romapuri-pandian/README.md`
-3. `works/romapuri-pandian/ROMAPURI_ARCHIVAL_GUIDELINES.md`
-4. `works/romapuri-pandian/SOURCE_INTAKE_PART_003.md`
-5. `works/romapuri-pandian/PART_003_PASS1_PROGRESS.md`
-6. `works/romapuri-pandian/SOURCE_SPLIT_MANIFEST.md`
-7. `works/romapuri-pandian/indexes/page-map.md`
+- do not infer or import Part004 text
 
 ## Exact next activity
 
-**Part003 Pass2A — global scans35–52 / local pages1–18.**
+**Part003 Pass2B — first 9-page iteration: global scans35–43 / local pages1–9.**
 
-Pass2A rules:
+Pass2B cadence is fixed at **9 physical pages per iteration**.
 
-- independently reread every canonical Part003 page against direct source pixels;
-- correct only source-supported textual transcription errors;
-- preserve source wording, punctuation, paragraphing, displayed verse, physical split-word boundaries and source-visible unusual forms;
-- do not modernize or normalize merely for style;
-- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- record per-page correction counts and unresolved textual holds;
-- treat scan44 as a verified blank physical page and scan45 as a distinct illustrated Chapter 2 title page;
-- retain outgoing 52→53 as pending external witness, not as a supplied-Part textual blocker.
+Expected Part003 Pass2B iterations:
 
-Source-sensitive forms from Pass1 that deserve deliberate independent reread include:
+1. scans **35–43 / local1–9**
+2. scans **44–52 / local10–18**
 
-- scan46 — `பாண்டியநாட்டுத் தந்தையும் தமிழ்த்தாயும்`
-- scan47 — `‘குபுகுபு’ வென`
-- scan48 — `தூக்கிவாரிப் போட்டது`
-- scan49 — `பழிக்குப்பழி`
-- scan50 — `அமளியை உருவாக்க`
-- scan50 — `கூறினார்களே யப்பா`
-- scan51 — `ஒருவருக்குக்காயமோ`
-- scan51 — `புதிய நோக்கு`
-- scan51 — `இஃதென்ன`
-- scan52 — unmatched source-visible opening thought quotation before `இருங்கோவேள்`
+Pass2B must independently reread from direct source pixels for:
 
-Do not begin Pass2B until Pass2A closes.
+- lexical identity;
+- source word boundaries and spacing;
+- punctuation-sensitive forms;
+- historical Tamil glyph identity;
+- source-visible unusual spellings/forms.
+
+Do not normalize merely for style.
+
+Forms explicitly retained at Pass2A and requiring independent Pass2B attention include:
+
+- scan35 — `பவனியிற் சென்ற`, `ஊமைக் காயங்களில்`
+- scan36 — `நல்லவேளை-எங்கள்`, `நட்புறவு விழாக் கொண்டாடும்`
+- scan37 — displayed verse ending `கிழவனை; யிவனே.....`
+- scan38→39 — `ஒப்பிடுவதற்` → `கரிய`
+- scan39 — `குளிரேற்று கின்றன`
+- scan42 — `செழியன் அல்லன்`
+- scan43 — `எனக்குச் செந்தேன்`
+
+For each reviewed page:
+
+- append durable formal Pass2B evidence;
+- keep status/visual_fidelity at `needs-review`;
+- record correction count;
+- record historical-glyph correction count separately;
+- unresolved lexical/historical-glyph questions must be explicit.
+
+Do not begin Pass3 until both 9-page Pass2B iterations close.
