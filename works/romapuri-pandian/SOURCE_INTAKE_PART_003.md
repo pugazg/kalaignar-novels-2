@@ -101,11 +101,11 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
-- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
+- outgoing 52→53 witness — **RESOLVED BY PART004 ADJACENT WITNESS / GENUINE CONTINUATION / AUDITED**
 - unresolved intake blockers — **0**
 
 ## Exact next activity
 
-**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+**Part004 Pass1 — global scans53–62 / local pages1–10.**
 
-Part003 is FINAL CLOSED / FROZEN. Part004 remains unsupplied/unregistered; no scan53 wording may be inferred.
+Part003 remains FINAL CLOSED / FROZEN. Part004 is now supplied/registered, and 52→53 is audited as a genuine continuation. No Part003 canonical/body text was reopened.
