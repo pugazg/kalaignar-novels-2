@@ -173,4 +173,6 @@ Part003 release/readiness — **PASS / CLOSED**.
 
 Part003 release-ready synchronization — **PASS / CLOSED**.
 
-Exact next maintained gate — **Part003 final closure / freeze**.
+Part003 final closure — **PASS / CLOSED / FROZEN**.
+
+Exact next maintained gate — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**.
