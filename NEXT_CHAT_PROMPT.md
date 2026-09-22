@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 final metadata/status synchronization
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 documentation synchronization
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,21 +26,14 @@ Source identity:
 - source intake — **PASS / COMPLETE**
 - incoming-boundary setup — **PASS / COMPLETE**
 - Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
-- Pass1 unresolved source-reading holds — **0**
-- Pass2A — **COMPLETE / PASS — 18/18 REVIEWED**
-- Pass2A corrections — **5**
-- Pass2A unresolved textual questions — **0**
-- Pass2B — **COMPLETE / PASS — 18/18 REVIEWED**
-- Pass2B corrections — **3**
-- Pass2B historical-glyph corrections — **0**
-- Pass2B unresolved lexical/historical-glyph questions — **0**
-- Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
-- Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
-- Part audit — **PASS / COMPLETE**
-- audit coverage — **18/18 canonical / scans35–52 / local1–18**
-- audit missing / duplicate records — **0 / 0**
-- audit supplied-Part blockers — **0**
-- audit unresolved blockers — **0**
+- Pass2A — **COMPLETE / PASS — 18/18 REVIEWED / 5 corrections / 0 unresolved**
+- Pass2B — **COMPLETE / PASS — 18/18 REVIEWED / 3 corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 18/18 REVIEWED / 0 text corrections / 0 structural metadata corrections / 0 unresolved**
+- Part audit — **PASS / COMPLETE — 18/18 canonical / 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **18/18 verified / 0 needs-review**
+- visual fidelity — **18/18 verified / 0 needs-review**
+- unresolved status exceptions — **0**
 
 Durable controls:
 
@@ -49,40 +42,61 @@ Durable controls:
 - `works/romapuri-pandian/PART_003_PASS2B_PROGRESS.md`
 - `works/romapuri-pandian/PART_003_PASS3_PROGRESS.md`
 - `works/romapuri-pandian/PART_003_AUDIT.md`
+- `works/romapuri-pandian/PART_003_FINAL_STATUS_SYNC.md`
 
-## Current canonical metadata state
+## Final-status gate verification
 
-All 18 Part003 records deliberately remain:
+Status promotion range:
 
-```yaml
-status: "needs-review"
-visual_fidelity: "needs-review"
-```
+- start checkpoint — `bd16097bfd4a0b0b58e5eaadf5b7ad698116bea2`
+- final page-status checkpoint — `ad7981d20891a679c95f9ce5d2324c79b0737ef4`
 
-The Part audit has passed, so the next gate may promote both fields to `verified`.
+Verified change set:
+
+- changed files — **18**
+- all changed files are expected Part003 canonical pages
+- each page changed exactly **2 additions / 2 deletions**
+- authorized changes only:
+  - `status: "needs-review"` → `status: "verified"`
+  - `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
+- canonical Tamil body drift — **0**
+- structural metadata drift outside those two fields — **0**
+- non-page files changed in page-status range — **0**
+
+## Boundary state
+
+Incoming:
+
+- **34→35 — GENUINE CONTINUATION / AUDITED**
+
+Outgoing:
+
+- **52→53 — PENDING Part004 adjacent witness / deferred external boundary evidence**
+- Part004 supplied / registered — **no**
+- inferred Part004 text — **0**
 
 ## Exact next activity
 
-**Part003 final metadata/status synchronization.**
+**Part003 documentation synchronization.**
+
+This is a documentation/control-layer gate only.
 
 Requirements:
 
-1. refetch all 18 live Part003 canonical records;
-2. change only:
-   - `status: "needs-review"` → `status: "verified"`
-   - `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
-3. do **not** change canonical Tamil body text;
-4. do **not** change page type, printed-page mapping, section identity, source filename or source provenance;
-5. verify after updates:
-   - Tamil status — **18/18 verified / 0 needs-review**
-   - visual fidelity — **18/18 verified / 0 needs-review**
-   - canonical Tamil body drift — **0**
-   - structural metadata drift other than the two authorized fields — **0**
-6. create a durable `PART_003_FINAL_STATUS_SYNC.md`;
-7. synchronize `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, READMEs, source manifest, page map, archival guidelines and Part003 intake controls.
+1. reconcile the verified 18/18 Part003 state across:
+   - root `README.md`
+   - root `HANDOVER.md`
+   - `works/romapuri-pandian/README.md`
+   - `SOURCE_INTAKE_PART_003.md`
+   - `SOURCE_SPLIT_MANIFEST.md`
+   - `indexes/page-map.md`
+   - `ROMAPURI_ARCHIVAL_GUIDELINES.md`
+   - `PART_003_INTAKE_BOUNDARY_SETUP.md`
+   - `PART_003_FINAL_STATUS_SYNC.md`
+2. create durable `PART_003_DOCUMENTATION_SYNC.md`;
+3. confirm documentation synchronization — **PASS / COMPLETE**;
+4. set the next gate to **Part003 Tamil archival-ready checkpoint**;
+5. do **not** modify canonical page records;
+6. do **not** begin assembled Tamil, English work, release/readiness, final closure, or Part004 transcription in the same activity.
 
-Outgoing boundary remains:
-
-**52→53 — PENDING Part004 adjacent witness / deferred external boundary evidence**
-
-Do not begin documentation synchronization or later Tamil/English gates in the same activity.
+Historical gate records should retain historically correct gate-time wording unless a separate durable post-gate note is explicitly required.
