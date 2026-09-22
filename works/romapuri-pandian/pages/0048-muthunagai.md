@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans45–52; formal Part003 Pass 2A reviewed; formal Part003 Pass 2B lexical/historical-glyph reviewed"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans45–52; formal Part003 Pass 2A reviewed; formal Part003 Pass 2B lexical/historical-glyph reviewed; formal Part003 Pass 3 visual/structural reviewed"
 ---
 
 # 2. முத்துநகை
@@ -60,3 +60,17 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - unresolved lexical / historical-glyph questions after this reread: **0**;
 - Pass2B result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
+
+
+## Formal Part003 Pass 3 visual / structural verification
+
+- meaningful full-page visual / structural verification completed against the controlling source image;
+- standard Chapter 2 prose page;
+- running header — author at upper right;
+- visible printed page — **46** at upper left;
+- opens with physical continuation `வைக்கப்பட்டிருப்பதை` from scan47.
+- source-text corrections at Pass3: **0**;
+- structural metadata corrections at Pass3: **0**;
+- unresolved visual / structural questions after this verification: **0**;
+- Pass3 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; promotion is deferred until the Part audit and final metadata/status synchronization.
