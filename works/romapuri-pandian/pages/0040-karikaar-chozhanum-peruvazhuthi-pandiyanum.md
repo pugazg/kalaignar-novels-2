@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans35–44; formal Part003 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans35–44; formal Part003 Pass 2A reviewed; formal Part003 Pass 2B lexical/historical-glyph reviewed"
 ---
 
 # 1. கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்
 
 ## Source transcription
 
-“கனத்துவிட்டது என்பதற்கு அடையாளமாகக் கழுத்திலே நிற்க முடியாமல் தங்கள் தலை கீழே தொங்குகிறது மன்னா! எவ்வளவு அடக்கப் பண்பு தங்கள் தலைவிலே நிரம்பிக் கொண்டேயிருக்கிறது!” என்று புலவர் கூறினார்.
+“கனத்துவிட்டது என்பதற்கு அடையாளமாகக் கழுத்திலே நிற்க முடியாமல் தங்கள் தலை கீழே தொங்குகிறது மன்னா! எவ்வளவு அடக்கப் பண்பு தங்கள் தலையிலே நிரம்பிக் கொண்டேயிருக்கிறது!” என்று புலவர் கூறினார்.
 
 “தமிழ் மணம் பரப்பும் மலர்க்கொடி நீங்கள்! எங்கணும் மணம் பரவச் செய்து, கொடிகளுக்கு வேலி அமைத்துப் பாதுகாக்கும் பைந்தமிழ்க்காவலர் பாண்டியர்! நீங்கள் இருவருமே என்னைப் புகழ்ந்து கூறிவிட்டீர்கள் என்கிறபோது தமிழன்னையே என்னைத் தழுவி முத்தமிட்டு வாழ்த்தியதுபோல் ஆகிவிட்டது. இனி என்ன குறை எனக்கு?” எனச் சொல்லிக் கரிகாலன் உள்ளத்து உணர்ச்சிகளை வெளிக்கொட்டினான்.
 
@@ -50,3 +50,14 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part003 Pass 2B lexical / historical-glyph reread
+
+- independent lexical, word-boundary, spacing, punctuation-sensitive and historical-glyph reread completed against the controlling source pixels;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- correction: `தலைவிலே` → `தலையிலே`;
+- historical-glyph corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
