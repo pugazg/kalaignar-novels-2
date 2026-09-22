@@ -65,6 +65,11 @@
 - Part003 Pass2A — **COMPLETE / PASS — 18/18 REVIEWED**
 - Part003 Pass2A corrections — **5**
 - Part003 Pass2A unresolved textual questions — **0**
+- Part003 Pass2B — **IN PROGRESS — 9/18 REVIEWED**
+- Part003 Pass2B Batch 1 — **COMPLETE / PASS — scans35–43**
+- Part003 Pass2B corrections so far — **3**
+- Part003 Pass2B historical-glyph corrections — **0**
+- Part003 Pass2B unresolved questions — **0**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
@@ -80,4 +85,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part003 Pass2B — scans35–43 / local pages1–9.**
+**Part003 Pass2B — scans44–52 / local pages10–18.**
