@@ -2,11 +2,11 @@
 
 ## Current project English state
 
-**PARTS001–002 ENGLISH — FINAL CLOSED / FROZEN**
+**PARTS001–002 ENGLISH — FINAL CLOSED / FROZEN; PART003 PLANNING / SETUP — COMPLETE / PASS**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
-- Part003 English — **NOT AUTHORIZED / SOURCE NOT SUPPLIED**
+- Part003 English — **PLANNING / SETUP COMPLETE / PASS — E11–E12 RESERVED / 0 DRAFTED**
 
 ## Part001 historical progress
 
@@ -220,3 +220,48 @@ Part002 batch discipline:
 ## Exact next activity — project
 
 **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup.**
+
+
+## Part003 planning/setup state
+
+**ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+Part003 Tamil prerequisites:
+
+- canonical Tamil — **18/18 verified**
+- visual fidelity — **18/18 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
+- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external evidence**
+
+### Reserved Part003 batches
+
+| Batch | Tamil unit | Scans | Planned English file | Status |
+|---|---|---:|---|---|
+| **E11** | `10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | 35–44 | `sections/10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | **RESERVED / NEXT** |
+| **E12** | `11-chapter-02-muthunagai.md` | 45–52 | `sections/11-chapter-02-muthunagai.md` | **RESERVED** |
+
+Part003 batch discipline:
+
+**E11 → E12**, with E11 required to reach **SOURCE-CHECKED / COMPLETE** before E12 begins.
+
+### Part003 planning integrity
+
+- English Part003 drafts created — **0/2**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Part001/Part002 English section edits caused by planning — **0**
+- Part004 content leakage — **0**
+- unresolved planning holds — **0**
+
+### Part003 boundary locks
+
+- incoming 34→35 — **GENUINE CONTINUATION / AUDITED**
+- Part002 E10 remains frozen; E11 must not backfill E10
+- outgoing 52→53 — **PENDING Part004 adjacent witness / deferred external boundary evidence**
+- E12 must not infer or import Part004 wording
+
+## Exact next activity — project
+
+**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
