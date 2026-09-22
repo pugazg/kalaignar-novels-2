@@ -13,7 +13,7 @@
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf` | 48,382,555 | `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79` | 17 | 1–17 | REGISTERED | **PASS / CLOSED / FROZEN** |
 | 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | REGISTERED | **PASS / CLOSED / FROZEN** |
-| 003 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf` | 49,781,150 | `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a` | 18 | 35–52 | REGISTERED | **ACTIVE / DOCUMENTATION SYNC PASS / TAMIL ARCHIVAL-READY NEXT** |
+| 003 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf` | 49,781,150 | `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a` | 18 | 35–52 | REGISTERED | **ACTIVE / TAMIL ARCHIVAL-READY PASS / ASSEMBLED TAMIL NEXT** |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -116,9 +116,10 @@
 - Part003 visual fidelity — **18/18 verified / 0 needs-review**
 - Part003 status exceptions — **0**
 - Part003 documentation synchronization — **PASS / COMPLETE**
-- Part003 Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- Part003 assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part003 Tamil archival-ready checkpoint**
+- exact next gate — **Part003 assembled Tamil construction + audit**
