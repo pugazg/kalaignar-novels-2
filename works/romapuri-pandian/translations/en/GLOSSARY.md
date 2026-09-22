@@ -1,8 +1,8 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **WHOLE-PART RECONCILED / PASS — PART001 FINAL CLOSED / FROZEN**
+Status: **PARTS001–002 FINAL CLOSED / FROZEN — PART003 PLANNING EXTENSION ACTIVE**
 
-This glossary is derived only from the verified Part001 canonical/assembled Tamil and source-visible English. It contains project translation choices, not external historical or linguistic claims.
+This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
 Canonical Tamil remains controlling.
 
@@ -312,3 +312,44 @@ The Part002 glossary decisions above remain controlling for the frozen English l
 - Part003 leakage — **0**
 
 Next source activity: **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**.
+
+
+## Part003 planning extension
+
+Parts001–002 glossary decisions remain frozen where they belong to the closed English layers. Recurring forms carry forward into Part003 unless the verified Part003 source requires a different handling.
+
+Part003 assembled inputs:
+
+- E11 — Chapter 1 continuation, scans35–44
+- E12 — Chapter 2 `முத்துநகை`, scans45–52
+
+New or newly active Part003 handling:
+
+| Tamil/source form | English handling | Note |
+|---|---|---|
+| `வில்லவன்` | **Villavan** | E11 source character / military leader name |
+| `செழியன்` | **Sezhiyan** | carry forward locked project form |
+| `கரிகால்வளவன்` / `கரிகாலன்` | **Karikala Valavan / Karikalan** | preserve contextual source form; do not collapse mechanically |
+| `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` | **Peruvazhuthi / Peruvazhuthi Pandiyan** | carry forward locked project handling |
+| `காரிக்கண்ணனார்` | **Karikannanar** | carry forward locked project handling |
+| `இருங்கோவேள்` | **Irungovel** | carry forward locked project handling |
+| `முத்துநகை` | **Muthunagai** | Chapter 2 title and character name |
+| `சிவனடியார்கள்` | **devotees of Siva / Siva devotees** | context-sensitive ordinary rendering; settle locally during E12 source-check |
+| `அன்பே சிவம்` | **Love is Siva** | source chant; preserve repetition and chant function |
+| `பண்பே சைவம்` | **Virtue is Saivism** | source chant; preserve repetition and chant function |
+| `புலிநக மாலை` | **tiger-claw necklace** | source object; ordinary descriptive rendering |
+
+Source-sensitive safeguards for Part003:
+
+- do not "correct" `செழியன் அல்லன்`, `எனக்குச் செந்தேன்`, `இஃதென்ன`, or other verified Tamil source forms in the Tamil layer;
+- English may render meaning naturally, but cannot authorize a Tamil emendation;
+- scan44 is a blank separator and has no translatable body text;
+- the illustrated scan45 title `முத்துநகை` maps to **Muthunagai**;
+- quoted/displayed verse in E11 must be translated only from verified project Tamil, not from a published/web translation;
+- the outgoing 52→53 boundary remains external and Part004 wording must not be inferred.
+
+Part003 planning glossary holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**E11 draft + source-check.**
