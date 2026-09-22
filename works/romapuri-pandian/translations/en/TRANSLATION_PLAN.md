@@ -1,6 +1,6 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–002 FINAL CLOSED / FROZEN — PART003 RELEASE-READY SYNCHRONIZATION PASS / FINAL CLOSURE NEXT**
+Status: **PARTS001–003 FINAL CLOSED / FROZEN**
 
 This is the cumulative control plan for the project-created English translation. Parts001–002 are final closed/frozen; Part003 English planning/setup is active.
 
@@ -383,4 +383,25 @@ Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
 
 ## Current exact English activity
 
-**Part003 final closure / freeze.**
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+
+
+## Part003 final lifecycle state
+
+Part003 English is **FINAL CLOSED / FROZEN**.
+
+- E11–E12 — **SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- Part004 leakage — **0**
+
+## Exact next activity
+
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+
+Part004 is not supplied / registered. Do not infer scan53.
