@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf"
-transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans35–44"
+transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch scans35–44; formal Part003 Pass 2A reviewed"
 ---
 
 # 1. கரிகாற் சோழனும் பெருவழுதிப் பாண்டியனும்
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 
 செழியனால் அதைத் தடுத்துப் பேச இயலவில்லை! காரணம் அவரோ பெரும்புலவர்; வலியோ தாங்கமுடியாமல் இருக்கிறது; சரியென்று உட்கார்ந்து கொண்டான்.
 
-“முத்துநகை! பத்திரமாகக் கவனித்துக்கொள்ளம்மா!” எனக்கூறிப் புலவர் வெளியிலே சென்றுவிட்டார்.
+“முத்துநகை! பத்திரமாகக் கவனித்துக்கொள்ளம்மா!” எனக்கூறிப் புலவர் வெளியில் சென்றுவிட்டார்.
 
 தெருவில் நின்றிருந்த புரவி பூட்டிய பல்லக்கு வண்டியில் அவர் ஏறிக்கொண்டார். அந்த அழகிய வண்டி அரண்மனை நோக்கிப் புறப்பட்டது.
 
@@ -51,3 +51,13 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch s
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 37; பகுதி: 003; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 35; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part003 Pass 2A review
+
+- direct word-by-word textual verification completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- correction: `எனக்கூறிப் புலவர் வெளியிலே சென்றுவிட்டார்.` → `எனக்கூறிப் புலவர் வெளியில் சென்றுவிட்டார்.`;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
