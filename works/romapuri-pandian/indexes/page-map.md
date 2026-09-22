@@ -150,9 +150,9 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part003 bilingual review — **PASS / CLOSED**
 - Part003 release/readiness — **PASS / CLOSED**
 - Part003 release-ready synchronization — **PASS / CLOSED**
-- Part003 final closure — **NEXT GATE / NOT YET STARTED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part003 final closure / freeze**
+- exact next activity — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**
