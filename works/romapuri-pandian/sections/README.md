@@ -33,6 +33,21 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - canonical page mutations caused by assembly — **0**
 - validation — `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Part003 — PASS / CLOSED
+
+- physical coverage — **scans35–52**
+- verified canonical pages represented structurally — **18/18**
+- publication-text source-transcription pages represented — **17/17**
+- blank scan44 — **represented by provenance only; no rendered Tamil text**
+- assembled files — **2/2 VERIFIED**
+- omitted publication-text pages — **0**
+- duplicate canonical publication-text pages — **0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- Part004 text leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- validation — `../PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
 ## Section inventory
 
 | Order | Part | File | Source scans | Source structure | Status |
@@ -47,6 +62,8 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 | 7 | 002 | `07-kaviyarasu-kannadasan-urai.md` | 19–22 | கவியரசு கண்ணதாசன் உரை | **VERIFIED** |
 | 8 | 002 | `08-arimugam.md` | 23–28 | `அறிமுகம்` | **VERIFIED** |
 | 9 | 002 | `09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | 29–34 | Chapter 1 title + narrative opening | **VERIFIED** |
+| 10 | 003 | `10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | 35–44 | Chapter 1 continuation / close; scan44 blank separator represented by provenance | **VERIFIED** |
+| 11 | 003 | `11-chapter-02-muthunagai.md` | 45–52 | Chapter 2 illustrated title + narrative opening / continuation | **VERIFIED** |
 
 ## Assembly rules
 
@@ -80,12 +97,28 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - scan33→34 — physical split word rendered continuously as `முத்தாரத்தையெடுத்து` with a non-rendering provenance marker.
 - scan34 — remains terminal at `குதிரைகள்`; no Part003 continuation is imported.
 
+## Part003 special cases
+
+- scan35 — begins with the audited continuation from Part002 scan34; Part002 body text is not duplicated into the Part003 assembled file.
+- scan38→39 — physical split word rendered continuously as `ஒப்பிடுவதற்கரிய` with a non-rendering provenance marker.
+- scan41→42 — direct-speech continuation retained across the physical page boundary.
+- scan43 — Chapter 1 closes with a large intentional lower blank field.
+- scan44 — fully blank physical separator page represented by provenance only; no rendered Tamil text.
+- scan45 — illustrated Chapter 2 title page retained at the start of the Chapter 2 assembled file.
+- scan46 — Chapter 2 narrative opens after the title page.
+- scan47→48 — sentence continuation retained as `மறைத்து வைக்கப்பட்டிருப்பதை`.
+- scan49→50 — sentence continuation retained as `இந்த ஆபத்து வந்திருக்காதல்லவா?`.
+- scan52 — ends on the complete sentence `முத்துநகைக்குத் தூக்கமே வரவில்லை. புரண்டு புரண்டு படுத்தாள்.`; no Part004 continuation is imported.
+
 ## Boundary safeguard
 
 - outgoing Part001 **17→18 — GENUINE CONTINUATION / AUDITED**
 - Part001 assembled file remains terminal at scan17; scan18 is represented only in the Part002 assembled layer
-- outgoing Part002 **34→35 — PENDING Part003 adjacent witness**
-- Part003 text imported into Part002 assembled layer — **0**
+- outgoing Part002 / incoming Part003 **34→35 — GENUINE CONTINUATION / AUDITED**
+- Part002 body imported into Part003 assembled layer — **0**
+- Part003 body imported backward into Part002 assembled layer — **0**
+- outgoing Part003 **52→53 — PENDING Part004 adjacent witness / deferred external boundary evidence**
+- Part004 text imported into Part003 assembled layer — **0**
 
 ## Downstream state
 
@@ -119,4 +152,8 @@ Part002 final closure — **PASS / CLOSED / FROZEN**.
 
 Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE — 4/4**.
 
-Exact next maintained gate — **Part003 source intake + 34→35 adjacent-boundary witness inspection/setup**.
+Part003 Tamil archival-ready — **PASS / CLOSED**.
+
+Part003 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**.
+
+Exact next maintained gate — **Part003 English translation planning/setup**.
