@@ -156,3 +156,34 @@ Additional terms may be added only when encountered and source-checked during E1
 Create the E11 English section from the verified assembled Tamil input, preserve source voice and structural provenance, source-check it against the verified Tamil authority, and create the durable E11 source-check record.
 
 Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-planning control synchronization verification
+
+Pre-planning live-main checkpoint:
+
+`daa15f85300d366dfa8f5113ea524770de1d5192`
+
+Post-planning synchronized checkpoint before this record refresh:
+
+`bf6b2ef7aba062149af035195286f8853ad46c72`
+
+Direct comparison confirms:
+
+- canonical `pages/` files changed — **0**
+- assembled Tamil section-body files changed — **0**
+- English section-body files changed — **0**
+- E11 draft exists — **no**
+- E12 draft exists — **no**
+- Part004 files introduced — **0**
+- changed files are planning/control/navigation records only — **PASS**
+
+The synchronized controls now agree on:
+
+- Part003 English translation planning/setup — **COMPLETE / PASS**
+- E11 — **RESERVED / NEXT**
+- E12 — **RESERVED**
+- unresolved planning holds — **0**
+- exact next activity — **E11 draft + source-check / scans35–44**
+
+Therefore planning/setup introduced no canonical Tamil, assembled Tamil, frozen Part001/Part002 English-body, E11/E12 draft, or Part004 drift.
