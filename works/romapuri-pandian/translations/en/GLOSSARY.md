@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–002 FINAL CLOSED / FROZEN — PART003 PLANNING EXTENSION ACTIVE**
+Status: **PARTS001–002 FINAL CLOSED / FROZEN — PART003 RECONCILED / RELEASE-READY**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -370,3 +370,19 @@ Part003 E11–E12 glossary reconciliation is **RECONCILED / PASS**.
 Durable record: `PART_003_GLOSSARY_RECONCILIATION.md`.
 
 Current next gate — **Part003 English editorial review across E11–E12**.
+
+
+## Part003 release-ready glossary lock
+
+Part003 glossary state is now closed for the release-ready layer:
+
+- E11–E12 glossary reconciliation — **RECONCILED / PASS**
+- unresolved Part003 glossary holds — **0**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+
+The Part003 decisions above remain controlling unless an explicit source-fidelity reopening is approved.
+
+Next gate — **Part003 final closure / freeze**.
