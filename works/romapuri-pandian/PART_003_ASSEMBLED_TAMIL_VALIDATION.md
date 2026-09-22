@@ -192,3 +192,35 @@ Part003 assembled Tamil is now **PASS / CLOSED — 2/2 VERIFIED**.
 Extend the English translation plan, glossary and progress controls for Part003, reserve sequential non-colliding E-batches after Part002 E7–E10, and map the two verified Part003 assembled Tamil files into translation units.
 
 Do not begin Part004 canonical transcription. Part004 remains blocked until Part003 English, release/readiness and final closure are complete.
+
+
+## Post-assembly control synchronization verification
+
+Pre-assembly checkpoint:
+
+`2eee80d1738ab522c9d546e17495580b9f4567b6`
+
+Post-assembly synchronized checkpoint before this record refresh:
+
+`92f1b1d4cb6f48b5c27b3053f730820219f291ac`
+
+Direct comparison confirms:
+
+- canonical `pages/` files changed — **0**
+- assembled Part003 content files introduced — **2**
+- shared `sections/README.md` updated — **1**
+- English section-body files changed — **0**
+- Part004 files introduced — **0**
+- lifecycle/control files synchronized to the English-planning frontier — **PASS**
+
+The synchronized controls now agree on:
+
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- Part003 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- represented physical scans — **18/18 / scans35–52**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- Part004 leakage — **0**
+- exact next gate — **Part003 English translation planning/setup**
+
+Therefore the assembled-Tamil gate introduced no canonical Tamil, English-body, or Part004 drift.
