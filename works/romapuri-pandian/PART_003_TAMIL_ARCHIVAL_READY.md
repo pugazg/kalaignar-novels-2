@@ -278,3 +278,21 @@ After this checkpoint, the Part003 assembled Tamil reading layer was constructed
 Current next gate:
 
 **Part003 English translation planning/setup.**
+
+
+## Post-assembly English planning/setup
+
+The Tamil archival-ready declaration remains **PASS / CLOSED**.
+
+Part003 English planning/setup has since completed:
+
+- planning/setup — **COMPLETE / PASS**
+- reserved batches — **E11–E12**
+- English drafts created in planning — **0**
+- canonical / assembled Tamil changes caused by planning — **0**
+- unresolved planning holds — **0**
+- durable control — `PART_003_ENGLISH_PLANNING_SETUP.md`
+
+Current next gate:
+
+**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
