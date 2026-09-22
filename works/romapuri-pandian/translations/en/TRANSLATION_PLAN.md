@@ -1,6 +1,6 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–002 FINAL CLOSED / FROZEN — PART003 ENGLISH PLANNING / SETUP**
+Status: **PARTS001–002 FINAL CLOSED / FROZEN — PART003 RELEASE-READY SYNCHRONIZATION PASS / FINAL CLOSURE NEXT**
 
 This is the cumulative control plan for the project-created English translation. Parts001–002 are final closed/frozen; Part003 English planning/setup is active.
 
@@ -315,8 +315,8 @@ Verified Part003 assembled inputs:
 
 | Batch | Tamil input | Planned English file | Scans | Planning state |
 |---|---|---|---:|---|
-| **E11** | `../../sections/10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | `sections/10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | 35–44 | **RESERVED / NEXT** |
-| **E12** | `../../sections/11-chapter-02-muthunagai.md` | `sections/11-chapter-02-muthunagai.md` | 45–52 | **RESERVED** |
+| **E11** | `../../sections/10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | `sections/10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | 35–44 | **SOURCE-CHECKED / COMPLETE** |
+| **E12** | `../../sections/11-chapter-02-muthunagai.md` | `sections/11-chapter-02-muthunagai.md` | 45–52 | **SOURCE-CHECKED / COMPLETE** |
 
 Batch discipline:
 
@@ -365,3 +365,22 @@ This planning/setup activity changes English control metadata only.
 **E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
 
 Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part003 post-draft closure state
+
+- E11–E12 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- Part003 glossary reconciliation — **RECONCILED / PASS**
+- Part003 English editorial review — **PASS / CLOSED**
+- Part003 English editorial corrections — **0**
+- Part003 bilingual review — **PASS / CLOSED — 2/2 pairs**
+- Part003 release/readiness — **PASS / CLOSED**
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- unresolved Part003 English blockers — **0**
+- canonical / assembled Tamil edits caused by English — **0**
+- Parts001–002 English section edits — **0**
+- Part004 leakage — **0**
+
+## Current exact English activity
+
+**Part003 final closure / freeze.**
