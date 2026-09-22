@@ -6,7 +6,7 @@
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
-- Part003 English — **PLANNING / SETUP COMPLETE / PASS — E11–E12 RESERVED / 0 DRAFTED**
+- Part003 English — **E11–E12 SOURCE-CHECKED / COMPLETE; RELEASE-READY SYNC PASS / FINAL CLOSURE NEXT**
 
 ## Part001 historical progress
 
@@ -239,8 +239,8 @@ Part003 Tamil prerequisites:
 
 | Batch | Tamil unit | Scans | Planned English file | Status |
 |---|---|---:|---|---|
-| **E11** | `10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | 35–44 | `sections/10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | **RESERVED / NEXT** |
-| **E12** | `11-chapter-02-muthunagai.md` | 45–52 | `sections/11-chapter-02-muthunagai.md` | **RESERVED** |
+| **E11** | `10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | 35–44 | `sections/10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E12** | `11-chapter-02-muthunagai.md` | 45–52 | `sections/11-chapter-02-muthunagai.md` | **SOURCE-CHECKED / COMPLETE** |
 
 Part003 batch discipline:
 
@@ -265,3 +265,24 @@ Part003 batch discipline:
 ## Exact next activity — project
 
 **E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
+
+
+## Part003 closed English review gates
+
+- E11–E12 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **0**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 pairs**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved source-check holds — **0**
+- unresolved glossary holds — **0**
+- unresolved editorial holds — **0**
+- unresolved bilingual holds — **0**
+- unresolved release/readiness blockers — **0**
+- Part004 leakage — **0**
+
+## Exact next activity — project
+
+**Part003 final closure / freeze.**
