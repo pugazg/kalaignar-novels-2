@@ -124,7 +124,10 @@
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
-- assembled Tamil — **NEXT GATE / NOT YET STARTED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled Tamil coverage — **18/18 physical scans / 17/17 publication-text pages + blank scan44 provenance**
+- assembled Tamil missing / duplicate / unsupported insertion / Part004 leakage — **0 / 0 / 0 / 0**
+- English translation planning/setup — **NEXT GATE / NOT YET STARTED**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved source-reading holds — **0**
@@ -185,11 +188,12 @@
 - `PART_003_FINAL_STATUS_SYNC.md`
 - `PART_003_DOCUMENTATION_SYNC.md`
 - `PART_003_TAMIL_ARCHIVAL_READY.md`
+- `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part003 assembled Tamil construction + audit**
+- prompt frontier — **Part003 English translation planning/setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -204,6 +208,6 @@
 
 ## Exact next activity
 
-**Part003 assembled Tamil construction + audit.**
+**Part003 English translation planning/setup.**
 
-Part003 Tamil archival-ready is PASS / CLOSED. Build the maintained reading layer only from the verified canonical Part003 pages, preserve source-supported physical joins and structural boundaries, then audit exact coverage without modifying canonical pages.
+Part003 assembled Tamil is PASS / CLOSED — 2/2 VERIFIED with exact 18/18 physical coverage, 0 missing, 0 duplicate, 0 unsupported Tamil insertion and 0 Part004 leakage. Extend English planning controls only; do not modify canonical or assembled Tamil.
