@@ -38,24 +38,24 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 002 | 15 | 32 | 30 | Chapter 1 continuation | verified | `pages/0032-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 | 002 | 16 | 33 | 31 | Chapter 1 continuation; terminal split word `முத்` | verified | `pages/0033-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
 | 002 | 17 | 34 | 32 | Chapter 1 continuation; outgoing 34→35 genuine continuation audited | verified | `pages/0034-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 1 | 35 | 33 | Chapter 1 continuation; incoming 34→35 genuine continuation audited | needs-review | `pages/0035-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 2 | 36 | 34 | Chapter 1 continuation | needs-review | `pages/0036-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 3 | 37 | 35 | Chapter 1 continuation; displayed verse | needs-review | `pages/0037-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 4 | 38 | 36 | Chapter 1 continuation; displayed verse; terminal split `ஒப்பிடுவதற்` | needs-review | `pages/0038-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 5 | 39 | 37 | Chapter 1 continuation; opens split continuation `கரிய` | needs-review | `pages/0039-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 6 | 40 | 38 | Chapter 1 continuation | needs-review | `pages/0040-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 7 | 41 | 39 | Chapter 1 continuation; ends inside direct speech | needs-review | `pages/0041-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 8 | 42 | 40 | Chapter 1 continuation; completes scan41 direct speech | needs-review | `pages/0042-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 9 | 43 | 41 | Chapter 1 apparent close; large intentional blank lower field | needs-review | `pages/0043-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
-| 003 | 10 | 44 | — | Blank physical page | needs-review | `pages/0044-blank.md` |
-| 003 | 11 | 45 | — | Chapter 2 illustrated title page — `முத்துநகை` | needs-review | `pages/0045-chapter-02-title.md` |
-| 003 | 12 | 46 | — | Chapter 2 opening; large intentional blank upper field | needs-review | `pages/0046-muthunagai.md` |
-| 003 | 13 | 47 | 45 | Chapter 2 continuation; terminal physical continuation `மறைத்து` | needs-review | `pages/0047-muthunagai.md` |
-| 003 | 14 | 48 | 46 | Chapter 2 continuation; opens physical continuation `வைக்கப்பட்டிருப்பதை` | needs-review | `pages/0048-muthunagai.md` |
-| 003 | 15 | 49 | 47 | Chapter 2 continuation; ends mid-sentence at `இந்த` | needs-review | `pages/0049-muthunagai.md` |
-| 003 | 16 | 50 | 48 | Chapter 2 continuation; completes scan49 sentence | needs-review | `pages/0050-muthunagai.md` |
-| 003 | 17 | 51 | 49 | Chapter 2 continuation | needs-review | `pages/0051-muthunagai.md` |
-| 003 | 18 | 52 | 50 | Chapter 2 continuation; Part003 terminal page | needs-review | `pages/0052-muthunagai.md` |
+| 003 | 1 | 35 | 33 | Chapter 1 continuation; incoming 34→35 genuine continuation audited | verified | `pages/0035-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 2 | 36 | 34 | Chapter 1 continuation | verified | `pages/0036-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 3 | 37 | 35 | Chapter 1 continuation; displayed verse | verified | `pages/0037-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 4 | 38 | 36 | Chapter 1 continuation; displayed verse; terminal split `ஒப்பிடுவதற்` | verified | `pages/0038-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 5 | 39 | 37 | Chapter 1 continuation; opens split continuation `கரிய` | verified | `pages/0039-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 6 | 40 | 38 | Chapter 1 continuation | verified | `pages/0040-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 7 | 41 | 39 | Chapter 1 continuation; ends inside direct speech | verified | `pages/0041-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 8 | 42 | 40 | Chapter 1 continuation; completes scan41 direct speech | verified | `pages/0042-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 9 | 43 | 41 | Chapter 1 apparent close; large intentional blank lower field | verified | `pages/0043-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` |
+| 003 | 10 | 44 | — | Blank physical page | verified | `pages/0044-blank.md` |
+| 003 | 11 | 45 | — | Chapter 2 illustrated title page — `முத்துநகை` | verified | `pages/0045-chapter-02-title.md` |
+| 003 | 12 | 46 | — | Chapter 2 opening; large intentional blank upper field | verified | `pages/0046-muthunagai.md` |
+| 003 | 13 | 47 | 45 | Chapter 2 continuation; terminal physical continuation `மறைத்து` | verified | `pages/0047-muthunagai.md` |
+| 003 | 14 | 48 | 46 | Chapter 2 continuation; opens physical continuation `வைக்கப்பட்டிருப்பதை` | verified | `pages/0048-muthunagai.md` |
+| 003 | 15 | 49 | 47 | Chapter 2 continuation; ends mid-sentence at `இந்த` | verified | `pages/0049-muthunagai.md` |
+| 003 | 16 | 50 | 48 | Chapter 2 continuation; completes scan49 sentence | verified | `pages/0050-muthunagai.md` |
+| 003 | 17 | 51 | 49 | Chapter 2 continuation | verified | `pages/0051-muthunagai.md` |
+| 003 | 18 | 52 | 50 | Chapter 2 continuation; Part003 terminal page | verified | `pages/0052-muthunagai.md` |
 
 ## Current state
 
@@ -135,8 +135,12 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part003 Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
 - Part003 Part audit — **PASS / COMPLETE — 18/18 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part003 audit unresolved blockers — **0**
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- Part003 Tamil status — **18/18 verified / 0 needs-review**
+- Part003 visual_fidelity — **18/18 verified / 0 needs-review**
+- Part003 status exceptions — **0**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part003 final metadata/status synchronization**
+- exact next activity — **Part003 documentation synchronization**
