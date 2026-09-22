@@ -139,8 +139,10 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part003 Tamil status — **18/18 verified / 0 needs-review**
 - Part003 visual_fidelity — **18/18 verified / 0 needs-review**
 - Part003 status exceptions — **0**
+- Part003 documentation synchronization — **PASS / COMPLETE**
+- Part003 Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part003 documentation synchronization**
+- exact next activity — **Part003 Tamil archival-ready checkpoint**
