@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–002 are final closed/frozen; Part003 planning/setup is complete and E11 is next.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–002 are final closed/frozen; Part003 E11–E12 are source-checked and release-ready synchronization is closed.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -99,10 +99,10 @@ Part003 Tamil prerequisites are closed:
 
 | Batch | Verified Tamil source | Planned English file | Scans | State |
 |---|---|---|---:|---|
-| E11 | `../../../sections/10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | `10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | 35–44 | **RESERVED / NEXT** |
-| E12 | `../../../sections/11-chapter-02-muthunagai.md` | `11-chapter-02-muthunagai.md` | 45–52 | **RESERVED** |
+| E11 | `../../../sections/10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | `10-chapter-01-karikala-cholan-and-peruvazhuthi-pandiyan-part003-continuation.md` | 35–44 | **SOURCE-CHECKED / COMPLETE** |
+| E12 | `../../../sections/11-chapter-02-muthunagai.md` | `11-chapter-02-muthunagai.md` | 45–52 | **SOURCE-CHECKED / COMPLETE** |
 
-No E11/E12 English section file exists yet.
+E11/E12 English section files — **2/2 source-checked**.
 
 ### Part003 boundary safeguards
 
@@ -125,3 +125,19 @@ No E11/E12 English section file exists yet.
 **E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
 
 Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
+
+
+### Part003 closed review state
+
+- E11–E12 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English blockers — **0**
+- Part004 leakage — **0**
+
+## Exact next English activity
+
+**Part003 final closure / freeze.**
