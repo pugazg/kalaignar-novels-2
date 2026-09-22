@@ -66,9 +66,10 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - Pass2A — **COMPLETE / PASS — 18/18 REVIEWED**
 - Pass2A corrections — **5**
 - Pass2A unresolved textual questions — **0**
-- Pass2B — **IN PROGRESS — 9/18 REVIEWED**
+- Pass2B — **COMPLETE / PASS — 18/18 REVIEWED**
 - Pass2B Batch 1 — **COMPLETE / PASS — scans35–43 / local1–9**
-- Pass2B corrections so far — **3**
+- Pass2B Batch 2 — **COMPLETE / PASS — scans44–52 / local10–18**
+- Pass2B corrections — **3**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical / historical-glyph questions — **0**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
@@ -79,6 +80,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 Pass2B — second 9-page iteration: global scans44–52 / local pages10–18.**
+**Part003 Pass3 — full-page visual / structural verification of scans35–52.**
 
-Batch 1 is COMPLETE / PASS. Do not begin Pass3 until Batch 2 closes and whole-Part Pass2B reaches 18/18.
+Pass2B is COMPLETE / PASS — 18/18 REVIEWED. Do not begin the Part audit until Pass3 closes.
