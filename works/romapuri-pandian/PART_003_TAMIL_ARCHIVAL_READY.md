@@ -222,3 +222,32 @@ Part004 canonical transcription remains blocked by the mandatory Part lock until
 **Part003 assembled Tamil construction + audit.**
 
 Do not begin English translation/review, release/readiness, final Part003 closure, or Part004 canonical transcription in this checkpoint.
+
+
+## Post-checkpoint control synchronization verification
+
+Starting checkpoint:
+
+`1de80879ef4f8a776b8685b5706e5e6e75e4bd6f` — documentation synchronization closed; Tamil archival-ready was the next gate.
+
+Post-checkpoint synchronized checkpoint before this record refresh:
+
+`e3f3edcfe19c128a524bfd06fbeb333de539a307`
+
+Direct comparison confirms:
+
+- changed files — **10**
+- canonical `pages/` files changed — **0**
+- assembled Tamil section-body files changed — **0**
+- English section-body files changed — **0**
+- Part004 files introduced — **0**
+- durable archival-ready/control/navigation files only — **PASS**
+
+The synchronized controls now agree on:
+
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- Tamil status — **18/18 verified / 0 needs-review**
+- visual fidelity — **18/18 verified / 0 needs-review**
+- exact next gate — **Part003 assembled Tamil construction + audit**
+
+Therefore this checkpoint introduced no canonical Tamil, assembled-Tamil, English-body, or Part004 drift.
