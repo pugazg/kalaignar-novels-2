@@ -13,8 +13,8 @@
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - planned split set — **39 size-based PDFs**
-- supplied / registered — **Part001 + Part002 + Part003**
-- mapped physical scans — **1–52**
+- supplied / registered — **Part001 + Part002 + Part003 + Part004**
+- mapped physical scans — **1–68**
 - source PDFs remain outside Git
 
 ### Part001
@@ -142,11 +142,29 @@
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
 - unresolved intake blockers — **0**
 
+
+### Part004
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf`
+- local pages — **16**
+- global scans — **53–68**
+- file size — **47,813,374 bytes**
+- SHA-256 — `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5`
+- source intake — **REGISTERED / AUTHORIZED**
+- intake + incoming-boundary setup — **PASS / COMPLETE**
+- incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
+- canonical records — **0/16**
+- Pass1 — **NOT STARTED**
+- unresolved intake/boundary blockers — **0**
+- exact next activity — **Part004 Pass1 scans53–62 / local1–10**
+
 ## Boundary
 
 - **17→18 — GENUINE CONTINUATION / AUDITED**
 - **34→35 — GENUINE CONTINUATION / AUDITED**
+- **52→53 — GENUINE CONTINUATION / AUDITED**
 - scan35 body imported backward into Part002 — **0**
+- scan53 body imported backward into Part003 — **0**
 
 ## Durable progress controls
 
@@ -206,11 +224,14 @@
 - `translations/en/PART_003_RELEASE_REPORT.md`
 - `PART_003_RELEASE_READY_SYNC.md`
 - `PART_003_FINAL_CLOSURE.md`
+- `SOURCE_INTAKE_PART_004.md`
+- `PART_003_BOUNDARY_AUDIT_52_53.md`
+- `PART_004_INTAKE_BOUNDARY_SETUP.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**
+- prompt frontier — **Part004 Pass1 — scans53–62 / local1–10**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -225,6 +246,6 @@
 
 ## Exact next activity
 
-**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+**Part004 Pass1 — global scans53–62 / local pages1–10.**
 
-Parts001–003 are FINAL CLOSED / FROZEN. Part004 is not supplied / registered. Do not infer scan53 or begin Part004 canonical transcription without the supplied source.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 source intake and 52→53 boundary setup are PASS / COMPLETE; canonical records remain 0/16 until Pass1 begins. Do not begin Pass2A until Pass1 covers scans53–68.
