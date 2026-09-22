@@ -255,8 +255,12 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part003 Pass2B corrections — **3**
 - Part003 Pass2B historical-glyph corrections — **0**
 - Part003 Pass2B unresolved lexical / historical-glyph questions — **0**
+- Part003 Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
+- Part003 Pass3 source-text corrections — **0**
+- Part003 Pass3 structural metadata corrections — **0**
+- Part003 Pass3 unresolved visual / structural questions — **0**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part003 Pass3 / scans35–52**
+- exact next gate — **Part003 Part audit**
