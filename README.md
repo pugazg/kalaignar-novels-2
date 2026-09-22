@@ -71,6 +71,8 @@
 - Part003 Pass2B corrections — **3**
 - Part003 Pass2B historical-glyph corrections — **0**
 - Part003 Pass2B unresolved questions — **0**
+- Part003 Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
+- Part003 Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
@@ -86,4 +88,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part003 Pass3 — meaningful full-page visual / structural verification of scans35–52.**
+**Part003 Part audit.**
