@@ -97,7 +97,7 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
 - unresolved English/release blockers — **0**
-- final closure — **NEXT GATE / NOT YET STARTED**
+- final closure — **PASS / CLOSED / FROZEN**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
@@ -106,6 +106,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 final closure / freeze.**
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
 
-All Part003 Tamil and English review/release gates are closed. Verify no post-release content drift, freeze Part003, and do not activate Part004 without its supplied source.
+Part003 is FINAL CLOSED / FROZEN. Part004 remains unsupplied/unregistered; no scan53 wording may be inferred.
