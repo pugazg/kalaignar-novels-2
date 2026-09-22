@@ -224,3 +224,26 @@ The synchronized controls now agree on:
 - exact next gate — **Part003 English translation planning/setup**
 
 Therefore the assembled-Tamil gate introduced no canonical Tamil, English-body, or Part004 drift.
+
+
+## Post-assembly English planning/setup state
+
+Part003 assembled Tamil remains **PASS / CLOSED — 2/2 VERIFIED**.
+
+English planning/setup subsequently completed without modifying canonical or assembled Tamil:
+
+- planning/setup — **COMPLETE / PASS**
+- reserved batches — **E11–E12**
+- E11 input — `sections/10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` / scans35–44
+- E12 input — `sections/11-chapter-02-muthunagai.md` / scans45–52
+- drafted/source-checked English units — **0/2**
+- unresolved planning holds — **0**
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- Part001/Part002 English section changes caused by planning — **0**
+- Part004 leakage — **0**
+- durable control — `PART_003_ENGLISH_PLANNING_SETUP.md`
+
+Current next gate:
+
+**E11 — draft + source-check Part003 Chapter 1 continuation / scans35–44.**
