@@ -268,9 +268,10 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part003 visual fidelity — **18/18 verified / 0 needs-review**
 - Part003 status exceptions — **0**
 - Part003 documentation synchronization — **PASS / COMPLETE**
-- Part003 Tamil archival-ready checkpoint — **NEXT GATE / NOT YET STARTED**
+- Part003 Tamil archival-ready — **PASS / CLOSED**
+- Part003 assembled Tamil — **NEXT GATE / NOT YET STARTED**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part003 Tamil archival-ready checkpoint**
+- exact next gate — **Part003 assembled Tamil construction + audit**
