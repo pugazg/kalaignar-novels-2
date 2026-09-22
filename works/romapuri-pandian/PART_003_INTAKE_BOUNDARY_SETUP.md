@@ -133,3 +133,19 @@ Part003 Pass2B has advanced through its first fixed 9-page iteration:
 Current frontier:
 
 **Part003 Pass2B — scans44–52 / local pages10–18.**
+
+
+## Post-Pass2B closure
+
+Part003 Pass2B is now closed:
+
+- reviewed pages — **18/18**
+- source-text / lexical / spacing / punctuation corrections — **3**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- durable control — `PART_003_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part003 Pass3 — full-page visual / structural verification of scans35–52.**
