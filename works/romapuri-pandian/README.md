@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–002 FINAL CLOSED / FROZEN — PART003 PASS2B 9/18 / BATCH2 NEXT**
+**PART001–002 FINAL CLOSED / FROZEN — PART003 PASS2B COMPLETE / PASS3 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -75,9 +75,10 @@
 - Part003 Pass2A — **COMPLETE / PASS — 18/18 REVIEWED**
 - Part003 Pass2A corrections — **5**
 - Part003 Pass2A unresolved textual questions — **0**
-- Part003 Pass2B — **IN PROGRESS — 9/18 REVIEWED**
+- Part003 Pass2B — **COMPLETE / PASS — 18/18 REVIEWED**
 - Part003 Pass2B Batch 1 — **COMPLETE / PASS — scans35–43 / local1–9**
-- Part003 Pass2B corrections so far — **3**
+- Part003 Pass2B Batch 2 — **COMPLETE / PASS — scans44–52 / local10–18**
+- Part003 Pass2B corrections — **3**
 - Part003 Pass2B historical-glyph corrections — **0**
 - Part003 Pass2B unresolved lexical / historical-glyph questions — **0**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
@@ -145,6 +146,6 @@
 
 ## Exact next activity
 
-**Part003 Pass2B — second 9-page iteration: scans44–52 / local pages10–18.**
+**Part003 Pass3 — meaningful full-page visual / structural verification of scans35–52.**
 
 Parts001–002 are frozen; do not reopen them for stylistic polishing.
