@@ -2,12 +2,12 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 SOURCE NEEDED**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 INTAKE PASS / PASS1 READY**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - supplied design — **39 size-based split PDFs**
-- supplied / registered Parts — **3/39**
+- supplied / registered Parts — **4/39**
 - Part001 — **17 pages / global scans1–17**
 - Part002 — **17 pages / global scans18–34 / FINAL CLOSED / FROZEN**
 - Part001 canonical records — **17/17**
@@ -108,9 +108,13 @@
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
-- Part004 source — **NOT SUPPLIED / NOT REGISTERED**
-- Part004 canonical transcription — **BLOCKED PENDING SOURCE INTAKE**
-- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
+- Part004 source — **REGISTERED / AUTHORIZED — 16 pages / scans53–68**
+- Part004 file size — **47,813,374 bytes**
+- Part004 SHA-256 — `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5`
+- Part004 intake + incoming-boundary setup — **PASS / COMPLETE**
+- Part004 canonical records — **0/16**
+- Part004 Pass1 — **NOT STARTED / AUTHORIZED**
+- outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
 - Part001 English — **FINAL CLOSED / FROZEN**
@@ -175,10 +179,13 @@
 - `PART_003_TAMIL_ARCHIVAL_READY.md`
 - `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_003_ENGLISH_PLANNING_SETUP.md`
+- `SOURCE_INTAKE_PART_004.md`
+- `PART_003_BOUNDARY_AUDIT_52_53.md`
+- `PART_004_INTAKE_BOUNDARY_SETUP.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+**Part004 Pass1 — global scans53–62 / local pages1–10.**
 
-Parts001–002 are frozen; do not reopen them for stylistic polishing.
+Parts001–003 are frozen; do not reopen them for stylistic polishing. Do not begin Pass2A until Part004 Pass1 covers scans53–68.
