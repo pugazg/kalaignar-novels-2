@@ -63,6 +63,9 @@ Part003 source intake is now complete and the incoming boundary has been classif
 - incoming 34→35 boundary — **GENUINE CONTINUATION / AUDITED**
 - canonical Part003 records — **18/18 — scans35–52**
 - Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 18/18 REVIEWED**
+- Pass2A corrections — **5**
+- Pass2A unresolved textual questions — **0**
 - Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Pass1 unresolved holds — **0**
@@ -71,6 +74,6 @@ Part003 source intake is now complete and the incoming boundary has been classif
 
 ## Exact next activity
 
-**Part003 Pass2A — global scans35–52 / Part003 local pages1–18.**
+**Part003 Pass2B — first 9-page iteration: global scans35–43 / local pages1–9.**
 
-Pass1 is COMPLETE / PASS — 18/18 TEXT-COMPLETE. Do not begin Pass2B until Pass2A closes.
+Pass2A is COMPLETE / PASS — 18/18 REVIEWED. Do not begin Pass3 until Pass2B closes.
