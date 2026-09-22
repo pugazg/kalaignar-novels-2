@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–002 FINAL CLOSED / FROZEN — PART003 RELEASE-READY SYNC PASS / FINAL CLOSURE NEXT**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 SOURCE NEEDED**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -104,10 +104,12 @@
 - Part003 release/readiness — **PASS / CLOSED**
 - Part003 release-ready synchronization — **PASS / CLOSED**
 - Part003 unresolved English/release blockers — **0**
-- Part003 final closure — **NEXT GATE / NOT YET STARTED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
+- Part004 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part004 canonical transcription — **BLOCKED PENDING SOURCE INTAKE**
 - outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -177,6 +179,6 @@
 
 ## Exact next activity
 
-**Part003 final closure / freeze.**
+**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
 
 Parts001–002 are frozen; do not reopen them for stylistic polishing.
