@@ -75,6 +75,10 @@
 - Part003 Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
 - Part003 Part audit — **PASS / COMPLETE — 18/18 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part003 audit unresolved blockers — **0**
+- Part003 final metadata/status synchronization — **PASS / CLOSED**
+- Part003 Tamil status — **18/18 verified / 0 needs-review**
+- Part003 visual fidelity — **18/18 verified / 0 needs-review**
+- Part003 status exceptions — **0**
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
@@ -90,4 +94,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part003 final metadata/status synchronization.**
+**Part003 documentation synchronization.**
