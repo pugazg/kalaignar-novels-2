@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Pass3 scans35–52
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part003 Part audit
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -16,61 +16,63 @@ Read live controls first. If this prompt conflicts with live `main`, live `main`
 
 - local pages — **18**
 - global scans — **35–52**
-- source intake — **REGISTERED / AUTHORIZED**
+- canonical records — **18/18**
 - Pass1 — **COMPLETE / PASS — 18/18 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 18/18 REVIEWED / 5 corrections / 0 unresolved**
 - Pass2B — **COMPLETE / PASS — 18/18 REVIEWED / 3 corrections / 0 historical-glyph corrections / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 18/18 REVIEWED**
+- Pass3 corrections — **0 text / 0 structural metadata / 0 unresolved**
 
-All 18 canonical Part003 records still remain:
+All Part003 records still remain:
 
 ```yaml
 status: "needs-review"
 visual_fidelity: "needs-review"
 ```
 
-Pass2B Batch 2 closed cleanly:
-
-- scans **44–52 / local10–18**
-- corrections — **0**
-- historical-glyph corrections — **0**
-- unresolved questions — **0**
-
 Durable controls:
 
 - `works/romapuri-pandian/PART_003_PASS1_PROGRESS.md`
 - `works/romapuri-pandian/PART_003_PASS2A_PROGRESS.md`
 - `works/romapuri-pandian/PART_003_PASS2B_PROGRESS.md`
+- `works/romapuri-pandian/PART_003_PASS3_PROGRESS.md`
+
+## Structural state locked by Pass3
+
+- scans35–43 — Chapter 1 continuation
+- scan43 — Chapter 1 apparent close with large lower blank field
+- scan44 — fully blank physical page
+- scan45 — illustrated Chapter 2 title page `2 / முத்துநகை`
+- scan46 — Chapter 2 opening with large upper blank field
+- scans47–52 — Chapter 2 continuation
+- printed pages mapped exactly where source-visible
+- scans44–46 retain `printed_page: null`
+- incoming 34→35 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 52→53 — **PENDING Part004 adjacent witness / deferred external boundary evidence**
 
 ## Exact next activity
 
-**Part003 Pass3 — meaningful full-page visual / structural verification of scans35–52.**
+**Part003 Part audit.**
 
-Pass3 must independently verify whole-page evidence from the source images:
+The audit must reconcile:
 
-- page-type classification;
-- chapter continuity and chapter boundaries;
-- headings / chapter-title page;
-- illustrations;
-- blank physical pages and intentional blank fields;
-- recurring running headers;
-- visible printed page numbers;
-- displayed verse / dialogue layout where structurally meaningful;
-- physical continuation boundaries;
-- structural consistency of scans35–52 as one Part.
+1. exact source filename identity;
+2. canonical records **18/18**;
+3. continuous global scans **35–52**;
+4. continuous local pages **1–18**;
+5. missing records — **0**;
+6. duplicate records — **0**;
+7. printed-page mapping;
+8. page-type classification;
+9. Pass1 / Pass2A / Pass2B / Pass3 evidence on every canonical page;
+10. correction totals and unresolved-question totals;
+11. incoming 34→35 boundary state;
+12. outgoing 52→53 pending-witness state;
+13. Part001/Part002 frozen integrity;
+14. supplied-Part blockers.
 
-Required structural anchors:
+Expected audit decision if all checks pass:
 
-- scans35–43 — Chapter 1 continuation;
-- scan43 — apparent Chapter 1 close with large lower blank field;
-- scan44 — **fully blank physical page**;
-- scan45 — illustrated Chapter 2 title page `2 / முத்துநகை`;
-- scan46 — Chapter 2 opening with large intentional upper blank field;
-- scans47–52 — Chapter 2 continuation;
-- scan47→48 — `மறைத்து` → `வைக்கப்பட்டிருப்பதை`;
-- scan49→50 — `இந்த` → `ஆபத்து வந்திருக்காதல்லவா?`;
-- scan52 ends on a complete sentence;
-- outgoing **52→53 remains PENDING Part004 adjacent witness / deferred external boundary evidence**.
+**PART003 PART AUDIT — PASS / COMPLETE**
 
-Pass3 may record structural corrections only when directly supported by the source pixels.
-
-Do not promote page status in Pass3 unless the live workflow explicitly requires it. Do not begin the Part audit until Pass3 closes.
+Do **not** perform final metadata/status promotion in the same activity. Promotion must remain a separate final metadata/status synchronization gate after the audit passes.
