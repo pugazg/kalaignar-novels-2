@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 Pass2B Batch 2 scans62–68
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 Pass3 scans53–68
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,18 +25,20 @@ Do not reopen Parts001–003 for stylistic polishing.
 
 - Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
-- Pass2A corrections — **4**
+- Pass2A source-supported corrections — **4**
 - Pass2A unresolved textual questions — **0**
-
-## Part004 Pass2B current state
-
-- whole-Part Pass2B — **IN PROGRESS — 9/16 REVIEWED**
-- Batch 1 scans53–61 / local1–9 — **COMPLETE / PASS**
-- Batch 1 lexical/spacing/punctuation corrections — **0**
-- Batch 1 historical-glyph corrections — **0**
-- Batch 1 unresolved questions — **0**
-- Batch 2 remaining — **scans62–68 / local10–16**
+- Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
+- Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9**
+- Pass2B Batch 2 — **COMPLETE / PASS — scans62–68 / local10–16**
+- Pass2B source-text / lexical / spacing / punctuation corrections — **1**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
 - all Part004 pages remain `needs-review` / `needs-review`
+
+Pass2B correction:
+
+- scan62 — `செழியனைக் சூழ்ச்சியால்` → `செழியனைச் சூழ்ச்சியால்`
 
 Durable control:
 
@@ -44,15 +46,15 @@ Durable control:
 
 ## Exact next activity
 
-**Part004 Pass2B Batch 2 — global scans62–68 / Part004 local pages10–16.**
+**Part004 Pass3 — global scans53–68 / Part004 local pages1–16.**
 
-Required scope:
+Required Pass3 scope:
 
-- independently reread lexical boundaries, spacing and punctuation-sensitive forms directly from source pixels;
-- verify historical Tamil glyph identity; do not silently modernize;
-- record only source-supported corrections;
-- preserve prior Pass2A corrections unless source pixels require otherwise;
-- keep `status` and `visual_fidelity` as `needs-review`;
-- close/synchronize `PART_004_PASS2B_PROGRESS.md` and live controls if all seven pages pass.
+1. perform meaningful full-page visual / structural verification of all 16 pages directly against source images;
+2. confirm headings, chapter boundaries, illustrations, blank lower/upper fields, recurring running headers, printed pagination and page-type classification;
+3. verify blank scans56 and 66 and illustrated title scans57 and 67;
+4. record source-text or structural metadata corrections only when source-supported;
+5. keep `status` and `visual_fidelity` as `needs-review` during Pass3;
+6. create/synchronize `PART_004_PASS3_PROGRESS.md` and live controls after the full review.
 
-Only after the whole Part004 Pass2B gate closes may the next activity become **Part004 Pass3**.
+Do **not** begin the Part audit until Pass3 closes.
