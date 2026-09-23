@@ -9,8 +9,8 @@
 - source family — **TVA_BOK_0065553**
 - original source size — approximately **1.85 GB** (user-reported)
 - source design — **39 size-based split PDFs**, each <=50 MB
-- supplied / registered — **Part001–Part003 / 3 of 39**
-- mapped source extent so far — **global scans1–52**
+- supplied / registered — **Part001–Part004 / 4 of 39**
+- mapped source extent so far — **global scans1–68**
 - Part001 canonical records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED — 19 corrections / 0 unresolved**
@@ -96,9 +96,19 @@
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52**
 - Part003 Pass1 unresolved holds — **0**
-- Part004 source — **NOT SUPPLIED / NOT REGISTERED**
-- outgoing 52→53 — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
+- Part004 source — **REGISTERED / AUTHORIZED — 16 pages / scans53–68**
+- Part004 canonical records — **16/16 — scans53–68**
+- Part004 Pass1 — **COMPLETE / PASS — 16/16**
+- Part004 Pass2A — **COMPLETE / PASS — 16/16 — 4 corrections / 0 unresolved**
+- Part004 Pass2B — **COMPLETE / PASS — 16/16 — 1 correction / 0 historical-glyph / 0 unresolved**
+- Part004 Pass3 — **COMPLETE / PASS — 16/16 — 0 text / 0 structural / 0 unresolved**
+- Part004 Part audit — **PASS / COMPLETE**
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- Part004 Tamil status — **16/16 verified / 0 needs-review**
+- Part004 visual fidelity — **16/16 verified / 0 needs-review**
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
 
@@ -110,4 +120,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+**Part004 Tamil archival-ready checkpoint.**
