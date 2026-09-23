@@ -68,3 +68,34 @@ Part005 canonical transcription is now authorized.
 **Part005 Pass1 Batch 1 — global scans69–78 / local pages1–10.**
 
 Pass1 must cover all **17/17** Part005 physical scans before Pass2A may begin.
+
+
+## Post-intake control synchronization verification
+
+Pre-intake live head:
+
+`98ef1dec4839768c7b3588ca636ea39ff8f1cf6c`
+
+Post-intake synchronized checkpoint before this record refresh:
+
+`69c561f33581dfa0a2614970e649c68e70bd67be`
+
+Direct comparison confirms:
+
+- changed files — **11**
+- new Part005 intake/boundary controls — **3**
+- canonical `pages/` files changed — **0**
+- Part005 canonical page records created — **0**
+- frozen assembled Tamil body changes — **0**
+- frozen English section-body changes — **0**
+- Parts001–004 canonical/body mutation — **0**
+
+The synchronized controls agree on:
+
+- Part005 source — **REGISTERED / AUTHORIZED**
+- Part005 extent — **17 pages / scans69–85**
+- incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part005 records — **0/17**
+- Pass1 — **NOT STARTED**
+- unresolved intake/boundary blockers — **0**
+- exact next activity — **Part005 Pass1 Batch 1 — scans69–78 / local1–10**
