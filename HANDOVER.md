@@ -158,8 +158,11 @@
 - Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / PASS — scans63–68 / local11–16**
 - Pass1 unresolved source-reading holds — **0**
+- Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Pass2A source-supported corrections — **4**
+- Pass2A unresolved textual questions — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 Pass2A scans53–68 / local1–16**
+- exact next activity — **Part004 Pass2B Batch 1 scans53–61 / local1–9**
 
 ## Boundary
 
@@ -231,11 +234,12 @@
 - `PART_003_BOUNDARY_AUDIT_52_53.md`
 - `PART_004_INTAKE_BOUNDARY_SETUP.md`
 - `PART_004_PASS1_PROGRESS.md`
+- `PART_004_PASS2A_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 Pass2A — scans53–68 / local1–16**
+- prompt frontier — **Part004 Pass2B Batch 1 — scans53–61 / local1–9**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -250,6 +254,6 @@
 
 ## Exact next activity
 
-**Part004 Pass2A — global scans53–68 / local pages1–16.**
+**Part004 Pass2B Batch 1 — global scans53–61 / local pages1–9.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Pass1 is COMPLETE / PASS at 16/16 TEXT-COMPLETE with 0 unresolved source-reading holds. Pass2A must independently reread the full Part directly against source pixels; do not begin Pass2B until Pass2A closes.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Pass2A is COMPLETE / PASS at 16/16 REVIEWED with 4 source-supported corrections and 0 unresolved textual questions. Pass2B follows the fixed 9-page cadence; do not begin Pass3 until both Pass2B iterations close.
