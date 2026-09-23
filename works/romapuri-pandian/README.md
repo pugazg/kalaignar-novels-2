@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 INTAKE PASS / PASS1 READY**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 PASS1 IN PROGRESS 10/16**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -112,8 +112,10 @@
 - Part004 file size — **47,813,374 bytes**
 - Part004 SHA-256 — `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5`
 - Part004 intake + incoming-boundary setup — **PASS / COMPLETE**
-- Part004 canonical records — **0/16**
-- Part004 Pass1 — **NOT STARTED / AUTHORIZED**
+- Part004 canonical records — **10/16 — scans53–62**
+- Part004 Pass1 — **IN PROGRESS — 10/16 TEXT-COMPLETE**
+- Part004 Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
+- Part004 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -182,10 +184,11 @@
 - `SOURCE_INTAKE_PART_004.md`
 - `PART_003_BOUNDARY_AUDIT_52_53.md`
 - `PART_004_INTAKE_BOUNDARY_SETUP.md`
+- `PART_004_PASS1_PROGRESS.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part004 Pass1 — global scans53–62 / local pages1–10.**
+**Part004 Pass1 Batch 2 — global scans63–68 / local pages11–16.**
 
-Parts001–003 are frozen; do not reopen them for stylistic polishing. Do not begin Pass2A until Part004 Pass1 covers scans53–68.
+Parts001–003 are frozen; do not reopen them for stylistic polishing. Do not begin Pass2A until Part004 Pass1 covers all 16 scans.

@@ -153,10 +153,12 @@
 - source intake — **REGISTERED / AUTHORIZED**
 - intake + incoming-boundary setup — **PASS / COMPLETE**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
-- canonical records — **0/16**
-- Pass1 — **NOT STARTED**
+- canonical records — **10/16 — scans53–62**
+- Pass1 — **IN PROGRESS — 10/16 TEXT-COMPLETE**
+- Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
+- Pass1 unresolved source-reading holds — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 Pass1 scans53–62 / local1–10**
+- exact next activity — **Part004 Pass1 Batch 2 scans63–68 / local11–16**
 
 ## Boundary
 
@@ -227,11 +229,12 @@
 - `SOURCE_INTAKE_PART_004.md`
 - `PART_003_BOUNDARY_AUDIT_52_53.md`
 - `PART_004_INTAKE_BOUNDARY_SETUP.md`
+- `PART_004_PASS1_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 Pass1 — scans53–62 / local1–10**
+- prompt frontier — **Part004 Pass1 Batch 2 — scans63–68 / local11–16**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -246,6 +249,6 @@
 
 ## Exact next activity
 
-**Part004 Pass1 — global scans53–62 / local pages1–10.**
+**Part004 Pass1 Batch 2 — global scans63–68 / local pages11–16.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 source intake and 52→53 boundary setup are PASS / COMPLETE; canonical records remain 0/16 until Pass1 begins. Do not begin Pass2A until Pass1 covers scans53–68.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Pass1 Batch 1 is COMPLETE / PASS with 10/16 canonical records and 0 unresolved source-reading holds. Do not begin Pass2A until Batch 2 closes Part004 Pass1 at 16/16.

@@ -17,8 +17,10 @@ Source:
 - source text layer — **no usable parsed text**
 - controlling representation — **rendered source page images**
 - source intake — **REGISTERED / AUTHORIZED**
-- canonical Part004 records — **0/16**
-- Pass1 — **NOT STARTED**
+- canonical Part004 records — **10/16 — scans53–62**
+- Pass1 — **IN PROGRESS — 10/16 TEXT-COMPLETE**
+- Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
+- Pass1 unresolved source-reading holds — **0**
 
 ## Incoming boundary
 
@@ -62,6 +64,6 @@ Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 Pass1 — global scans53–62 / Part004 local pages1–10.**
+**Part004 Pass1 Batch 2 — global scans63–68 / Part004 local pages11–16.**
 
-Do not begin Pass2A until Pass1 covers the full Part004 range **53–68**.
+Do not begin Pass2A until Batch 2 closes Part004 Pass1 at **16/16**.

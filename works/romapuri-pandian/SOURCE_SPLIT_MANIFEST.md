@@ -134,7 +134,9 @@
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - Part004 source — **REGISTERED / scans53–68 / 16 pages**
 - Part004 source intake + incoming boundary setup — **PASS / COMPLETE**
-- Part004 canonical records — **0/16**
-- Part004 Pass1 — **NOT STARTED**
+- Part004 canonical records — **10/16 — scans53–62**
+- Part004 Pass1 — **IN PROGRESS — 10/16 TEXT-COMPLETE**
+- Part004 Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
+- Part004 unresolved Pass1 holds — **0**
 - Part004 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part004 Pass1 — scans53–62 / local1–10**
+- exact next gate — **Part004 Pass1 Batch 2 — scans63–68 / local11–16**
