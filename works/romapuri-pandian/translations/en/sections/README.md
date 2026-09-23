@@ -159,3 +159,46 @@ Do not begin E12 until E11 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **None until Part004 source intake authorizes the next Part.**
+
+
+## Part004 — PLANNING / SETUP COMPLETE / PASS
+
+Part004 Tamil prerequisites are closed:
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- unresolved Tamil blockers — **0**
+
+### Reserved mapping
+
+| Batch | Verified Tamil source | Planned English file | Scans | State |
+|---|---|---|---:|---|
+| E13 | `../../../sections/12-chapter-02-muthunagai-part004-continuation.md` | `12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | **RESERVED / NEXT** |
+| E14 | `../../../sections/13-chapter-03-maravar-maanam.md` | `13-chapter-03-the-warriors-honour.md` | 57–66 | **RESERVED** |
+| E15 | `../../../sections/14-chapter-04-pulavar-magal-purappattaal.md` | `14-chapter-04-the-poets-daughter-sets-out.md` | 67–68 | **RESERVED** |
+
+Part004 English section files created by planning — **0/3**.
+
+### Part004 boundary safeguards
+
+- incoming **52→53 = GENUINE CONTINUATION / AUDITED**
+- Part003 E12 remains frozen; E13 must not backfill it
+- scan56 is a blank physical separator and has no English body text
+- scan66 is a blank physical separator and has no English body text
+- outgoing **68→69 = PENDING Part005 adjacent witness / deferred external boundary evidence**
+- Part005 wording must not be inferred or imported
+
+### Planning integrity
+
+- Parts001–003 English section files modified — **0**
+- canonical/assembled Tamil changes caused by planning — **0**
+- Part005 leakage — **0**
+- unresolved planning holds — **0**
+
+## Exact next English activity
+
+**E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
+
+Do not begin E14 until E13 is **SOURCE-CHECKED / COMPLETE**.
