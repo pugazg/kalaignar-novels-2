@@ -302,6 +302,10 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part004 Pass3 unresolved visual / structural questions — **0**
 - Part004 Part audit — **PASS / COMPLETE — 16/16 canonical / 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part004 audit unresolved blockers — **0**
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- Part004 Tamil status — **16/16 verified / 0 needs-review**
+- Part004 visual fidelity — **16/16 verified / 0 needs-review**
+- Part004 documentation synchronization — **PASS / COMPLETE**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part004 final metadata/status synchronization**
+- exact next gate — **Part004 Tamil archival-ready checkpoint**
