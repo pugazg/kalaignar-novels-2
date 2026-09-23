@@ -227,6 +227,19 @@ Part004 English section files — **3/3 source-checked**.
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - unresolved glossary holds — **0**
 
+## Part004 closed English review / release state
+
+- maintained English section files — **3/3**
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- editorial corrections — **2**
+- bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/release blockers — **0**
+- Part005 leakage — **0**
+
 ## Exact next English activity
 
-**Part004 English editorial review across E13–E15.**
+**Part004 final closure / freeze.**
