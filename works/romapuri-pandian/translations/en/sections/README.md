@@ -240,6 +240,19 @@ Part004 English section files — **3/3 source-checked**.
 - unresolved English/release blockers — **0**
 - Part005 leakage — **0**
 
+## Part004 — FINAL CLOSED / FROZEN
+
+- maintained English section files — **3/3**
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved English blockers — **0**
+- Part005 leakage — **0**
+
 ## Exact next English activity
 
-**Part004 final closure / freeze.**
+**None until Part005 source intake authorizes the next Part.**
