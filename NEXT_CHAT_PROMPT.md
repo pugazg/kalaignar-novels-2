@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 Part audit
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 final metadata-status synchronization
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,7 +10,7 @@ Read live controls first. If this prompt conflicts with live `main`, live `main`
 - Part002 — **FINAL CLOSED / FROZEN**
 - Part003 — **FINAL CLOSED / FROZEN**
 
-Do not reopen Parts001–003 for stylistic polishing.
+Do not reopen Parts001–003.
 
 ## Part004 source
 
@@ -25,42 +25,41 @@ Do not reopen Parts001–003 for stylistic polishing.
 ## Closed Part004 gates
 
 - Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
-- Pass1 unresolved holds — **0**
 - Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
-- Pass2A source-supported corrections — **4**
-- Pass2A unresolved textual questions — **0**
+- Pass2A corrections — **4 / 0 unresolved**
 - Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
-- Pass2B source-text / lexical / spacing / punctuation corrections — **1**
-- Pass2B historical-glyph corrections — **0**
-- Pass2B unresolved lexical / historical-glyph questions — **0**
+- Pass2B corrections — **1 / 0 historical-glyph / 0 unresolved**
 - Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
-- Pass3 source-text corrections — **0**
-- Pass3 structural metadata corrections — **0**
-- Pass3 unresolved visual / structural questions — **0**
-- all canonical Part004 pages remain `needs-review` / `needs-review`
+- Pass3 corrections — **0 text / 0 structural / 0 unresolved**
+- Part audit — **PASS / COMPLETE**
+- audit canonical coverage — **16/16; continuous scans53–68; 0 missing / 0 duplicate**
+- audit unresolved blockers — **0**
+- Part005 leakage — **0**
 
-Durable controls:
+Durable audit control:
 
-- `works/romapuri-pandian/PART_004_PASS1_PROGRESS.md`
-- `works/romapuri-pandian/PART_004_PASS2A_PROGRESS.md`
-- `works/romapuri-pandian/PART_004_PASS2B_PROGRESS.md`
-- `works/romapuri-pandian/PART_004_PASS3_PROGRESS.md`
+`works/romapuri-pandian/PART_004_AUDIT.md`
+
+## Current metadata state
+
+All 16 Part004 canonical records deliberately remain:
+
+```yaml
+status: "needs-review"
+visual_fidelity: "needs-review"
+```
 
 ## Exact next activity
 
-**Part004 Part audit.**
+**Part004 final metadata/status synchronization.**
 
-Audit requirements:
+Requirements:
 
-1. verify canonical record coverage is exactly scans **53–68 / local1–16** with no missing or duplicate pages;
-2. verify `part`, `part_page`, exact source filename, status and visual-fidelity metadata;
-3. reconcile printed-page mapping and page types against the closed Pass3 evidence;
-4. verify every canonical page contains Pass1, Pass2A, Pass2B and Pass3 evidence;
-5. reconcile all correction ledgers: Pass2A **4**, Pass2B **1**, Pass3 **0**;
-6. confirm unresolved Pass1 / Pass2A / Pass2B / Pass3 items are all **0**;
-7. confirm Parts001–003 remain frozen and no Part005 text has been imported;
-8. treat pending 68→69 as a deferred external witness, not a supplied-Part blocker.
+1. promote `status: "needs-review"` → `status: "verified"` on exactly the 16 Part004 canonical records;
+2. promote `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"` on exactly the same 16 records;
+3. do **not** change canonical Tamil body text, punctuation, page structure, source provenance, printed-page mapping, page types, or Pass evidence;
+4. verify final counts are **16/16 verified / 0 needs-review** for both textual status and visual fidelity;
+5. create/synchronize `PART_004_FINAL_STATUS_SYNC.md` and live controls;
+6. keep Parts001–003 frozen and do not introduce Part005 text.
 
-Create/synchronize `PART_004_AUDIT.md` and live controls.
-
-Do **not** promote `status` or `visual_fidelity` to `verified` during the audit. Final promotion is a separate gate after the audit passes.
+Do not begin documentation synchronization or Tamil archival-ready in the same activity unless explicitly requested after this gate closes.
