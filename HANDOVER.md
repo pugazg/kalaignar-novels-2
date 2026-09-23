@@ -218,9 +218,14 @@
 - Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
 - Pass1 unresolved source-reading holds — **0**
+- Pass2A cadence — **9 pages per iteration; final remainder may contain fewer**
+- Pass2A — **IN PROGRESS — 9/17 REVIEWED**
+- Pass2A Batch 1 — **COMPLETE / PASS — scans69–77 / local1–9**
+- Pass2A source-supported corrections — **2**
+- Pass2A unresolved textual questions — **0**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 Pass2A — scans69–85 / local1–17**
+- exact next activity — **Part005 Pass2A Batch 2 — scans78–85 / local10–17**
 
 ## Boundary
 
@@ -315,11 +320,12 @@
 - `PART_004_BOUNDARY_AUDIT_68_69.md`
 - `PART_005_INTAKE_BOUNDARY_SETUP.md`
 - `PART_005_PASS1_PROGRESS.md`
+- `PART_005_PASS2A_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 Pass2A — scans69–85**
+- prompt frontier — **Part005 Pass2A Batch 2 — scans78–85**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -334,6 +340,6 @@
 
 ## Exact next activity
 
-**Part005 Pass2A — global scans69–85 / local pages1–17.**
+**Part005 Pass2A Batch 2 — global scans78–85 / local pages10–17.**
 
-Parts001–004 remain FINAL CLOSED / FROZEN. Part005 Pass1 is COMPLETE / PASS at 17/17 TEXT-COMPLETE with 0 unresolved holds. Keep all Part005 records needs-review / needs-review during Pass2A.
+Batch 1 is COMPLETE / PASS at 9/17 reviewed with 2 source-supported corrections and 0 unresolved. The final remainder is 8 pages. Keep all records needs-review / needs-review.

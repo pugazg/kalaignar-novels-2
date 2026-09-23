@@ -110,3 +110,19 @@ Pass2A is now unblocked.
 **Part005 Pass2A — global scans69–85 / local pages1–17.**
 
 Do not promote `status` or `visual_fidelity` during Pass2A.
+
+
+## Post-Pass1 Pass2A progress
+
+Part005 Pass2A has begun under the fixed **9-page iteration cadence**:
+
+- Batch 1 — **scans69–77 / local1–9 — COMPLETE / PASS**
+- reviewed — **9/17**
+- source-supported corrections — **2**
+- unresolved textual questions — **0**
+- status promotions — **0**
+- durable control — `PART_005_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part005 Pass2A Batch 2 — scans78–85 / local10–17 — final 8-page remainder.**

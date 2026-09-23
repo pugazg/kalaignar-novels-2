@@ -73,6 +73,11 @@ The newly available scan69 witness resolves only the deferred cross-Part boundar
 - Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
 - Pass1 unresolved source-reading holds — **0**
+- Pass2A cadence — **9 pages per iteration; final remainder may contain fewer**
+- Pass2A — **IN PROGRESS — 9/17 REVIEWED**
+- Pass2A Batch 1 — **COMPLETE / PASS — scans69–77 / local1–9**
+- Pass2A source-supported corrections — **2**
+- Pass2A unresolved textual questions — **0**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
 
@@ -82,6 +87,6 @@ Part005 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part005 Pass2A — global scans69–85 / local pages1–17.**
+**Part005 Pass2A Batch 2 — global scans78–85 / local pages10–17.**
 
-Pass1 is COMPLETE / PASS at 17/17 TEXT-COMPLETE. Keep all records needs-review / needs-review during Pass2A.
+Batch 1 is COMPLETE / PASS at 9/17 reviewed with 2 corrections and 0 unresolved.

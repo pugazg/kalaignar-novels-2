@@ -172,6 +172,10 @@
 - Part005 Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
 - Part005 Pass1 Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
 - Part005 unresolved Pass1 holds — **0**
+- Part005 Pass2A cadence — **9 pages per iteration; final remainder may contain fewer**
+- Part005 Pass2A — **IN PROGRESS — 9/17 REVIEWED**
+- Part005 Pass2A Batch 1 — **COMPLETE / PASS — scans69–77 / local1–9**
+- Part005 Pass2A corrections — **2 / 0 unresolved**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part005 Pass2A — scans69–85 / local1–17**
+- exact next gate — **Part005 Pass2A Batch 2 — scans78–85 / local10–17**

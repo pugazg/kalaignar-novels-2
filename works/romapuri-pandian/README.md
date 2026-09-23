@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 PASS1 COMPLETE / PASS2A NEXT**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 PASS2A IN PROGRESS 9/17**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -161,6 +161,11 @@
 - Part005 Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
 - Part005 Pass1 Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
 - Part005 unresolved Pass1 holds — **0**
+- Part005 Pass2A cadence — **9 pages per iteration; final remainder may contain fewer**
+- Part005 Pass2A — **IN PROGRESS — 9/17 REVIEWED**
+- Part005 Pass2A Batch 1 — **COMPLETE / PASS — scans69–77 / local1–9**
+- Part005 Pass2A corrections — **2**
+- Part005 Pass2A unresolved textual questions — **0**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
@@ -245,4 +250,4 @@
 
 ## Exact next activity
 
-**Part005 Pass2A — global scans69–85 / local pages1–17.**
+**Part005 Pass2A Batch 2 — global scans78–85 / local pages10–17.**
