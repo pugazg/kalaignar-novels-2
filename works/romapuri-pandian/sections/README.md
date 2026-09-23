@@ -48,6 +48,21 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - canonical page mutations caused by assembly — **0**
 - validation — `../PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Part004 — PASS / CLOSED
+
+- physical coverage — **scans53–68**
+- verified canonical pages represented structurally — **16/16**
+- publication-text source-transcription pages represented — **14/14**
+- blank scans56 and 66 — **represented by provenance only; no rendered Tamil text**
+- assembled files — **3/3 VERIFIED**
+- omitted publication-text pages — **0**
+- duplicate canonical publication-text pages — **0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- Part005 text leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- validation — `../PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+
 ## Section inventory
 
 | Order | Part | File | Source scans | Source structure | Status |
@@ -64,6 +79,9 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 | 9 | 002 | `09-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum.md` | 29–34 | Chapter 1 title + narrative opening | **VERIFIED** |
 | 10 | 003 | `10-chapter-01-karikaar-chozhanum-peruvazhuthi-pandiyanum-part003-continuation.md` | 35–44 | Chapter 1 continuation / close; scan44 blank separator represented by provenance | **VERIFIED** |
 | 11 | 003 | `11-chapter-02-muthunagai.md` | 45–52 | Chapter 2 illustrated title + narrative opening / continuation | **VERIFIED** |
+| 12 | 004 | `12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | Chapter 2 continuation / close; scan56 blank separator represented by provenance | **VERIFIED** |
+| 13 | 004 | `13-chapter-03-maravar-maanam.md` | 57–66 | Chapter 3 illustrated title + narrative / close; scan66 blank separator represented by provenance | **VERIFIED** |
+| 14 | 004 | `14-chapter-04-pulavar-magal-purappattaal.md` | 67–68 | Chapter 4 illustrated title + narrative opening | **VERIFIED** |
 
 ## Assembly rules
 
@@ -110,6 +128,21 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - scan49→50 — sentence continuation retained as `இந்த ஆபத்து வந்திருக்காதல்லவா?`.
 - scan52 — ends on the complete sentence `முத்துநகைக்குத் தூக்கமே வரவில்லை. புரண்டு புரண்டு படுத்தாள்.`; no Part004 continuation is imported.
 
+## Part004 special cases
+
+- scan53 — begins the audited Chapter 2 continuation from Part003 scan52; Part003 body text is not duplicated into the Part004 assembled file.
+- scan53→54 — same-sentence continuation retained as `தன்பால் மிக்க அன்பு கொண்டவர் என்றும் காரிக்கண்ணனார்...`.
+- scan55 — Chapter 2 closes with a large intentional lower blank field.
+- scan56 — fully blank physical separator represented by provenance only; no rendered Tamil text.
+- scan57 — illustrated Chapter 3 title page retained at the start of the Chapter 3 assembled file.
+- scan58 — Chapter 3 narrative opens after the title page.
+- scan61→62 — same-sentence continuation retained as `நேரத்தில்தான் செழியன் குறுக்கிட்டுவிட்டான்.`.
+- scan64→65 — same-sentence continuation retained as `அமைச்சரின் உத்திரவில் ஏதாவது அர்த்தமிருக்கும்...`.
+- scan65 — Chapter 3 closes with a large intentional lower blank field.
+- scan66 — fully blank physical separator represented by provenance only.
+- scan67 — illustrated Chapter 4 title page retained at the start of the Chapter 4 assembled file.
+- scan68 — Chapter 4 narrative opening; Part005 text is not imported.
+
 ## Boundary safeguard
 
 - outgoing Part001 **17→18 — GENUINE CONTINUATION / AUDITED**
@@ -117,8 +150,11 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - outgoing Part002 / incoming Part003 **34→35 — GENUINE CONTINUATION / AUDITED**
 - Part002 body imported into Part003 assembled layer — **0**
 - Part003 body imported backward into Part002 assembled layer — **0**
-- outgoing Part003 **52→53 — PENDING Part004 adjacent witness / deferred external boundary evidence**
-- Part004 text imported into Part003 assembled layer — **0**
+- outgoing Part003 / incoming Part004 **52→53 — GENUINE CONTINUATION / AUDITED**
+- Part003 body imported into Part004 assembled layer — **0**
+- Part004 body imported backward into Part003 assembled layer — **0**
+- outgoing Part004 **68→69 — PENDING Part005 adjacent witness / deferred external boundary evidence**
+- Part005 text imported into Part004 assembled layer — **0**
 
 ## Downstream state
 
@@ -175,4 +211,12 @@ Part003 release-ready synchronization — **PASS / CLOSED**.
 
 Part003 final closure — **PASS / CLOSED / FROZEN**.
 
-Exact next maintained gate — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**.
+Part004 Tamil archival-ready — **PASS / CLOSED**.
+
+Part004 assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**.
+
+Part004 assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**.
+
+Part004 assembled Tamil validation blockers — **0**.
+
+Exact next maintained gate — **Part004 English translation planning/setup**.
