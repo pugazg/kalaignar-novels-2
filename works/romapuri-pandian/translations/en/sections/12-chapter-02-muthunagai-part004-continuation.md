@@ -19,7 +19,7 @@ Where could they have taken Sezhiyan? What might they have done to him?
 
 It was all trouble she had brought upon herself! If she had not opened the door in order to pay respect to the Siva devotees, would any of this have happened?
 
-Worrying like this, that tender young woman grew utterly exhausted. The hours rolled by and it became midnight. Everywhere there was a terrifying silence. The palace bell announced the stroke of midnight and then fell silent. As the lighthouse on the Poompuhar shore revolved, its light flashed "palich, palich" across the courtyard of her house and vanished again and again; it seemed an apt image of her state of mind.
+Worrying like this, that tender young woman grew utterly exhausted. Time rolled by until midnight. Everywhere there was a terrifying silence. The palace bell announced the stroke of midnight and then fell silent. As the lighthouse on the Poompuhar shore revolved, its light flashed "palich, palich" across the courtyard of her house and vanished again and again; it seemed an apt image of her state of mind.
 
 Sensing that someone was lighting a lamp inside the darkened house, she turned and looked. It was the poet who had lit it. Muthunagai continued watching him. Sitting beneath the lamp, the poet took palm-leaf manuscripts in hand and began driving his stylus across them. Muthunagai wondered what he could be writing. She answered her own question: it must be some poem.
 
@@ -31,7 +31,7 @@ The door opened. An elderly man entered, his beard and moustache thick and full.
 
 "What, poet! Are you well?" the old man asked as he came in.
 
-Muthunagai had seen the old man before. She had even spoken with him. Karikannanar had told Muthunagai that he was a man of the Yavana country, a great merchant prince, and one who bore great affection toward him. <!-- source boundary: scan 53 → scan 54 --> She too bowed to the old man and welcomed him.
+Muthunagai had seen the old man before. She had even spoken with him. Karikannanar had told Muthunagai that he was a man of the Yavana country, a great merchant prince, and one who was very fond of him. <!-- source boundary: scan 53 → scan 54 --> She too bowed to the old man and welcomed him.
 
 The old man came close to Muthunagai and, affectionately stroking her head, asked, "Are you well, child?"
 
@@ -47,7 +47,7 @@ The old man slowly crossed the threshold and walked out. The poet too went as fa
 
 <!-- source boundary: scan 54 → scan 55 -->
 
-"King Irungovel? The enemy of this country? Then is this man not a Yavana elder? Alas! Is father keeping relations with the enemy?"
+"King Irungovel? The enemy of this country? Then is this man not a Yavana elder? Alas! Is father maintaining ties with the enemy?"
 
 The questions pierced and battered her heart. Hiding the medallion, she went and lay down on her bed.
 
