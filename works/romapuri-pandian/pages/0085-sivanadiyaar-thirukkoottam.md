@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf"
-transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch scans79–85"
+transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch scans79–85; formal Part005 Pass 2A reviewed Batch2 scans78–85"
 ---
 
 # 5. சிவனடியார் திருக்கூட்டம்
 
 ## Source transcription
 
-மற்ற அடியார்கள் முத்துநகையைக் சூழ்ந்து பிடித்துக் கொண்டார்கள். அந்தக் குழப்பத்தில் அவள் ஆண் வேடம் கலைந்தது. அழகுமயமான ஆரணங்கு எதிரே நிற்பதை அடியார்களின் தலைவர் கண்டார். “பொன்னுருக்கிச் செய்ததுவோ! புலவர்களின் கற்பனையோ!” என எண்ணத் தக்கவாறு, தனியாக நின்று கொண்டிருக்கும் ஏந்திழையைக் கண்டதும் திருநீற்றடியாரின் இதயம், காய்ச்சிய ஈயமென உருகி, விலா எலும்புகளைத் தீய்த்து, அடி வயிற்றைப் பற்றி வைத்து அத்தனை இரத்தக்குழாய்களிலும் பாய்ந்தோடிற்று.
+மற்ற அடியார்கள் முத்துநகையைச் சூழ்ந்து பிடித்துக் கொண்டார்கள். அந்தக் குழப்பத்தில் அவள் ஆண் வேடம் கலைந்தது. அழகுமயமான ஆரணங்கு எதிரே நிற்பதை அடியார்களின் தலைவர் கண்டார். “பொன்னுருக்கிச் செய்ததுவோ! புலவர்களின் கற்பனையோ!” என எண்ணத் தக்கவாறு, தனியாக நின்று கொண்டிருக்கும் ஏந்திழையைக் கண்டதும் திருநீற்றடியாரின் இதயம், காய்ச்சிய ஈயமென உருகி, விலா எலும்புகளைத் தீய்த்து, அடி வயிற்றைப் பற்றி வைத்து அத்தனை இரத்தக்குழாய்களிலும் பாய்ந்தோடிற்று.
 
 சூழ நின்ற மாணவர் குழாத்தைத் திருநீற்றடியார் கடைக்கண்ணால் பார்த்தார். அவர்கள் மறைந்தனர். அவளைக் கரம் பற்றி இழுத்தார். ஓங்கி ஓர் அறை கொடுத்தாள் முத்துநகை. நெற்றியில் உள்ள முப்பட்டையைப் போல் அவர் கன்னத்திலும் அவளது விரல்கள் பதிந்து, இரத்தக் கோடுகளைக் கிழித்தன.
 
@@ -39,3 +39,13 @@ transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch s
 - no Part006 text inferred; source-sensitive forms retained for later independent verification; unresolved Pass1 holds: 0
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 85; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 83; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part005 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-supported correction: `மற்ற அடியார்கள் முத்துநகையைக் சூழ்ந்து பிடித்துக் கொண்டார்கள்.` → `மற்ற அடியார்கள் முத்துநகையைச் சூழ்ந்து பிடித்துக் கொண்டார்கள்.`;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
