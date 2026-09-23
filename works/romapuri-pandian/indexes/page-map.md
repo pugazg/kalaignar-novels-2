@@ -68,19 +68,18 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 004 | 9 | 61 | 59 | Chapter 3 continuation; terminal physical continuation `நேரத்தில்தான்` | needs-review | `pages/0061-maravar-maanam.md` |
 | 004 | 10 | 62 | 60 | Chapter 3 continuation; completes scan61 sentence | needs-review | `pages/0062-maravar-maanam.md` |
 
-## Registered source beyond current canonical rows
-
-Part004 Pass1 still has **6** untranscribed physical scans.
-
-- remaining Part004 local pages — **11–16**
-- remaining source-mapped global scans — **63–68**
-- row-level printed-page / structure / canonical-file entries — **deferred to direct Batch 2 source-pixel transcription**
+| 004 | 11 | 63 | 61 | Chapter 3 continuation; Sezhiyan resistance / Villavan body brought in | needs-review | `pages/0063-maravar-maanam.md` |
+| 004 | 12 | 64 | 62 | Chapter 3 continuation; Irungovel enters; ends mid-sentence | needs-review | `pages/0064-maravar-maanam.md` |
+| 004 | 13 | 65 | 63 | Chapter 3 continuation / apparent close; large intentional blank lower field | needs-review | `pages/0065-maravar-maanam.md` |
+| 004 | 14 | 66 | — | Blank physical page | needs-review | `pages/0066-blank.md` |
+| 004 | 15 | 67 | — | Chapter 4 illustrated title page — `புலவர் மகள் புறப்பட்டாள்` | needs-review | `pages/0067-chapter-04-title.md` |
+| 004 | 16 | 68 | — | Chapter 4 opening; large intentional blank upper field; Part004 terminal page | needs-review | `pages/0068-pulavar-magal-purappattaal.md` |
 
 ## Current state
 
 - registered Parts — **4/39**
 - source-mapped scans — **1–68**
-- canonical page records — **62**
+- canonical page records — **68**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A corrections — **19**
@@ -175,8 +174,9 @@ Part004 Pass1 still has **6** untranscribed physical scans.
 - Part003 Pass1 unresolved holds — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - Part004 source intake + incoming boundary setup — **PASS / COMPLETE**
-- Part004 canonical records — **10/16 — scans53–62**
-- Part004 Pass1 — **IN PROGRESS — 10/16 TEXT-COMPLETE**
+- Part004 canonical records — **16/16 — scans53–68**
+- Part004 Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Part004 Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
+- Part004 Pass1 Batch 2 — **COMPLETE / PASS — scans63–68 / local11–16**
 - Part004 unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass1 Batch 2 — scans63–68 / local11–16**
+- exact next activity — **Part004 Pass2A — scans53–68 / local1–16**

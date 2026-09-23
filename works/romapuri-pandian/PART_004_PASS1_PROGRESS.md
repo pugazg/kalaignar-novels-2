@@ -1,8 +1,8 @@
 # ரோமாபுரிப் பாண்டியன் — Part004 Pass 1 Progress
 
-## Current result
+## Final result
 
-**PART004 PASS 1 — IN PROGRESS — 10/16 TEXT-COMPLETE**
+**PART004 PASS 1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 
 Controlling source:
 
@@ -28,19 +28,23 @@ Source identity:
 - verified blank physical scan — **56**
 - unresolved source-reading holds — **0**
 
-### Batch 2 — NEXT
+### Batch 2 — COMPLETE / TEXT-COMPLETE
 
 - global scans — **63–68**
 - local pages — **11–16**
-- canonical records — **0/6**
-- Pass1 — **NOT STARTED**
+- canonical records — **6/6**
+- text-bearing scans — **63–65, 67–68**
+- verified blank physical scan — **66**
+- scan67 — illustrated Chapter 4 title page
+- unresolved source-reading holds — **0**
 
-Whole-Part state:
+Whole-Part coverage:
 
-- canonical records — **10/16**
-- covered global scans — **53–62 continuous**
-- covered local Part pages — **1–10 continuous**
-- remaining scans — **63–68 / local11–16**
+- canonical records — **16/16**
+- global scan range — **53–68 continuous**
+- local Part-page range — **1–16 continuous**
+- missing physical scans — **0**
+- duplicate physical scans — **0**
 - unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
 
@@ -49,21 +53,32 @@ Whole-Part state:
 ### Chapter 2 continuation / close
 
 - scans53–55 — Chapter **2**, `முத்துநகை`
-- scan53 — direct narrative continuation of frozen Part003 scan52; incoming 52→53 audited
+- scan53 — direct narrative continuation of frozen Part003 scan52
 - scan53→54 physical sentence continuation — `தன்பால் மிக்க அன்பு கொண்டவர்` → `என்றும் காரிக்கண்ணனார்...`
 - scan55 — Chapter 2 apparent close with large intentional blank lower field
 
 ### Structural separator
 
 - scan56 — **blank physical page**
-- no visible printed numeral, running header, body text, illustration or page furniture
 
-### Chapter 3
+### Chapter 3 — `மறவர் மானம்`
 
-- scan57 — illustrated Chapter 3 title page, large numeral `3`, title `மறவர் மானம்`
+- scan57 — illustrated Chapter 3 title page
 - scan58 — Chapter 3 narrative opening with large intentional blank upper field
-- scans59–62 — Chapter 3 continuation
+- scans59–65 — Chapter 3 continuation
 - scan61→62 physical sentence continuation — `அவன் கனவு பழுக்கப்போகும் நேரத்தில்தான்` → `செழியன் குறுக்கிட்டுவிட்டான்.`
+- scan64→65 physical sentence continuation — `அமைச்சரின் உத்திரவில் ஏதாவது` → `அர்த்தமிருக்கும்...`
+- scan65 — Chapter 3 apparent close with large intentional blank lower field
+
+### Structural separator
+
+- scan66 — **blank physical page**
+
+### Chapter 4 — `புலவர் மகள் புறப்பட்டாள்`
+
+- scan67 — illustrated Chapter 4 title page
+- scan68 — Chapter 4 narrative opening with large intentional blank upper field
+- scan68 — Part004 terminal physical page; source-visible sentence closes normally
 
 ## Printed-page mapping
 
@@ -76,12 +91,18 @@ Directly visible printed numerals:
 - scan60 → **58**
 - scan61 → **59**
 - scan62 → **60**
+- scan63 → **61**
+- scan64 → **62**
+- scan65 → **63**
 
 No directly visible printed numeral:
 
 - scan56 → `printed_page: null`
 - scan57 → `printed_page: null`
 - scan58 → `printed_page: null`
+- scan66 → `printed_page: null`
+- scan67 → `printed_page: null`
+- scan68 → `printed_page: null`
 
 No inferred numerals were inserted.
 
@@ -106,25 +127,33 @@ Pass1 integrity:
 - frozen Part003 assembled Tamil mutation — **0**
 - frozen Part003 English mutation — **0**
 
-## Batch 1 source-sensitive forms retained
+## Source-sensitive forms retained for Pass2
 
-Direct-pixel capture preserves source-visible forms for independent Pass2 verification, including:
+Direct-pixel capture preserves unusual/source-sensitive forms for independent textual and lexical verification, including:
 
 - scan53 — `நடுநிசியின் பதை`
 - scan53 — `மேலாடை பொன்று கிடந்தது`
 - scan54 — `சுகந்தான் தாத்தா!`
 - scan58 — `மயக்கந்தெளிந்து`
 - scan59 — `கார்த்தைக்கூட`
-- scan61 — sign text `சாவுருக்குப் போகும் வழி`
+- scan61 — `சாவுருக்குப் போகும் வழி`
 - scan62 — `செழியனைக் சூழ்ச்சியால்`
 - scan62 — `பகைபதைப்புடன்`
 - scan62 — `அழுத்தந் திருத்தமாக`
+- scan63 — `முது கிழவர்`
+- scan63 — `போரிடத்தயாராகி`
+- scan64 — `திரணமாக`
+- scan64 — `கப்பிய`
+- scan65 — `சாவுருக்குப் போகும் வழி!`
+- scan68 — `தடங்கள் ஏற்பட்டது`
+- scan68 — `தோண்டியும்`
+- scan68 — `நா உதிர்த்த`
 
 These are not unresolved Pass1 holds. They are retained source readings for formal Pass2A/Pass2B checking.
 
 ## Status rule
 
-All 10 newly created Part004 canonical records remain:
+All 16 Part004 canonical records remain:
 
 ```yaml
 status: "needs-review"
@@ -137,19 +166,21 @@ Pass1 does not promote status.
 
 - Parts001–003 — **FINAL CLOSED / FROZEN**
 - pre-Part004 canonical records — **52**
-- Part004 canonical records — **10/16**
-- repository canonical records total — **62**
-- Part004 Pass1 — **IN PROGRESS — 10/16 TEXT-COMPLETE**
+- Part004 canonical records — **16/16**
+- repository canonical records total — **68**
+- Part004 Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - unresolved Part004 Pass1 holds — **0**
 
 ## Gate decision
 
-**PART004 PASS 1 BATCH 1 — COMPLETE / PASS — scans53–62 / local1–10**
+**PART004 PASS 1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 
-The whole-Part Pass1 gate remains open.
+The Pass1 gate is closed. Part004 is now eligible for formal Pass2A.
 
 ## Exact next activity
 
-**Part004 Pass1 Batch 2 — global scans63–68 / local pages11–16.**
+**Part004 Pass2A — global scans53–68 / local pages1–16.**
 
-Do not begin Pass2A until all **16/16** Part004 physical scans are text-complete.
+Pass2A must independently reread source wording, punctuation, paragraph/dialogue structure, printed pagination and physical page boundaries directly against the source pixels.
+
+Do not begin Pass2B until Pass2A closes.
