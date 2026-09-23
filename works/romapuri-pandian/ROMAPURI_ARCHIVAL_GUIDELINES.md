@@ -290,6 +290,11 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part004 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
 - Part004 Pass2A source-supported corrections — **4**
 - Part004 Pass2A unresolved textual questions — **0**
+- Part004 Pass2B — **IN PROGRESS — 9/16 REVIEWED**
+- Part004 Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9**
+- Part004 Pass2B corrections — **0**
+- Part004 Pass2B historical-glyph corrections — **0**
+- Part004 Pass2B unresolved lexical / historical-glyph questions — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part004 Pass2B Batch 1 — scans53–61 / local1–9**
+- exact next gate — **Part004 Pass2B Batch 2 — scans62–68 / local10–16**
