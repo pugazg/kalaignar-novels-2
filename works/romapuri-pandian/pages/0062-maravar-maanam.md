@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf"
-transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans53–62; formal Part004 Pass 2A reviewed; formal Part004 Pass 2B lexical/historical-glyph reviewed"
+transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans53–62; formal Part004 Pass 2A reviewed; formal Part004 Pass 2B lexical/historical-glyph reviewed; formal Part004 Pass 3 visual/structural reviewed"
 ---
 
 # 3. மறவர் மானம்
@@ -59,3 +59,17 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 - unresolved lexical / historical-glyph questions after this reread: **0**;
 - Pass2B result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
+
+
+## Formal Part004 Pass 3 visual / structural verification
+
+- meaningful full-page visual / structural verification completed directly against the controlling source image;
+- standard Chapter 3 prose page;
+- running header — author `கலைஞர் மு. கருணாநிதி` at upper right;
+- visible printed page — **60** at upper left;
+- opens by completing the scan61 physical sentence continuation;
+- source-text corrections at Pass3: **0**;
+- structural metadata corrections at Pass3: **0**;
+- unresolved visual / structural questions after this verification: **0**;
+- Pass3 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; promotion is deferred until the Part audit and final metadata/status synchronization.
