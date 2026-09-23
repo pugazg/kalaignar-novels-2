@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 English editorial review
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 final closure
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,28 +6,28 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–003 are **FINAL CLOSED / FROZEN**.
 
-## Part004 closed Tamil state
+## Part004 closed prerequisites
 
 - canonical Tamil — **16/16 verified**
-- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- visual fidelity — **16/16 verified**
 - Tamil archival-ready — **PASS / CLOSED**
-
-## Part004 English state
-
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
 - E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
 - glossary reconciliation — **RECONCILED / PASS**
-- unresolved source-check holds — **0**
-- unresolved glossary holds — **0**
-- Part005 leakage — **0**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **2**
+- whole-Part bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/release blockers — **0**
+- incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
+- Part005 source — **NOT SUPPLIED / NOT REGISTERED**
 
 ## Exact next activity
 
-**Part004 English editorial review across E13–E15.**
+**Part004 final closure / freeze.**
 
-Review only the maintained English layer for clarity, grammar, punctuation, consistency and readability while preserving source meaning, source voice, locked terminology, physical-boundary provenance and the 68→69 external-boundary lock.
+Verify no post-release textual drift, create `PART_004_FINAL_CLOSURE.md`, freeze Part004, synchronize controls, and leave the next frontier at **Part005 source intake + 68→69 adjacent-boundary witness inspection/setup**.
 
-Record any English-only corrections explicitly in `PART_004_TRANSLATION_REVIEW.md`.
-
-Do not alter canonical or assembled Tamil.
-
-After editorial review passes, continue to **Part004 whole-Part bilingual review**.
+Do not infer scan69 without the Part005 source.
