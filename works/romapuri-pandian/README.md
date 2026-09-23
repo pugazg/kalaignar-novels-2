@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 PASS2B COMPLETE / PASS3 READY**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 PASS3 COMPLETE / AUDIT READY**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -126,6 +126,10 @@
 - Part004 Pass2B corrections — **1**
 - Part004 Pass2B historical-glyph corrections — **0**
 - Part004 Pass2B unresolved questions — **0**
+- Part004 Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part004 Pass3 source-text corrections — **0**
+- Part004 Pass3 structural metadata corrections — **0**
+- Part004 Pass3 unresolved visual/structural questions — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -197,10 +201,11 @@
 - `PART_004_PASS1_PROGRESS.md`
 - `PART_004_PASS2A_PROGRESS.md`
 - `PART_004_PASS2B_PROGRESS.md`
+- `PART_004_PASS3_PROGRESS.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part004 Pass3 — global scans53–68 / local pages1–16.**
+**Part004 Part audit.**
 
-Parts001–003 are frozen; do not reopen them for stylistic polishing. Pass3 is the full-page visual/structural verification gate. Do not begin the Part audit until Pass3 closes.
+Parts001–003 are frozen; do not reopen them for stylistic polishing. Do not promote Part004 status/visual fidelity until the Part audit passes.
