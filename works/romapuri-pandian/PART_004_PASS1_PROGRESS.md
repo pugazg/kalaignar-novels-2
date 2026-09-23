@@ -184,3 +184,19 @@ The Pass1 gate is closed. Part004 is now eligible for formal Pass2A.
 Pass2A must independently reread source wording, punctuation, paragraph/dialogue structure, printed pagination and physical page boundaries directly against the source pixels.
 
 Do not begin Pass2B until Pass2A closes.
+
+
+## Post-Pass1 Pass2A closure
+
+Part004 Pass2A has since closed:
+
+- reviewed pages — **16/16**
+- source-supported corrections — **4**
+- pages with corrections — **3**
+- unresolved textual questions — **0**
+- status promotions — **0**
+- durable control — `PART_004_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part004 Pass2B Batch 1 — scans53–61 / local pages1–9.**
