@@ -491,3 +491,19 @@ Part004 E13–E15 glossary reconciliation is **RECONCILED / PASS**.
 Durable record: `PART_004_GLOSSARY_RECONCILIATION.md`.
 
 Current next gate — **Part004 English editorial review across E13–E15**.
+
+
+## Part004 release-ready glossary lock
+
+Part004 glossary state is now closed for the release-ready layer:
+
+- E13–E15 glossary reconciliation — **RECONCILED / PASS**
+- unresolved Part004 glossary holds — **0**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+
+The Part004 decisions above remain controlling unless an explicit source-fidelity reopening is approved.
+
+Current next gate — **Part004 final closure / freeze**.
