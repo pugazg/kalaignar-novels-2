@@ -184,9 +184,8 @@
 - assembled Tamil missing / duplicate / unsupported insertion / Part005 leakage — **0 / 0 / 0 / 0**
 - English translation planning/setup — **COMPLETE / PASS**
 - reserved English batches — **E13–E15**
-- English E13–E14 — **SOURCE-CHECKED / COMPLETE — 2/3**
-- English E15 — **RESERVED / NEXT**
-- English drafted/source-checked — **2/3**
+- English E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- English drafted/source-checked — **3/3**
 - unresolved English source-check holds — **0**
 - unresolved English planning holds — **0**
 - unresolved intake/boundary blockers — **0**
@@ -273,11 +272,12 @@
 - `PART_004_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E13_SOURCE_CHECK.md`
 - `translations/en/E14_SOURCE_CHECK.md`
+- `translations/en/E15_SOURCE_CHECK.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E15 draft + source-check — scans67–68**
+- prompt frontier — **Part004 whole-Part glossary reconciliation**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -292,6 +292,6 @@
 
 ## Exact next activity
 
-**E15 — draft + source-check Part004 Chapter 4 `புலவர் மகள் புறப்பட்டாள்` / scans67–68.**
+**Part004 whole-Part glossary reconciliation across E13–E15.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. E13–E14 are SOURCE-CHECKED / COMPLETE with 0 holds and no Tamil or frozen-English drift.
+Parts001–003 remain FINAL CLOSED / FROZEN. E13–E15 are SOURCE-CHECKED / COMPLETE — 3/3 with 0 source-check holds and no Tamil or frozen-English drift.
