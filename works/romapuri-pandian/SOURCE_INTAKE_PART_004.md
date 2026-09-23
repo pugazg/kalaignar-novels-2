@@ -82,12 +82,16 @@ The newly available scan53 witness resolves only the deferred cross-Part boundar
 - Tamil status — **16/16 verified / 0 needs-review**
 - visual fidelity — **16/16 verified / 0 needs-review**
 - documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
+- assembled Tamil validation blockers — **0**
 - unresolved intake/boundary blockers — **0**
 
 Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 Tamil archival-ready checkpoint.**
+**Part004 English translation planning/setup.**
 
-Part004 is **16/16 verified** for Tamil status and visual fidelity, with documentation synchronization **PASS / COMPLETE**.
+Part004 Tamil archival-ready is PASS / CLOSED and assembled Tamil is PASS / CLOSED — 3/3 VERIFIED. English work has not started.
