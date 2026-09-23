@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf"
-transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch scans69–78"
+transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch scans69–78; formal Part005 Pass 2A reviewed Batch2 scans78–85"
 ---
 
 # 4. புலவர் மகள் புறப்பட்டாள்
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch s
 
 ஆனாலும் அழுதவாறு முத்துநகையை நோக்கி “உங்கள் இலட்சியம் என்ன?” என்று கேட்டாள். “சொல்ல முடியாது” என்று சைகை மூலம் தெரிவித்தாள் முத்துநகை.
 
-“உங்கள் இலட்சியத்தைத் தெரிந்தித்தால்தான் என் பெயரைச் சொல்லுவேன்!” என்று கண்ணீர் விட்டவாறு அவள் கூறினாள்.
+“உங்கள் இலட்சியத்தைத் தெரிவித்தால்தான் என் பெயரைச் சொல்லுவேன்!” என்று கண்ணீர் விட்டவாறு அவள் கூறினாள்.
 
 முத்துநகை கீழே குனிந்து பார்த்தாள். சுற்றும் முற்றும் நோக்கினாள். இறுதியில் அவள் தேடியது கிடைத்தது. ஆமாம். ஒரு கரித்துண்டு! அந்தக் கரித்துண்டைக் காட்டி “இது என்ன?” என்றாள் ஊமை ஜாடையில்!
 
@@ -52,3 +52,13 @@ transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch s
 - source-sensitive forms retained for later independent verification; unresolved Pass1 holds: 0
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 78; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: 76; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part005 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-supported correction: `உங்கள் இலட்சியத்தைத் தெரிந்தித்தால்தான்` → `உங்கள் இலட்சியத்தைத் தெரிவித்தால்தான்`;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
