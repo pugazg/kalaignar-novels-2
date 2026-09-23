@@ -17,10 +17,12 @@ Source:
 - source text layer — **no usable parsed text**
 - controlling representation — **rendered source page images**
 - source intake — **REGISTERED / AUTHORIZED**
-- canonical Part005 records — **10/17 — scans69–78**
-- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- canonical Part005 records — **17/17 — scans69–85**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
+- Pass1 Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
 - Pass1 unresolved source-reading holds — **0**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 
 ## Incoming boundary
 
@@ -67,9 +69,9 @@ Part005 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part005 Pass1 Batch 2 — global scans79–85 / local pages11–17.**
+**Part005 Pass2A — global scans69–85 / local pages1–17.**
 
-Pass1 must cover all **17/17** Part005 physical scans before Pass2A may begin.
+Pass1 is COMPLETE / PASS and Pass2A is unblocked. Do not promote final status during Pass2A.
 
 
 ## Post-intake control synchronization verification
@@ -101,3 +103,20 @@ The synchronized controls agree on:
 - Pass1 — **NOT STARTED**
 - unresolved intake/boundary blockers — **0**
 - exact next activity — **Part005 Pass1 Batch 1 — scans69–78 / local1–10**
+
+
+## Post-Pass1 closure
+
+Part005 Pass1 subsequently closed:
+
+- result — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Batch 1 — **scans69–78 / local1–10 — COMPLETE / PASS**
+- Batch 2 — **scans79–85 / local11–17 — COMPLETE / PASS**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+- durable control — `PART_005_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part005 Pass2A — global scans69–85 / local pages1–17.**

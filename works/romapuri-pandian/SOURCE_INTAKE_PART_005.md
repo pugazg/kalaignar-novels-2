@@ -68,10 +68,12 @@ The newly available scan69 witness resolves only the deferred cross-Part boundar
 - source registered — **YES**
 - incoming 68→69 boundary — **GENUINE CONTINUATION / AUDITED**
 - intake + incoming-boundary setup — **PASS / COMPLETE**
-- canonical Part005 records — **10/17 — scans69–78**
-- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- canonical Part005 records — **17/17 — scans69–85**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
+- Pass1 Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
 - Pass1 unresolved source-reading holds — **0**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
 
 The mandatory Part lock is satisfied because Part004 is **FINAL CLOSED / FROZEN**.
@@ -80,6 +82,6 @@ Part005 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part005 Pass1 Batch 2 — global scans79–85 / local pages11–17.**
+**Part005 Pass2A — global scans69–85 / local pages1–17.**
 
-Do not begin Pass2A until Pass1 covers all **17/17** Part005 physical scans.
+Pass1 is COMPLETE / PASS at 17/17 TEXT-COMPLETE. Keep all records needs-review / needs-review during Pass2A.

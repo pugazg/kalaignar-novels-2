@@ -86,11 +86,19 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 005 | 9 | 77 | 75 | Muthunagai adopts mute-disguise communication; ends at `அந்தச்` | needs-review | `pages/0077-pulavar-magal-purappattaal.md` |
 | 005 | 10 | 78 | 76 | Completes scan77; young woman identified as `தாமரை`; ends at `பழி வாங்கப்` | needs-review | `pages/0078-pulavar-magal-purappattaal.md` |
 
+| 005 | 11 | 79 | 77 | Chapter 4 continuation; completes scan78; written note to Thamarai; follows women | needs-review | `pages/0079-pulavar-magal-purappattaal.md` |
+| 005 | 12 | 80 | 78 | Chapter 4 continuation / apparent close; Yavana elder pursuit; large intentional lower blank field | needs-review | `pages/0080-pulavar-magal-purappattaal.md` |
+| 005 | 13 | 81 | — | Illustrated Chapter 5 title — `சிவனடியார் திருக்கூட்டம்` | needs-review | `pages/0081-chapter-05-title.md` |
+| 005 | 14 | 82 | — | Chapter 5 opening; large intentional upper blank field; ends at `வேறு` | needs-review | `pages/0082-sivanadiyaar-thirukkoottam.md` |
+| 005 | 15 | 83 | 81 | Chapter 5 continuation; completes scan82; ends at `ஒரு மூட்டையையும்` | needs-review | `pages/0083-sivanadiyaar-thirukkoottam.md` |
+| 005 | 16 | 84 | 82 | Chapter 5 continuation; completes scan83; written warning to devotees; Thiruneettradiyar introduced | needs-review | `pages/0084-sivanadiyaar-thirukkoottam.md` |
+| 005 | 17 | 85 | 83 | Chapter 5 continuation; Yavana elder intervenes; complete Part005 terminal sentence | needs-review | `pages/0085-sivanadiyaar-thirukkoottam.md` |
+
 ## Current state
 
 - registered Parts — **5/39**
 - source-mapped scans — **1–85**
-- canonical page records — **78**
+- canonical page records — **85**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A corrections — **19**
@@ -224,10 +232,11 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part005 source — **REGISTERED / AUTHORIZED — scans69–85 / 17 pages**
 - Part005 intake + incoming boundary setup — **PASS / COMPLETE**
 - Part005 incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
-- Part005 canonical records — **10/17 — scans69–78**
-- Part005 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part005 canonical records — **17/17 — scans69–85**
+- Part005 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part005 Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
-- Part005 remaining — **scans79–85 / local11–17**
+- Part005 Pass1 Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
 - Part005 unresolved Pass1 holds — **0**
+- Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 Pass1 Batch 2 — scans79–85 / local11–17**
+- exact next activity — **Part005 Pass2A — scans69–85 / local1–17**

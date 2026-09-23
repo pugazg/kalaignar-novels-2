@@ -125,10 +125,12 @@
 - Part005 source — **REGISTERED / AUTHORIZED — 17 pages / scans69–85**
 - Part005 intake + incoming-boundary setup — **PASS / COMPLETE**
 - Part005 incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
-- Part005 canonical records — **10/17 — scans69–78**
-- Part005 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part005 canonical records — **17/17 — scans69–85**
+- Part005 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part005 Pass1 Batch 1 — **COMPLETE / PASS — scans69–78**
+- Part005 Pass1 Batch 2 — **COMPLETE / PASS — scans79–85**
 - Part005 unresolved Pass1 holds — **0**
+- Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing Part004 68→69 — **GENUINE CONTINUATION / AUDITED**
@@ -143,6 +145,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part005 Pass1 Batch 2 — global scans79–85 / local pages11–17.**
+**Part005 Pass2A — global scans69–85 / local pages1–17.**
 
 Do not infer scan69 without the supplied Part005 source.

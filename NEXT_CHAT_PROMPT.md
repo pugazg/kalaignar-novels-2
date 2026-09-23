@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 Pass1 Batch 2 scans79–85
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 Pass2A scans69–85
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -11,38 +11,38 @@ Parts001–004 are **FINAL CLOSED / FROZEN**.
 - source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf`
 - local pages — **17**
 - global scans — **69–85**
-- file size — **47,433,786 bytes**
 - SHA-256 — `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b`
-- controlling representation — **rendered source page images**
 - incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 
-## Part005 Pass1 state
+## Part005 Pass1 closure
 
-- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
-- canonical records — **10/17**
+- Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
+- canonical records — **17/17**
 - unresolved Pass1 source-reading holds — **0**
-- remaining — **scans79–85 / local11–17**
+- all records remain `needs-review / needs-review`
 
-Important physical continuations already captured:
+Structural landmarks:
 
-- scan69→70 — terminal `சோழ` continues into `நாட்டுக்கு...`
-- scan71→72 — source physically splits `இருப்பார்கள்!` as `இருப்பார்` / `கள்!`
-- scan75→76 — `பாறையின்` → `விளிம்பில் புரண்டாள்.`
-- scan77→78 — `அந்தச்` → `செய்கை...`
-- scan78 ends mid-sentence at `கரிகாற்சோழனை நான் பழி வாங்கப்`
+- scans69–80 — Chapter 4 `புலவர் மகள் புறப்பட்டாள்` continuation / close
+- scan81 — illustrated Chapter 5 title `5. சிவனடியார் திருக்கூட்டம்`
+- scan82 — Chapter 5 opening, no source-visible printed numeral
+- scans83–85 — Chapter 5 continuation
+- scan85 ends on a complete sentence
 
 ## Exact next activity
 
-**Part005 Pass1 Batch 2 — global scans79–85 / local pages11–17.**
+**Part005 Pass2A — global scans69–85 / local pages1–17.**
 
 Requirements:
 
-1. transcribe all seven remaining physical scans directly from source pixels;
-2. preserve wording, punctuation, paragraph/dialogue structure, printed pagination, chapter-title/illustration structure and physical continuations;
-3. record source-reading holds explicitly;
-4. keep all Part005 records `needs-review / needs-review`;
-5. synchronize `PART_005_PASS1_PROGRESS.md` and repository controls;
-6. only after **17/17 TEXT-COMPLETE / 0 unresolved holds** may the next gate become Part005 Pass2A.
+1. independently re-read all 17 canonical transcriptions against source pixels;
+2. correct only source-supported textual/punctuation/spacing defects;
+3. record every correction explicitly in `PART_005_PASS2A_PROGRESS.md`;
+4. unresolved textual questions must be explicit;
+5. keep `status` and `visual_fidelity` as `needs-review`;
+6. do not reopen Parts001–004.
 
-Do not begin Pass2A in the same activity unless explicitly requested after Pass1 closes.
+Do not begin Pass2B in the same activity unless explicitly requested after Pass2A closes.
