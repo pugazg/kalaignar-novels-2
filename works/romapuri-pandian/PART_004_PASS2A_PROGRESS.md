@@ -152,12 +152,13 @@ Do not begin Pass3 until Pass2B closes.
 Part004 Pass2B has started under the fixed 9-page cadence.
 
 - Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9**
-- reviewed pages — **9/16**
-- lexical / spacing / punctuation corrections — **0**
+- Batch 2 — **COMPLETE / PASS — scans62–68 / local10–16**
+- reviewed pages — **16/16**
+- lexical / spacing / punctuation corrections — **1**
 - historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
 - durable control — `PART_004_PASS2B_PROGRESS.md`
 
 Current frontier:
 
-**Part004 Pass2B Batch 2 — scans62–68 / local pages10–16.**
+**Part004 Pass3 — scans53–68 / local pages1–16.**
