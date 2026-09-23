@@ -507,3 +507,23 @@ Part004 glossary state is now closed for the release-ready layer:
 The Part004 decisions above remain controlling unless an explicit source-fidelity reopening is approved.
 
 Current next gate — **Part004 final closure / freeze**.
+
+
+## Part004 final closure lock
+
+Part004 is **FINAL CLOSED / FROZEN**.
+
+The Part004 glossary decisions above remain controlling for the frozen English layer. Do not normalize them for style alone.
+
+- E13–E15 glossary reconciliation — **RECONCILED / PASS**
+- unresolved Part004 glossary holds — **0**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part004 closure — **PASS / CLOSED / FROZEN**
+- Part005 leakage — **0**
+
+Next source activity:
+
+**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
