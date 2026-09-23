@@ -202,4 +202,11 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part004 assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
 - Part004 assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
 - Part004 assembled Tamil validation blockers — **0**
-- exact next activity — **Part004 English translation planning/setup**
+- Part004 English E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- Part004 glossary reconciliation — **RECONCILED / PASS**
+- Part004 English editorial review — **PASS / CLOSED**
+- Part004 bilingual review — **PASS / CLOSED — 3/3**
+- Part004 release/readiness — **PASS / CLOSED**
+- Part004 release-ready synchronization — **PASS / CLOSED**
+- Part004 unresolved English/release blockers — **0**
+- exact next activity — **Part004 final closure / freeze**
