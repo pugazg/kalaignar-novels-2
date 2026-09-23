@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf"
-transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch scans69–78"
+transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch scans69–78; formal Part005 Pass 2A reviewed Batch1 scans69–77"
 ---
 
 # 4. புலவர் மகள் புறப்பட்டாள்
@@ -39,3 +39,12 @@ transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch s
 - source-sensitive forms retained for later independent verification; unresolved Pass1 holds: 0
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 75; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 73; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part005 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **0**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.

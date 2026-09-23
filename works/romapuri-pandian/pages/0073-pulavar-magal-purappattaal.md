@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf"
-transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch scans69–78"
+transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch scans69–78; formal Part005 Pass 2A reviewed Batch1 scans69–77"
 ---
 
 # 4. புலவர் மகள் புறப்பட்டாள்
@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch s
 
 “அவரைப் பற்றிக் கூடத் தாங்கள் ஆச்சரியமான செய்தியைக் கேள்விப்படுவீர்கள் அரசே!”
 
-இதைக் சொல்லும்போது அவள் நாக்கு நடுங்கியது, கண்கள் குளமாயின. ஆயினும் மறைத்துக் கொண்டு சமாளித்தாள். சோழன், அவள் மேலும் என்ன சொல்லப் போகிறாள் என்று எதிர்பார்த்தான். அவள் பேச்சை மாற்றினாள்.
+இதைச் சொல்லும்போது அவள் நாக்கு நடுங்கியது, கண்கள் குளமாயின. ஆயினும் மறைத்துக் கொண்டு சமாளித்தாள். சோழன், அவள் மேலும் என்ன சொல்லப் போகிறாள் என்று எதிர்பார்த்தான். அவள் பேச்சை மாற்றினாள்.
 
 “அதாவது, அப்பாவும் என்னைப் போலவே ஒற்றர் வேலையை மேற்கொள்ள நேரிடலாம் என்கிறேன்!” எனக் கூறி, அரசனின் முகத்தைப் பார்த்தாள். அவன் முகத்தில் புதிய கம்பீரம் களை கட்டி நின்றது. தன்னுயிருக்காகவும் தாயகத்துப் பெருமைக்காகவும் தமிழ் வளர்க்கும் குடும்பமொன்று கவலைப்படுவது கேட்டு அவனுக்குப் பூரிப்புப் பொங்கி வழிந்தது. தன் தந்தைக்குக்கூடத் தெரியாமல் நாட்டுப் பணி புரியப் புறப்பட்டுவிட்ட இந்த இளந்தமிழச்சியின் வீரத்தைக் கண்டு கரிகாலன் பெருமை கொண்டான்.
 
@@ -48,3 +48,13 @@ transcription_method: "direct source-pixel transcription; Part005 Pass 1 batch s
 - source-sensitive forms retained for later independent verification; unresolved Pass1 holds: 0
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 73; பகுதி: 005; பகுதி உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 71; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part005 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-supported correction: `இதைக் சொல்லும்போது` → `இதைச் சொல்லும்போது`;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
