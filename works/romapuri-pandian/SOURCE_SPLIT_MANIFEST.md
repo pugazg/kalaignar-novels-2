@@ -144,5 +144,7 @@
 - Part004 Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9 / 0 corrections / 0 historical-glyph / 0 unresolved**
 - Part004 Pass2B Batch 2 — **COMPLETE / PASS — scans62–68 / local10–16 / 1 correction / 0 historical-glyph / 0 unresolved**
 - Part004 Pass3 — **COMPLETE / PASS — 16/16 REVIEWED / 0 text corrections / 0 structural corrections / 0 unresolved**
+- Part004 Part audit — **PASS / COMPLETE — 16/16 canonical / 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part004 audit unresolved blockers — **0**
 - Part004 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part004 Part audit**
+- exact next gate — **Part004 final metadata/status synchronization**
