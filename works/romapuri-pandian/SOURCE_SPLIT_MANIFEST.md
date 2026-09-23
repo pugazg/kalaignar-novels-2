@@ -150,5 +150,9 @@
 - Part004 Tamil status — **16/16 verified / 0 needs-review**
 - Part004 visual fidelity — **16/16 verified / 0 needs-review**
 - Part004 documentation synchronization — **PASS / COMPLETE**
+- Part004 Tamil archival-ready — **PASS / CLOSED**
+- Part004 assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- Part004 assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
+- Part004 assembled Tamil validation blockers — **0**
 - Part004 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part004 Tamil archival-ready checkpoint**
+- exact next gate — **Part004 English translation planning/setup**
