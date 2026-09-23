@@ -186,7 +186,9 @@
 - reserved English batches — **E13–E15**
 - English E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
 - English drafted/source-checked — **3/3**
+- Part004 glossary reconciliation — **RECONCILED / PASS**
 - unresolved English source-check holds — **0**
+- unresolved Part004 glossary holds — **0**
 - unresolved English planning holds — **0**
 - unresolved intake/boundary blockers — **0**
 - exact next activity — **E14 draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66**
@@ -273,11 +275,12 @@
 - `translations/en/E13_SOURCE_CHECK.md`
 - `translations/en/E14_SOURCE_CHECK.md`
 - `translations/en/E15_SOURCE_CHECK.md`
+- `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 whole-Part glossary reconciliation**
+- prompt frontier — **Part004 English editorial review**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -292,6 +295,6 @@
 
 ## Exact next activity
 
-**Part004 whole-Part glossary reconciliation across E13–E15.**
+**Part004 English editorial review across E13–E15.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. E13–E15 are SOURCE-CHECKED / COMPLETE — 3/3 with 0 source-check holds and no Tamil or frozen-English drift.
+Parts001–003 remain FINAL CLOSED / FROZEN. E13–E15 are source-checked and glossary reconciliation is RECONCILED / PASS.
