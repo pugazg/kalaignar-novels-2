@@ -74,12 +74,14 @@ The newly available scan53 witness resolves only the deferred cross-Part boundar
 - Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9**
 - Pass2B Batch 2 — **COMPLETE / PASS — scans62–68 / local10–16**
 - Pass2B corrections — **1 / 0 historical-glyph / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
+- Pass3 corrections — **0 text / 0 structural / 0 unresolved**
 - unresolved intake/boundary blockers — **0**
 
 Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 Pass3 — global scans53–68 / Part004 local pages1–16.**
+**Part004 Part audit.**
 
-Part004 Pass2B is COMPLETE / PASS at **16/16 REVIEWED** with **1** source-supported lexical/sandhi correction, **0** historical-glyph corrections and **0** unresolved questions. Do not begin the Part audit until Pass3 closes.
+Part004 Pass3 is COMPLETE / PASS at **16/16 REVIEWED** with **0** source-text corrections, **0** structural metadata corrections and **0** unresolved visual/structural questions. Do not promote final status until the audit passes.
