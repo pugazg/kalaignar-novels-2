@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 VERIFIED / DOCUMENTATION SYNC PASS**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 TAMIL ARCHIVAL-READY / ASSEMBLY NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -136,6 +136,7 @@
 - Part004 page status — **16/16 verified / 0 needs-review**
 - Part004 visual fidelity — **16/16 verified / 0 needs-review**
 - Part004 documentation synchronization — **PASS / COMPLETE**
+- Part004 Tamil archival-ready — **PASS / CLOSED**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -211,10 +212,11 @@
 - `PART_004_AUDIT.md`
 - `PART_004_FINAL_STATUS_SYNC.md`
 - `PART_004_DOCUMENTATION_SYNC.md`
+- `PART_004_TAMIL_ARCHIVAL_READY.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part004 Tamil archival-ready checkpoint.**
+**Part004 assembled Tamil construction + audit.**
 
-Parts001–003 are frozen. Part004 is 16/16 verified for Tamil status and visual fidelity, with documentation synchronization complete.
+Part004 Tamil archival-ready is PASS / CLOSED. Build the reading layer from verified canonical pages only.
