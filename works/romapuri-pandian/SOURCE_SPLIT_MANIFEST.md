@@ -140,7 +140,8 @@
 - Part004 Pass1 Batch 2 — **COMPLETE / PASS — scans63–68 / local11–16**
 - Part004 unresolved Pass1 holds — **0**
 - Part004 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED / 4 corrections / 0 unresolved**
-- Part004 Pass2B — **IN PROGRESS — 9/16 REVIEWED**
+- Part004 Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
 - Part004 Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9 / 0 corrections / 0 historical-glyph / 0 unresolved**
+- Part004 Pass2B Batch 2 — **COMPLETE / PASS — scans62–68 / local10–16 / 1 correction / 0 historical-glyph / 0 unresolved**
 - Part004 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part004 Pass2B Batch 2 — scans62–68 / local10–16**
+- exact next gate — **Part004 Pass3 — scans53–68 / local1–16**
