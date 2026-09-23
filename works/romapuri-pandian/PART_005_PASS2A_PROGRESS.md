@@ -20,7 +20,7 @@
 
 ## Current result
 
-**PART005 PASS 2A — IN PROGRESS — 9/17 REVIEWED**
+**PART005 PASS 2A — COMPLETE / PASS — 17/17 REVIEWED**
 
 ### Batch 1 — COMPLETE / PASS
 
@@ -55,9 +55,47 @@
 
 `வாய்திறந்தாள்` → `வாய் திறந்தாள்`
 
+## Batch 2 — COMPLETE / PASS
+
+- global scans — **78–85**
+- local pages — **10–17**
+- reviewed — **8/8**
+- source-supported corrections — **2**
+- pages with corrections — **2**
+- clean pages — **6**
+- unresolved textual questions — **0**
+- status promotions — **0**
+
+| Scan | Local | Corrections | Result |
+|---:|---:|---:|---|
+| 78 | 10 | 1 | REVIEWED / PASS |
+| 79 | 11 | 0 | REVIEWED / PASS |
+| 80 | 12 | 0 | REVIEWED / PASS |
+| 81 | 13 | 0 | REVIEWED / PASS |
+| 82 | 14 | 0 | REVIEWED / PASS |
+| 83 | 15 | 0 | REVIEWED / PASS |
+| 84 | 16 | 0 | REVIEWED / PASS |
+| 85 | 17 | 1 | REVIEWED / PASS |
+
+### scan78 / local10 / printed76
+
+`உங்கள் இலட்சியத்தைத் தெரிந்தித்தால்தான்` → `உங்கள் இலட்சியத்தைத் தெரிவித்தால்தான்`
+
+The source pixels clearly show `தெரிவித்தால்தான்`.
+
+### scan85 / local17 / printed83
+
+`மற்ற அடியார்கள் முத்துநகையைக் சூழ்ந்து பிடித்துக் கொண்டார்கள்.` → `மற்ற அடியார்கள் முத்துநகையைச் சூழ்ந்து பிடித்துக் கொண்டார்கள்.`
+
+The source pixels clearly show the sandhi form `முத்துநகையைச் சூழ்ந்து`.
+
 ## Clean-page findings
 
-Scans **69, 70, 71, 72, 74, 75 and 77** required no source-text correction at Pass2A.
+Batch 1 clean scans — **69, 70, 71, 72, 74, 75, 77**.
+
+Batch 2 clean scans — **79, 80, 81, 82, 83, 84**.
+
+Whole-Part clean pages — **13/17**.
 
 ## Physical-boundary checks retained
 
@@ -72,14 +110,33 @@ All reviewed Part005 records remain `status: "needs-review"` / `visual_fidelity:
 
 ## Whole-Part Pass2A state
 
-- reviewed — **9/17**
-- remaining — **8/17**
-- source-supported corrections — **2**
+- reviewed — **17/17**
+- source-supported corrections — **4**
+- pages with corrections — **4**
+- clean pages — **13**
 - unresolved textual questions — **0**
-- next batch — **scans78–85 / local10–17**
+- status promotions — **0**
+- result — **COMPLETE / PASS**
+
+Corrections across Pass2A:
+
+1. scan73 — `இதைக் சொல்லும்போது` → `இதைச் சொல்லும்போது`
+2. scan76 — `வாய்திறந்தாள்` → `வாய் திறந்தாள்`
+3. scan78 — `தெரிந்தித்தால்தான்` → `தெரிவித்தால்தான்`
+4. scan85 — `முத்துநகையைக் சூழ்ந்து` → `முத்துநகையைச் சூழ்ந்து`
+
+All **17** Part005 canonical records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+## Gate decision
+
+**PART005 PASS2A — COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
+
+Pass2B is now unblocked.
 
 ## Exact next activity
 
-**Part005 Pass2A Batch 2 — global scans78–85 / local pages10–17 — final 8-page remainder.**
+**Part005 Pass2B Batch 1 — global scans69–77 / local pages1–9.**
 
-Do not begin Pass2B until Part005 Pass2A closes at **17/17 REVIEWED / 0 unresolved**.
+Use the fixed **9-page iteration cadence**; the final Pass2B remainder will be scans78–85 / local10–17.
+
+Do not begin Pass3 until Pass2B closes.
