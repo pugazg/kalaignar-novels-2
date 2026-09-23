@@ -167,8 +167,12 @@
 - Pass2B corrections — **1**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical / historical-glyph questions — **0**
+- Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
+- Pass3 source-text corrections — **0**
+- Pass3 structural metadata corrections — **0**
+- Pass3 unresolved visual / structural questions — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 Pass3 scans53–68 / local1–16**
+- exact next activity — **Part004 Part audit**
 
 ## Boundary
 
@@ -242,11 +246,12 @@
 - `PART_004_PASS1_PROGRESS.md`
 - `PART_004_PASS2A_PROGRESS.md`
 - `PART_004_PASS2B_PROGRESS.md`
+- `PART_004_PASS3_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 Pass3 — scans53–68 / local1–16**
+- prompt frontier — **Part004 Part audit**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -261,6 +266,6 @@
 
 ## Exact next activity
 
-**Part004 Pass3 — global scans53–68 / local pages1–16.**
+**Part004 Part audit.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Pass2B is COMPLETE / PASS at 16/16 REVIEWED with 1 source-supported lexical/sandhi correction, 0 historical-glyph corrections and 0 unresolved questions. Do not begin the Part audit until Pass3 closes.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Pass3 is COMPLETE / PASS at 16/16 REVIEWED with 0 source-text corrections, 0 structural metadata corrections and 0 unresolved visual/structural questions. Do not perform final metadata/status promotion until the Part audit passes.
