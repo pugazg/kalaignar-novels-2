@@ -155,10 +155,12 @@
 - Part004 assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
 - Part004 assembled Tamil validation blockers — **0**
 - Part004 English translation planning/setup — **COMPLETE / PASS**
-- Part004 reserved English batches — **E13–E15**
-- Part004 E13 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English drafted/source-checked — **1/3**
-- Part004 unresolved English source-check holds — **0**
-- Part004 unresolved English planning holds — **0**
+- Part004 English E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- Part004 glossary reconciliation — **RECONCILED / PASS**
+- Part004 English editorial review — **PASS / CLOSED / 2 corrections**
+- Part004 bilingual review — **PASS / CLOSED — 3/3**
+- Part004 release/readiness — **PASS / CLOSED**
+- Part004 release-ready synchronization — **PASS / CLOSED**
+- Part004 unresolved English/release blockers — **0**
 - Part004 unresolved intake/boundary blockers — **0**
-- exact next gate — **E14 draft + source-check / scans57–66**
+- exact next gate — **Part004 final closure / freeze**
