@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 E14 draft + source-check
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 E15 draft + source-check
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,36 +19,30 @@ Parts001–003 are **FINAL CLOSED / FROZEN**.
 
 - planning/setup — **COMPLETE / PASS**
 - E13 — **SOURCE-CHECKED / COMPLETE**
-- E14 — **RESERVED / NEXT**
-- E15 — **RESERVED**
-- completed/source-checked — **1/3**
+- E14 — **SOURCE-CHECKED / COMPLETE**
+- E15 — **RESERVED / NEXT**
+- completed/source-checked — **2/3**
 - unresolved English holds — **0**
-
-E13 durable source-check:
-
-`works/romapuri-pandian/translations/en/E13_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-**E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
+**E15 — draft + source-check Part004 Chapter 4 `புலவர் மகள் புறப்பட்டாள்` / scans67–68.**
 
 Input:
 
-`works/romapuri-pandian/sections/13-chapter-03-maravar-maanam.md`
+`works/romapuri-pandian/sections/14-chapter-04-pulavar-magal-purappattaal.md`
 
 Planned English output:
 
-`works/romapuri-pandian/translations/en/sections/13-chapter-03-the-warriors-honour.md`
+`works/romapuri-pandian/translations/en/sections/14-chapter-04-the-poets-daughter-sets-out.md`
 
 Requirements:
 
 - translate only from verified assembled Tamil;
-- retain Chapter 3 title function;
-- scan66 is blank and has no translatable body text;
-- preserve verified physical joins, especially 61→62 and 64→65;
-- follow locked names and terminology in `translations/en/GLOSSARY.md`;
-- English must not authorize a Tamil correction;
-- create durable `E14_SOURCE_CHECK.md`;
-- close E14 only after full source-check.
+- preserve the illustrated Chapter 4 title function;
+- preserve the complete scan68 ending without inventing scan69;
+- follow locked names and terminology;
+- create durable `E15_SOURCE_CHECK.md`;
+- close E15 only after full source-check.
 
-Do not begin E15 until E14 is **SOURCE-CHECKED / COMPLETE**.
+After E15 closes, proceed to **Part004 whole-Part glossary reconciliation**.
