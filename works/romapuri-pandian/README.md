@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 ASSEMBLED TAMIL PASS / CLOSED**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 ENGLISH PLANNING COMPLETE / E13 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -140,6 +140,10 @@
 - Part004 assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
 - Part004 assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
 - Part004 assembled Tamil validation — **0 missing / 0 duplicate / 0 unsupported insertion / 0 audit-note leakage / 0 canonical mutation / 0 Part005 leakage**
+- Part004 English translation planning/setup — **COMPLETE / PASS**
+- Part004 reserved English batches — **E13–E15**
+- Part004 English drafted/source-checked — **0/3**
+- Part004 unresolved English planning holds — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -217,10 +221,11 @@
 - `PART_004_DOCUMENTATION_SYNC.md`
 - `PART_004_TAMIL_ARCHIVAL_READY.md`
 - `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_004_ENGLISH_PLANNING_SETUP.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part004 English translation planning/setup.**
+**E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
 
-Part004 assembled Tamil is PASS / CLOSED — 3/3 VERIFIED. English work has not started.
+Part004 English planning/setup is COMPLETE / PASS. Do not begin E14 until E13 is SOURCE-CHECKED / COMPLETE.
