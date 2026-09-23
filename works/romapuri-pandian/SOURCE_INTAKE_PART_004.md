@@ -67,12 +67,15 @@ The newly available scan53 witness resolves only the deferred cross-Part boundar
 - Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
 - Pass1 Batch 2 — **COMPLETE / PASS — scans63–68 / local11–16**
 - Pass1 unresolved source-reading holds — **0**
+- Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Pass2A source-supported corrections — **4**
+- Pass2A unresolved textual questions — **0**
 - unresolved intake/boundary blockers — **0**
 
 Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 Pass2A — global scans53–68 / Part004 local pages1–16.**
+**Part004 Pass2B Batch 1 — global scans53–61 / Part004 local pages1–9.**
 
-Part004 Pass1 is now closed at **16/16 TEXT-COMPLETE** with **0** unresolved Pass1 holds. Do not begin Pass2B until Pass2A closes.
+Part004 Pass2A is COMPLETE / PASS at **16/16 REVIEWED** with **4** source-supported corrections and **0** unresolved textual questions. Do not begin Pass3 until Pass2B closes.
