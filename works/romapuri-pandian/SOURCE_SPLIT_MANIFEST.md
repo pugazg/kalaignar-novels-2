@@ -154,5 +154,9 @@
 - Part004 assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
 - Part004 assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
 - Part004 assembled Tamil validation blockers — **0**
+- Part004 English translation planning/setup — **COMPLETE / PASS**
+- Part004 reserved English batches — **E13–E15**
+- Part004 English drafted/source-checked — **0/3**
+- Part004 unresolved English planning holds — **0**
 - Part004 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part004 English translation planning/setup**
+- exact next gate — **E13 draft + source-check / scans53–56**
