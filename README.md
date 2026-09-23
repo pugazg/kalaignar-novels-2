@@ -107,6 +107,7 @@
 - Part004 Tamil status — **16/16 verified / 0 needs-review**
 - Part004 visual fidelity — **16/16 verified / 0 needs-review**
 - Part004 documentation synchronization — **PASS / COMPLETE**
+- Part004 Tamil archival-ready — **PASS / CLOSED**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
@@ -120,4 +121,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part004 Tamil archival-ready checkpoint.**
+**Part004 assembled Tamil construction + audit.**
