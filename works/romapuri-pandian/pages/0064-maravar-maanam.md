@@ -29,9 +29,9 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 
 “இதோ!” என்றார் அமைச்சர்.
 
-செழியனிடம் போய் அவனையே பார்த்தவாறு நின்றான். பார்வையிலேயே அவன் இரத்தத்தை உறிஞ்சிவிடுவது போல காட்சியளித்தான். அவனையும் அறியாமல் அவன் கை, கட்டாரிக்குச் சென்றது; கையில் எடுத்து விட்டான். கீழ அமைச்சர் அதைத் தடுத்து விட்டார். இவ்வளவும் செழியனுக்குத் தெரியாது. அவன் ஏதோ சிந்தனையில் விழிகளைத் திறக்க முடியாமல் எதிரே நின்றிருந்தான்.
+செழியனிடம் போய் அவனையே பார்த்தவாறு நின்றான். பார்வையிலேயே அவன் இரத்தத்தை உறிஞ்சிவிடுவது போல காட்சியளித்தான். அவனையும் அறியாமல் அவன் கை, கட்டாரிக்குச் சென்றது; கையில் எடுத்து விட்டான். கிழ அமைச்சர் அதைத் தடுத்து விட்டார். இவ்வளவும் செழியனுக்குத் தெரியாது. அவன் ஏதோ சிந்தனையில் விழிகளைத் திறக்க முடியாமல் எதிரே நின்றிருந்தான்.
 
-“செழியனைக் கொண்டுபோய் தக்க பாதுகாப்புடன் வையுங்கள்!”- கீழ அமைச்சர் உத்திரவு போட்டார். அமைச்சரின் உத்திரவில் ஏதாவது
+“செழியனைக் கொண்டுபோய் தக்க பாதுகாப்புடன் வையுங்கள்!”- கிழ அமைச்சர் உத்திரவு போட்டார். அமைச்சரின் உத்திரவில் ஏதாவது
 
 ## Pass 1 notes
 
@@ -42,3 +42,13 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 64; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 62; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-supported correction: both source-visible occurrences `கீழ அமைச்சர்` → `கிழ அமைச்சர்`;
+- source-text corrections at Pass2A: **2**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
