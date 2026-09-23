@@ -12,7 +12,7 @@
 
 ## Current result
 
-**PART005 PASS 1 — IN PROGRESS — 10/17 TEXT-COMPLETE**
+**PART005 PASS 1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 
 ### Batch 1
 
@@ -20,29 +20,46 @@
 - local pages — **1–10**
 - canonical records — **10/10**
 - text-bearing pages — **10/10**
-- blank pages — **0**
 - unresolved source-reading holds — **0**
 - result — **COMPLETE / PASS / TEXT-COMPLETE**
 
-### Remaining Batch 2
+### Batch 2
 
 - global scans — **79–85**
 - local pages — **11–17**
-- canonical records — **0/7**
-- state — **NOT STARTED**
+- canonical records — **7/7**
+- text-bearing pages — **7/7**
+- unresolved source-reading holds — **0**
+- result — **COMPLETE / PASS / TEXT-COMPLETE**
 
-## Structural progression captured
+## Whole-Part Pass1 coverage
 
-- scan69 / printed67 — Chapter 4 continuation; Muthunagai's palm-leaf letter quoted and signed; narrative resumes; ends at terminal `சோழ`
-- scan70 / printed68 — completes scan69 phrase and moves Muthunagai to Karikalan's palace
-- scan71 / printed69 — Karikalan audience; ends with physical word fragment `இருப்பார்`
-- scan72 / printed70 — begins `கள்!`, completing scan71 `இருப்பார்கள்!`; dialogue reveals Irungovel's plot and Sezhiyan's intervention
-- scan73 / printed71 — Muthunagai takes on spy work and requests male-warrior clothing / horse
-- scan74 / printed72 — Muthunagai leaves in warrior disguise and enters the forest
-- scan75 / printed73 — forest encounter; ends at `பாறையின்`
-- scan76 / printed74 — completes scan75 sentence; Muthunagai studies the unknown young woman
-- scan77 / printed75 — mute-disguise communication; ends at `அந்தச்`
-- scan78 / printed76 — completes scan77; young woman identifies herself as `தாமரை`; ends mid-sentence at `பழி வாங்கப்`
+- canonical Part005 records — **17/17**
+- continuous global scans — **69–85**
+- continuous local pages — **1–17**
+- text-bearing physical pages — **17/17**
+- blank physical pages — **0**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+
+## Structural progression
+
+- scans69–80 — Chapter 4 `புலவர் மகள் புறப்பட்டாள்` continuation / close
+- scan81 — illustrated Chapter 5 title page: `5. சிவனடியார் திருக்கூட்டம்`
+- scan82 — Chapter 5 narrative opening with large intentional upper blank field
+- scans83–85 — Chapter 5 continuation
+- scan85 ends on a complete source sentence
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+
+## Verified physical continuations captured in Pass1
+
+- 69→70 — `சோழ` → `நாட்டுக்கு...`
+- 71→72 — source physically splits `இருப்பார்கள்!` as `இருப்பார்` / `கள்!`
+- 75→76 — `பாறையின்` → `விளிம்பில் புரண்டாள்.`
+- 77→78 — `அந்தச்` → `செய்கை...`
+- 78→79 — `கரிகாற்சோழனை நான் பழி வாங்கப்` → `போகிறேன் எனத் தெரிவித்ததும்...`
+- 82→83 — `வேறு` → `ஏதோ சூழ்ச்சியில்...`
+- 83→84 — `ஒரு மூட்டையையும்` → `களவு போவதில்லை.`
 
 ## Printed-page mapping
 
@@ -56,34 +73,40 @@
 - scan76 → **74**
 - scan77 → **75**
 - scan78 → **76**
+- scan79 → **77**
+- scan80 → **78**
+- scan81 → **null**
+- scan82 → **null**
+- scan83 → **81**
+- scan84 → **82**
+- scan85 → **83**
 
-No printed page number has been inferred beyond what is directly source-visible.
+No printed numeral was inferred for scans81–82.
 
 ## Status discipline
 
-All Batch1 page records remain:
+All **17** Part005 canonical records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-No status promotion is allowed during Pass1.
+This is required through Pass1, Pass2A, Pass2B, Pass3 and Part audit.
 
 ## Repository accounting
 
 - Parts001–004 canonical records — **68**
-- Part005 Batch1 canonical records — **10**
-- repository canonical page records after this batch — **78**
-- Part005 coverage — **10/17**
+- Part005 canonical records — **17**
+- repository canonical page records — **85**
 - Part005 unresolved Pass1 holds — **0**
 
 ## Gate decision
 
-**PART005 PASS1 BATCH 1 — COMPLETE / PASS**
+**PART005 PASS1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 
-Pass1 remains open for the final **7** Part005 scans.
+Pass2A is now unblocked.
 
 ## Exact next activity
 
-**Part005 Pass1 Batch 2 — global scans79–85 / local pages11–17.**
+**Part005 Pass2A — global scans69–85 / local pages1–17.**
 
-Do not begin Pass2A until all **17/17** Part005 physical scans are text-complete.
+Do not promote `status` or `visual_fidelity` during Pass2A.
