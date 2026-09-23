@@ -113,10 +113,14 @@
 - Part004 assembled Tamil validation blockers — **0**
 - Part004 English translation planning/setup — **COMPLETE / PASS**
 - Part004 reserved English batches — **E13–E15**
-- Part004 E13 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English drafted/source-checked — **1/3**
-- Part004 unresolved English source-check holds — **0**
-- Part004 unresolved English planning holds — **0**
+- Part004 English E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- Part004 glossary reconciliation — **RECONCILED / PASS**
+- Part004 English editorial review — **PASS / CLOSED**
+- Part004 editorial corrections — **2**
+- Part004 bilingual review — **PASS / CLOSED — 3/3**
+- Part004 release/readiness — **PASS / CLOSED**
+- Part004 release-ready synchronization — **PASS / CLOSED**
+- Part004 unresolved English/release blockers — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
@@ -130,4 +134,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
+**Part004 final closure / freeze.**
