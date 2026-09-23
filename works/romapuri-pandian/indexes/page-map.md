@@ -179,4 +179,7 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part004 Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
 - Part004 Pass1 Batch 2 — **COMPLETE / PASS — scans63–68 / local11–16**
 - Part004 unresolved Pass1 holds — **0**
-- exact next activity — **Part004 Pass2A — scans53–68 / local1–16**
+- Part004 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part004 Pass2A corrections — **4**
+- Part004 Pass2A unresolved textual questions — **0**
+- exact next activity — **Part004 Pass2B Batch 1 — scans53–61 / local1–9**
