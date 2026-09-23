@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf"
-transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans53–62"
+transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans53–62; formal Part004 Pass 2A reviewed"
 ---
 
 # 3. மறவர் மானம்
