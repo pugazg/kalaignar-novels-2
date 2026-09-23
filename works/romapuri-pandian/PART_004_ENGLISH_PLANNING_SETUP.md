@@ -184,3 +184,33 @@ The synchronized controls agree on:
 - exact next gate — **E13 draft + source-check / scans53–56**
 
 Therefore this planning gate caused no canonical Tamil, assembled Tamil, existing English-body, or Part005 drift.
+
+
+## Post-planning E13 closure
+
+The first reserved Part004 English batch has since closed:
+
+- E13 — **SOURCE-CHECKED / COMPLETE**
+- verified Tamil input — `sections/12-chapter-02-muthunagai-part004-continuation.md`
+- English file — `translations/en/sections/12-chapter-02-muthunagai-part004-continuation.md`
+- scans — **53–56**
+- total Tamil / English blocks — **21 / 21**
+- rendered Tamil / English blocks — **18 / 18**
+- omitted / duplicated source blocks — **0 / 0**
+- unresolved E13 source-check holds — **0**
+- canonical Tamil edits caused by E13 — **0**
+- assembled Tamil edits caused by E13 — **0**
+- Parts001–003 English edits caused by E13 — **0**
+- Part005 leakage — **0**
+- durable source-check — `translations/en/E13_SOURCE_CHECK.md`
+
+Current Part004 English state:
+
+- E13 — **SOURCE-CHECKED / COMPLETE**
+- E14 — **RESERVED / NEXT**
+- E15 — **RESERVED**
+- completed/source-checked — **1/3**
+
+Current frontier:
+
+**E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
