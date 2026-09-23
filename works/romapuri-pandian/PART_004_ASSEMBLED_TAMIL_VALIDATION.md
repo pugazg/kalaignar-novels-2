@@ -189,3 +189,42 @@ Part004 assembled Tamil is now **PASS / CLOSED — 3/3 VERIFIED**.
 **Part004 English translation planning/setup.**
 
 Do not begin English translation in this validation activity.
+
+
+## Post-assembly control synchronization verification
+
+Pre-assembly checkpoint:
+
+`4c3e76ef8a674b5352efb97bf13969e9fd9d3466`
+
+Post-assembly synchronized checkpoint before this record refresh:
+
+`d74b1d1fad9e3871a039eb9ab804af5d48fc6081`
+
+Direct comparison confirms:
+
+- changed files — **14**
+- canonical `pages/` files changed — **0**
+- assembled Part004 content files introduced — **3**
+- shared `sections/README.md` updated — **1**
+- English section-body files changed — **0**
+- Part005 files introduced — **0**
+- lifecycle/control files synchronized to the English-planning frontier — **PASS**
+
+The synchronized controls agree on:
+
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- Part004 Tamil archival-ready — **PASS / CLOSED**
+- Part004 assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- represented physical scans — **16/16 / scans53–68**
+- publication-text pages — **14/14**
+- blank scans56 and 66 — **represented by provenance**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical mutation caused by assembly — **0**
+- Part005 leakage — **0**
+- exact next gate — **Part004 English translation planning/setup**
+
+Therefore the assembled-Tamil gate introduced no canonical Tamil, English-body, or Part005 drift.
