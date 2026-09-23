@@ -27,6 +27,7 @@ Source:
 - Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
 - Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9 / 0 corrections / 0 historical-glyph / 0 unresolved**
 - Pass2B Batch 2 — **COMPLETE / PASS — scans62–68 / local10–16 / 1 correction / 0 historical-glyph / 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 16/16 REVIEWED / 0 text corrections / 0 structural corrections / 0 unresolved**
 
 ## Incoming boundary
 
@@ -70,6 +71,6 @@ Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 Pass3 — global scans53–68 / Part004 local pages1–16.**
+**Part004 Part audit.**
 
-Part004 Pass2B is COMPLETE / PASS. Do not begin the Part audit until Pass3 closes.
+Part004 Pass3 is COMPLETE / PASS. Do not promote final status until the Part audit passes.
