@@ -95,3 +95,22 @@ Part004 canonical transcription is now authorized.
 **Part004 English translation planning/setup.**
 
 Part004 Tamil archival-ready is PASS / CLOSED and assembled Tamil is PASS / CLOSED — 3/3 VERIFIED. English work has not started.
+
+
+## Post-English release-ready state
+
+Part004 English and release gates are now closed:
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **2**
+- whole-Part bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/release blockers — **0**
+- Part005 leakage — **0**
+
+Current frontier:
+
+**Part004 final closure / freeze.**
