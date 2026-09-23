@@ -161,8 +161,13 @@
 - Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
 - Pass2A source-supported corrections — **4**
 - Pass2A unresolved textual questions — **0**
+- Pass2B — **IN PROGRESS — 9/16 REVIEWED**
+- Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9**
+- Pass2B corrections — **0**
+- Pass2B historical-glyph corrections — **0**
+- Pass2B unresolved lexical / historical-glyph questions — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 Pass2B Batch 1 scans53–61 / local1–9**
+- exact next activity — **Part004 Pass2B Batch 2 scans62–68 / local10–16**
 
 ## Boundary
 
@@ -235,11 +240,12 @@
 - `PART_004_INTAKE_BOUNDARY_SETUP.md`
 - `PART_004_PASS1_PROGRESS.md`
 - `PART_004_PASS2A_PROGRESS.md`
+- `PART_004_PASS2B_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 Pass2B Batch 1 — scans53–61 / local1–9**
+- prompt frontier — **Part004 Pass2B Batch 2 — scans62–68 / local10–16**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -254,6 +260,6 @@
 
 ## Exact next activity
 
-**Part004 Pass2B Batch 1 — global scans53–61 / local pages1–9.**
+**Part004 Pass2B Batch 2 — global scans62–68 / local pages10–16.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Pass2A is COMPLETE / PASS at 16/16 REVIEWED with 4 source-supported corrections and 0 unresolved textual questions. Pass2B follows the fixed 9-page cadence; do not begin Pass3 until both Pass2B iterations close.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Pass2B Batch 1 is COMPLETE / PASS with 9/16 reviewed, 0 corrections, 0 historical-glyph corrections and 0 unresolved questions. Do not begin Pass3 until Batch 2 closes the whole Part004 Pass2B gate.
