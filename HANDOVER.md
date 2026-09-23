@@ -179,8 +179,11 @@
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
+- assembled Tamil missing / duplicate / unsupported insertion / Part005 leakage — **0 / 0 / 0 / 0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 assembled Tamil construction + audit**
+- exact next activity — **Part004 English translation planning/setup**
 
 ## Boundary
 
@@ -259,11 +262,12 @@
 - `PART_004_FINAL_STATUS_SYNC.md`
 - `PART_004_DOCUMENTATION_SYNC.md`
 - `PART_004_TAMIL_ARCHIVAL_READY.md`
+- `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 assembled Tamil construction + audit**
+- prompt frontier — **Part004 English translation planning/setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -278,6 +282,6 @@
 
 ## Exact next activity
 
-**Part004 assembled Tamil construction + audit.**
+**Part004 English translation planning/setup.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Tamil archival-ready is PASS / CLOSED. Construct the maintained reading layer only from verified Part004 canonical pages and audit exact coverage before closing assembly.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 assembled Tamil is PASS / CLOSED — 3/3 VERIFIED with complete 16/16 physical-scan coverage, 0 missing, 0 duplicate, 0 unsupported Tamil insertion and 0 Part005 leakage. English work has not started.
