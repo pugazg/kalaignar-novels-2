@@ -1,38 +1,47 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 Tamil archival-ready checkpoint
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part004 assembled Tamil construction + audit
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Frozen state
+## Closed Part004 Tamil archival chain
 
-Parts001–003 are **FINAL CLOSED / FROZEN**.
-
-## Part004 closed Tamil verification chain
-
-- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf`
-- scans — **53–68 / 16 physical pages**
-- incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
-- Pass1 — **COMPLETE / PASS — 16/16**
-- Pass2A — **COMPLETE / PASS — 16/16 — 4 corrections / 0 unresolved**
-- Pass2B — **COMPLETE / PASS — 16/16 — 1 correction / 0 historical-glyph / 0 unresolved**
-- Pass3 — **COMPLETE / PASS — 16/16 — 0 text / 0 structural / 0 unresolved**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- Tamil status — **16/16 verified / 0 needs-review**
-- visual fidelity — **16/16 verified / 0 needs-review**
+- canonical scans — **53–68 / 16/16**
+- final Tamil status — **16/16 verified / 0 needs-review**
+- final visual fidelity — **16/16 verified / 0 needs-review**
 - documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
 
 ## Exact next activity
 
-**Part004 Tamil archival-ready checkpoint.**
+**Part004 assembled Tamil construction + audit.**
 
-Requirements:
+Construct maintained reading units only from verified canonical `pages/`:
 
-1. verify the closed source/provenance/pass/audit/status/documentation chain from live `main`;
-2. verify Part004 remains **16/16 verified Tamil** and **16/16 verified visual fidelity**;
-3. confirm unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers = **0**;
-4. confirm canonical pages did not change after final status promotion;
-5. preserve incoming 52→53 and pending external outgoing 68→69 states;
-6. create `PART_004_TAMIL_ARCHIVAL_READY.md` and synchronize controls to the assembled-Tamil frontier.
+1. Chapter 2 `முத்துநகை` Part004 continuation / close — scans53–56;
+2. Chapter 3 `மறவர் மானம்` — scans57–66;
+3. Chapter 4 `புலவர் மகள் புறப்பட்டாள்` opening — scans67–68.
 
-Do not reopen source transcription merely for this checkpoint.
+Assembly rules:
+
+- preserve exact verified Tamil and source order;
+- preserve source-page provenance with non-rendering comments;
+- represent blank scans56 and 66 by provenance only;
+- preserve verified joins 53→54, 61→62 and 64→65;
+- do not import Part003 body text into the Part004 continuation file;
+- do not import scan69 / Part005 text;
+- canonical `pages/` remains authoritative.
+
+Audit requirements:
+
+- physical scans53–68 represented structurally — **16/16**;
+- publication-text pages represented — **14/14** plus two blank-page provenance records;
+- missing / duplicate coverage — **0 / 0**;
+- unsupported Tamil insertion — **0**;
+- audit-note leakage — **0**;
+- canonical page mutation caused by assembly — **0**;
+- Part005 leakage — **0**.
+
+Create/synchronize `PART_004_ASSEMBLED_TAMIL_VALIDATION.md` and `sections/README.md`.
+
+Stop after assembled Tamil is **PASS / CLOSED**; do not begin English translation unless separately requested.
