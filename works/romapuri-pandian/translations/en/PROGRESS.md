@@ -328,8 +328,8 @@ Part004 Tamil prerequisites:
 
 | Batch | Tamil unit | Scans | Planned English file | Status |
 |---|---|---:|---|---|
-| **E13** | `12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | `sections/12-chapter-02-muthunagai-part004-continuation.md` | **RESERVED / NEXT** |
-| **E14** | `13-chapter-03-maravar-maanam.md` | 57–66 | `sections/13-chapter-03-the-warriors-honour.md` | **RESERVED** |
+| **E13** | `12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | `sections/12-chapter-02-muthunagai-part004-continuation.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E14** | `13-chapter-03-maravar-maanam.md` | 57–66 | `sections/13-chapter-03-the-warriors-honour.md` | **RESERVED / NEXT** |
 | **E15** | `14-chapter-04-pulavar-magal-purappattaal.md` | 67–68 | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | **RESERVED** |
 
 Part004 batch discipline:
@@ -338,7 +338,7 @@ Part004 batch discipline:
 
 ### Part004 planning integrity
 
-- English Part004 drafts created — **0/3**
+- English Part004 drafted/source-checked — **1/3**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
 - Parts001–003 English section edits caused by planning — **0**
@@ -353,6 +353,18 @@ Part004 batch discipline:
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
 - E15 must not infer or import Part005 wording
 
+## Part004 E13 completion accounting
+
+- E13 — **SOURCE-CHECKED / COMPLETE**
+- maintained Part004 English section files — **1/3**
+- source-checked Part004 English section files — **1/3**
+- durable Part004 source-check records — **1/3**
+- unresolved E13 source-check holds — **0**
+- canonical Tamil edits caused by E13 — **0**
+- assembled Tamil edits caused by E13 — **0**
+- Parts001–003 English section edits caused by E13 — **0**
+- Part005 content leakage — **0**
+
 ## Exact next activity — project
 
-**E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
+**E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
