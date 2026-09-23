@@ -178,8 +178,9 @@
 - visual fidelity — **16/16 verified / 0 needs-review**
 - unresolved status exceptions — **0**
 - documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready checkpoint — **PASS / CLOSED**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 Tamil archival-ready checkpoint**
+- exact next activity — **Part004 assembled Tamil construction + audit**
 
 ## Boundary
 
@@ -257,11 +258,12 @@
 - `PART_004_AUDIT.md`
 - `PART_004_FINAL_STATUS_SYNC.md`
 - `PART_004_DOCUMENTATION_SYNC.md`
+- `PART_004_TAMIL_ARCHIVAL_READY.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 Tamil archival-ready checkpoint**
+- prompt frontier — **Part004 assembled Tamil construction + audit**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -276,6 +278,6 @@
 
 ## Exact next activity
 
-**Part004 Tamil archival-ready checkpoint.**
+**Part004 assembled Tamil construction + audit.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 final metadata/status synchronization is PASS / CLOSED at 16/16 verified Tamil and 16/16 verified visual fidelity, and documentation synchronization is PASS / COMPLETE. The archival-ready checkpoint must introduce no canonical Tamil changes.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Tamil archival-ready is PASS / CLOSED. Construct the maintained reading layer only from verified Part004 canonical pages and audit exact coverage before closing assembly.
