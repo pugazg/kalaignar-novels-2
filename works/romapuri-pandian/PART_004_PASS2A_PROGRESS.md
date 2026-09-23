@@ -145,3 +145,19 @@ Pass2B cadence:
 Pass2B must independently reread lexical boundaries, spacing, punctuation-sensitive forms and historical Tamil glyph identity from direct source pixels.
 
 Do not begin Pass3 until Pass2B closes.
+
+
+## Post-Pass2A Pass2B progress
+
+Part004 Pass2B has started under the fixed 9-page cadence.
+
+- Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9**
+- reviewed pages — **9/16**
+- lexical / spacing / punctuation corrections — **0**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- durable control — `PART_004_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part004 Pass2B Batch 2 — scans62–68 / local pages10–16.**
