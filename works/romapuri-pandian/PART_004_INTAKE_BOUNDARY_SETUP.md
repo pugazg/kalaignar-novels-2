@@ -34,6 +34,9 @@ Source:
 - Tamil status — **16/16 verified / 0 needs-review**
 - visual fidelity — **16/16 verified / 0 needs-review**
 - documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- assembled Tamil validation blockers — **0**
 
 ## Incoming boundary
 
@@ -77,6 +80,6 @@ Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 Tamil archival-ready checkpoint.**
+**Part004 English translation planning/setup.**
 
-Part004 final status synchronization and documentation synchronization are closed. Do not alter canonical Tamil in the checkpoint.
+Part004 Tamil archival-ready and assembled Tamil are closed. Do not reopen canonical Tamil merely to begin English planning.
