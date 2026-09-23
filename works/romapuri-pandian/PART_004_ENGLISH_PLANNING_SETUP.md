@@ -235,3 +235,22 @@ The planned E13→E14→E15 sequence has completed:
 Current frontier:
 
 **Part004 final closure / freeze.**
+
+
+## Final Part004 English closure
+
+The planned E13→E14→E15 workflow has reached final closure:
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part004 closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- Part005 leakage — **0**
+
+Current frontier:
+
+**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
