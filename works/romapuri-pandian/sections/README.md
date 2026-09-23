@@ -192,7 +192,7 @@ Part003 Tamil archival-ready — **PASS / CLOSED**.
 
 Part003 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**.
 
-Exact next maintained gate — **Part003 English translation planning/setup**.
+Historical Part003 post-assembly next gate — **Part003 English translation planning/setup**.
 
 
 ## Part003 downstream English state
