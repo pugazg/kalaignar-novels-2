@@ -184,10 +184,12 @@
 - assembled Tamil missing / duplicate / unsupported insertion / Part005 leakage — **0 / 0 / 0 / 0**
 - English translation planning/setup — **COMPLETE / PASS**
 - reserved English batches — **E13–E15**
-- English drafts/source-checks — **0/3**
+- English E13 — **SOURCE-CHECKED / COMPLETE**
+- English drafted/source-checked — **1/3**
+- unresolved English source-check holds — **0**
 - unresolved English planning holds — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **E13 draft + source-check Part004 Chapter 2 continuation / scans53–56**
+- exact next activity — **E14 draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66**
 
 ## Boundary
 
@@ -268,11 +270,12 @@
 - `PART_004_TAMIL_ARCHIVAL_READY.md`
 - `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_004_ENGLISH_PLANNING_SETUP.md`
+- `translations/en/E13_SOURCE_CHECK.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E13 draft + source-check — scans53–56**
+- prompt frontier — **E14 draft + source-check — scans57–66**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -287,6 +290,6 @@
 
 ## Exact next activity
 
-**E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
+**E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 English planning/setup is COMPLETE / PASS with E13–E15 reserved and 0 planning holds. E13 must reach SOURCE-CHECKED / COMPLETE before E14 begins.
+Parts001–003 remain FINAL CLOSED / FROZEN. E13 is SOURCE-CHECKED / COMPLETE with 0 source-check holds and no Tamil or frozen-English drift. E14 must reach SOURCE-CHECKED / COMPLETE before E15 begins.
