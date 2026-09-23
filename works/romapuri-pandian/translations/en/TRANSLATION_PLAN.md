@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–003 FINAL CLOSED / FROZEN**
+Status: **PARTS001–003 FINAL CLOSED / FROZEN — PART004 E13 SOURCE-CHECKED / E14 NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–002 are final closed/frozen; Part003 English planning/setup is active.
+This is the cumulative control plan for the project-created English translation. Parts001–003 are final closed/frozen; Part004 English is active under the E13→E14→E15 sequence.
 
 ## Authority hierarchy
 
