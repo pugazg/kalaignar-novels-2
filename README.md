@@ -120,7 +120,9 @@
 - Part004 bilingual review — **PASS / CLOSED — 3/3**
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
+- Part004 final closure — **PASS / CLOSED / FROZEN**
 - Part004 unresolved English/release blockers — **0**
+- Part005 source — **NOT SUPPLIED / NOT REGISTERED**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
@@ -134,4 +136,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part004 final closure / freeze.**
+**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
+
+Do not infer scan69 without the supplied Part005 source.
