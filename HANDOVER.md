@@ -192,6 +192,8 @@
 - Part004 whole-Part bilingual review — **PASS / CLOSED — 3/3**
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
+- final Part004 closure — **PASS / CLOSED / FROZEN**
+- unresolved English/source-check/release blockers — **0**
 - unresolved English source-check holds — **0**
 - unresolved Part004 glossary holds — **0**
 - unresolved editorial holds — **0**
@@ -199,7 +201,7 @@
 - unresolved release/readiness blockers — **0**
 - unresolved English planning holds — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 final closure / freeze**
+- exact next activity — **Part005 source intake + 68→69 adjacent-boundary witness inspection/setup**
 
 ## Boundary
 
@@ -284,11 +286,16 @@
 - `translations/en/E14_SOURCE_CHECK.md`
 - `translations/en/E15_SOURCE_CHECK.md`
 - `translations/en/PART_004_GLOSSARY_RECONCILIATION.md`
+- `translations/en/PART_004_TRANSLATION_REVIEW.md`
+- `translations/en/PART_004_BILINGUAL_REVIEW.md`
+- `translations/en/PART_004_RELEASE_REPORT.md`
+- `PART_004_RELEASE_READY_SYNC.md`
+- `PART_004_FINAL_CLOSURE.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 final closure / freeze**
+- prompt frontier — **Part005 source intake + 68→69 boundary setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -303,6 +310,6 @@
 
 ## Exact next activity
 
-**Part004 final closure / freeze.**
+**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Tamil, assembled Tamil, E13–E15 source-check, glossary, editorial, bilingual, release/readiness and release-ready synchronization are all closed with 0 unresolved blockers.
+Parts001–004 are FINAL CLOSED / FROZEN. Part005 is not supplied / registered. Do not infer scan69 or begin Part005 canonical transcription without the source.
