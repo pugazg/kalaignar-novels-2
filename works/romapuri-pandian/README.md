@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 RELEASE-READY / FINAL CLOSURE NEXT**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 NOT SUPPLIED / NOT REGISTERED**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -149,7 +149,9 @@
 - Part004 bilingual review — **PASS / CLOSED — 3/3**
 - Part004 release/readiness — **PASS / CLOSED**
 - Part004 release-ready synchronization — **PASS / CLOSED**
+- Part004 final closure — **PASS / CLOSED / FROZEN**
 - Part004 unresolved English/release blockers — **0**
+- Part005 source — **NOT SUPPLIED / NOT REGISTERED**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -232,4 +234,6 @@
 
 ## Exact next activity
 
-**Part004 final closure / freeze.**
+**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
+
+Do not infer scan69 or begin Part005 canonical transcription without the source.
