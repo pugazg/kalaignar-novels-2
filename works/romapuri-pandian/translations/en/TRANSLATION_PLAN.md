@@ -435,8 +435,8 @@ Verified Part004 assembled inputs:
 | Batch | Tamil input | Planned English file | Scans | Planning state |
 |---|---|---|---:|---|
 | **E13** | `../../sections/12-chapter-02-muthunagai-part004-continuation.md` | `sections/12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | **SOURCE-CHECKED / COMPLETE** |
-| **E14** | `../../sections/13-chapter-03-maravar-maanam.md` | `sections/13-chapter-03-the-warriors-honour.md` | 57–66 | **RESERVED / NEXT** |
-| **E15** | `../../sections/14-chapter-04-pulavar-magal-purappattaal.md` | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | 67–68 | **RESERVED** |
+| **E14** | `../../sections/13-chapter-03-maravar-maanam.md` | `sections/13-chapter-03-the-warriors-honour.md` | 57–66 | **SOURCE-CHECKED / COMPLETE** |
+| **E15** | `../../sections/14-chapter-04-pulavar-magal-purappattaal.md` | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | 67–68 | **RESERVED / NEXT** |
 
 Batch discipline:
 
@@ -501,8 +501,20 @@ This planning/setup activity changes English control metadata only.
 - Part005 leakage — **0**
 - durable source-check — `E13_SOURCE_CHECK.md`
 
+## Part004 E14 completion state
+
+- E13 — **SOURCE-CHECKED / COMPLETE**
+- E14 — **SOURCE-CHECKED / COMPLETE**
+- E15 — **RESERVED / NEXT**
+- completed/source-checked — **2/3**
+- E14 Tamil / English block accounting — **58/58 total; 51/51 rendered; 7/7 standalone provenance**
+- E14 omitted / duplicated source blocks — **0 / 0**
+- E14 unresolved source-check holds — **0**
+- canonical / assembled Tamil edits caused by E14 — **0**
+- Parts001–003 / E13 English edits caused by E14 — **0**
+- Part005 leakage — **0**
+- durable source-check — `E14_SOURCE_CHECK.md`
+
 ## Current exact English activity
 
-**E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
-
-Do not begin E15 until E14 is **SOURCE-CHECKED / COMPLETE**.
+**E15 — draft + source-check Part004 Chapter 4 `புலவர் மகள் புறப்பட்டாள்` / scans67–68.**
