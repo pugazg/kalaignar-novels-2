@@ -331,7 +331,7 @@ Part004 Tamil prerequisites:
 |---|---|---:|---|---|
 | **E13** | `12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | `sections/12-chapter-02-muthunagai-part004-continuation.md` | **SOURCE-CHECKED / COMPLETE** |
 | **E14** | `13-chapter-03-maravar-maanam.md` | 57–66 | `sections/13-chapter-03-the-warriors-honour.md` | **SOURCE-CHECKED / COMPLETE** |
-| **E15** | `14-chapter-04-pulavar-magal-purappattaal.md` | 67–68 | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | **RESERVED / NEXT** |
+| **E15** | `14-chapter-04-pulavar-magal-purappattaal.md` | 67–68 | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | **SOURCE-CHECKED / COMPLETE** |
 
 Part004 batch discipline:
 
@@ -339,7 +339,7 @@ Part004 batch discipline:
 
 ### Part004 planning integrity
 
-- English Part004 drafted/source-checked — **2/3**
+- English Part004 drafted/source-checked — **3/3**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
 - Parts001–003 English section edits caused by planning — **0**
@@ -375,6 +375,16 @@ Part004 batch discipline:
 - Parts001–003 / E13 English edits caused by E14 — **0**
 - Part005 leakage — **0**
 
+## Part004 E15 completion accounting
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- maintained Part004 English section files — **3/3**
+- durable Part004 source-check records — **3/3**
+- unresolved source-check holds — **0**
+- canonical / assembled Tamil edits caused by Part004 English — **0**
+- Parts001–003 English edits caused by Part004 English — **0**
+- Part005 leakage — **0**
+
 ## Exact next activity — project
 
-**E15 — draft + source-check Part004 Chapter 4 `புலவர் மகள் புறப்பட்டாள்` / scans67–68.**
+**Part004 whole-Part glossary reconciliation across E13–E15.**
