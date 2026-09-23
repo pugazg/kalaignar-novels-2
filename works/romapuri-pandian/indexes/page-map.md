@@ -57,23 +57,23 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 003 | 17 | 51 | 49 | Chapter 2 continuation | verified | `pages/0051-muthunagai.md` |
 | 003 | 18 | 52 | 50 | Chapter 2 continuation; Part003 terminal page | verified | `pages/0052-muthunagai.md` |
 
-| 004 | 1 | 53 | 51 | Chapter 2 continuation; incoming 52→53 genuine continuation audited; ends mid-sentence | needs-review | `pages/0053-muthunagai.md` |
-| 004 | 2 | 54 | 52 | Chapter 2 continuation; completes scan53 sentence | needs-review | `pages/0054-muthunagai.md` |
-| 004 | 3 | 55 | 53 | Chapter 2 apparent close; large intentional blank lower field | needs-review | `pages/0055-muthunagai.md` |
-| 004 | 4 | 56 | — | Blank physical page | needs-review | `pages/0056-blank.md` |
-| 004 | 5 | 57 | — | Chapter 3 illustrated title page — `மறவர் மானம்` | needs-review | `pages/0057-chapter-03-title.md` |
-| 004 | 6 | 58 | — | Chapter 3 opening; large intentional blank upper field | needs-review | `pages/0058-maravar-maanam.md` |
-| 004 | 7 | 59 | 57 | Chapter 3 continuation / dialogue | needs-review | `pages/0059-maravar-maanam.md` |
-| 004 | 8 | 60 | 58 | Chapter 3 continuation / தீவட்டி challenge-response | needs-review | `pages/0060-maravar-maanam.md` |
-| 004 | 9 | 61 | 59 | Chapter 3 continuation; terminal physical continuation `நேரத்தில்தான்` | needs-review | `pages/0061-maravar-maanam.md` |
-| 004 | 10 | 62 | 60 | Chapter 3 continuation; completes scan61 sentence | needs-review | `pages/0062-maravar-maanam.md` |
+| 004 | 1 | 53 | 51 | Chapter 2 continuation; incoming 52→53 genuine continuation audited; ends mid-sentence | verified | `pages/0053-muthunagai.md` |
+| 004 | 2 | 54 | 52 | Chapter 2 continuation; completes scan53 sentence | verified | `pages/0054-muthunagai.md` |
+| 004 | 3 | 55 | 53 | Chapter 2 apparent close; large intentional blank lower field | verified | `pages/0055-muthunagai.md` |
+| 004 | 4 | 56 | — | Blank physical page | verified | `pages/0056-blank.md` |
+| 004 | 5 | 57 | — | Chapter 3 illustrated title page — `மறவர் மானம்` | verified | `pages/0057-chapter-03-title.md` |
+| 004 | 6 | 58 | — | Chapter 3 opening; large intentional blank upper field | verified | `pages/0058-maravar-maanam.md` |
+| 004 | 7 | 59 | 57 | Chapter 3 continuation / dialogue | verified | `pages/0059-maravar-maanam.md` |
+| 004 | 8 | 60 | 58 | Chapter 3 continuation / தீவட்டி challenge-response | verified | `pages/0060-maravar-maanam.md` |
+| 004 | 9 | 61 | 59 | Chapter 3 continuation; terminal physical continuation `நேரத்தில்தான்` | verified | `pages/0061-maravar-maanam.md` |
+| 004 | 10 | 62 | 60 | Chapter 3 continuation; completes scan61 sentence | verified | `pages/0062-maravar-maanam.md` |
 
-| 004 | 11 | 63 | 61 | Chapter 3 continuation; Sezhiyan resistance / Villavan body brought in | needs-review | `pages/0063-maravar-maanam.md` |
-| 004 | 12 | 64 | 62 | Chapter 3 continuation; Irungovel enters; ends mid-sentence | needs-review | `pages/0064-maravar-maanam.md` |
-| 004 | 13 | 65 | 63 | Chapter 3 continuation / apparent close; large intentional blank lower field | needs-review | `pages/0065-maravar-maanam.md` |
-| 004 | 14 | 66 | — | Blank physical page | needs-review | `pages/0066-blank.md` |
-| 004 | 15 | 67 | — | Chapter 4 illustrated title page — `புலவர் மகள் புறப்பட்டாள்` | needs-review | `pages/0067-chapter-04-title.md` |
-| 004 | 16 | 68 | — | Chapter 4 opening; large intentional blank upper field; Part004 terminal page | needs-review | `pages/0068-pulavar-magal-purappattaal.md` |
+| 004 | 11 | 63 | 61 | Chapter 3 continuation; Sezhiyan resistance / Villavan body brought in | verified | `pages/0063-maravar-maanam.md` |
+| 004 | 12 | 64 | 62 | Chapter 3 continuation; Irungovel enters; ends mid-sentence | verified | `pages/0064-maravar-maanam.md` |
+| 004 | 13 | 65 | 63 | Chapter 3 continuation / apparent close; large intentional blank lower field | verified | `pages/0065-maravar-maanam.md` |
+| 004 | 14 | 66 | — | Blank physical page | verified | `pages/0066-blank.md` |
+| 004 | 15 | 67 | — | Chapter 4 illustrated title page — `புலவர் மகள் புறப்பட்டாள்` | verified | `pages/0067-chapter-04-title.md` |
+| 004 | 16 | 68 | — | Chapter 4 opening; large intentional blank upper field; Part004 terminal page | verified | `pages/0068-pulavar-magal-purappattaal.md` |
 
 ## Current state
 
@@ -194,4 +194,8 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part004 Pass3 unresolved visual/structural questions — **0**
 - Part004 Part audit — **PASS / COMPLETE — 16/16 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part004 audit unresolved blockers — **0**
-- exact next activity — **Part004 final metadata/status synchronization**
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- Part004 Tamil status — **16/16 verified / 0 needs-review**
+- Part004 visual fidelity — **16/16 verified / 0 needs-review**
+- Part004 documentation synchronization — **PASS / COMPLETE**
+- exact next activity — **Part004 Tamil archival-ready checkpoint**
