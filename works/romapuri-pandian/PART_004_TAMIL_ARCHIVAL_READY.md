@@ -190,3 +190,23 @@ Rules:
 **Part004 assembled Tamil construction + audit.**
 
 Do not begin English translation/review until assembled Tamil closes.
+
+
+## Post-checkpoint assembled Tamil closure
+
+The maintained Part004 assembled Tamil stage subsequently closed without reopening canonical Tamil:
+
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- physical scan coverage — **16/16 / scans53–68**
+- publication-text coverage — **14/14**
+- blank scan provenance — **56 and 66 represented / no rendered Tamil**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part005 leakage — **0**
+- durable control — `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part004 English translation planning/setup.**
