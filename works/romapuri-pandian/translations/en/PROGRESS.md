@@ -385,6 +385,14 @@ Part004 batch discipline:
 - Parts001–003 English edits caused by Part004 English — **0**
 - Part005 leakage — **0**
 
+## Part004 post-source-check review state
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- unresolved source-check holds — **0**
+- unresolved glossary holds — **0**
+- Part005 leakage — **0**
+
 ## Exact next activity — project
 
-**Part004 whole-Part glossary reconciliation across E13–E15.**
+**Part004 English editorial review across E13–E15.**
