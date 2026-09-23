@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 AUDIT PASS / STATUS SYNC READY**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 VERIFIED / DOCUMENTATION SYNC PASS**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -132,6 +132,10 @@
 - Part004 Pass3 unresolved visual/structural questions — **0**
 - Part004 Part audit — **PASS / COMPLETE — 16/16 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part004 audit unresolved blockers — **0**
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- Part004 page status — **16/16 verified / 0 needs-review**
+- Part004 visual fidelity — **16/16 verified / 0 needs-review**
+- Part004 documentation synchronization — **PASS / COMPLETE**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -205,10 +209,12 @@
 - `PART_004_PASS2B_PROGRESS.md`
 - `PART_004_PASS3_PROGRESS.md`
 - `PART_004_AUDIT.md`
+- `PART_004_FINAL_STATUS_SYNC.md`
+- `PART_004_DOCUMENTATION_SYNC.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part004 final metadata/status synchronization.**
+**Part004 Tamil archival-ready checkpoint.**
 
-Parts001–003 are frozen. The audit has passed; the next gate may promote only Part004 status and visual fidelity to `verified` without changing canonical Tamil text.
+Parts001–003 are frozen. Part004 is 16/16 verified for Tamil status and visual fidelity, with documentation synchronization complete.
