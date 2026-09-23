@@ -526,6 +526,16 @@ This planning/setup activity changes English control metadata only.
 - Part005 leakage — **0**
 - durable source-check — `E15_SOURCE_CHECK.md`
 
+## Part004 post-source-check state
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- unresolved source-check holds — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits caused by English — **0**
+- Parts001–003 English edits — **0**
+- Part005 leakage — **0**
+
 ## Current exact English activity
 
-**Part004 whole-Part glossary reconciliation across E13–E15.**
+**Part004 English editorial review across E13–E15.**
