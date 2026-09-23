@@ -23,10 +23,13 @@ Source:
 - Pass1 Batch 2 — **COMPLETE / PASS — scans79–85 / local11–17**
 - Pass1 unresolved source-reading holds — **0**
 - Pass2A cadence — **9 pages per iteration; final remainder may contain fewer**
-- Pass2A — **IN PROGRESS — 9/17 REVIEWED**
+- Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A Batch 1 — **COMPLETE / PASS — scans69–77 / local1–9**
-- Pass2A source-supported corrections — **2**
+- Pass2A Batch 2 — **COMPLETE / PASS — scans78–85 / local10–17**
+- Pass2A source-supported corrections — **4**
 - Pass2A unresolved textual questions — **0**
+- Pass2B cadence — **9 pages per iteration; final remainder may contain fewer**
+- Pass2B — **NOT STARTED**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 
 ## Incoming boundary
@@ -74,9 +77,9 @@ Part005 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part005 Pass2A Batch 2 — global scans78–85 / local pages10–17.**
+**Part005 Pass2B Batch 1 — global scans69–77 / local pages1–9.**
 
-Batch 1 is COMPLETE / PASS. Do not promote final status during Pass2A.
+Pass2A is COMPLETE / PASS. Do not promote final status during Pass2B.
 
 
 ## Post-intake control synchronization verification
@@ -125,3 +128,20 @@ Part005 Pass1 subsequently closed:
 Current frontier:
 
 **Part005 Pass2A — global scans69–85 / local pages1–17.**
+
+
+## Post-Pass2A closure
+
+Part005 Pass2A subsequently closed:
+
+- result — **COMPLETE / PASS — 17/17 REVIEWED**
+- Batch 1 — **scans69–77 / local1–9 — COMPLETE / PASS**
+- Batch 2 — **scans78–85 / local10–17 — COMPLETE / PASS**
+- source-supported corrections — **4**
+- unresolved textual questions — **0**
+- status promotions — **0**
+- durable control — `PART_005_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part005 Pass2B Batch 1 — scans69–77 / local1–9.**
