@@ -28,6 +28,8 @@ Source:
 - Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9 / 0 corrections / 0 historical-glyph / 0 unresolved**
 - Pass2B Batch 2 — **COMPLETE / PASS — scans62–68 / local10–16 / 1 correction / 0 historical-glyph / 0 unresolved**
 - Pass3 — **COMPLETE / PASS — 16/16 REVIEWED / 0 text corrections / 0 structural corrections / 0 unresolved**
+- Part audit — **PASS / COMPLETE — 16/16 canonical / 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part audit unresolved blockers — **0**
 
 ## Incoming boundary
 
@@ -71,6 +73,6 @@ Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 Part audit.**
+**Part004 final metadata/status synchronization.**
 
-Part004 Pass3 is COMPLETE / PASS. Do not promote final status until the Part audit passes.
+Part004 Part audit is PASS / COMPLETE. Promote only status and visual fidelity in the next gate; do not alter canonical Tamil text.
