@@ -182,8 +182,12 @@
 - assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
 - assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
 - assembled Tamil missing / duplicate / unsupported insertion / Part005 leakage — **0 / 0 / 0 / 0**
+- English translation planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E13–E15**
+- English drafts/source-checks — **0/3**
+- unresolved English planning holds — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 English translation planning/setup**
+- exact next activity — **E13 draft + source-check Part004 Chapter 2 continuation / scans53–56**
 
 ## Boundary
 
@@ -263,11 +267,12 @@
 - `PART_004_DOCUMENTATION_SYNC.md`
 - `PART_004_TAMIL_ARCHIVAL_READY.md`
 - `PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_004_ENGLISH_PLANNING_SETUP.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 English translation planning/setup**
+- prompt frontier — **E13 draft + source-check — scans53–56**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -282,6 +287,6 @@
 
 ## Exact next activity
 
-**Part004 English translation planning/setup.**
+**E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 assembled Tamil is PASS / CLOSED — 3/3 VERIFIED with complete 16/16 physical-scan coverage, 0 missing, 0 duplicate, 0 unsupported Tamil insertion and 0 Part005 leakage. English work has not started.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 English planning/setup is COMPLETE / PASS with E13–E15 reserved and 0 planning holds. E13 must reach SOURCE-CHECKED / COMPLETE before E14 begins.
