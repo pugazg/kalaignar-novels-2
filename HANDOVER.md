@@ -13,8 +13,8 @@
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - planned split set — **39 size-based PDFs**
-- supplied / registered — **Part001 + Part002 + Part003 + Part004**
-- mapped physical scans — **1–68**
+- supplied / registered — **Part001 + Part002 + Part003 + Part004 + Part005**
+- mapped physical scans — **1–85**
 - source PDFs remain outside Git
 
 ### Part001
@@ -201,13 +201,29 @@
 - unresolved release/readiness blockers — **0**
 - unresolved English planning holds — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 source intake + 68→69 adjacent-boundary witness inspection/setup**
+- outgoing 68→69 witness — **RESOLVED BY PART005 ADJACENT WITNESS / GENUINE CONTINUATION / AUDITED**
+
+### Part005
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf`
+- local pages — **17**
+- global scans — **69–85**
+- file size — **47,433,786 bytes**
+- SHA-256 — `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b`
+- source intake — **REGISTERED / AUTHORIZED**
+- intake + incoming-boundary setup — **PASS / COMPLETE**
+- incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
+- canonical records — **0/17**
+- Pass1 — **NOT STARTED**
+- unresolved intake/boundary blockers — **0**
+- exact next activity — **Part005 Pass1 Batch 1 — scans69–78 / local1–10**
 
 ## Boundary
 
 - **17→18 — GENUINE CONTINUATION / AUDITED**
 - **34→35 — GENUINE CONTINUATION / AUDITED**
 - **52→53 — GENUINE CONTINUATION / AUDITED**
+- **68→69 — GENUINE CONTINUATION / AUDITED**
 - scan35 body imported backward into Part002 — **0**
 - scan53 body imported backward into Part003 — **0**
 
@@ -291,11 +307,14 @@
 - `translations/en/PART_004_RELEASE_REPORT.md`
 - `PART_004_RELEASE_READY_SYNC.md`
 - `PART_004_FINAL_CLOSURE.md`
+- `SOURCE_INTAKE_PART_005.md`
+- `PART_004_BOUNDARY_AUDIT_68_69.md`
+- `PART_005_INTAKE_BOUNDARY_SETUP.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 source intake + 68→69 boundary setup**
+- prompt frontier — **Part005 Pass1 Batch 1 — scans69–78**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -310,6 +329,6 @@
 
 ## Exact next activity
 
-**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
+**Part005 Pass1 Batch 1 — global scans69–78 / local pages1–10.**
 
-Parts001–004 are FINAL CLOSED / FROZEN. Part005 is not supplied / registered. Do not infer scan69 or begin Part005 canonical transcription without the source.
+Parts001–004 remain FINAL CLOSED / FROZEN. Part005 source intake and incoming 68→69 boundary audit are PASS / COMPLETE. Pass2A remains blocked until Part005 Pass1 covers all 17/17 scans.
