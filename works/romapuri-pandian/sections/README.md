@@ -220,3 +220,22 @@ Part004 assembled Tamil coverage — **16/16 physical scans / 14/14 publication-
 Part004 assembled Tamil validation blockers — **0**.
 
 Exact next maintained gate — **Part004 English translation planning/setup**.
+
+
+## Part004 downstream English / release state
+
+Part004 assembled Tamil remains **PASS / CLOSED — 3/3 VERIFIED**.
+
+Downstream English/release gates:
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+
+Current frontier:
+
+**Part004 final closure / freeze.**
