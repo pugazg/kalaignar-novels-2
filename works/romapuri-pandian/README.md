@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 NOT SUPPLIED / NOT REGISTERED**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 REGISTERED / PASS1 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -151,7 +151,14 @@
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - Part004 unresolved English/release blockers — **0**
-- Part005 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part005 source — **REGISTERED / AUTHORIZED — 17 pages / scans69–85**
+- Part005 file size — **47,433,786 bytes**
+- Part005 SHA-256 — `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b`
+- Part005 intake + incoming-boundary setup — **PASS / COMPLETE**
+- Part005 incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
+- Part005 canonical records — **0/17**
+- Part005 Pass1 — **NOT STARTED**
+- Part005 unresolved intake/boundary blockers — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -234,6 +241,4 @@
 
 ## Exact next activity
 
-**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
-
-Do not infer scan69 or begin Part005 canonical transcription without the source.
+**Part005 Pass1 Batch 1 — global scans69–78 / local pages1–10.**
