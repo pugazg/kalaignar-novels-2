@@ -114,3 +114,29 @@ Part004 English and release gates are now closed:
 Current frontier:
 
 **Part004 final closure / freeze.**
+
+
+## Post-Part004 final closure
+
+Part004 is now **FINAL CLOSED / FROZEN**.
+
+Closed downstream gates:
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+
+Outgoing boundary remains:
+
+**68→69 — PENDING Part005 adjacent witness / deferred external boundary evidence**
+
+Part005 source is **NOT SUPPLIED / NOT REGISTERED**.
+
+Current frontier:
+
+**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
