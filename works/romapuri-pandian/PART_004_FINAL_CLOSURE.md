@@ -264,3 +264,27 @@ The synchronized live frontier is therefore:
 - next activity — **Part005 source intake + 68→69 adjacent-boundary witness inspection/setup**
 
 Unauthorized textual drift after final closure — **0**.
+
+
+## 14. Later adjacent-witness resolution — Part005 intake
+
+After Part004 final closure/freeze, the Part005 source was supplied and registered:
+
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf`
+
+- local pages — **17**
+- global scans — **69–85**
+- file size — **47,433,786 bytes**
+- SHA-256 — `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b`
+- scan69 printed page — **67**
+- 68→69 classification — **GENUINE CONTINUATION / AUDITED**
+- Part004 canonical/body mutation caused by this later witness — **0**
+- Part004 assembled Tamil mutation — **0**
+- Part004 English mutation — **0**
+- scan69 text imported backward into Part004 — **0**
+
+The historical statement that 68→69 was pending **at the moment of Part004 closure** remains correct. The later external witness now resolves that deferred boundary without reopening Part004.
+
+Current frontier:
+
+**Part005 Pass1 Batch 1 — global scans69–78 / local pages1–10.**
