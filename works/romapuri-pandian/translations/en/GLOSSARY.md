@@ -445,6 +445,21 @@ E13 confirms the following local English handling:
 
 E13 unresolved glossary/source-check holds — **0**.
 
+## E14 source-check decisions
+
+- `மறவர் மானம்` → **The Warrior's Honour**
+- `கார்த்தை` → ***kaarthai***, retained source-facing because the verified Tamil supplies no internal identifying gloss
+- `சாவுருக்குப் போகும் வழி` → **Road to Death**
+- `பகை! பகை! பகை!` → **Enemy! Enemy! Enemy!**
+- `துள்! துள்! துள்!` → **Thul! Thul! Thul!**
+- `செந்தலையார்` → **Senthalaiyar**
+- `கரிகால் பெருவளத்தான்` → **Karikala Peruvalathan**
+- `வேளிர்குடி` → **Velir clan / Velir people**, chosen by local syntax
+- `விலங்கு` → **shackles** in the restraint context
+- `தளபதி` → **commander**
+
+E14 unresolved glossary/source-check holds — **0**.
+
 Exact next glossary-bearing activity:
 
-**E14 draft + source-check.**
+**E15 draft + source-check.**
