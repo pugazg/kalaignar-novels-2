@@ -283,7 +283,13 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part003 Pass1 Batch 1 — **COMPLETE / scans35–44 / local1–10**
 - Part003 Pass1 Batch 2 — **COMPLETE / scans45–52 / local11–18**
 - Part003 Pass1 unresolved holds — **0**
-- Part004 source — **NOT SUPPLIED / NOT REGISTERED**
-- Part004 canonical transcription — **NOT AUTHORIZED UNTIL SOURCE INTAKE + 52→53 SETUP**
-- outgoing 52→53 witness — **PENDING Part004 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**
+- Part004 source — **REGISTERED / scans53–68 / AUTHORIZED**
+- Part004 canonical records — **16/16 / scans53–68**
+- Part004 Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+- Part004 Pass1 unresolved holds — **0**
+- Part004 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part004 Pass2A source-supported corrections — **4**
+- Part004 Pass2A unresolved textual questions — **0**
+- incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
+- exact next gate — **Part004 Pass2B Batch 1 — scans53–61 / local1–9**
