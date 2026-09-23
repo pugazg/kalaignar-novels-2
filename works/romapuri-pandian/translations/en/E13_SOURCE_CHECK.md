@@ -147,3 +147,37 @@ Part004 English completion state:
 **E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
 
 Do not begin E15 until E14 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-E13 control synchronization verification
+
+Pre-E13 planning checkpoint:
+
+`77a85570c5c4ea7d8a16401533fe3bec7a69d95e`
+
+Post-E13 synchronized checkpoint before this record refresh:
+
+`97af419b0803ce5d68ced065450f61c9154a232e`
+
+Direct comparison confirms:
+
+- canonical `pages/` files changed — **0**
+- assembled Tamil content files changed — **0**
+- Parts001–003 English section files changed — **0**
+- E13 English section file introduced — **1**
+- E13 durable source-check record introduced — **1**
+- E14/E15 English draft files introduced — **0**
+- Part005 files introduced — **0**
+- lifecycle/control records synchronized to the E14 frontier — **PASS**
+
+Current Part004 English state:
+
+- E13 — **SOURCE-CHECKED / COMPLETE**
+- E14 — **RESERVED / NEXT**
+- E15 — **RESERVED**
+- completed/source-checked — **1/3**
+- unresolved English holds — **0**
+
+Current frontier:
+
+**E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
