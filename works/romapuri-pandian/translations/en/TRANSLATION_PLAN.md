@@ -550,6 +550,20 @@ This planning/setup activity changes English control metadata only.
 - Parts001–003 English edits — **0**
 - Part005 leakage — **0**
 
+## Part004 final lifecycle state
+
+Part004 English is **FINAL CLOSED / FROZEN**.
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- Part005 leakage — **0**
+
 ## Current exact English activity
 
-**Part004 final closure / freeze.**
+**None until Part005 source intake authorizes the next Part.**
