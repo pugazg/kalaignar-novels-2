@@ -154,3 +154,33 @@ Additional local wording may be settled during each batch source-check without c
 **E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
 
 Do not begin E14 until E13 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-planning control synchronization verification
+
+Planning baseline:
+
+`4009051e583970acc17080807a48d0baa387664a`
+
+Post-planning synchronized checkpoint before this record refresh:
+
+`5dfcd65cad8d0c42b771e36e275ef8390a0c346c`
+
+Direct comparison confirms:
+
+- canonical `pages/` files changed — **0**
+- assembled Tamil content files changed — **0**
+- English section draft files created — **0**
+- Parts001–003 English section files changed — **0**
+- Part005 files introduced — **0**
+- changed files are English planning/control and lifecycle/navigation records only — **PASS**
+
+The synchronized controls agree on:
+
+- Part004 English planning/setup — **COMPLETE / PASS**
+- reserved batches — **E13–E15**
+- drafted/source-checked Part004 English units — **0/3**
+- unresolved planning holds — **0**
+- exact next gate — **E13 draft + source-check / scans53–56**
+
+Therefore this planning gate caused no canonical Tamil, assembled Tamil, existing English-body, or Part005 drift.
