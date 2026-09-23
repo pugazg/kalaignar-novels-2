@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 Pass1 Batch 1 scans69–78
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 Pass1 Batch 2 scans79–85
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,35 +13,36 @@ Parts001–004 are **FINAL CLOSED / FROZEN**.
 - global scans — **69–85**
 - file size — **47,433,786 bytes**
 - SHA-256 — `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b`
-- source text layer — **no usable parsed text**
 - controlling representation — **rendered source page images**
-- intake — **REGISTERED / AUTHORIZED**
+- incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
 
-## Incoming boundary
+## Part005 Pass1 state
 
-- Part004 scan68 ends: `தன்னையே நம்பாமல் மறுமுறையும் படித்தார்.`
-- Part005 scan69 / printed67 begins Muthunagai's quoted palm-leaf letter: `“அன்புள்ள தந்தையே! என்னை மன்னித்து விடுங்கள்.`
-- the letter is signed `அன்புள்ள, முத்துநகை` and narrative resumes on scan69
-- **68→69 — GENUINE CONTINUATION / AUDITED**
-- Part004 mutation / backward import — **0**
+- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
+- canonical records — **10/17**
+- unresolved Pass1 source-reading holds — **0**
+- remaining — **scans79–85 / local11–17**
 
-## Part005 current state
+Important physical continuations already captured:
 
-- canonical records — **0/17**
-- Pass1 — **NOT STARTED**
-- unresolved intake/boundary blockers — **0**
+- scan69→70 — terminal `சோழ` continues into `நாட்டுக்கு...`
+- scan71→72 — source physically splits `இருப்பார்கள்!` as `இருப்பார்` / `கள்!`
+- scan75→76 — `பாறையின்` → `விளிம்பில் புரண்டாள்.`
+- scan77→78 — `அந்தச்` → `செய்கை...`
+- scan78 ends mid-sentence at `கரிகாற்சோழனை நான் பழி வாங்கப்`
 
 ## Exact next activity
 
-**Part005 Pass1 Batch 1 — global scans69–78 / local pages1–10.**
+**Part005 Pass1 Batch 2 — global scans79–85 / local pages11–17.**
 
 Requirements:
 
-1. transcribe directly from source pixels;
-2. preserve wording, punctuation, paragraph/dialogue structure, displayed letter text, printed pagination and page structure;
+1. transcribe all seven remaining physical scans directly from source pixels;
+2. preserve wording, punctuation, paragraph/dialogue structure, printed pagination, chapter-title/illustration structure and physical continuations;
 3. record source-reading holds explicitly;
 4. keep all Part005 records `needs-review / needs-review`;
-5. do not alter frozen Parts001–004;
-6. after Batch 1, synchronize Part005 Pass1 progress and repository controls.
+5. synchronize `PART_005_PASS1_PROGRESS.md` and repository controls;
+6. only after **17/17 TEXT-COMPLETE / 0 unresolved holds** may the next gate become Part005 Pass2A.
 
-Pass2A remains blocked until Part005 Pass1 covers all **17/17** physical scans.
+Do not begin Pass2A in the same activity unless explicitly requested after Pass1 closes.

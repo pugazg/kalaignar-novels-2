@@ -75,11 +75,22 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 | 004 | 15 | 67 | — | Chapter 4 illustrated title page — `புலவர் மகள் புறப்பட்டாள்` | verified | `pages/0067-chapter-04-title.md` |
 | 004 | 16 | 68 | — | Chapter 4 opening; large intentional blank upper field; Part004 terminal page | verified | `pages/0068-pulavar-magal-purappattaal.md` |
 
+| 005 | 1 | 69 | 67 | Chapter 4 continuation; embedded Muthunagai palm-leaf letter; narrative resumes; ends at `சோழ` | needs-review | `pages/0069-pulavar-magal-purappattaal.md` |
+| 005 | 2 | 70 | 68 | Completes scan69 phrase; Muthunagai reaches Karikalan's palace | needs-review | `pages/0070-pulavar-magal-purappattaal.md` |
+| 005 | 3 | 71 | 69 | Karikalan audience; ends with physical word fragment `இருப்பார்` | needs-review | `pages/0071-pulavar-magal-purappattaal.md` |
+| 005 | 4 | 72 | 70 | Opens `கள்!`, completing scan71 `இருப்பார்கள்!`; plot dialogue continues | needs-review | `pages/0072-pulavar-magal-purappattaal.md` |
+| 005 | 5 | 73 | 71 | Muthunagai takes spy work; requests warrior clothes and horse | needs-review | `pages/0073-pulavar-magal-purappattaal.md` |
+| 005 | 6 | 74 | 72 | Muthunagai departs in warrior disguise; forest journey begins | needs-review | `pages/0074-pulavar-magal-purappattaal.md` |
+| 005 | 7 | 75 | 73 | Forest encounter; Muthunagai feigns sleep; ends at `பாறையின்` | needs-review | `pages/0075-pulavar-magal-purappattaal.md` |
+| 005 | 8 | 76 | 74 | Completes scan75 sentence; unknown young woman described | needs-review | `pages/0076-pulavar-magal-purappattaal.md` |
+| 005 | 9 | 77 | 75 | Muthunagai adopts mute-disguise communication; ends at `அந்தச்` | needs-review | `pages/0077-pulavar-magal-purappattaal.md` |
+| 005 | 10 | 78 | 76 | Completes scan77; young woman identified as `தாமரை`; ends at `பழி வாங்கப்` | needs-review | `pages/0078-pulavar-magal-purappattaal.md` |
+
 ## Current state
 
 - registered Parts — **5/39**
 - source-mapped scans — **1–85**
-- canonical page records — **68**
+- canonical page records — **78**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - Pass2A corrections — **19**
@@ -213,7 +224,10 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part005 source — **REGISTERED / AUTHORIZED — scans69–85 / 17 pages**
 - Part005 intake + incoming boundary setup — **PASS / COMPLETE**
 - Part005 incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
-- Part005 canonical records — **0/17**
-- Part005 Pass1 — **NOT STARTED**
+- Part005 canonical records — **10/17 — scans69–78**
+- Part005 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part005 Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
+- Part005 remaining — **scans79–85 / local11–17**
+- Part005 unresolved Pass1 holds — **0**
 - Part005 unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 Pass1 Batch 1 — scans69–78 / local1–10**
+- exact next activity — **Part005 Pass1 Batch 2 — scans79–85 / local11–17**

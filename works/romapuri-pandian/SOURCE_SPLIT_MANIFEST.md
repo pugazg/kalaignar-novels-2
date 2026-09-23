@@ -167,7 +167,9 @@
 - Part005 source — **REGISTERED / AUTHORIZED — scans69–85 / 17 pages**
 - Part005 source intake + incoming boundary setup — **PASS / COMPLETE**
 - Part005 incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
-- Part005 canonical records — **0/17**
-- Part005 Pass1 — **NOT STARTED**
+- Part005 canonical records — **10/17 — scans69–78**
+- Part005 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part005 Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
+- Part005 unresolved Pass1 holds — **0**
 - Part005 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part005 Pass1 Batch 1 — scans69–78 / local1–10**
+- exact next gate — **Part005 Pass1 Batch 2 — scans79–85 / local11–17**

@@ -323,7 +323,9 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - outgoing 68→69 — **GENUINE CONTINUATION / AUDITED**
 - Part005 source — **REGISTERED / scans69–85 / AUTHORIZED**
 - Part005 intake + incoming boundary setup — **PASS / COMPLETE**
-- Part005 canonical records — **0/17**
-- Part005 Pass1 — **NOT STARTED**
+- Part005 canonical records — **10/17 — scans69–78**
+- Part005 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part005 Pass1 Batch 1 — **COMPLETE / PASS — scans69–78 / local1–10**
+- Part005 unresolved Pass1 holds — **0**
 - Part005 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part005 Pass1 Batch 1 — scans69–78 / local1–10**
+- exact next gate — **Part005 Pass1 Batch 2 — scans79–85 / local11–17**
