@@ -177,9 +177,9 @@ Part004 Tamil prerequisites are closed:
 |---|---|---|---:|---|
 | E13 | `../../../sections/12-chapter-02-muthunagai-part004-continuation.md` | `12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | **SOURCE-CHECKED / COMPLETE** |
 | E14 | `../../../sections/13-chapter-03-maravar-maanam.md` | `13-chapter-03-the-warriors-honour.md` | 57–66 | **SOURCE-CHECKED / COMPLETE** |
-| E15 | `../../../sections/14-chapter-04-pulavar-magal-purappattaal.md` | `14-chapter-04-the-poets-daughter-sets-out.md` | 67–68 | **RESERVED / NEXT** |
+| E15 | `../../../sections/14-chapter-04-pulavar-magal-purappattaal.md` | `14-chapter-04-the-poets-daughter-sets-out.md` | 67–68 | **SOURCE-CHECKED / COMPLETE** |
 
-Part004 English section files — **2/3 source-checked**.
+Part004 English section files — **3/3 source-checked**.
 
 ### Part004 boundary safeguards
 
@@ -213,6 +213,14 @@ Part004 English section files — **2/3 source-checked**.
 - unresolved source-check holds — **0**
 - durable record — `../E14_SOURCE_CHECK.md`
 
+### E15 closed state
+
+- E15 — **SOURCE-CHECKED / COMPLETE**
+- Tamil / English rendered blocks — **6 / 6**
+- omitted / duplicated source blocks — **0 / 0**
+- unresolved source-check holds — **0**
+- durable record — `../E15_SOURCE_CHECK.md`
+
 ## Exact next English activity
 
-**E15 — draft + source-check Part004 Chapter 4 `புலவர் மகள் புறப்பட்டாள்` / scans67–68.**
+**Part004 whole-Part glossary reconciliation across E13–E15.**
