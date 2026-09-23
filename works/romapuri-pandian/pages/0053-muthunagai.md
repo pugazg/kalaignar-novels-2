@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 
 “நில்! நீ போகாதே! நான் திறக்கிறேன்!” என்றவாறு புலவர் எழுதாணியைக் கையில் எடுத்துக்கொண்டே கதவுப்பக்கம் வந்தார். எதிரிகள் யாராவது இருந்தால், தற்காப்புக்காக எழுதாணியைக் கையில் வைத்துக் கொண்டார் என்பது அவர் அதைப் பிடித்திருந்த பாவனையிலேயே தெளிவாகத் தெரிந்தது.
 
-கதவு திறக்கப்பட்டது. தாடியும் மீசையும் கொண்டு தண்டேறியவாறு ஒரு கிழவர் உள்ளே வந்தார். நீண்ட கருநீல அங்கியொன்றை அவர் அணிந்திருந்தார். அதன்மீது பூவேலை செய்யப்பட்ட மேலாடை பொன்று கிடந்தது. சிவப்பு வர்ணமுள்ள பட்டுத் துணியொன்று தலையைச் சுற்றிக் கட்டப்பட்டிருந்தது.
+கதவு திறக்கப்பட்டது. தாடியும் மீசையும் கொண்டு தண்டேறியவாறு ஒரு கிழவர் உள்ளே வந்தார். நீண்ட கருநீல அங்கியொன்றை அவர் அணிந்திருந்தார். அதன்மீது பூவேலை செய்யப்பட்ட மேலாடை யொன்று கிடந்தது. சிவப்பு வர்ணமுள்ள பட்டுத் துணியொன்று தலையைச் சுற்றிக் கட்டப்பட்டிருந்தது.
 
 அந்தக் கிழவர், “என்ன புலவரே! சுகமா?” என்று கேட்டவாறு உள்ளே வந்தார்.
 
@@ -40,7 +40,17 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 - visible printed page **51** and running header `ரோமாபுரிப் பாண்டியன்`;
 - Chapter 2 continuation and incoming Part004 boundary witness; **52→53 GENUINE CONTINUATION / AUDITED**;
 - page ends inside a sentence at `தன்பால் மிக்க அன்பு கொண்டவர்`; continuation remains on scan54;
-- source-sensitive forms including `நடுநிசியின் பதை` and `மேலாடை பொன்று கிடந்தது` retained for later independent Pass2 review.
+- source-sensitive form `நடுநிசியின் பதை` retained; Pass2A restored source-visible `மேலாடை யொன்று கிடந்தது`.
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 53; பகுதி: 004; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 51; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part004 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-supported correction: `அதன்மீது பூவேலை செய்யப்பட்ட மேலாடை பொன்று கிடந்தது.` → `அதன்மீது பூவேலை செய்யப்பட்ட மேலாடை யொன்று கிடந்தது.`;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
