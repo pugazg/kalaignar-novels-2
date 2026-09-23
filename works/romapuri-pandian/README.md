@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 PASS1 COMPLETE / PASS2A READY**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 PASS2A COMPLETE / PASS2B READY**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -117,6 +117,9 @@
 - Part004 Pass1 Batch 1 — **COMPLETE / PASS — scans53–62 / local1–10**
 - Part004 Pass1 Batch 2 — **COMPLETE / PASS — scans63–68 / local11–16**
 - Part004 Pass1 unresolved holds — **0**
+- Part004 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part004 Pass2A corrections — **4**
+- Part004 Pass2A unresolved textual questions — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -186,10 +189,11 @@
 - `PART_003_BOUNDARY_AUDIT_52_53.md`
 - `PART_004_INTAKE_BOUNDARY_SETUP.md`
 - `PART_004_PASS1_PROGRESS.md`
+- `PART_004_PASS2A_PROGRESS.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Part004 Pass2A — global scans53–68 / local pages1–16.**
+**Part004 Pass2B Batch 1 — global scans53–61 / local pages1–9.**
 
-Parts001–003 are frozen; do not reopen them for stylistic polishing. Pass2A must independently source-check all 16 Part004 scans. Do not begin Pass2B until Pass2A closes.
+Parts001–003 are frozen; do not reopen them for stylistic polishing. Pass2B must independently reread lexical/spacing/punctuation/historical-glyph details. Do not begin Pass3 until Pass2B closes.
