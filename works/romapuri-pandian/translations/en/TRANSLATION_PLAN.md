@@ -405,3 +405,92 @@ Part003 English is **FINAL CLOSED / FROZEN**.
 **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
 
 Part004 is not supplied / registered. Do not infer scan53.
+
+
+## Part004 planning/setup — COMPLETE / PASS
+
+Parts001–003 remain **FINAL CLOSED / FROZEN** and are not reopened by this extension.
+
+Part004 English prerequisites are closed:
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- assembled physical coverage — **16/16 / scans53–68**
+- publication-text coverage — **14/14**
+- blank scans56 and 66 — **represented by provenance only**
+- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
+- Part005 leakage — **0**
+
+Verified Part004 assembled inputs:
+
+1. `../../sections/12-chapter-02-muthunagai-part004-continuation.md` — scans53–56
+2. `../../sections/13-chapter-03-maravar-maanam.md` — scans57–66
+3. `../../sections/14-chapter-04-pulavar-magal-purappattaal.md` — scans67–68
+
+### Reserved Part004 English units
+
+| Batch | Tamil input | Planned English file | Scans | Planning state |
+|---|---|---|---:|---|
+| **E13** | `../../sections/12-chapter-02-muthunagai-part004-continuation.md` | `sections/12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | **RESERVED / NEXT** |
+| **E14** | `../../sections/13-chapter-03-maravar-maanam.md` | `sections/13-chapter-03-the-warriors-honour.md` | 57–66 | **RESERVED** |
+| **E15** | `../../sections/14-chapter-04-pulavar-magal-purappattaal.md` | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | 67–68 | **RESERVED** |
+
+Batch discipline:
+
+**E13 closes draft + source-check before E14 begins; E14 before E15.**
+
+A draft alone does not close a batch. Each batch requires a durable source-check record.
+
+### Part004 translation safeguards
+
+Incoming boundary:
+
+- **52→53 = GENUINE CONTINUATION / AUDITED**;
+- Part003 E12 remains frozen;
+- E13 translates only the verified Part004 Chapter 2 continuation unit;
+- E13 must not backfill or alter Part003 English.
+
+Verified Tamil joins / structure are already resolved in the assembled authority and must not be reinterpreted:
+
+- scan53→54 — `தன்பால் மிக்க அன்பு கொண்டவர் என்றும் காரிக்கண்ணனார்...`
+- scan56 — blank separator represented by provenance only
+- scan57 — illustrated Chapter 3 title `மறவர் மானம்`
+- scan61→62 — `நேரத்தில்தான் செழியன் குறுக்கிட்டுவிட்டான்.`
+- scan64→65 — `அமைச்சரின் உத்திரவில் ஏதாவது அர்த்தமிருக்கும்...`
+- scan66 — blank separator represented by provenance only
+- scan67 — illustrated Chapter 4 title `புலவர் மகள் புறப்பட்டாள்`
+
+Outgoing boundary:
+
+- scan68 ends on a complete narrative sentence;
+- **68→69 = PENDING Part005 adjacent witness / deferred external boundary evidence**;
+- Part005 is not supplied / registered;
+- E15 must not infer, translate or import scan69 wording.
+
+### Working Part004 English labels
+
+- `முத்துநகை` → **Muthunagai**
+- `மறவர் மானம்` → **The Warrior's Honour**
+- `புலவர் மகள் புறப்பட்டாள்` → **The Poet's Daughter Sets Out**
+
+These are project English labels. Verified Tamil section metadata remains authoritative.
+
+### Planning integrity
+
+This planning/setup activity changes English control metadata only.
+
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- Parts001–003 English section changes — **0**
+- E13/E14/E15 English draft files created in planning — **0**
+- Part005 leakage — **0**
+- unresolved planning holds — **0**
+
+## Current exact English activity
+
+**E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
+
+Do not begin E14 until E13 is **SOURCE-CHECKED / COMPLETE**.
