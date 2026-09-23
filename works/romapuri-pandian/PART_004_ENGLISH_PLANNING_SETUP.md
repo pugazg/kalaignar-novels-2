@@ -214,3 +214,24 @@ Current Part004 English state:
 Current frontier:
 
 **E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
+
+
+## Post-planning Part004 release-ready closure
+
+The planned E13→E14→E15 sequence has completed:
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **2**
+- whole-Part bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/release blockers — **0**
+- canonical / assembled Tamil mutations — **0**
+- Parts001–003 English mutations — **0**
+- Part005 leakage — **0**
+
+Current frontier:
+
+**Part004 final closure / freeze.**
