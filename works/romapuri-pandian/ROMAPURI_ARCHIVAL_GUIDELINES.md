@@ -312,8 +312,10 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part004 assembled Tamil validation blockers — **0**
 - Part004 English translation planning/setup — **COMPLETE / PASS**
 - Part004 reserved English batches — **E13–E15**
-- Part004 English drafted/source-checked — **0/3**
+- Part004 E13 — **SOURCE-CHECKED / COMPLETE**
+- Part004 English drafted/source-checked — **1/3**
+- Part004 unresolved English source-check holds — **0**
 - Part004 unresolved English planning holds — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
-- exact next gate — **E13 draft + source-check / scans53–56**
+- exact next gate — **E14 draft + source-check / scans57–66**
