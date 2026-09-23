@@ -78,12 +78,16 @@ The newly available scan53 witness resolves only the deferred cross-Part boundar
 - Pass3 corrections — **0 text / 0 structural / 0 unresolved**
 - Part audit — **PASS / COMPLETE — 16/16 canonical / 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part audit unresolved blockers — **0**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil status — **16/16 verified / 0 needs-review**
+- visual fidelity — **16/16 verified / 0 needs-review**
+- documentation synchronization — **PASS / COMPLETE**
 - unresolved intake/boundary blockers — **0**
 
 Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 final metadata/status synchronization.**
+**Part004 Tamil archival-ready checkpoint.**
 
-Part004 Part audit is PASS / COMPLETE with **16/16 canonical**, **0 missing**, **0 duplicate** and **0 unresolved blockers**. The next gate may promote only status and visual fidelity to `verified` without changing canonical Tamil text.
+Part004 is **16/16 verified** for Tamil status and visual fidelity, with documentation synchronization **PASS / COMPLETE**.
