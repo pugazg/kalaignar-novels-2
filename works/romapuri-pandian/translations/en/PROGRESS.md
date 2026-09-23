@@ -305,3 +305,54 @@ Part003 batch discipline:
 ## Exact next activity — project
 
 **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup.**
+
+
+## Part004 planning/setup state
+
+**ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+Part004 Tamil prerequisites:
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- assembled physical coverage — **16/16 / scans53–68**
+- publication-text coverage — **14/14**
+- blank scans56 and 66 — **represented by provenance only**
+- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
+- outgoing 68→69 witness — **PENDING Part005 adjacent witness / deferred external evidence**
+
+### Reserved Part004 batches
+
+| Batch | Tamil unit | Scans | Planned English file | Status |
+|---|---|---:|---|---|
+| **E13** | `12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | `sections/12-chapter-02-muthunagai-part004-continuation.md` | **RESERVED / NEXT** |
+| **E14** | `13-chapter-03-maravar-maanam.md` | 57–66 | `sections/13-chapter-03-the-warriors-honour.md` | **RESERVED** |
+| **E15** | `14-chapter-04-pulavar-magal-purappattaal.md` | 67–68 | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | **RESERVED** |
+
+Part004 batch discipline:
+
+**E13 → E14 → E15**, with each batch required to reach **SOURCE-CHECKED / COMPLETE** before the next begins.
+
+### Part004 planning integrity
+
+- English Part004 drafts created — **0/3**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Parts001–003 English section edits caused by planning — **0**
+- Part005 content leakage — **0**
+- unresolved planning holds — **0**
+
+### Part004 boundary locks
+
+- incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
+- Part003 E12 remains frozen; E13 must not backfill E12
+- blank scans56 and 66 have no translatable body text
+- outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
+- E15 must not infer or import Part005 wording
+
+## Exact next activity — project
+
+**E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
