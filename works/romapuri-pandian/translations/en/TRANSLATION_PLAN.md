@@ -436,7 +436,7 @@ Verified Part004 assembled inputs:
 |---|---|---|---:|---|
 | **E13** | `../../sections/12-chapter-02-muthunagai-part004-continuation.md` | `sections/12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | **SOURCE-CHECKED / COMPLETE** |
 | **E14** | `../../sections/13-chapter-03-maravar-maanam.md` | `sections/13-chapter-03-the-warriors-honour.md` | 57–66 | **SOURCE-CHECKED / COMPLETE** |
-| **E15** | `../../sections/14-chapter-04-pulavar-magal-purappattaal.md` | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | 67–68 | **RESERVED / NEXT** |
+| **E15** | `../../sections/14-chapter-04-pulavar-magal-purappattaal.md` | `sections/14-chapter-04-the-poets-daughter-sets-out.md` | 67–68 | **SOURCE-CHECKED / COMPLETE** |
 
 Batch discipline:
 
@@ -515,6 +515,17 @@ This planning/setup activity changes English control metadata only.
 - Part005 leakage — **0**
 - durable source-check — `E14_SOURCE_CHECK.md`
 
+## Part004 E15 completion state
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- E15 Tamil / English block accounting — **8/8 total; 6/6 rendered; 2/2 standalone provenance**
+- E15 omitted / duplicated source blocks — **0 / 0**
+- E15 unresolved source-check holds — **0**
+- canonical / assembled Tamil edits caused by E15 — **0**
+- Parts001–003 / E13–E14 English edits caused by E15 — **0**
+- Part005 leakage — **0**
+- durable source-check — `E15_SOURCE_CHECK.md`
+
 ## Current exact English activity
 
-**E15 — draft + source-check Part004 Chapter 4 `புலவர் மகள் புறப்பட்டாள்` / scans67–68.**
+**Part004 whole-Part glossary reconciliation across E13–E15.**
