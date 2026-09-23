@@ -9,8 +9,8 @@
 - source family — **TVA_BOK_0065553**
 - original source size — approximately **1.85 GB** (user-reported)
 - source design — **39 size-based split PDFs**, each <=50 MB
-- supplied / registered — **Part001–Part004 / 4 of 39**
-- mapped source extent so far — **global scans1–68**
+- supplied / registered — **Part001–Part005 / 5 of 39**
+- mapped source extent so far — **global scans1–85**
 - Part001 canonical records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED — 19 corrections / 0 unresolved**
@@ -122,9 +122,14 @@
 - Part004 release-ready synchronization — **PASS / CLOSED**
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - Part004 unresolved English/release blockers — **0**
-- Part005 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part005 source — **REGISTERED / AUTHORIZED — 17 pages / scans69–85**
+- Part005 intake + incoming-boundary setup — **PASS / COMPLETE**
+- Part005 incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
+- Part005 canonical records — **0/17**
+- Part005 Pass1 — **NOT STARTED**
+- Part005 unresolved intake/boundary blockers — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
+- outgoing Part004 68→69 — **GENUINE CONTINUATION / AUDITED**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
 - canonical `scan_page` — continuous global numbering; never resets
 
@@ -136,6 +141,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
+**Part005 Pass1 Batch 1 — global scans69–78 / local pages1–10.**
 
 Do not infer scan69 without the supplied Part005 source.
