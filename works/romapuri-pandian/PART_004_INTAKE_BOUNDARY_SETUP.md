@@ -24,6 +24,8 @@ Source:
 - Pass1 unresolved source-reading holds — **0**
 - Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
 - Pass2A corrections — **4 / 0 unresolved**
+- Pass2B — **IN PROGRESS — 9/16 REVIEWED**
+- Pass2B Batch 1 — **COMPLETE / PASS — scans53–61 / local1–9 / 0 corrections / 0 historical-glyph / 0 unresolved**
 
 ## Incoming boundary
 
@@ -67,6 +69,6 @@ Part004 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part004 Pass2B Batch 1 — global scans53–61 / Part004 local pages1–9.**
+**Part004 Pass2B Batch 2 — global scans62–68 / Part004 local pages10–16.**
 
-Part004 Pass2A is COMPLETE / PASS. Do not begin Pass3 until Pass2B closes.
+Part004 Pass2B Batch 1 is COMPLETE / PASS. Do not begin Pass3 until Batch 2 closes the whole Pass2B gate.
