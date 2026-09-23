@@ -171,8 +171,10 @@
 - Pass3 source-text corrections — **0**
 - Pass3 structural metadata corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
+- Part audit — **PASS / COMPLETE — 16/16 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part audit unresolved blockers — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part004 Part audit**
+- exact next activity — **Part004 final metadata/status synchronization**
 
 ## Boundary
 
@@ -247,11 +249,12 @@
 - `PART_004_PASS2A_PROGRESS.md`
 - `PART_004_PASS2B_PROGRESS.md`
 - `PART_004_PASS3_PROGRESS.md`
+- `PART_004_AUDIT.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 Part audit**
+- prompt frontier — **Part004 final metadata/status synchronization**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -266,6 +269,6 @@
 
 ## Exact next activity
 
-**Part004 Part audit.**
+**Part004 final metadata/status synchronization.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Pass3 is COMPLETE / PASS at 16/16 REVIEWED with 0 source-text corrections, 0 structural metadata corrections and 0 unresolved visual/structural questions. Do not perform final metadata/status promotion until the Part audit passes.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Part audit is PASS / COMPLETE with 16/16 canonical records, 0 missing, 0 duplicate and 0 unresolved blockers. The next gate may promote only `status` and `visual_fidelity` to `verified`; do not alter canonical Tamil text.
