@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–003 FINAL CLOSED / FROZEN — PART004 E13 SOURCE-CHECKED / E14 NEXT**
+**PART001–003 FINAL CLOSED / FROZEN — PART004 RELEASE-READY / FINAL CLOSURE NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -142,10 +142,14 @@
 - Part004 assembled Tamil validation — **0 missing / 0 duplicate / 0 unsupported insertion / 0 audit-note leakage / 0 canonical mutation / 0 Part005 leakage**
 - Part004 English translation planning/setup — **COMPLETE / PASS**
 - Part004 reserved English batches — **E13–E15**
-- Part004 E13 — **SOURCE-CHECKED / COMPLETE**
-- Part004 English drafted/source-checked — **1/3**
-- Part004 unresolved English source-check holds — **0**
-- Part004 unresolved English planning holds — **0**
+- Part004 English E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- Part004 glossary reconciliation — **RECONCILED / PASS**
+- Part004 English editorial review — **PASS / CLOSED**
+- Part004 editorial corrections — **2**
+- Part004 bilingual review — **PASS / CLOSED — 3/3**
+- Part004 release/readiness — **PASS / CLOSED**
+- Part004 release-ready synchronization — **PASS / CLOSED**
+- Part004 unresolved English/release blockers — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
 - source PDFs in Git — **0 / prohibited by archive policy**
 - assembled Tamil — **PASS / CLOSED**
@@ -228,6 +232,4 @@
 
 ## Exact next activity
 
-**E14 — draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66.**
-
-E13 is SOURCE-CHECKED / COMPLETE. Do not begin E15 until E14 is SOURCE-CHECKED / COMPLETE.
+**Part004 final closure / freeze.**
