@@ -1,8 +1,8 @@
 # ரோமாபுரிப் பாண்டியன் — Part004 Pass 2B Progress
 
-## Current result
+## Final result
 
-**PART004 PASS 2B — IN PROGRESS — 9/16 REVIEWED**
+**PART004 PASS 2B — COMPLETE / PASS — 16/16 REVIEWED**
 
 Controlling source:
 
@@ -18,7 +18,7 @@ Source identity:
 
 ## Fixed cadence
 
-Pass2B uses **9 physical pages per iteration**; the final iteration may contain fewer pages when the remainder is below 9.
+Pass2B used **9 physical pages per iteration**; the final iteration contained the remaining 7 pages.
 
 1. Batch 1 — scans **53–61 / local1–9**
 2. Batch 2 — scans **62–68 / local10–16**
@@ -33,25 +33,35 @@ Pass2B uses **9 physical pages per iteration**; the final iteration may contain 
 - source-text / lexical / spacing / punctuation corrections — **0**
 - historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
-- status promotions — **0**
 
-### Batch 2 — NEXT
+### Batch 2 — COMPLETE / PASS
 
 - global scans — **62–68**
 - local pages — **10–16**
-- reviewed pages — **0/7**
-
-Whole-Part state:
-
-- reviewed pages — **9/16**
-- remaining pages — **7**
-- source-text / lexical / spacing / punctuation corrections — **0**
+- reviewed pages — **7/7**
+- source-text / lexical / spacing / punctuation corrections — **1**
 - historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
 
-## Confirmed source-visible forms — Batch 1
+Whole-Part result:
 
-The independent lexical/historical-glyph reread confirms and retains, among others:
+- reviewed pages — **16/16**
+- source-text / lexical / spacing / punctuation corrections — **1**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+
+## Source-supported Pass2B correction
+
+### Scan62
+
+- `செழியனைக் சூழ்ச்சியால்` → `செழியனைச் சூழ்ச்சியால்`
+
+Direct lexical/sandhi reread of the source pixels shows `செழியனைச் சூழ்ச்சியால்`.
+
+## Confirmed source-visible forms retained
+
+The independent Pass2B reread confirms and retains, among others:
 
 - scan53 — `இப்படி யெல்லாம்`
 - scan53 — `நடுநிசியின் பதை`
@@ -66,21 +76,35 @@ The independent lexical/historical-glyph reread confirms and retains, among othe
 - scan59 — `கார்த்தைக்கூட`
 - scan59 — `மட்டுந்தான்`
 - scan60 — `ஆட்ட பாட்ட ஒலியில்`
-- scan60 — challenge/response `பகை! பகை! பகை!` / `துள்! துள்! துள்!`
+- scan60 — `பகை! பகை! பகை!` / `துள்! துள்! துள்!`
 - scan61 — Pass2A-corrected `ஏரிக்கரையோரமாக`
-- scan61 — sign text `சாவுருக்குப் போகும் வழி`
+- scan61 — `சாவுருக்குப் போகும் வழி`
 - scan61 — `மந்திரி பிரதானியரையும்`
+- scan62 — `பகைபதைப்புடன்`
+- scan62 — `அழுத்தந் திருத்தமாக`
+- scan63 — `முது கிழவர்`
+- scan63 — `போரிடத்தயாராகி`
+- scan63 — `போராட்டங்கண்டு`
+- scan64 — `திரணமாக`
+- scan64 — `கப்பிய`
+- scan64 — Pass2A-corrected `கிழ அமைச்சர்` in both occurrences
+- scan65 — `சாவுருக்குப் போகும் வழி!`
+- scan68 — `தடங்கள் ஏற்பட்டது`
+- scan68 — `தோண்டியும்`
+- scan68 — `நா உதிர்த்த`
 
-No source evidence supports stylistic modernization of these forms.
+No historical-glyph modernization was introduced.
 
-## Blank/title-page checks within Batch 1
+## Blank/title-page verification
 
-- scan56 — blank physical page; lexical/historical-glyph corrections **0**
+- scan56 — blank physical page; corrections **0**
 - scan57 — illustrated Chapter 3 title page `3 / மறவர் மானம்`; corrections **0**
+- scan66 — blank physical page; corrections **0**
+- scan67 — illustrated Chapter 4 title page `4 / புலவர் மகள் புறப்பட்டாள்`; corrections **0**
 
 ## Status rule
 
-All reviewed Part004 pages remain:
+All 16 Part004 canonical records remain:
 
 ```yaml
 status: "needs-review"
@@ -91,12 +115,12 @@ Pass2B does not promote status.
 
 ## Gate decision
 
-**PART004 PASS 2B BATCH 1 — COMPLETE / PASS — scans53–61 / local1–9**
-
-The whole-Part Pass2B gate remains open.
+**PART004 PASS 2B — COMPLETE / PASS — 16/16 REVIEWED**
 
 ## Exact next activity
 
-**Part004 Pass2B Batch 2 — global scans62–68 / local pages10–16.**
+**Part004 Pass3 — global scans53–68 / local pages1–16.**
 
-Do not begin Pass3 until Batch 2 closes Part004 Pass2B.
+Pass3 must perform meaningful full-page visual/structural verification against the controlling source images: headings, chapter boundaries, illustrations, blank fields, recurring page furniture, printed pagination and page-type classification.
+
+Do not begin the Part audit until Pass3 closes.
