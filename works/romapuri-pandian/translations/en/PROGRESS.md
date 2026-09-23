@@ -404,6 +404,20 @@ Part004 batch discipline:
 - release-ready synchronization — **PASS / CLOSED**
 - unresolved English/release blockers — **0**
 
+## Final Part004 counts
+
+- canonical Tamil — **16/16 verified**
+- assembled Tamil — **3/3 VERIFIED / PASS / CLOSED**
+- English translated/source-checked — **3/3**
+- glossary reconciliation — **PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- Part005 leakage — **0**
+
 ## Exact next activity — project
 
-**Part004 final closure / freeze.**
+**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
