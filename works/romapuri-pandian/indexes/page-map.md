@@ -188,4 +188,8 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part004 Pass2B corrections — **1**
 - Part004 Pass2B historical-glyph corrections — **0**
 - Part004 Pass2B unresolved questions — **0**
-- exact next activity — **Part004 Pass3 — scans53–68 / local1–16**
+- Part004 Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part004 Pass3 source-text corrections — **0**
+- Part004 Pass3 structural metadata corrections — **0**
+- Part004 Pass3 unresolved visual/structural questions — **0**
+- exact next activity — **Part004 Part audit**
