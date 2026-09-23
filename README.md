@@ -111,6 +111,10 @@
 - Part004 assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
 - Part004 assembled Tamil coverage — **16/16 physical scans / 14/14 publication-text pages + blank scans56 and 66 provenance**
 - Part004 assembled Tamil validation blockers — **0**
+- Part004 English translation planning/setup — **COMPLETE / PASS**
+- Part004 reserved English batches — **E13–E15**
+- Part004 English drafted/source-checked — **0/3**
+- Part004 unresolved English planning holds — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 68→69 — **PENDING Part005 adjacent witness / deferred external boundary evidence**
 - boundary 17→18 — **GENUINE CONTINUATION / AUDITED**
@@ -124,4 +128,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part004 English translation planning/setup.**
+**E13 — draft + source-check Part004 Chapter 2 continuation / scans53–56.**
