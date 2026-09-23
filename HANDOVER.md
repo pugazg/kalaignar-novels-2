@@ -187,11 +187,19 @@
 - English E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
 - English drafted/source-checked — **3/3**
 - Part004 glossary reconciliation — **RECONCILED / PASS**
+- Part004 English editorial review — **PASS / CLOSED**
+- Part004 editorial corrections — **2**
+- Part004 whole-Part bilingual review — **PASS / CLOSED — 3/3**
+- Part004 release/readiness — **PASS / CLOSED**
+- Part004 release-ready synchronization — **PASS / CLOSED**
 - unresolved English source-check holds — **0**
 - unresolved Part004 glossary holds — **0**
+- unresolved editorial holds — **0**
+- unresolved bilingual holds — **0**
+- unresolved release/readiness blockers — **0**
 - unresolved English planning holds — **0**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **E14 draft + source-check Part004 Chapter 3 `மறவர் மானம்` / scans57–66**
+- exact next activity — **Part004 final closure / freeze**
 
 ## Boundary
 
@@ -280,7 +288,7 @@
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part004 English editorial review**
+- prompt frontier — **Part004 final closure / freeze**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -295,6 +303,6 @@
 
 ## Exact next activity
 
-**Part004 English editorial review across E13–E15.**
+**Part004 final closure / freeze.**
 
-Parts001–003 remain FINAL CLOSED / FROZEN. E13–E15 are source-checked and glossary reconciliation is RECONCILED / PASS.
+Parts001–003 remain FINAL CLOSED / FROZEN. Part004 Tamil, assembled Tamil, E13–E15 source-check, glossary, editorial, bilingual, release/readiness and release-ready synchronization are all closed with 0 unresolved blockers.
