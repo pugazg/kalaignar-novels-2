@@ -460,6 +460,17 @@ E13 unresolved glossary/source-check holds — **0**.
 
 E14 unresolved glossary/source-check holds — **0**.
 
+## E15 source-check decisions
+
+- `புலவர் மகள் புறப்பட்டாள்` → **The Poet's Daughter Sets Out**
+- `நீராகாரம்` → ***neeragaram***, retained source-facing rather than externally identified
+- `தோண்டி` → **water-drawing vessel**, based only on immediate well-side source context
+- `அய்யோ அம்மா` → **Ayyo, Amma!**
+- `எழுத்தாணி` → **stylus**
+- `ஓலை` → **palm leaf**
+
+E15 unresolved glossary/source-check holds — **0**.
+
 Exact next glossary-bearing activity:
 
-**E15 draft + source-check.**
+**Part004 whole-Part glossary reconciliation across E13–E15.**
