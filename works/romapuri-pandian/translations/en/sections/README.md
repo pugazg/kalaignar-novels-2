@@ -221,6 +221,12 @@ Part004 English section files — **3/3 source-checked**.
 - unresolved source-check holds — **0**
 - durable record — `../E15_SOURCE_CHECK.md`
 
+## Part004 glossary state
+
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- unresolved glossary holds — **0**
+
 ## Exact next English activity
 
-**Part004 whole-Part glossary reconciliation across E13–E15.**
+**Part004 English editorial review across E13–E15.**
