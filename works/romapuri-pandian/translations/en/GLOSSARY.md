@@ -429,6 +429,22 @@ Source-sensitive safeguards for Part004:
 
 Part004 planning glossary holds — **0**.
 
+## E13 source-check decisions
+
+E13 confirms the following local English handling:
+
+- `யவன நாட்டுக்காரர்` → **a man of the Yavana country**
+- `யவனக்கிழவர்` → **Yavana elder**
+- `வாணிப வேந்தர்` → **great merchant prince**
+- `வேளிர்குடிமக்கள்` → **Velir people**
+- `பதக்கம்` → **medallion**
+- `எழுத்தாணி` → **stylus**
+- `ஓலைச் சுவடி` → **palm-leaf manuscript**
+- `பளிச் பளிச்` → **"palich, palich"**, preserving the source sound-image
+- `உறவு கொண்டாடுகிறார்` → **maintaining ties** in Muthunagai's alarmed question
+
+E13 unresolved glossary/source-check holds — **0**.
+
 Exact next glossary-bearing activity:
 
-**E13 draft + source-check.**
+**E14 draft + source-check.**
