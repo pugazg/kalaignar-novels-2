@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf"
-transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans53–62; formal Part004 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch scans53–62; formal Part004 Pass 2A reviewed; formal Part004 Pass 2B lexical/historical-glyph reviewed"
 ---
 
 # 3. மறவர் மானம்
 
 ## Source transcription
 
-செழியன் குறுக்கிட்டுவிட்டான். அவன் ஆத்திரம் செழியன்மீது திரும்பிற்று. அதன் விளைவாகச் செழியனைக் சூழ்ச்சியால் கொண்டுவந்து விட்டார்கள் இருங்கோவேளின் வீரர்கள்.
+செழியன் குறுக்கிட்டுவிட்டான். அவன் ஆத்திரம் செழியன்மீது திரும்பிற்று. அதன் விளைவாகச் செழியனைச் சூழ்ச்சியால் கொண்டுவந்து விட்டார்கள் இருங்கோவேளின் வீரர்கள்.
 
 மாளிகை வீட்டுக்குள்ளே செழியனை இழுத்துக் கொண்டு அந்த வீரர்கள் புகுந்தார்கள். மரத்தால் ஆன சிம்மாசனமும் அதைச் சுற்றி அறிவுரையாளர்கள் அமர்வதற்கேற்ற வசதியுடைய ஆசனங்களும் நிரம்பி, அந்த மாளிகைக்கூடம் விசித்திரமாகக் காட்சியளித்தது. செழியனை இழுத்துக்கொண்டு வந்த நேரத்தில் அந்தக் கூடத்தில் யாருமே இல்லை. ஆசனங்கள் மட்டுமே இருந்தன. அனைவரும் உள்ளே நுழைந்ததும் தெருக்கதவுகள் மூடப்பட்டன. கூடத்தில் தொங்கிக் கொண்டிருந்த ஒரு மணியை தீவட்டிக்காரன் மெதுவாக அடித்தான். கூடத்து மூலையிலே ஒரு சிறிய கதவு ‘கிரீச்’ என்ற ஒலியுடன் திறந்தது. அந்த வழியாக ஒருவர் தள்ளாடித் தள்ளாடி நடந்து வந்து, தீவட்டி வெளிச்சத்திலே முகந்தூக்கிப் பார்த்தார். வயதேறியவர் என்றாலும் அவர் முகத்தில் முதுமையின் இருள் இல்லை; கொடிய இருள் படர்ந்திருந்தது.
 
@@ -48,3 +48,14 @@ transcription_method: "direct source-pixel transcription; Part004 Pass 1 batch s
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part004 Pass 2B lexical / historical-glyph reread
+
+- independent lexical, word-boundary, spacing, punctuation-sensitive and historical-glyph reread completed directly against the controlling source pixels;
+- source-supported Pass2B correction: `செழியனைக் சூழ்ச்சியால்` → `செழியனைச் சூழ்ச்சியால்`;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
