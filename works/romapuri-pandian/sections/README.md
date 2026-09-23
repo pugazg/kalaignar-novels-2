@@ -239,3 +239,22 @@ Downstream English/release gates:
 Current frontier:
 
 **Part004 final closure / freeze.**
+
+
+## Part004 final frozen state
+
+Part004 is **FINAL CLOSED / FROZEN**.
+
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- E13–E15 — **SOURCE-CHECKED / COMPLETE — 3/3**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 3/3**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- Part005 leakage — **0**
+
+Current frontier:
+
+**Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
