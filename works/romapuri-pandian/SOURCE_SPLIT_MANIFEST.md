@@ -14,8 +14,8 @@
 | 001 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_001_pages_1-17.pdf` | 48,382,555 | `b8db1581d735a6f7e54826f05a3cc43d596a705db144ea7c2cf6077aeeffca79` | 17 | 1–17 | REGISTERED | **PASS / CLOSED / FROZEN** |
 | 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | REGISTERED | **PASS / CLOSED / FROZEN** |
 | 003 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf` | 49,781,150 | `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a` | 18 | 35–52 | REGISTERED | **FINAL CLOSED / FROZEN** |
-| 004 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf` | 47,813,374 | `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5` | 16 | 53–68 | REGISTERED | NOT STARTED |
-| 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 004 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf` | 47,813,374 | `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5` | 16 | 53–68 | REGISTERED | **FINAL CLOSED / FROZEN** |
+| 005 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf` | 47,433,786 | `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b` | 17 | 69–85 | REGISTERED | NOT STARTED |
 | 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 007 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 008 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -164,6 +164,10 @@
 - Part004 final closure — **PASS / CLOSED / FROZEN**
 - Part004 unresolved English/release blockers — **0**
 - Part004 unresolved intake/boundary blockers — **0**
-- Part005 source — **NOT SUPPLIED / NOT REGISTERED**
-- outgoing 68→69 witness — **PENDING Part005 adjacent witness / deferred external boundary evidence**
-- exact next gate — **Part005 source intake + 68→69 adjacent-boundary witness inspection/setup**
+- Part005 source — **REGISTERED / AUTHORIZED — scans69–85 / 17 pages**
+- Part005 source intake + incoming boundary setup — **PASS / COMPLETE**
+- Part005 incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
+- Part005 canonical records — **0/17**
+- Part005 Pass1 — **NOT STARTED**
+- Part005 unresolved intake/boundary blockers — **0**
+- exact next gate — **Part005 Pass1 Batch 1 — scans69–78 / local1–10**
