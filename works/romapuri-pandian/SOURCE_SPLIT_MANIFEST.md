@@ -146,5 +146,9 @@
 - Part004 Pass3 — **COMPLETE / PASS — 16/16 REVIEWED / 0 text corrections / 0 structural corrections / 0 unresolved**
 - Part004 Part audit — **PASS / COMPLETE — 16/16 canonical / 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part004 audit unresolved blockers — **0**
+- Part004 final metadata/status synchronization — **PASS / CLOSED**
+- Part004 Tamil status — **16/16 verified / 0 needs-review**
+- Part004 visual fidelity — **16/16 verified / 0 needs-review**
+- Part004 documentation synchronization — **PASS / COMPLETE**
 - Part004 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part004 final metadata/status synchronization**
+- exact next gate — **Part004 Tamil archival-ready checkpoint**
