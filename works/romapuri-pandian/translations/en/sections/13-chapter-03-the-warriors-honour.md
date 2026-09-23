@@ -53,7 +53,7 @@ Sezhiyan looked at him and growled, "Oh! From whom did you learn the art of circ
 
 <!-- source boundary: scan 59 → scan 60 -->
 
-"Why talk to him? Drag him along!" one man howled in a harsh voice. Another rushed forward to spit on Sezhiyan. A third caught hold of him and pulled him away.
+"Why talk to him? Drag him along!" one man howled in a harsh voice. Another rushed forward to spit on Sezhiyan. A third caught hold of him and pulled him aside.
 
 They dragged Sezhiyan along the forest path with shackles on his hands and feet. It was a frenzy. Was it a dance of joy because an enemy had been captured? The group entered the heart of the forest. At the noise of their dancing and singing, even the wild animals ran and hid. Birds, losing their calm, beat their wings up from the branches and settled again. Suddenly the clamour of the group stopped. Everyone started and looked ahead. Tearing through the darkness, the light of a torch was coming rapidly toward them. Sezhiyan and the warriors stood motionless.
 
