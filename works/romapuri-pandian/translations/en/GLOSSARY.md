@@ -388,3 +388,47 @@ The Part003 decisions above remain controlling unless an explicit source-fidelit
 Final Part003 closure — **PASS / CLOSED / FROZEN**.
 
 Next gate — **Part004 source intake + 52→53 adjacent-boundary witness inspection/setup**.
+
+
+## Part004 planning extension
+
+Parts001–003 glossary decisions remain frozen where they belong to the closed English layers. Recurring forms carry forward into Part004 unless the verified Part004 source requires different handling.
+
+Part004 assembled inputs:
+
+- E13 — Chapter 2 `முத்துநகை` continuation / close, scans53–56
+- E14 — Chapter 3 `மறவர் மானம்`, scans57–66
+- E15 — Chapter 4 `புலவர் மகள் புறப்பட்டாள்` opening, scans67–68
+
+New or newly active Part004 handling:
+
+| Tamil/source form | English handling | Note |
+|---|---|---|
+| `முத்துநகை` | **Muthunagai** | carry forward locked project character/title form |
+| `செழியன்` | **Sezhiyan** | carry forward locked project form |
+| `காரிக்கண்ணனார்` | **Karikannanar** | carry forward locked project form |
+| `இருங்கோவேள்` | **Irungovel** | carry forward locked project ruler/name form |
+| `வில்லவன்` | **Villavan** | carry forward locked project military-leader form |
+| `செந்தலையார்` | **Senthalaiyar** | Part004 minister/name form |
+| `வேளிர்குடி` | **Velir clan / Velir people** | choose by local syntax; do not flatten all contexts mechanically |
+| `மறவர் மானம்` | **The Warrior's Honour** | working Chapter 3 English title |
+| `புலவர் மகள் புறப்பட்டாள்` | **The Poet's Daughter Sets Out** | working Chapter 4 English title |
+| `சாவுருக்குப் போகும் வழி` | **Road to Death** | source-visible sign wording; preserve sign function |
+| `அமைச்சர்` | **minister** | ordinary office term; preserve source voice and rank context |
+| `மன்னர்` | **king** | ordinary contextual rendering; names/titles remain source-led |
+
+Source-sensitive safeguards for Part004:
+
+- do not "correct" or modernize verified Tamil source forms merely because English renders them naturally;
+- preserve the distinction between personal names, dynastic/people labels and ordinary offices;
+- blank scans56 and 66 have no translatable body text;
+- illustrated Chapter 3 and Chapter 4 title pages supply the section-title wording;
+- source-visible sign text on scan61 remains source speech/displayed wording and must not be silently normalized in Tamil;
+- the incoming 52→53 continuation must not cause E13 to backfill Part003 E12;
+- the outgoing 68→69 boundary remains external and Part005 wording must not be inferred.
+
+Part004 planning glossary holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**E13 draft + source-check.**
