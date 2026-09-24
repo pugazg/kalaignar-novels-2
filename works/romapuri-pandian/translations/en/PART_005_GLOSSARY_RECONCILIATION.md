@@ -122,3 +122,40 @@ The source-checked E16/E17 English files require **0 terminology edits**.
 **Part005 English editorial review across E16–E17.**
 
 Editorial review may improve English only where source fidelity, grammar, clarity or internal consistency requires it. It must not alter verified Tamil, reopen frozen Parts001–004 English, or infer Part006.
+
+
+## Post-reconciliation synchronization verification
+
+Pre-reconciliation live-main checkpoint:
+
+`4c562452d2ab2ba2d09180b2bb2f3b455fd4bdc6`
+
+Post-reconciliation synchronized checkpoint before this verification record:
+
+`ec80677df07e81de1bd199f4ab6bea40dfc2fbb2`
+
+Direct repository comparison confirms that the reconciliation activity changed only:
+
+- `PART_005_GLOSSARY_RECONCILIATION.md`
+- cumulative English control metadata under `translations/en/`
+- Part005 planning/lifecycle controls
+- repository handover / work README / next-chat navigation
+
+and changed:
+
+- canonical `pages/` files — **0**
+- assembled Tamil `sections/` content files — **0**
+- E16 English section-body file — **0**
+- E17 English section-body file — **0**
+- Parts001–004 English section-body files — **0**
+- Part006 files — **0**
+
+The synchronized controls agree on:
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- Part005 glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven English section edits — **0**
+- unresolved glossary holds — **0**
+- exact next activity — **Part005 English editorial review across E16–E17**
+
+Therefore the glossary gate introduced no Tamil, maintained English-body, frozen-Part, or Part006 drift.
