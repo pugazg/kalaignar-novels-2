@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–003 FINAL CLOSED / FROZEN — PART004 E13 SOURCE-CHECKED / E14 NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 PLANNING / SETUP COMPLETE / E16 NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–003 are final closed/frozen; Part004 English is active under the E13→E14→E15 sequence.
+This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 English planning/setup is complete under the reserved E16→E17 sequence.
 
 ## Authority hierarchy
 
@@ -567,3 +567,77 @@ Part004 English is **FINAL CLOSED / FROZEN**.
 ## Current exact English activity
 
 **None until Part005 source intake authorizes the next Part.**
+
+
+## Part005 planning/setup — COMPLETE / PASS
+
+Parts001–004 remain **FINAL CLOSED / FROZEN** and are not reopened by this extension.
+
+Part005 English prerequisites are closed:
+
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Part audit — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled physical coverage — **17/17 / scans69–85**
+- publication-text coverage — **17/17**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- Part006 leakage — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
+
+Verified Part005 assembled inputs:
+
+1. `../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` — scans69–80
+2. `../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` — scans81–85
+
+### Reserved Part005 English units
+
+| Batch | Tamil input | Planned English file | Scans | Planning state |
+|---|---|---|---:|---|
+| **E16** | `../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | `sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | 69–80 | **RESERVED / NEXT** |
+| **E17** | `../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `sections/16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **RESERVED** |
+
+Batch discipline:
+
+**E16 closes draft + source-check before E17 begins.**
+
+A draft alone does not close a batch. Each batch requires a durable source-check record.
+
+### Part005 translation safeguards
+
+- incoming **68→69 = GENUINE CONTINUATION / AUDITED**;
+- frozen Part004 E15 must not be backfilled or altered by E16;
+- verified assembled Tamil joins and displayed-text boundaries remain authoritative;
+- scan69 and scan79 displayed written material must remain structurally distinct where meaningful;
+- scan81 is the illustrated Chapter 5 title page;
+- scan84 contains displayed written material to the Siva devotees;
+- outgoing **85→86 = PENDING Part006 adjacent witness / deferred external boundary evidence**;
+- E17 must not infer, translate or import Part006 wording.
+
+### Working Part005 English labels
+
+- `புலவர் மகள் புறப்பட்டாள்` → **The Poet's Daughter Sets Out**
+- `சிவனடியார் திருக்கூட்டம்` → **The Gathering of Siva Devotees**
+- `தாமரை` → **Thamarai**
+- `திருநீற்றடியார்` → **Thiruneettradiyar**
+- `யவனக் கிழவர்` / `யவனக்கிழவர்` → **Yavana elder**
+- `அன்பே சிவம்! பண்பே சைவம்!` → **Love is Siva! Virtue is Saivism!**
+
+These are project English labels/choices. Verified Tamil section metadata remains authoritative.
+
+### Planning integrity
+
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- Parts001–004 English section changes — **0**
+- E16/E17 English draft files created in planning — **0**
+- Part006 leakage — **0**
+- unresolved planning holds — **0**
+
+## Current exact English activity
+
+**E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
+
+Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
