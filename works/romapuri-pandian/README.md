@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 E16 SOURCE-CHECKED / E17 NEXT**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 E16–E17 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -190,13 +190,16 @@
 - Part005 assembled Tamil validation blockers — **0**
 - Part005 English planning/setup — **COMPLETE / PASS**
 - Part005 reserved English batches — **E16–E17**
-- Part005 English drafted/source-checked — **1/2**
+- Part005 English drafted/source-checked — **2/2**
 - Part005 unresolved English planning holds — **0**
 - Part005 E16 — **SOURCE-CHECKED / COMPLETE**
 - Part005 E16 structural parity — **108/108 total; 101/101 rendered**
 - Part005 E16 omitted / duplicated source blocks — **0 / 0**
 - Part005 E16 unresolved source-check holds — **0**
-- Part005 E17 — **RESERVED / NEXT**
+- Part005 E17 structural parity — **31/31 total; 28/28 rendered**
+- Part005 E17 omitted / duplicated source blocks — **0 / 0**
+- Part005 E17 unresolved source-check holds — **0**
+- Part005 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
@@ -281,4 +284,4 @@
 
 ## Exact next activity
 
-**E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
+**Part005 whole-Part glossary reconciliation across E16–E17.**
