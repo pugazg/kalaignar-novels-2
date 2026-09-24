@@ -2,12 +2,13 @@
 
 ## Current project English state
 
-**PARTS001–003 ENGLISH — FINAL CLOSED / FROZEN; PART004 E13 SOURCE-CHECKED / E14 NEXT**
+**PARTS001–004 ENGLISH — FINAL CLOSED / FROZEN; PART005 PLANNING COMPLETE / E16 NEXT**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
 - Part003 English — **FINAL CLOSED / FROZEN — E11–E12 SOURCE-CHECKED / COMPLETE**
-- Part004 English — **IN PROGRESS — E13 SOURCE-CHECKED / COMPLETE; E14 NEXT**
+- Part004 English — **FINAL CLOSED / FROZEN — E13–E15 SOURCE-CHECKED / COMPLETE**
+- Part005 English — **PLANNING / SETUP COMPLETE / PASS — E16 NEXT**
 
 ## Part001 historical progress
 
@@ -421,3 +422,50 @@ Part004 batch discipline:
 ## Exact next activity — project
 
 **Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
+
+
+## Part005 planning/setup state
+
+**ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+Part005 Tamil prerequisites:
+
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled physical coverage — **17/17 / scans69–85**
+- publication-text coverage — **17/17**
+- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
+- outgoing 85→86 witness — **PENDING Part006 adjacent witness / deferred external evidence**
+
+### Reserved Part005 batches
+
+| Batch | Tamil unit | Scans | Planned English file | Status |
+|---|---|---:|---|---|
+| **E16** | `15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | 69–80 | `sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | **RESERVED / NEXT** |
+| **E17** | `16-chapter-05-sivanadiyaar-thirukkoottam.md` | 81–85 | `sections/16-chapter-05-the-gathering-of-siva-devotees.md` | **RESERVED** |
+
+Part005 batch discipline:
+
+**E16 → E17**, with E16 required to reach **SOURCE-CHECKED / COMPLETE** before E17 begins.
+
+### Part005 planning integrity
+
+- English Part005 drafts created — **0/2**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Parts001–004 English section edits caused by planning — **0**
+- Part006 content leakage — **0**
+- unresolved planning holds — **0**
+
+### Part005 boundary locks
+
+- incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
+- Part004 E15 remains frozen; E16 must not backfill it
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+- E17 must not infer or import Part006 wording
+
+## Exact next activity — project
+
+**E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
