@@ -21,7 +21,7 @@
 
 ## Current result
 
-**PART005 PASS 2B — IN PROGRESS — 9/17 REVIEWED**
+**PART005 PASS 2B — COMPLETE / PASS — 17/17 REVIEWED**
 
 ### Batch 1 — COMPLETE / PASS
 
@@ -80,17 +80,52 @@ All reviewed Part005 records remain:
 
 No status promotion is permitted at Pass2B.
 
-## Whole-Part Pass2B state
+## Batch 2 — COMPLETE / PASS
 
-- reviewed — **9/17**
-- remaining — **8/17**
+- global scans — **78–85**
+- local pages — **10–17**
+- reviewed — **8/8**
 - source-text / lexical / spacing / punctuation corrections — **0**
 - historical-glyph corrections — **0**
 - unresolved lexical / historical-glyph questions — **0**
-- next batch — **scans78–85 / local10–17**
+- clean pages — **8/8**
+- status promotions — **0**
+
+Source-sensitive forms explicitly retained in Batch 2 include:
+
+- scan78 — `கரி-கால்... கரிகால்... கரிகால்`, `ஏற்பாற்போல்`, `கரிகாற்சோழனை`
+- scan79 — `ஏக காலத்தில்`, `இங்கனம், முத்து`
+- scan80 — source alternation `யவனக்கிழவர்` / `யவனக் கிழவர்`, `நாலுகால் பாய்ச்சலில்`
+- scan81 — illustrated Chapter 5 title `சிவனடியார் திருக்கூட்டம்`
+- scan82 — `நெடுநேரங்கழித்து`, `அவளது, காதில்`
+- scan83 — `அழகு மிழும்`, `கொட்டை கட்டிகளாக`
+- scan84 — `அல்லவர்`, `கம்பீரமுந்தான்`
+- scan85 — `பொன்னுருக்கிச் செய்ததுவோ`, `அதற்குமேல்`, `கோயிலுக்குள்ளேயுள்ள`
+
+These were retained because they are source-visible; no modernization or regularization was applied.
+
+## Whole-Part Pass2B state
+
+- reviewed — **17/17**
+- Batch 1 — **COMPLETE / PASS — scans69–77 / local1–9**
+- Batch 2 — **COMPLETE / PASS — scans78–85 / local10–17**
+- source-text / lexical / spacing / punctuation corrections — **0**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- clean pages — **17/17**
+- status promotions — **0**
+- result — **COMPLETE / PASS**
+
+All **17** Part005 canonical records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+## Gate decision
+
+**PART005 PASS2B — COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
+
+Pass3 is now unblocked.
 
 ## Exact next activity
 
-**Part005 Pass2B Batch 2 — global scans78–85 / local pages10–17 — final 8-page remainder.**
+**Part005 Pass3 — global scans69–85 / local pages1–17.**
 
-Do not begin Pass3 until Part005 Pass2B closes at **17/17 REVIEWED / 0 unresolved**.
+Do not begin the Part audit until Pass3 closes.
