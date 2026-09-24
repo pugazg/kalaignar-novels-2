@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 
 “ஆ! அப்படியா?”
 
-“எப்படியோ நான் பகைவனின் இருப்பிடத்துக்குள் நுழைய வழி ஏற்பட்டு விட்டது. நாளைய தினம் அவள் என்னை மீண்டும் சந்திப்பதாகக் கூறிப் பிரிந்திருக்கிறாள். தன் அண்ணனிடம் ஏதாவது பொய் சொல்லித் தந்திரம் செய்து என்னை அவள் கூடவே அழைத்துப் போவதாகவும் கூறியிருக்கிறாள்.
+“எப்படியோ நான் பகைவனின் இருப்பிடத்துக்குள் நுழைய வழி ஏற்பட்டு விட்டது. நாளைய தினம் அவள் என்னை மீண்டும் சந்திப்பதாகக் கூறிப் பிரிந்திருக்கிறாள். தன் அண்ணனிடம் ஏதாவது பொய் சொல்லித் தந்திரம் செய்து என்னை அவள் கூடவே அழைத்துப் போவதாகவும் கூறியிருக்கிறாள்.”
 
 “இருங்கோவேளின் தங்கையும் அவனைப் போலவே சூழ்ச்சிக்காரியாக இருந்து, உன்னை ஏமாற்றிவிட்டால் என்ன செய்வது முத்துநகை?”
 
@@ -37,7 +37,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 
 - printed page 91 with work-title running header
 - Chapter 5 supplied-page close with large intentional blank lower field
-- source-visible opening quote after `கூறியிருக்கிறாள்.` begins the next dialogue paragraph as printed
+- dialogue quotation closes after `கூறியிருக்கிறாள்.”`; the next paragraph begins a new quoted question
 - source punctuation/forms `ஆமாம்-இருங்கோவேளின்`, `பயமே தேவையில்லை-நான்`, and `கஷ்டமாகி விடக் கூடும்` retained
 - unresolved Pass1 source-reading holds: 0
 - status and visual fidelity remain needs-review
