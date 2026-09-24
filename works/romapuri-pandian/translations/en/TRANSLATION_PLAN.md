@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 RELEASE-READY SYNC PASS / FINAL CLOSURE NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 INTAKE PENDING**
 
-This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17, glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization are closed. The next gate is Part005 final closure / freeze.
+This is the cumulative control plan for the project-created English translation. Parts001–005 are final closed/frozen. Part006 is not supplied or registered; no Part006 English planning is authorized.
 
 ## Authority hierarchy
 
@@ -779,3 +779,24 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Current exact English activity
 
 **Part005 final closure / freeze.**
+
+
+## Part005 final lifecycle closure
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- canonical / assembled Tamil edits caused by final closure — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+
+## Current exact English activity
+
+**None until Part006 source intake authorizes the next Part.**
+
+Repository frontier: **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
