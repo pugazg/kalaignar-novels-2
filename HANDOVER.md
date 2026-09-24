@@ -268,7 +268,9 @@
 - Part005 whole-Part bilingual review — **PASS / CLOSED — 2/2**
 - Part005 bilingual-review corrections — **2**
 - Part005 unresolved bilingual holds — **0**
-- exact next activity — **Part005 release/readiness review and report**
+- Part005 release/readiness — **PASS / CLOSED**
+- Part005 unresolved release/readiness blockers — **0**
+- exact next activity — **Part005 release-ready synchronization**
 
 ## Boundary
 
@@ -377,11 +379,12 @@
 - `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_005_TRANSLATION_REVIEW.md`
 - `translations/en/PART_005_BILINGUAL_REVIEW.md`
+- `translations/en/PART_005_RELEASE_REPORT.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 release/readiness review and report**
+- prompt frontier — **Part005 release-ready synchronization**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -396,6 +399,6 @@
 
 ## Exact next activity
 
-**Part005 release/readiness review and report.**
+**Part005 release-ready synchronization.**
 
-Part005 whole-Part bilingual review is PASS / CLOSED — 2/2 pairs, with 2 source-supported English corrections and 0 unresolved bilingual holds. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
+Part005 release/readiness is PASS / CLOSED with 0 unresolved release/readiness blockers. Do not declare final Part005 closure until release-ready synchronization and drift verification pass.
