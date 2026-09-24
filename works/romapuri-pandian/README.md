@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 E16–E17 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -199,6 +199,9 @@
 - Part005 E17 structural parity — **31/31 total; 28/28 rendered**
 - Part005 E17 omitted / duplicated source blocks — **0 / 0**
 - Part005 E17 unresolved source-check holds — **0**
+- Part005 glossary reconciliation — **RECONCILED / PASS**
+- Part005 glossary-driven English section edits — **0**
+- Part005 unresolved glossary holds — **0**
 - Part005 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
@@ -284,4 +287,4 @@
 
 ## Exact next activity
 
-**Part005 whole-Part glossary reconciliation across E16–E17.**
+**Part005 English editorial review across E16–E17.**
