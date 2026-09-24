@@ -386,3 +386,20 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **Part005 release/readiness review and report.**
+
+
+## Part005 release/readiness state
+
+- maintained English files — **2/2**
+- source-check — **COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- Part006 leakage — **0**
+- durable record — `../PART_005_RELEASE_REPORT.md`
+
+## Exact next English activity
+
+**Part005 release-ready synchronization.**
