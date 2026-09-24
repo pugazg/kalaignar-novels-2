@@ -259,7 +259,10 @@
 - E17 structural parity — **31/31 total; 28/28 rendered**
 - E17 omitted / duplicated source blocks — **0 / 0**
 - unresolved E17 source-check holds — **0**
-- exact next activity — **Part005 whole-Part glossary reconciliation across E16–E17**
+- Part005 glossary reconciliation — **RECONCILED / PASS**
+- Part005 glossary-driven English section edits — **0**
+- Part005 unresolved glossary holds — **0**
+- exact next activity — **Part005 English editorial review across E16–E17**
 
 ## Boundary
 
@@ -365,11 +368,12 @@
 - `PART_005_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E16_SOURCE_CHECK.md`
 - `translations/en/E17_SOURCE_CHECK.md`
+- `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 whole-Part glossary reconciliation across E16–E17**
+- prompt frontier — **Part005 English editorial review across E16–E17**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -384,6 +388,6 @@
 
 ## Exact next activity
 
-**Part005 whole-Part glossary reconciliation across E16–E17.**
+**Part005 English editorial review across E16–E17.**
 
-Part005 E16–E17 are SOURCE-CHECKED / COMPLETE — 2/2, with 0 unresolved source-check holds. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
+Part005 glossary reconciliation is RECONCILED / PASS with 0 terminology edits and 0 unresolved glossary holds. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
