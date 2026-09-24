@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–005 FINAL CLOSED / FROZEN — PART006 INTAKE PASS / PASS1 NEXT**
+**PART001–005 FINAL CLOSED / FROZEN — PART006 PASS1 IN PROGRESS 10/17**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -217,8 +217,10 @@
 - Part006 source — **REGISTERED / AUTHORIZED — scans86–102 / 17 pages**
 - Part006 intake + incoming-boundary setup — **PASS / COMPLETE**
 - Part006 incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
-- Part006 canonical records — **0/17**
-- Part006 Pass1 — **NOT STARTED**
+- Part006 canonical records — **10/17**
+- Part006 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part006 Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
+- Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
 - Part006 scan95 — **illustrated Chapter 6 title `விறுவெட்டி`**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness**
@@ -308,9 +310,10 @@
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 - `PART_006_INTAKE_BOUNDARY_SETUP.md`
+- `PART_006_PASS1_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 Pass1 Batch 1 — global scans86–95 / local pages1–10.**
+**Part006 Pass1 Batch 2 — global scans96–102 / local pages11–17 — final 7-page remainder.**
