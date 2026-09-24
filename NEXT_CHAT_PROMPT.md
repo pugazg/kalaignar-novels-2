@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 release/readiness review and report
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 release-ready synchronization
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,59 +17,57 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
-- assembled physical coverage — **17/17 / scans69–85**
-- assembled publication-text coverage — **17/17**
+- physical coverage — **17/17 / scans69–85**
+- publication-text coverage — **17/17**
 - missing / duplicate coverage — **0 / 0**
 - unsupported Tamil insertion — **0**
 - Part006 leakage — **0**
 
 ## Part005 English state
 
-- English translation planning/setup — **COMPLETE / PASS**
-- E16 — **SOURCE-CHECKED / COMPLETE — scans69–80**
-- E17 — **SOURCE-CHECKED / COMPLETE — scans81–85**
-- English drafted/source-checked — **2/2**
-- unresolved English source-check holds — **0**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- unresolved glossary holds — **0**
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
 - editorial corrections — **5**
-- unresolved editorial holds — **0**
-- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2**
 - bilingual-review corrections — **2**
-- unresolved bilingual holds — **0**
+- release/readiness — **PASS / CLOSED**
+- unresolved source-check / glossary / editorial / bilingual / release blockers — **0**
 
-Durable English records:
+Durable Part005 English records:
 
 1. `translations/en/E16_SOURCE_CHECK.md`
 2. `translations/en/E17_SOURCE_CHECK.md`
 3. `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
 4. `translations/en/PART_005_TRANSLATION_REVIEW.md`
 5. `translations/en/PART_005_BILINGUAL_REVIEW.md`
+6. `translations/en/PART_005_RELEASE_REPORT.md`
 
-## Bilingual integrity
+## Bilingual/release integrity
 
 - total Tamil / English blocks — **139 / 139**
 - rendered Tamil / English blocks — **129 / 129**
 - standalone provenance blocks — **10 / 10**
-- omitted source meaning — **0**
-- duplicated source meaning — **0**
+- omitted / duplicated source blocks — **0 / 0**
 - unsupported explanatory insertion — **0**
 - source agency drift — **0**
 - chronology drift — **0**
-- Parts001–004 English edits caused by Part005 review — **0**
+- active Git PDF paths — **0**
 
 ## Boundary lock
 
 - incoming **68→69 — GENUINE CONTINUATION / AUDITED**
 - outgoing **85→86 — PENDING Part006 adjacent witness / deferred external boundary evidence**
+- Part006 source — **NOT SUPPLIED / NOT REGISTERED**
 - do not infer or import scan86 / Part006 wording
 - Part006 leakage — **0**
 
 ## Exact next activity
 
-**Part005 release/readiness review and report.**
+**Part005 release-ready synchronization.**
 
-Review the complete Part005 Tamil and maintained English state for release readiness: source-check closure, glossary reconciliation, editorial review, bilingual review, structural/provenance integrity, unresolved blockers, boundary locks and Part006 isolation. Create the durable Part005 release/readiness report.
+Synchronize live lifecycle/status/navigation controls so they all record the closed Part005 Tamil and English gates and point to **Part005 final closure / freeze** as the next frontier. Verify by direct commit comparison that synchronization changes only control/status/navigation files and causes no canonical Tamil, assembled Tamil body, maintained Part005 English body, frozen Parts001–004 English body, or Part006 drift.
 
-Do not modify verified Tamil merely for style. Do not reopen frozen Parts001–004. Do not begin Part006.
+Create the durable `PART_005_RELEASE_READY_SYNC.md` record.
+
+Do not declare final Part005 closure until this synchronization and post-sync drift verification pass.
