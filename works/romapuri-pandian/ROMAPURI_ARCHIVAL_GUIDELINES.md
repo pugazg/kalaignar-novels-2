@@ -357,3 +357,23 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - exact next gate — **Part005 English translation planning/setup**
+
+
+## Part005 downstream English / release state
+
+Part005 assembled Tamil remains **PASS / CLOSED — 2/2 VERIFIED**.
+
+Downstream English/release gates:
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+- Part006 leakage — **0**
+
+Current frontier:
+
+**Part005 final closure / freeze.**
