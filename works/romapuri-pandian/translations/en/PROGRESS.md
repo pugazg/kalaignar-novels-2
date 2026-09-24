@@ -2,13 +2,13 @@
 
 ## Current project English state
 
-**PARTS001–004 ENGLISH — FINAL CLOSED / FROZEN; PART005 PLANNING COMPLETE / E16 NEXT**
+**PARTS001–004 ENGLISH — FINAL CLOSED / FROZEN; PART005 E16 SOURCE-CHECKED / E17 NEXT**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
 - Part003 English — **FINAL CLOSED / FROZEN — E11–E12 SOURCE-CHECKED / COMPLETE**
 - Part004 English — **FINAL CLOSED / FROZEN — E13–E15 SOURCE-CHECKED / COMPLETE**
-- Part005 English — **PLANNING / SETUP COMPLETE / PASS — E16 NEXT**
+- Part005 English — **IN PROGRESS — E16 SOURCE-CHECKED / COMPLETE; E17 NEXT**
 
 ## Part001 historical progress
 
@@ -443,8 +443,8 @@ Part005 Tamil prerequisites:
 
 | Batch | Tamil unit | Scans | Planned English file | Status |
 |---|---|---:|---|---|
-| **E16** | `15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | 69–80 | `sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | **RESERVED / NEXT** |
-| **E17** | `16-chapter-05-sivanadiyaar-thirukkoottam.md` | 81–85 | `sections/16-chapter-05-the-gathering-of-siva-devotees.md` | **RESERVED** |
+| **E16** | `15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | 69–80 | `sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E17** | `16-chapter-05-sivanadiyaar-thirukkoottam.md` | 81–85 | `sections/16-chapter-05-the-gathering-of-siva-devotees.md` | **RESERVED / NEXT** |
 
 Part005 batch discipline:
 
@@ -452,7 +452,7 @@ Part005 batch discipline:
 
 ### Part005 planning integrity
 
-- English Part005 drafts created — **0/2**
+- English Part005 drafted/source-checked — **1/2**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
 - Parts001–004 English section edits caused by planning — **0**
@@ -469,3 +469,24 @@ Part005 batch discipline:
 ## Exact next activity — project
 
 **E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
+
+
+## Part005 E16 completion accounting
+
+- E16 — **SOURCE-CHECKED / COMPLETE**
+- E17 — **RESERVED / NEXT**
+- maintained Part005 English section files — **1/2**
+- source-checked Part005 English section files — **1/2**
+- durable Part005 source-check records — **1/2**
+- Tamil / English total blocks — **108 / 108**
+- Tamil / English rendered blocks — **101 / 101**
+- omitted / duplicated source blocks — **0 / 0**
+- unresolved E16 source-check holds — **0**
+- canonical Tamil edits caused by E16 — **0**
+- assembled Tamil edits caused by E16 — **0**
+- Parts001–004 English section edits caused by E16 — **0**
+- Part006 content leakage — **0**
+
+## Exact next activity — project
+
+**E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
