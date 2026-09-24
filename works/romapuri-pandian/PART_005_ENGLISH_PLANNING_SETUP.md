@@ -150,3 +150,41 @@ Planning glossary holds — **0**.
 Create the E16 English section only from the verified assembled Tamil input, preserve source voice and displayed-text structure, source-check it against the verified Tamil authority, and create the durable E16 source-check record.
 
 Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-planning control synchronization verification
+
+Pre-planning live-main checkpoint:
+
+`7d055d630ec59409bf5e2bf74e8482c4059ad092`
+
+Post-planning synchronized checkpoint before this verification record:
+
+`d5b80589b27d047bd270d9e60f90bd1065649b0d`
+
+Direct comparison confirms that the planning/setup activity changed only:
+
+- `PART_005_ENGLISH_PLANNING_SETUP.md`
+- English planning/control metadata under `translations/en/`
+- lifecycle/navigation controls `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, and `works/romapuri-pandian/README.md`
+
+and changed:
+
+- canonical `pages/` files — **0**
+- assembled Tamil `sections/` content files — **0**
+- Parts001–004 English section-body files — **0**
+- E16 English draft files — **0**
+- E17 English draft files — **0**
+- Part006 files — **0**
+
+The synchronized controls agree on:
+
+- Part005 English planning/setup — **COMPLETE / PASS**
+- reserved batches — **E16–E17**
+- E16 — **RESERVED / NEXT**
+- E17 — **RESERVED**
+- English drafted/source-checked — **0/2**
+- unresolved planning holds — **0**
+- exact next activity — **E16 draft + source-check / scans69–80**
+
+Therefore this planning gate introduced no canonical Tamil, assembled Tamil, frozen English-body, English-draft, or Part006 drift.
