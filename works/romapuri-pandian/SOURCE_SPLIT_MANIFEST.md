@@ -247,3 +247,19 @@
 - unresolved Part006 intake/boundary blockers — **0**
 - frozen Parts001–005 mutation caused by Part006 intake — **0**
 - exact next gate — **Part006 Pass1 Batch 1 — scans86–95 / local1–10**
+
+
+## Part006 Pass1 progress
+
+- Part006 source — **REGISTERED / AUTHORIZED — scans86–102 / 17 pages**
+- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
+- canonical Part006 records — **10/17**
+- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- scan94 — **blank physical separator**
+- scan95 — **illustrated Chapter 6 title / `விறுவெட்டி`**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- frozen Parts001–005 mutations — **0**
+- outgoing 102→103 — **PENDING Part007 adjacent witness**
+- exact next gate — **Part006 Pass1 Batch 2 — scans96–102 / local11–17**
