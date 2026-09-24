@@ -251,12 +251,15 @@
 - unresolved intake/boundary blockers — **0**
 - English translation planning/setup — **COMPLETE / PASS**
 - reserved English batches — **E16–E17**
-- English drafted/source-checked — **1/2**
+- English drafted/source-checked — **2/2**
 - unresolved English planning holds — **0**
 - E16 — **SOURCE-CHECKED / COMPLETE — scans69–80**
-- E17 — **RESERVED / NEXT — scans81–85**
+- E17 — **SOURCE-CHECKED / COMPLETE — scans81–85**
 - unresolved E16 source-check holds — **0**
-- exact next activity — **E17 draft + source-check / scans81–85**
+- E17 structural parity — **31/31 total; 28/28 rendered**
+- E17 omitted / duplicated source blocks — **0 / 0**
+- unresolved E17 source-check holds — **0**
+- exact next activity — **Part005 whole-Part glossary reconciliation across E16–E17**
 
 ## Boundary
 
@@ -361,11 +364,12 @@
 - `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_005_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E16_SOURCE_CHECK.md`
+- `translations/en/E17_SOURCE_CHECK.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E17 draft + source-check / Part005 Chapter 5 / scans81–85**
+- prompt frontier — **Part005 whole-Part glossary reconciliation across E16–E17**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -380,6 +384,6 @@
 
 ## Exact next activity
 
-**E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
+**Part005 whole-Part glossary reconciliation across E16–E17.**
 
-Part005 E16 is SOURCE-CHECKED / COMPLETE with 108/108 structural blocks and 0 unresolved source-check holds. E17 is RESERVED / NEXT. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
+Part005 E16–E17 are SOURCE-CHECKED / COMPLETE — 2/2, with 0 unresolved source-check holds. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
