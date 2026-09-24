@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 EDITORIAL REVIEW PASS / BILINGUAL REVIEW NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete, glossary reconciliation is closed, and the next English gate is editorial review.
+This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete, glossary reconciliation and editorial review are closed, and the next English gate is whole-Part bilingual review.
 
 ## Authority hierarchy
 
@@ -697,3 +697,24 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Current exact English activity
 
 **Part005 English editorial review across E16–E17.**
+
+
+## Part005 editorial-review closure
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **5**
+- E16 / E17 corrections — **3 / 2**
+- structural block counts changed — **0**
+- provenance comments removed — **0**
+- locked glossary decisions changed — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits caused by editorial review — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- durable editorial record — `PART_005_TRANSLATION_REVIEW.md`
+
+## Current exact English activity
+
+**Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
