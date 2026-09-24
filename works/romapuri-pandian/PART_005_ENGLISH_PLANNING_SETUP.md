@@ -253,3 +253,22 @@ Current Part005 English state:
 Current frontier:
 
 **Part005 whole-Part glossary reconciliation across E16–E17.**
+
+
+## Post-source-check Part005 glossary reconciliation
+
+The E16–E17 terminology gate has now closed:
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- maintained Part005 English files checked — **2/2**
+- glossary-driven English section edits — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits caused by glossary work — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- durable record — `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
+
+Current frontier:
+
+**Part005 English editorial review across E16–E17.**
