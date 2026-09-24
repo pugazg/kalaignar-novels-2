@@ -336,3 +336,17 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **Part005 whole-Part glossary reconciliation across E16–E17.**
+
+
+## Part005 glossary state
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven English section edits required — **0**
+- unresolved glossary holds — **0**
+- Part006 leakage — **0**
+- durable record — `../PART_005_GLOSSARY_RECONCILIATION.md`
+
+## Exact next English activity
+
+**Part005 English editorial review across E16–E17.**
