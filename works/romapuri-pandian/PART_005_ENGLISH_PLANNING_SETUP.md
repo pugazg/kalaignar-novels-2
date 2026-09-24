@@ -294,3 +294,24 @@ The maintained E16–E17 English layer has now completed editorial review:
 Current frontier:
 
 **Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
+
+
+## Post-editorial Part005 bilingual review
+
+The maintained E16–E17 Tamil/English pairs have now completed whole-Part bilingual review:
+
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- total Tamil / English blocks — **139 / 139**
+- rendered Tamil / English blocks — **129 / 129**
+- standalone provenance blocks — **10 / 10**
+- bilingual-review English corrections — **2**
+- E16 / E17 corrections — **2 / 0**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits caused by bilingual review — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- durable record — `translations/en/PART_005_BILINGUAL_REVIEW.md`
+
+Current frontier:
+
+**Part005 release/readiness review and report.**
