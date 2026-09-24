@@ -53,7 +53,7 @@ She took a palm leaf and hurriedly wrote on it:
 
 Muthunagai took the palm leaf to the leader of the band of devotees, handed it to him and stood waiting for a reply.
 
-The leader of the devotees was Thiruneettradiyar. He was middle-aged and powerfully built; whenever he looked at anyone he did so only after summoning an expression of grace to his face. The reason was that, by nature, valour and majesty shone more strongly on his face than grace did. He stared intently at Muthunagai.
+The leader of the devotees was Thiruneettradiyar. He was middle-aged and powerfully built; whenever he looked at anyone, he had to summon an expression of grace to his face. The reason was that, by nature, valour and majesty shone more strongly on his face than grace did. He stared intently at Muthunagai.
 
 "Do not let him go! He is the one who has come here to commit some treachery!" Thiruneettradiyar shouted.
 
@@ -65,7 +65,7 @@ Thiruneettradiyar cast a sidelong glance at the group of disciples standing arou
 
 The devotee would endure no more. He sprang at her, clasped her against his body and tried to take her into another part of the temple. Just then, with a cry of "Hey, stop!" a figure struck at the devotee's grip. Muthunagai turned in astonishment. It was none other than the same Yavana elder!
 
-The devotee opposed the elder. The whole band of devotees arrived there. The Yavana elder's sword whirled toward them. Seeing the elder's tiger-like leap, the devotees began running in every direction.
+The devotee confronted the elder. The whole band of devotees arrived there. The Yavana elder's sword whirled toward them. Seeing the elder's tiger-like leap, the devotees began running in every direction.
 
 Seeing that this was her chance, Muthunagai straightened and put her male clothing back in order, ran outside, mounted her horse and sped away.
 
