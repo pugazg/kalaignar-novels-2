@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 whole-Part bilingual review E16–E17
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 release/readiness review and report
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -35,13 +35,9 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - English editorial review — **PASS / CLOSED**
 - editorial corrections — **5**
 - unresolved editorial holds — **0**
-
-Maintained Tamil/English pairs:
-
-1. `sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md`
-   ↔ `translations/en/sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md`
-2. `sections/16-chapter-05-sivanadiyaar-thirukkoottam.md`
-   ↔ `translations/en/sections/16-chapter-05-the-gathering-of-siva-devotees.md`
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **2**
+- unresolved bilingual holds — **0**
 
 Durable English records:
 
@@ -49,6 +45,19 @@ Durable English records:
 2. `translations/en/E17_SOURCE_CHECK.md`
 3. `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
 4. `translations/en/PART_005_TRANSLATION_REVIEW.md`
+5. `translations/en/PART_005_BILINGUAL_REVIEW.md`
+
+## Bilingual integrity
+
+- total Tamil / English blocks — **139 / 139**
+- rendered Tamil / English blocks — **129 / 129**
+- standalone provenance blocks — **10 / 10**
+- omitted source meaning — **0**
+- duplicated source meaning — **0**
+- unsupported explanatory insertion — **0**
+- source agency drift — **0**
+- chronology drift — **0**
+- Parts001–004 English edits caused by Part005 review — **0**
 
 ## Boundary lock
 
@@ -59,8 +68,8 @@ Durable English records:
 
 ## Exact next activity
 
-**Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
+**Part005 release/readiness review and report.**
 
-Compare the maintained English directly against the verified assembled Tamil for complete meaning coverage, source order, dialogue, rhetoric, displayed-text handling, internal scan joins, terminology and boundary fidelity. Record any source-supported English corrections if required and create the durable Part005 bilingual review record.
+Review the complete Part005 Tamil and maintained English state for release readiness: source-check closure, glossary reconciliation, editorial review, bilingual review, structural/provenance integrity, unresolved blockers, boundary locks and Part006 isolation. Create the durable Part005 release/readiness report.
 
-Do not modify verified Tamil. Do not reopen frozen Parts001–004 English. Do not begin Part006.
+Do not modify verified Tamil merely for style. Do not reopen frozen Parts001–004. Do not begin Part006.
