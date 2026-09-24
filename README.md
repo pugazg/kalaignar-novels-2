@@ -156,6 +156,13 @@
 - Part005 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - Part005 assembled Tamil coverage — **17/17 physical / 17/17 publication-text pages**
 - Part005 assembled Tamil blockers — **0**
+- Part005 English E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- Part005 glossary reconciliation — **RECONCILED / PASS**
+- Part005 English editorial review — **PASS / CLOSED — 5 corrections**
+- Part005 bilingual review — **PASS / CLOSED — 2/2 — 2 bilingual corrections**
+- Part005 release/readiness — **PASS / CLOSED**
+- Part005 release-ready synchronization — **PASS / CLOSED**
+- Part005 unresolved English/release blockers — **0**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
@@ -171,6 +178,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part005 English translation planning/setup.**
+**Part005 final closure / freeze.**
 
-Do not infer scan69 without the supplied Part005 source.
+Do not begin Part006 until Part005 final closure passes and Part006 is supplied/registered.
