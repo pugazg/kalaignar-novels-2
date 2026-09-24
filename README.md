@@ -162,6 +162,7 @@
 - Part005 bilingual review — **PASS / CLOSED — 2/2 — 2 bilingual corrections**
 - Part005 release/readiness — **PASS / CLOSED**
 - Part005 release-ready synchronization — **PASS / CLOSED**
+- Part005 final closure — **PASS / CLOSED / FROZEN**
 - Part005 unresolved English/release blockers — **0**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
@@ -178,6 +179,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part005 final closure / freeze.**
+**Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
 
-Do not begin Part006 until Part005 final closure passes and Part006 is supplied/registered.
+Part006 is not supplied / registered. Do not infer scan86 or begin Part006 canonical transcription.
