@@ -200,3 +200,16 @@
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - exact next gate — **Part005 English translation planning/setup**
+
+
+## Part005 downstream English / release state
+
+- Part005 English E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- Part005 glossary reconciliation — **RECONCILED / PASS**
+- Part005 English editorial review — **PASS / CLOSED — 5 corrections**
+- Part005 bilingual review — **PASS / CLOSED — 2/2 — 2 bilingual corrections**
+- Part005 release/readiness — **PASS / CLOSED**
+- Part005 release-ready synchronization — **PASS / CLOSED**
+- Part005 unresolved English/release blockers — **0**
+- Part006 leakage — **0**
+- exact next gate — **Part005 final closure / freeze**
