@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 TAMIL ARCHIVAL-READY / ASSEMBLY NEXT**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 ASSEMBLED TAMIL CLOSED / ENGLISH PLANNING NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -185,6 +185,9 @@
 - Part005 visual fidelity — **17/17 verified / 0 needs-review**
 - Part005 documentation synchronization — **PASS / COMPLETE**
 - Part005 Tamil archival-ready — **PASS / CLOSED**
+- Part005 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- Part005 assembled Tamil coverage — **17/17 physical scans / 17/17 publication-text pages**
+- Part005 assembled Tamil validation blockers — **0**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
@@ -269,4 +272,4 @@
 
 ## Exact next activity
 
-**Part005 assembled Tamil construction + audit.**
+**Part005 English translation planning/setup.**

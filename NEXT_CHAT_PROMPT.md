@@ -1,20 +1,35 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 assembled Tamil construction + audit
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 English translation planning/setup
 
-Continue directly in `pugazg/kalaignar-novels-2`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Part005 Tamil is **ARCHIVAL-READY / PASS / CLOSED**.
+## Frozen state
 
-Build and validate the maintained assembled-reading layer from verified canonical Part005 pages only.
+Parts001–004 are **FINAL CLOSED / FROZEN**.
 
-Expected assembled units:
+## Part005 Tamil state
 
-1. Chapter 4 continuation / close — scans69–80
-2. Chapter 5 `சிவனடியார் திருக்கூட்டம்` — scans81–85
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled physical coverage — **17/17**
+- assembled publication-text coverage — **17/17**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- Part006 leakage — **0**
 
-Preserve verified physical joins and provenance. Do not import Part004 body into Part005 or Part006 body beyond scan85.
+Maintained Part005 assembled inputs:
+
+1. `sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` — scans69–80
+2. `sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` — scans81–85
+
+Outgoing 85→86 remains **PENDING Part006 adjacent witness / deferred external boundary evidence**.
 
 ## Exact next activity
 
-**Part005 assembled Tamil construction + audit.**
+**Part005 English translation planning/setup.**
 
-Close only if physical coverage is 17/17, publication-text coverage is complete, missing/duplicate coverage = 0, unsupported insertion = 0, audit-note leakage = 0, canonical page mutation = 0, and Part006 leakage = 0.
+Do not reopen verified canonical or assembled Tamil merely for stylistic polishing.

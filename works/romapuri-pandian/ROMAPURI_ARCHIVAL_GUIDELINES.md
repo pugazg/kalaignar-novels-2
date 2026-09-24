@@ -352,6 +352,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part005 unresolved status exceptions — **0**
 - Part005 documentation synchronization — **COMPLETE / PASS**
 - Part005 Tamil archival-ready — **PASS / CLOSED**
+- Part005 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- Part005 assembled Tamil validation blockers — **0**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part005 assembled Tamil construction + audit**
+- exact next gate — **Part005 English translation planning/setup**

@@ -44,6 +44,9 @@
 - audit unresolved blockers — **0**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled Tamil coverage — **17/17 physical scans / 17/17 publication-text pages**
+- assembled Tamil missing / duplicate / unsupported insertion / Part006 leakage — **0 / 0 / 0 / 0**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 6/6 VERIFIED**
 - English translation planning/setup — **COMPLETE / PASS**
@@ -246,7 +249,7 @@
 - Part audit unresolved blockers — **0**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 assembled Tamil construction + audit**
+- exact next activity — **Part005 English translation planning/setup**
 
 ## Boundary
 
@@ -348,11 +351,12 @@
 - `PART_005_FINAL_STATUS_SYNC.md`
 - `PART_005_DOCUMENTATION_SYNC.md`
 - `PART_005_TAMIL_ARCHIVAL_READY.md`
+- `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 assembled Tamil construction + audit**
+- prompt frontier — **Part005 English translation planning/setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -367,6 +371,6 @@
 
 ## Exact next activity
 
-**Part005 assembled Tamil construction + audit.**
+**Part005 English translation planning/setup.**
 
-Part005 Tamil archival-ready is PASS / CLOSED. Build maintained assembled Tamil only from verified canonical Part005 pages and audit exact coverage.
+Part005 Tamil archival-ready and assembled Tamil are PASS / CLOSED. Do not reopen verified canonical or assembled Tamil for stylistic polishing.
