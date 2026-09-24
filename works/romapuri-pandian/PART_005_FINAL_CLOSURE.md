@@ -252,3 +252,51 @@ On the next explicit continuation with the Part006 source:
 **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
 
 Do not infer scan86 or begin Part006 canonical transcription without the supplied source.
+
+
+## 13. Post-closure synchronization verification
+
+Final-closure commit:
+
+`ed0c1f236c4de6161ce45c2f6e15671c97b24db8`
+
+Post-closure synchronized live head before this record refresh:
+
+`083563ee8e8df84793e4ea95c7eae7fec4a92a07`
+
+Direct comparison from the final-closure commit confirms that post-closure changes are limited to **15 lifecycle/status/navigation/control documents**.
+
+Specifically:
+
+- canonical `pages/` changes — **0**
+- assembled Tamil section-body changes — **0**
+- maintained Part005 English section-body changes — **0**
+- frozen Parts001–004 English section-body changes — **0**
+- Part006 files introduced — **0**
+- active Git PDF paths — **0**
+
+A second comparison from the pre-final-closure live head `d15d155006650b2d9db704c7586e46329e6af6ad` confirms the complete final-closure activity changed only:
+
+- the durable `PART_005_FINAL_CLOSURE.md` record — **1 added**
+- lifecycle/status/navigation/control documents — **15 modified**
+
+and introduced no text-bearing authority/body drift.
+
+Live-tree verification confirms:
+
+- `PART_005_FINAL_CLOSURE.md` — **present**
+- Part006 / scan86 repository paths — **0**
+- PDF paths in Git — **0**
+
+The synchronized live frontier is therefore:
+
+- Part001 — **FINAL CLOSED / FROZEN**
+- Part002 — **FINAL CLOSED / FROZEN**
+- Part003 — **FINAL CLOSED / FROZEN**
+- Part004 — **FINAL CLOSED / FROZEN**
+- Part005 — **FINAL CLOSED / FROZEN**
+- Part006 — **NOT SUPPLIED / NOT REGISTERED**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+- next activity — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**
+
+Unauthorized textual drift after final closure — **0**.
