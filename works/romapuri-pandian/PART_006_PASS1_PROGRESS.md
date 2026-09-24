@@ -113,3 +113,44 @@ Pass1 does not promote status.
 **Part006 Pass1 Batch 2 — global scans96–102 / local pages11–17 — final 7-page remainder.**
 
 Do not begin Pass2A until Part006 Pass1 closes at **17/17 TEXT-COMPLETE**.
+
+
+## Post-Batch1 synchronization verification
+
+Pre-Batch1 live head:
+
+`7f1ac1700fdd8f85e9c5728500ebd0001d4adad3`
+
+Post-Batch1 synchronized checkpoint before this record refresh:
+
+`69845886bf78006062121ef1d8a50afeca44a47f`
+
+Direct comparison confirms the Batch1 activity changed exactly the expected Part006 scope:
+
+- canonical Part006 page records added — **10**
+- Part006 Pass1 progress record added — **1**
+- Part006 lifecycle/status/navigation/control documents updated — **10**
+- frozen Parts001–005 canonical/body files changed — **0**
+- later Part006 canonical pages scans96–102 created — **0**
+- active Git PDF paths — **0**
+
+Canonical Batch1 frontmatter verification confirms:
+
+- scans — **86–95 continuous**
+- local pages — **1–10 continuous**
+- part — **6 on all 10 records**
+- `status: "needs-review"` — **10/10**
+- `visual_fidelity: "needs-review"` — **10/10**
+- source filename — **correct on 10/10**
+- printed mapping — **84–91 on scans86–93; null on scans94–95**
+
+One direct source-pixel self-check during Batch1 corrected the closing quotation mark at the end of the scan93 dialogue paragraph before the Batch1 gate was closed.
+
+Live controls agree on:
+
+- Pass1 Batch1 — **COMPLETE / PASS / TEXT-COMPLETE**
+- canonical Part006 records — **10/17**
+- unresolved Pass1 source-reading holds — **0**
+- exact next activity — **Part006 Pass1 Batch 2 — scans96–102 / local11–17**
+
+Batch1 introduced no frozen-Part mutation, premature status promotion, later-page transcription, or PDF leakage.
