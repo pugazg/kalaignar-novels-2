@@ -315,3 +315,23 @@ The maintained E16–E17 Tamil/English pairs have now completed whole-Part bilin
 Current frontier:
 
 **Part005 release/readiness review and report.**
+
+
+## Post-bilingual Part005 release/readiness
+
+The complete Part005 Tamil/English state has passed release/readiness review:
+
+- release/readiness — **PASS / CLOSED**
+- canonical Tamil — **17/17 verified**
+- assembled Tamil — **2/2 VERIFIED / PASS / CLOSED**
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2**
+- unresolved release/readiness blockers — **0**
+- Part006 leakage — **0**
+- durable record — `translations/en/PART_005_RELEASE_REPORT.md`
+
+Current frontier:
+
+**Part005 release-ready synchronization.**
