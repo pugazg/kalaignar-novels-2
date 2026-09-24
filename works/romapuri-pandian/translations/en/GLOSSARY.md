@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 E16 SOURCE-CHECKED / E17 NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 E16–E17 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -599,3 +599,36 @@ E16 unresolved glossary/source-check holds — **0**.
 Exact next glossary-bearing activity:
 
 **E17 draft + source-check.**
+
+
+## E17 source-check decisions
+
+E17 confirms the following local English handling:
+
+- `சிவனடியார்` / `சிவனடியார்கள்` → **Siva devotee / Siva devotees**
+- `சிவனடியார் திருக்கூட்டம்` → **The Gathering of Siva Devotees**
+- `அன்பே சிவம்! பண்பே சைவம்!` → **Love is Siva! Virtue is Saivism!**
+- `முத்துநகை` → **Muthunagai**
+- `தாமரை` → **Thamarai**
+- `செழியன்` → **Sezhiyan**
+- `இருங்கோவேள்` → **Irungovel**
+- `கரிகால் பெருவளத்தான்` → **Karikala Peruvalathan**
+- `புகார்` → **Puhar**
+- `மருஊர்ப்பாக்கம்` → **Maruvurpakkam**
+- `பட்டினப்பாக்கம்` → **Pattinappakkam**
+- `வெள்ளிடைமன்றம்` → **Vellidai Mandram**
+- `இலஞ்சிமன்றம்` → **Ilanji Mandram**
+- `நடுங்கல் மன்றம்` → **Nadungal Mandram**
+- `பூதசதுக்கம்` → **Bootha Sathukkam**
+- `பாவை மன்றம்` → **Paavai Mandram**
+- `புத்த விகாரம்` → **Buddhist vihara**
+- `திருநீற்றடியார்` → **Thiruneettradiyar**
+- `யவனக் கிழவர்` → **Yavana elder**
+- `கொட்டை கட்டிகள்` → ***kottai-kattigal***, retained source-facing because the verified Tamil supplies no internal identifying gloss
+- `மண்டபம்` → **mandapam**
+
+E17 unresolved glossary/source-check holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**Part005 whole-Part glossary reconciliation across E16–E17.**
