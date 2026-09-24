@@ -367,3 +367,20 @@ Part006 source intake is **PASS / COMPLETE**.
 Exact next lifecycle activity:
 
 **Part006 Pass1 Batch 1 — scans86–95 / local1–10.**
+
+
+## Part006 Pass1 Batch1 canonical state
+
+- Part006 canonical records — **10/17**
+- Batch1 scans — **86–95**
+- Chapter 5 continuation — **scans86–93**
+- blank separator — **scan94**
+- Chapter 6 illustrated title — **scan95 / `விறுவெட்டி`**
+- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- assembled Part006 Tamil — **NOT STARTED**
+- unresolved Pass1 holds — **0**
+- frozen Parts001–005 assembled/body mutations — **0**
+
+Exact next lifecycle activity:
+
+**Part006 Pass1 Batch 2 — scans96–102 / local11–17.**
