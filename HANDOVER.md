@@ -274,7 +274,14 @@
 - Part005 release-ready synchronization blockers — **0**
 - Part005 final closure — **PASS / CLOSED / FROZEN**
 - Part005 final unresolved blockers — **0**
-- exact next activity — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**
+- Part006 source — **REGISTERED / AUTHORIZED — scans86–102 / 17 pages**
+- Part006 intake + incoming boundary — **PASS / COMPLETE**
+- Part006 incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- Part006 canonical records — **0/17**
+- Part006 Pass1 — **NOT STARTED**
+- Part006 unresolved intake/boundary blockers — **0**
+- Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- exact next activity — **Part006 Pass1 Batch 1 — scans86–95 / local1–10**
 
 ## Boundary
 
@@ -282,6 +289,7 @@
 - **34→35 — GENUINE CONTINUATION / AUDITED**
 - **52→53 — GENUINE CONTINUATION / AUDITED**
 - **68→69 — GENUINE CONTINUATION / AUDITED**
+- **85→86 — GENUINE CONTINUATION / AUDITED**
 - scan35 body imported backward into Part002 — **0**
 - scan53 body imported backward into Part003 — **0**
 
@@ -386,11 +394,14 @@
 - `translations/en/PART_005_RELEASE_REPORT.md`
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
+- `PART_006_INTAKE_BOUNDARY_SETUP.md`
+- `PART_005_BOUNDARY_AUDIT_85_86.md`
+- `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**
+- prompt frontier — **Part006 Pass1 Batch 1 — scans86–95 / local1–10**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -405,6 +416,6 @@
 
 ## Exact next activity
 
-**Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
+**Part006 Pass1 Batch 1 — global scans86–95 / local pages1–10.**
 
-Part005 is FINAL CLOSED / FROZEN. Part006 is not supplied / registered. Do not infer scan86 or begin Part006 canonical transcription without the supplied source.
+Part006 source intake and incoming 85→86 boundary setup are PASS / COMPLETE. Parts001–005 remain FINAL CLOSED / FROZEN.
