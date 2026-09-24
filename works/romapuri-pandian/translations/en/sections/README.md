@@ -368,3 +368,21 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
+
+
+## Part005 bilingual-review state
+
+- maintained Tamil/English pairs reviewed — **2/2**
+- whole-Part bilingual review — **PASS / CLOSED**
+- bilingual-review corrections — **2**
+- E16 / E17 corrections — **2 / 0**
+- total Part005 block parity — **139 / 139**
+- total Part005 rendered parity — **129 / 129**
+- standalone provenance parity — **10 / 10**
+- unresolved bilingual holds — **0**
+- Part006 leakage — **0**
+- durable record — `../PART_005_BILINGUAL_REVIEW.md`
+
+## Exact next English activity
+
+**Part005 release/readiness review and report.**
