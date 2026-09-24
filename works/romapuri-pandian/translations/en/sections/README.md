@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–004 are final closed/frozen; Part005 E16 is source-checked and E17 is next.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -273,9 +273,9 @@ Part005 Tamil prerequisites are closed:
 | Batch | Verified Tamil source | Planned English file | Scans | State |
 |---|---|---|---:|---|
 | E16 | `../../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | `15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | 69–80 | **SOURCE-CHECKED / COMPLETE** |
-| E17 | `../../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **RESERVED / NEXT** |
+| E17 | `../../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **SOURCE-CHECKED / COMPLETE** |
 
-Part005 English section files — **1/2 source-checked; E17 not yet drafted**.
+Part005 English section files — **2/2 source-checked**.
 
 ### Part005 boundary safeguards
 
@@ -313,3 +313,26 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
+
+
+### E17 closed state
+
+- E17 — **SOURCE-CHECKED / COMPLETE**
+- Tamil / English total blocks — **31 / 31**
+- Tamil / English rendered blocks — **28 / 28**
+- standalone provenance comments — **3 / 3**
+- source-boundary comments retained — **4 / 4**
+- outgoing-boundary comment retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- unresolved source-check holds — **0**
+- durable record — `../E17_SOURCE_CHECK.md`
+
+## Part005 post-source-check state
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- unresolved English source-check holds — **0**
+- Part006 leakage — **0**
+
+## Exact next English activity
+
+**Part005 whole-Part glossary reconciliation across E16–E17.**
