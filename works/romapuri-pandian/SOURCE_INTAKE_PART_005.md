@@ -93,3 +93,20 @@ Part005 canonical transcription is now authorized.
 **Part005 Pass2B Batch 1 — global scans69–77 / local pages1–9.**
 
 Pass2A is COMPLETE / PASS at 17/17 reviewed with 4 corrections and 0 unresolved.
+
+
+## Post-Pass2A Pass2B progress
+
+Part005 Pass2B has begun under the fixed **9-page iteration cadence**:
+
+- Batch 1 — **scans69–77 / local1–9 — COMPLETE / PASS**
+- reviewed — **9/17**
+- source-text / lexical / spacing / punctuation corrections — **0**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- durable control — `PART_005_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part005 Pass2B Batch 2 — scans78–85 / local10–17 — final 8-page remainder.**
