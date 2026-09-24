@@ -420,3 +420,23 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **Part005 final closure / freeze.**
+
+
+## Part005 final frozen English state
+
+- maintained Part005 English files — **2/2**
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- Part006 leakage — **0**
+
+## Exact next English activity
+
+**None until Part006 source intake authorizes the next Part.**
+
+Repository frontier: **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
