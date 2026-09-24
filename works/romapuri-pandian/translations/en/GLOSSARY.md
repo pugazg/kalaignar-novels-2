@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 EDITORIAL REVIEW PASS / BILINGUAL REVIEW NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -662,3 +662,22 @@ Context-sensitive distinctions retained deliberately include:
 Durable record: `PART_005_GLOSSARY_RECONCILIATION.md`.
 
 Current next gate — **Part005 English editorial review across E16–E17**.
+
+
+## Part005 editorial-review state
+
+Part005 E16–E17 English editorial review is **PASS / CLOSED**.
+
+- maintained English files reviewed — **2/2**
+- editorial corrections — **5**
+- E16 corrections — **3**
+- E17 corrections — **2**
+- locked glossary decisions changed — **0**
+- unresolved terminology holds — **0**
+- canonical / assembled Tamil edits caused by editorial review — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+
+Durable record: `PART_005_TRANSLATION_REVIEW.md`.
+
+Current next gate — **Part005 whole-Part bilingual review across E16–E17**.
