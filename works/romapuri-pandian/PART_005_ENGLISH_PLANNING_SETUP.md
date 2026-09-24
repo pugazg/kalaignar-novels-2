@@ -220,3 +220,36 @@ Current Part005 English state:
 Current frontier:
 
 **E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
+
+
+## Post-planning E17 closure
+
+The second and final reserved Part005 English batch has now closed:
+
+- E16 — **SOURCE-CHECKED / COMPLETE**
+- E17 — **SOURCE-CHECKED / COMPLETE**
+- verified E17 Tamil input — `sections/16-chapter-05-sivanadiyaar-thirukkoottam.md`
+- E17 English file — `translations/en/sections/16-chapter-05-the-gathering-of-siva-devotees.md`
+- E17 scans — **81–85**
+- E17 Tamil / English total blocks — **31 / 31**
+- E17 Tamil / English rendered blocks — **28 / 28**
+- standalone provenance comments — **3 / 3**
+- source-boundary comments retained — **4 / 4**
+- outgoing-boundary comment retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- unresolved E17 source-check holds — **0**
+- canonical Tamil edits caused by E17 — **0**
+- assembled Tamil edits caused by E17 — **0**
+- Parts001–004 English edits caused by E17 — **0**
+- E16 English edits caused by E17 — **0**
+- Part006 leakage — **0**
+- durable source-check — `translations/en/E17_SOURCE_CHECK.md`
+
+Current Part005 English state:
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- unresolved English source-check holds — **0**
+
+Current frontier:
+
+**Part005 whole-Part glossary reconciliation across E16–E17.**
