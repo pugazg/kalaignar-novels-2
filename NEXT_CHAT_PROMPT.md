@@ -1,21 +1,20 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 Tamil archival-ready checkpoint
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 assembled Tamil construction + audit
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Part005 Tamil verification chain:
+Part005 Tamil is **ARCHIVAL-READY / PASS / CLOSED**.
 
-- canonical — **17/17 verified**
-- visual fidelity — **17/17 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
-- unresolved blockers — **0**
-- incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+Build and validate the maintained assembled-reading layer from verified canonical Part005 pages only.
+
+Expected assembled units:
+
+1. Chapter 4 continuation / close — scans69–80
+2. Chapter 5 `சிவனடியார் திருக்கூட்டம்` — scans81–85
+
+Preserve verified physical joins and provenance. Do not import Part004 body into Part005 or Part006 body beyond scan85.
 
 ## Exact next activity
 
-**Part005 Tamil archival-ready checkpoint.**
+**Part005 assembled Tamil construction + audit.**
 
-Do not reopen canonical Tamil. Close the checkpoint from the verified repository state, then advance to Part005 assembled Tamil construction + audit.
+Close only if physical coverage is 17/17, publication-text coverage is complete, missing/duplicate coverage = 0, unsupported insertion = 0, audit-note leakage = 0, canonical page mutation = 0, and Part006 leakage = 0.
