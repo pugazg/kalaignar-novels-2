@@ -350,3 +350,21 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **Part005 English editorial review across E16–E17.**
+
+
+## Part005 editorial-review state
+
+- maintained English files reviewed — **2/2**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **5**
+- E16 corrections — **3**
+- E17 corrections — **2**
+- structural parity retained — **PASS**
+- provenance retained — **PASS**
+- unresolved editorial holds — **0**
+- Part006 leakage — **0**
+- durable record — `../PART_005_TRANSLATION_REVIEW.md`
+
+## Exact next English activity
+
+**Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
