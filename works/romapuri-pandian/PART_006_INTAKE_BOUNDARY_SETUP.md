@@ -84,3 +84,37 @@ No final status promotion occurs during Pass1.
 ## Exact next activity
 
 **Part006 Pass1 Batch 1 — global scans86–95 / local pages1–10.**
+
+
+## Post-intake control synchronization verification
+
+Pre-intake live head:
+
+`ad0b52ab335dcfb01f45fee3eee36a17e8a482ae`
+
+Post-intake synchronized checkpoint before this record refresh:
+
+`2d085020bba01faa00e2d98807572961c386645b`
+
+Direct comparison confirms:
+
+- changed files — **12**
+- new Part006 intake/boundary controls — **3**
+- canonical `pages/` files changed — **0**
+- Part006 canonical page records created — **0**
+- frozen assembled Tamil body changes — **0**
+- frozen English section-body changes — **0**
+- Parts001–005 canonical/body mutation — **0**
+- active Git PDF paths — **0**
+
+The synchronized controls agree on:
+
+- Part006 source — **REGISTERED / AUTHORIZED**
+- Part006 extent — **17 pages / scans86–102**
+- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part006 records — **0/17**
+- Pass1 — **NOT STARTED**
+- unresolved intake/boundary blockers — **0**
+- exact next activity — **Part006 Pass1 Batch 1 — scans86–95 / local1–10**
+
+Therefore this intake/boundary gate introduced no canonical transcription, frozen-Part body drift, or repository PDF leakage.
