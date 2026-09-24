@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 RELEASE-READY SYNC PASS / FINAL CLOSURE NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 INTAKE PENDING**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -738,3 +738,23 @@ Current next gate — **Part005 release-ready synchronization**.
 - Part006 leakage — **0**
 
 Current next gate — **Part005 final closure / freeze**.
+
+
+## Part005 final closure state
+
+Part005 is **FINAL CLOSED / FROZEN**.
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- locked glossary decisions changed by final closure — **0**
+- unresolved blockers — **0**
+- Part006 leakage — **0**
+
+Part006 source is **NOT SUPPLIED / NOT REGISTERED**.
+
+Current next gate — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**.
