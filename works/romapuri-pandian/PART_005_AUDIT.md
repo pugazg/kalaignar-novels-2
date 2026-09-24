@@ -237,3 +237,21 @@ because final promotion belongs to the next separate gate.
 Perform **Part005 final metadata/status synchronization**.
 
 That gate may promote `status` and `visual_fidelity` to `verified` only from this audited evidence, without changing canonical Tamil text.
+
+
+## Post-status documentation synchronization
+
+Part005 documentation/control synchronization is now **COMPLETE / PASS**.
+
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- canonical page changes during documentation synchronization — **0**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+- Part006 leakage — **0**
+
+Current frontier:
+
+**Part005 Tamil archival-ready checkpoint.**
