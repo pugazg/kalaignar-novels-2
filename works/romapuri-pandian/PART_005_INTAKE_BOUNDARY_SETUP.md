@@ -162,3 +162,21 @@ Part005 Pass2B has begun under the fixed **9-page iteration cadence**:
 Current frontier:
 
 **Part005 Pass2B Batch 2 — scans78–85 / local10–17 — final 8-page remainder.**
+
+
+## Post-Pass2B closure
+
+Part005 Pass2B is now closed:
+
+- result — **COMPLETE / PASS — 17/17 REVIEWED**
+- Batch 1 — **scans69–77 / local1–9 — COMPLETE / PASS**
+- Batch 2 — **scans78–85 / local10–17 — COMPLETE / PASS**
+- source-text / lexical / spacing / punctuation corrections — **0**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- durable control — `PART_005_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part005 Pass3 — scans69–85 / local1–17.**
