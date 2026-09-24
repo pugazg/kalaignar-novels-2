@@ -300,3 +300,37 @@ The synchronized live frontier is therefore:
 - next activity — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**
 
 Unauthorized textual drift after final closure — **0**.
+
+
+## 14. Later adjacent-witness resolution — Part006 intake
+
+After Part005 final closure/freeze, the Part006 source was supplied and registered:
+
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf`
+
+- local pages — **17**
+- global scans — **86–102**
+- file size — **48,077,888 bytes**
+- SHA-256 — `df9f8994dc08da0c01e34a91204a29f17d9425ed7e6ebbc5806f4461a5bfb1c2`
+- scan86 printed page — **84**
+- 85→86 classification — **GENUINE CONTINUATION / AUDITED**
+- Part005 canonical/body mutation caused by this later witness — **0**
+- Part005 assembled Tamil mutation — **0**
+- Part005 English mutation — **0**
+- scan86 text imported backward into Part005 — **0**
+
+Frozen scan85 ends:
+
+`சற்று நேரம் கழித்துக் கோயிலைச் சுற்றிக் கொண்டு குதிரையை மெதுவாக நடத்தியவாறு தன் வீட்டை நோக்கிப் புறப்பட்டாள்.`
+
+The newly supplied scan86 continues:
+
+`அவளுக்கு மேலும் மனப்போராட்டம் துவங்கியது.`
+
+and immediately continues Muthunagai's thoughts about the Yavana elder. There is no new chapter heading at scan86.
+
+The historical statement that 85→86 was pending **at the moment of Part005 closure** remains correct. The later external witness now resolves that deferred boundary without reopening Part005.
+
+Current frontier:
+
+**Part006 Pass1 Batch 1 — global scans86–95 / local pages1–10.**
