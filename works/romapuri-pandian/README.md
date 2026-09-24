@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 ENGLISH PLANNING COMPLETE / E16 NEXT**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 E16 SOURCE-CHECKED / E17 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -190,8 +190,13 @@
 - Part005 assembled Tamil validation blockers — **0**
 - Part005 English planning/setup — **COMPLETE / PASS**
 - Part005 reserved English batches — **E16–E17**
-- Part005 English drafted/source-checked — **0/2**
+- Part005 English drafted/source-checked — **1/2**
 - Part005 unresolved English planning holds — **0**
+- Part005 E16 — **SOURCE-CHECKED / COMPLETE**
+- Part005 E16 structural parity — **108/108 total; 101/101 rendered**
+- Part005 E16 omitted / duplicated source blocks — **0 / 0**
+- Part005 E16 unresolved source-check holds — **0**
+- Part005 E17 — **RESERVED / NEXT**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
@@ -276,4 +281,4 @@
 
 ## Exact next activity
 
-**E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
+**E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
