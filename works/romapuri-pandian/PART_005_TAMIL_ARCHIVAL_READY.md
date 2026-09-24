@@ -114,3 +114,22 @@ No correction is reopened by this checkpoint.
 **Part005 assembled Tamil construction + audit.**
 
 Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+
+
+## Post-checkpoint assembled Tamil closure
+
+The maintained Part005 assembled Tamil stage subsequently closed without reopening canonical Tamil:
+
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- physical scan coverage — **17/17 / scans69–85**
+- publication-text coverage — **17/17**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part006 leakage — **0**
+- durable control — `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part005 English translation planning/setup.**

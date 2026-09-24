@@ -63,6 +63,21 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - canonical page mutations caused by assembly — **0**
 - validation — `../PART_004_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Part005 — PASS / CLOSED
+
+- physical coverage — **scans69–85**
+- verified canonical pages represented structurally — **17/17**
+- publication-text source-transcription pages represented — **17/17**
+- blank physical scans — **0**
+- assembled files — **2/2 VERIFIED**
+- omitted publication-text pages — **0**
+- duplicate canonical publication-text pages — **0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- Part006 text leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- validation — `../PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
+
 ## Section inventory
 
 | Order | Part | File | Source scans | Source structure | Status |
@@ -82,6 +97,8 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 | 12 | 004 | `12-chapter-02-muthunagai-part004-continuation.md` | 53–56 | Chapter 2 continuation / close; scan56 blank separator represented by provenance | **VERIFIED** |
 | 13 | 004 | `13-chapter-03-maravar-maanam.md` | 57–66 | Chapter 3 illustrated title + narrative / close; scan66 blank separator represented by provenance | **VERIFIED** |
 | 14 | 004 | `14-chapter-04-pulavar-magal-purappattaal.md` | 67–68 | Chapter 4 illustrated title + narrative opening | **VERIFIED** |
+| 15 | 005 | `15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | 69–80 | Chapter 4 continuation / close | **VERIFIED** |
+| 16 | 005 | `16-chapter-05-sivanadiyaar-thirukkoottam.md` | 81–85 | Chapter 5 illustrated title + narrative / continuation | **VERIFIED** |
 
 ## Assembly rules
 
@@ -153,8 +170,11 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - outgoing Part003 / incoming Part004 **52→53 — GENUINE CONTINUATION / AUDITED**
 - Part003 body imported into Part004 assembled layer — **0**
 - Part004 body imported backward into Part003 assembled layer — **0**
-- outgoing Part004 **68→69 — PENDING Part005 adjacent witness / deferred external boundary evidence**
-- Part005 text imported into Part004 assembled layer — **0**
+- outgoing Part004 / incoming Part005 **68→69 — GENUINE CONTINUATION / AUDITED**
+- Part004 body imported into Part005 assembled layer — **0**
+- Part005 body imported backward into Part004 assembled layer — **0**
+- outgoing Part005 **85→86 — PENDING Part006 adjacent witness / deferred external boundary evidence**
+- Part006 text imported into Part005 assembled layer — **0**
 
 ## Downstream state
 
@@ -258,3 +278,33 @@ Part004 is **FINAL CLOSED / FROZEN**.
 Current frontier:
 
 **Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
+
+
+## Part005 special cases
+
+- scan69 — begins the audited continuation from Part004 scan68; Part004 body is not duplicated into the Part005 assembled file.
+- scan69→70 — same-sentence continuation retained as `சோழ நாட்டுக்கு...`.
+- scan71→72 — physical split word rendered continuously as `இருப்பார்கள்!` with a non-rendering provenance marker.
+- scan75→76 — same-sentence continuation retained as `பாறையின் விளிம்பில் புரண்டாள்.`.
+- scan77→78 — same-sentence continuation retained as `அந்தச் செய்கை...`.
+- scan78→79 — same-sentence continuation retained as `கரிகாற்சோழனை நான் பழி வாங்கப் போகிறேன்...`.
+- scan80 — Chapter 4 closes with a large intentional lower blank field.
+- scan81 — illustrated Chapter 5 title page retained at the start of the Chapter 5 assembled file.
+- scan82 — Chapter 5 narrative opens after the title page with a large intentional upper blank field.
+- scan82→83 — same-sentence continuation retained as `வேறு ஏதோ சூழ்ச்சியில்...`.
+- scan83→84 — same-sentence continuation retained as `ஒரு மூட்டையையும் களவு போவதில்லை.`.
+- scan85 — ends on a complete sentence; no Part006 text is imported.
+
+## Part005 assembled Tamil state
+
+Part005 Tamil archival-ready — **PASS / CLOSED**.
+
+Part005 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**.
+
+Part005 assembled Tamil coverage — **17/17 physical scans / 17/17 publication-text pages**.
+
+Part005 assembled Tamil validation blockers — **0**.
+
+Current frontier:
+
+**Part005 English translation planning/setup.**
