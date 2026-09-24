@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–003 FINAL CLOSED / FROZEN**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 PLANNING COMPLETE / E16 NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -527,3 +527,45 @@ The Part004 glossary decisions above remain controlling for the frozen English l
 Next source activity:
 
 **Part005 source intake + 68→69 adjacent-boundary witness inspection/setup.**
+
+
+## Part005 planning extension
+
+Parts001–004 glossary decisions remain frozen where they belong to closed English layers. Recurring forms carry forward into Part005 unless the verified Part005 Tamil requires different local handling.
+
+Part005 assembled inputs:
+
+- E16 — Chapter 4 `புலவர் மகள் புறப்பட்டாள்` continuation / close, scans69–80
+- E17 — Chapter 5 `சிவனடியார் திருக்கூட்டம்`, scans81–85
+
+New or newly active Part005 handling:
+
+| Tamil/source form | English handling | Note |
+|---|---|---|
+| `முத்துநகை` | **Muthunagai** | carry forward locked project character form |
+| `செழியன்` | **Sezhiyan** | carry forward locked project form |
+| `கரிகாலன்` / `கரிகாற்சோழன்` | **Karikalan / Karikala Cholan** | choose by verified local source form and syntax |
+| `இருங்கோவேள்` | **Irungovel** | carry forward locked project form |
+| `யவனக் கிழவர்` / `யவனக்கிழவர்` | **Yavana elder** | carry forward E13 source-check handling |
+| `தாமரை` | **Thamarai** | Part005 personal name |
+| `புலிநக மாலை` | **tiger-claw necklace** | carry forward locked object term |
+| `புலவர் மகள் புறப்பட்டாள்` | **The Poet's Daughter Sets Out** | carry forward Chapter 4 English title |
+| `சிவனடியார்` / `சிவனடியார்கள்` | **Siva devotee / Siva devotees** | carry forward Part003 handling |
+| `சிவனடியார் திருக்கூட்டம்` | **The Gathering of Siva Devotees** | working Chapter 5 English title |
+| `திருநீற்றடியார்` | **Thiruneettradiyar** | conservative source-facing project romanization |
+| `அன்பே சிவம்! பண்பே சைவம்!` | **Love is Siva! Virtue is Saivism!** | carry forward locked chant wording |
+
+Source-sensitive safeguards for Part005:
+
+- do not normalize verified Tamil forms merely because English renders them naturally;
+- translate displayed letters/notes only from the verified assembled Tamil and preserve their source function;
+- do not import published, remembered or web English versions;
+- source place/institution names that require a local English form may be settled conservatively during E16/E17 source-check without changing Tamil;
+- the incoming 68→69 continuation must not cause E16 to backfill Part004 E15;
+- the outgoing 85→86 boundary remains external and Part006 wording must not be inferred.
+
+Part005 planning glossary holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**E16 draft + source-check.**
