@@ -213,3 +213,22 @@
 - Part005 unresolved English/release blockers — **0**
 - Part006 leakage — **0**
 - exact next gate — **Part005 final closure / freeze**
+
+
+## Part005 final lifecycle state
+
+- Part005 source — **REGISTERED / AUTHORIZED — scans69–85 / 17 pages**
+- Part005 Tamil archival-ready — **PASS / CLOSED**
+- Part005 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- Part005 English E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- Part005 glossary reconciliation — **RECONCILED / PASS**
+- Part005 English editorial review — **PASS / CLOSED**
+- Part005 bilingual review — **PASS / CLOSED — 2/2**
+- Part005 release/readiness — **PASS / CLOSED**
+- Part005 release-ready synchronization — **PASS / CLOSED**
+- Part005 final closure — **PASS / CLOSED / FROZEN**
+- Part005 unresolved blockers — **0**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+- Part006 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part006 leakage — **0**
+- exact next gate — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**
