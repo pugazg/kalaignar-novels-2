@@ -604,3 +604,26 @@ Part005 batch discipline:
 ## Exact next activity — project
 
 **Part005 final closure / freeze.**
+
+
+## Part005 final lifecycle state
+
+Part005 English is **FINAL CLOSED / FROZEN**.
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- canonical / assembled Tamil edits caused by final closure — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+
+## Exact next activity — project
+
+**Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
+
+Part006 is not supplied / registered. Do not infer scan86.
