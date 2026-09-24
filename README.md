@@ -166,8 +166,10 @@
 - Part006 source — **REGISTERED / AUTHORIZED — 17 pages / scans86–102**
 - Part006 intake + incoming-boundary setup — **PASS / COMPLETE**
 - Part006 incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
-- Part006 canonical records — **0/17**
-- Part006 Pass1 — **NOT STARTED**
+- Part006 canonical records — **10/17**
+- Part006 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part006 Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
+- Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
 - Part006 scan95 — **illustrated Chapter 6 title / விறுவெட்டி**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
@@ -188,4 +190,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 Pass1 Batch 1 — global scans86–95 / local pages1–10.**
+**Part006 Pass1 Batch 2 — global scans96–102 / local pages11–17 — final 7-page remainder.**
