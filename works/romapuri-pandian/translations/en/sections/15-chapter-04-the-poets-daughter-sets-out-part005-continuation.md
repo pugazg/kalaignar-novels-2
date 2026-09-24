@@ -196,7 +196,7 @@ Muthunagai jerked her head fiercely as though to say yes, rolled her eyes, and a
 
 "My name is Thamarai! Do not ask me anything more than that!" Before she could finish saying it, the young woman broke into sobs.
 
-Muthunagai was filled with one fear: that she might suddenly slip and speak aloud. So every moment she kept careful watch over herself. Her conviction that she might obtain some information from Thamarai grew stronger. For when Muthunagai indicated that she was going to take revenge <!-- source boundary: scan 78 → scan 79 -->on Karikala Cholan, she had marked in her heart how a flash of light had appeared and vanished across Thamarai's face. She took out a palm leaf, wrote on it and showed it to Thamarai.
+Muthunagai was filled with one fear: that she might suddenly slip and speak aloud. So every moment she kept careful watch over herself. Her conviction that she might obtain some information from Thamarai grew stronger. For when Muthunagai indicated that she was going to take revenge <!-- source boundary: scan 78 → scan 79 -->on Karikala Cholan, she had taken note in her heart of the flash of light that appeared and vanished across Thamarai's face. She took out a palm leaf, wrote on it and showed it to Thamarai.
 
 It read:
 
@@ -225,8 +225,8 @@ Her suspicion that the Yavana elder must in fact be Irungovel grew stronger. The
 
 The Yavana elder did not give up either. He pursued her at tremendous speed. Across forest and high ground the two horses raced like the wind.
 
-She herself had no skill in combat. The fear that the riding she had learned in youth and her little sword practice would be of no use against great warriors like Irungovel made her ride still faster. Could the pounding of the Yavana elder's approaching horse-hooves possibly compete with the sound raised by Muthunagai's own racing heart? It was doubtful!
+She herself had no skill in combat. The fear that the riding she had learned in youth and her little sword practice would be of no use against great warriors like Irungovel made her ride still faster. Could the pounding of the Yavana elder's approaching horse-hooves possibly match the sound of Muthunagai's own racing heart? It was doubtful!
 
 After racing and circling through all kinds of places, she finally escaped from the Yavana elder.
 
-In a densely wooded place, she and her horse stood without making a sound, and the Yavana elder raced on and lost her. When the sound of the elder's horse-hooves faded, Muthunagai turned her horse in another direction.
+In a densely wooded place, she and her horse stood without making a sound, and the Yavana elder raced past without finding her. When the sound of the elder's horse-hooves faded, Muthunagai turned her horse in another direction.
