@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 E16–E17 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete and the next English gate is whole-Part glossary reconciliation.
+This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete, glossary reconciliation is closed, and the next English gate is editorial review.
 
 ## Authority hierarchy
 
@@ -680,3 +680,20 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Current exact English activity
 
 **Part005 whole-Part glossary reconciliation across E16–E17.**
+
+
+## Part005 post-source-check glossary state
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- accidental recurring-term drift — **0**
+- glossary-driven English section edits — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits caused by glossary work — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- durable reconciliation record — `PART_005_GLOSSARY_RECONCILIATION.md`
+
+## Current exact English activity
+
+**Part005 English editorial review across E16–E17.**
