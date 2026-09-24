@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 release-ready synchronization
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 final closure + freeze
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,10 +8,13 @@ Parts001–004 are **FINAL CLOSED / FROZEN**.
 
 Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, or release records merely for stylistic polishing.
 
-## Part005 Tamil state
+## Part005 closed prerequisite gates
+
+Tamil:
 
 - canonical Tamil — **17/17 verified**
 - visual fidelity — **17/17 verified**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
@@ -19,11 +22,9 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - physical coverage — **17/17 / scans69–85**
 - publication-text coverage — **17/17**
-- missing / duplicate coverage — **0 / 0**
-- unsupported Tamil insertion — **0**
-- Part006 leakage — **0**
+- unresolved Tamil/status blockers — **0**
 
-## Part005 English state
+English/release:
 
 - E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
 - glossary reconciliation — **RECONCILED / PASS**
@@ -32,9 +33,10 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - whole-Part bilingual review — **PASS / CLOSED — 2/2**
 - bilingual-review corrections — **2**
 - release/readiness — **PASS / CLOSED**
-- unresolved source-check / glossary / editorial / bilingual / release blockers — **0**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved English/release/synchronization blockers — **0**
 
-Durable Part005 English records:
+Durable Part005 downstream records:
 
 1. `translations/en/E16_SOURCE_CHECK.md`
 2. `translations/en/E17_SOURCE_CHECK.md`
@@ -42,8 +44,9 @@ Durable Part005 English records:
 4. `translations/en/PART_005_TRANSLATION_REVIEW.md`
 5. `translations/en/PART_005_BILINGUAL_REVIEW.md`
 6. `translations/en/PART_005_RELEASE_REPORT.md`
+7. `PART_005_RELEASE_READY_SYNC.md`
 
-## Bilingual/release integrity
+## Structural / repository integrity
 
 - total Tamil / English blocks — **139 / 139**
 - rendered Tamil / English blocks — **129 / 129**
@@ -53,6 +56,10 @@ Durable Part005 English records:
 - source agency drift — **0**
 - chronology drift — **0**
 - active Git PDF paths — **0**
+- canonical Tamil changes during release-ready synchronization — **0**
+- assembled Tamil body changes during release-ready synchronization — **0**
+- maintained Part005 English body changes during release-ready synchronization — **0**
+- frozen Parts001–004 English body changes during synchronization — **0**
 
 ## Boundary lock
 
@@ -64,10 +71,8 @@ Durable Part005 English records:
 
 ## Exact next activity
 
-**Part005 release-ready synchronization.**
+**Part005 final closure / freeze.**
 
-Synchronize live lifecycle/status/navigation controls so they all record the closed Part005 Tamil and English gates and point to **Part005 final closure / freeze** as the next frontier. Verify by direct commit comparison that synchronization changes only control/status/navigation files and causes no canonical Tamil, assembled Tamil body, maintained Part005 English body, frozen Parts001–004 English body, or Part006 drift.
+Create and independently verify the durable `PART_005_FINAL_CLOSURE.md` record. Confirm the complete Part005 Tamil, assembled-Tamil, English, bilingual, release/readiness and release-ready synchronization chain; verify no post-release textual drift; then synchronize live controls to **Part005 FINAL CLOSED / FROZEN**.
 
-Create the durable `PART_005_RELEASE_READY_SYNC.md` record.
-
-Do not declare final Part005 closure until this synchronization and post-sync drift verification pass.
+Do not begin Part006 canonical transcription unless Part005 final closure passes and the Part006 source is supplied/registered.
