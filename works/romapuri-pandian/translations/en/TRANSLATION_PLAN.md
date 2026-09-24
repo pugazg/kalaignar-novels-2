@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 E16 SOURCE-CHECKED / E17 NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 E16–E17 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 English is active under the E16→E17 sequence, with E16 source-checked and E17 next.
+This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete and the next English gate is whole-Part glossary reconciliation.
 
 ## Authority hierarchy
 
@@ -597,7 +597,7 @@ Verified Part005 assembled inputs:
 | Batch | Tamil input | Planned English file | Scans | Planning state |
 |---|---|---|---:|---|
 | **E16** | `../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | `sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | 69–80 | **SOURCE-CHECKED / COMPLETE** |
-| **E17** | `../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `sections/16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **RESERVED / NEXT** |
+| **E17** | `../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `sections/16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **SOURCE-CHECKED / COMPLETE** |
 
 Batch discipline:
 
@@ -661,3 +661,22 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Current exact English activity
 
 **E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
+
+
+## Part005 E17 completion state
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- completed/source-checked — **2/2**
+- E17 Tamil / English block accounting — **31/31 total; 28/28 rendered; 3/3 standalone provenance**
+- source-boundary comments retained — **4/4**
+- outgoing-boundary comment retained — **1/1**
+- E17 omitted / duplicated source blocks — **0 / 0**
+- unresolved E17 source-check holds — **0**
+- canonical / assembled Tamil edits caused by E17 — **0**
+- Parts001–004 / E16 English edits caused by E17 — **0**
+- Part006 leakage — **0**
+- durable source-check — `E17_SOURCE_CHECK.md`
+
+## Current exact English activity
+
+**Part005 whole-Part glossary reconciliation across E16–E17.**
