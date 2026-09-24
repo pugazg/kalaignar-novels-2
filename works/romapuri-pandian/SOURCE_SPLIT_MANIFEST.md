@@ -232,3 +232,18 @@
 - Part006 source — **NOT SUPPLIED / NOT REGISTERED**
 - Part006 leakage — **0**
 - exact next gate — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**
+
+
+## Part006 intake state
+
+- Part006 source — **REGISTERED / AUTHORIZED — scans86–102 / 17 pages**
+- Part006 source intake + incoming boundary setup — **PASS / COMPLETE**
+- Part006 incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- Part006 canonical records — **0/17**
+- Part006 Pass1 — **NOT STARTED**
+- source-visible scan94 — **blank separator**
+- source-visible scan95 — **illustrated Chapter 6 title / விறுவெட்டி**
+- Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- unresolved Part006 intake/boundary blockers — **0**
+- frozen Parts001–005 mutation caused by Part006 intake — **0**
+- exact next gate — **Part006 Pass1 Batch 1 — scans86–95 / local1–10**
