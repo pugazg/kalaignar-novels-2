@@ -272,7 +272,9 @@
 - Part005 unresolved release/readiness blockers — **0**
 - Part005 release-ready synchronization — **PASS / CLOSED**
 - Part005 release-ready synchronization blockers — **0**
-- exact next activity — **Part005 final closure / freeze**
+- Part005 final closure — **PASS / CLOSED / FROZEN**
+- Part005 final unresolved blockers — **0**
+- exact next activity — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**
 
 ## Boundary
 
@@ -383,11 +385,12 @@
 - `translations/en/PART_005_BILINGUAL_REVIEW.md`
 - `translations/en/PART_005_RELEASE_REPORT.md`
 - `PART_005_RELEASE_READY_SYNC.md`
+- `PART_005_FINAL_CLOSURE.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 final closure / freeze**
+- prompt frontier — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -402,6 +405,6 @@
 
 ## Exact next activity
 
-**Part005 final closure / freeze.**
+**Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
 
-Part005 release-ready synchronization is PASS / CLOSED with 0 synchronization blockers. Create and verify the durable final-closure record before beginning Part006.
+Part005 is FINAL CLOSED / FROZEN. Part006 is not supplied / registered. Do not infer scan86 or begin Part006 canonical transcription without the supplied source.
