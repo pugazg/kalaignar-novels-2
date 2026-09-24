@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 Pass2B Batch 1 scans69–77
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 Pass2B Batch 2 scans78–85
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,44 +12,39 @@ Parts001–004 are **FINAL CLOSED / FROZEN**.
 - global scans — **69–85**
 - canonical records — **17/17**
 - Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
 - incoming 68→69 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
-
-## Part005 Pass2A closure
-
-- Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
-- Batch 1 — **scans69–77 / local1–9 — COMPLETE / PASS**
-- Batch 2 — **scans78–85 / local10–17 — COMPLETE / PASS**
-- source-supported corrections — **4**
-- unresolved textual questions — **0**
-- status promotions — **0**
-
-Corrections:
-
-1. scan73 — `இதைக் சொல்லும்போது` → `இதைச் சொல்லும்போது`
-2. scan76 — `வாய்திறந்தாள்` → `வாய் திறந்தாள்`
-3. scan78 — `தெரிந்தித்தால்தான்` → `தெரிவித்தால்தான்`
-4. scan85 — `முத்துநகையைக் சூழ்ந்து` → `முத்துநகையைச் சூழ்ந்து`
-
-All Part005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
 ## Fixed Pass2B cadence
 
 - **9 physical pages per iteration**
-- Batch 1 — **scans69–77 / local1–9**
+- Batch 1 — **scans69–77 / local1–9 — COMPLETE / PASS**
 - Batch 2 — **scans78–85 / local10–17 — final 8-page remainder**
+
+## Part005 Pass2B current state
+
+- reviewed — **9/17**
+- source-text / lexical / spacing / punctuation corrections — **0**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+
+Batch 1 retained unusual source-visible forms rather than normalizing them, including `கரிகாற்சோழனின்`, `ஒடிந்திருந்தது`, `கேட்புப் பயனில்லை`, `வாட்ட சாட்டமான`, `வெள்ளப்பாறு`, `அலைபெனச்`, `கழுத்து அழுவத்தையும்` and `கேள்வி யொன்றைத்`.
+
+All Part005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
 ## Exact next activity
 
-**Part005 Pass2B Batch 1 — global scans69–77 / local pages1–9.**
+**Part005 Pass2B Batch 2 — global scans78–85 / local pages10–17.**
 
 Requirements:
 
-1. perform an independent lexical / word-boundary / spacing / punctuation-sensitive / historical-glyph reread directly against source pixels;
+1. independently reread the final 8 pages for lexical identity, word boundaries, spacing, punctuation-sensitive forms and historical-glyph identity;
 2. apply only source-supported corrections;
-3. record source-text corrections and historical-glyph corrections separately;
+3. record source-text/lexical corrections and historical-glyph corrections separately;
 4. keep all records `needs-review / needs-review`;
-5. do not reopen Parts001–004;
-6. update `PART_005_PASS2B_PROGRESS.md` and synchronized controls.
+5. close Pass2B only if **17/17 REVIEWED / 0 unresolved**;
+6. after closure, advance the frontier to **Part005 Pass3**.
 
-Do not begin Batch 2 or Pass3 in the same activity.
+Do not begin Pass3 in the same activity unless explicitly requested.
