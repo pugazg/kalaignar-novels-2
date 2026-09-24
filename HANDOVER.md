@@ -251,9 +251,12 @@
 - unresolved intake/boundary blockers — **0**
 - English translation planning/setup — **COMPLETE / PASS**
 - reserved English batches — **E16–E17**
-- English drafted/source-checked — **0/2**
+- English drafted/source-checked — **1/2**
 - unresolved English planning holds — **0**
-- exact next activity — **E16 draft + source-check / scans69–80**
+- E16 — **SOURCE-CHECKED / COMPLETE — scans69–80**
+- E17 — **RESERVED / NEXT — scans81–85**
+- unresolved E16 source-check holds — **0**
+- exact next activity — **E17 draft + source-check / scans81–85**
 
 ## Boundary
 
@@ -357,11 +360,12 @@
 - `PART_005_TAMIL_ARCHIVAL_READY.md`
 - `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_005_ENGLISH_PLANNING_SETUP.md`
+- `translations/en/E16_SOURCE_CHECK.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E16 draft + source-check / Part005 Chapter 4 continuation / scans69–80**
+- prompt frontier — **E17 draft + source-check / Part005 Chapter 5 / scans81–85**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -376,6 +380,6 @@
 
 ## Exact next activity
 
-**E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
+**E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
 
-Part005 English planning/setup is COMPLETE / PASS. E16 is RESERVED / NEXT; E17 is RESERVED. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
+Part005 E16 is SOURCE-CHECKED / COMPLETE with 108/108 structural blocks and 0 unresolved source-check holds. E17 is RESERVED / NEXT. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
