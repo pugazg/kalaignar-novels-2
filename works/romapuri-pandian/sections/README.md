@@ -348,3 +348,22 @@ Exact next lifecycle activity:
 Exact next lifecycle activity:
 
 **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
+
+
+## Part006 intake boundary state
+
+Part006 source intake is **PASS / COMPLETE**.
+
+- source — **REGISTERED / AUTHORIZED — scans86–102 / 17 pages**
+- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part006 records — **0/17**
+- Pass1 — **NOT STARTED**
+- assembled Part006 Tamil — **NOT STARTED**
+- scan94 — **blank separator**
+- scan95 — **illustrated Chapter 6 title `விறுவெட்டி`**
+- outgoing 102→103 — **PENDING Part007 adjacent witness**
+- frozen Parts001–005 assembled/body mutations — **0**
+
+Exact next lifecycle activity:
+
+**Part006 Pass1 Batch 1 — scans86–95 / local1–10.**
