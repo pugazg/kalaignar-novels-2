@@ -163,6 +163,15 @@
 - Part005 release/readiness — **PASS / CLOSED**
 - Part005 release-ready synchronization — **PASS / CLOSED**
 - Part005 final closure — **PASS / CLOSED / FROZEN**
+- Part006 source — **REGISTERED / AUTHORIZED — 17 pages / scans86–102**
+- Part006 intake + incoming-boundary setup — **PASS / COMPLETE**
+- Part006 incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- Part006 canonical records — **0/17**
+- Part006 Pass1 — **NOT STARTED**
+- Part006 scan94 — **blank separator**
+- Part006 scan95 — **illustrated Chapter 6 title / விறுவெட்டி**
+- Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part006 unresolved intake/boundary blockers — **0**
 - Part005 unresolved English/release blockers — **0**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
@@ -179,6 +188,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
-
-Part006 is not supplied / registered. Do not infer scan86 or begin Part006 canonical transcription.
+**Part006 Pass1 Batch 1 — global scans86–95 / local pages1–10.**
