@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 PLANNING COMPLETE / E16 NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 E16 SOURCE-CHECKED / E17 NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -569,3 +569,33 @@ Part005 planning glossary holds — **0**.
 Exact next glossary-bearing activity:
 
 **E16 draft + source-check.**
+
+
+## E16 source-check decisions
+
+E16 confirms the following local English handling:
+
+- `முத்துநகை` → **Muthunagai**
+- `செழியன்` → **Sezhiyan**
+- `கரிகாலன்` → **Karikalan**
+- `கரிகாற்சோழன்` / `கரிகால் சோழன்` → **Karikala Cholan**
+- `இருங்கோவேள்` → **Irungovel**
+- `யவனக் கிழவர்` / `யவனக்கிழவர்` → **Yavana elder**
+- `தாமரை` → **Thamarai**
+- `முத்து` → **Muthu**
+- `புலிநக மாலை` → **tiger-claw necklace**
+- `பன்றி நாடு` → **Panri country**, source-facing; no external identification supplied
+- `ஒளியர்` → **Oliyar**, source-facing group name
+- `பொதுவர்` → **Podhuvar**, source-facing group name
+- `வேளிர்குடி` → **Velir clan** in the local royal context
+- `ஒற்றர் வேலை` → **spy work**
+- `தோகை மயில்` → **splendid peacock**
+- `முள்ளம்பன்றி` → **porcupine**
+- `சுனை` → **spring**
+- `கரி` / `கால்` → ***kari* / *kaal*** in the gesture-wordplay leading to `Karikaal`
+
+E16 unresolved glossary/source-check holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**E17 draft + source-check.**
