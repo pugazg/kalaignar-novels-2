@@ -423,3 +423,24 @@ Part006 source is now **REGISTERED / AUTHORIZED**.
 Current frontier:
 
 **Part006 Pass1 Batch 1 — scans86–95 / local1–10.**
+
+
+## Part006 Pass1 Batch1 progress
+
+- Batch 1 — **COMPLETE / PASS / TEXT-COMPLETE**
+- scans — **86–95**
+- local pages — **1–10**
+- canonical records — **10/17**
+- text-bearing physical pages — **9/10**
+- blank physical pages — **1/10**
+- scan94 — blank separator
+- scan95 — Chapter 6 title `விறுவெட்டி`
+- unresolved source-reading holds — **0**
+- status / visual-fidelity promotions — **0**
+- frozen Parts001–005 mutations — **0**
+
+Pass1 remains open.
+
+Current frontier:
+
+**Part006 Pass1 Batch 2 — scans96–102 / local11–17 — final 7-page remainder.**
