@@ -86,7 +86,7 @@ As the Chola king kept piling question upon question, that tender young woman su
 
 "What, Sezhiyan? Where is that Sezhiyan now?"
 
-"There is no use asking me beyond that. I do not know where Sezhiyan has been taken. I have left home precisely to learn more. I thought it was my duty to warn you on my way!"
+"There is no use asking me beyond that. I do not know where Sezhiyan went. I have left home precisely to learn more. I thought it was my duty to warn you on my way!"
 
 <!-- source boundary: scan 72 → scan 73 -->
 
@@ -134,7 +134,7 @@ Pretending to sleep can sometimes become a painful ordeal. One cannot know wheth
 
 How long can someone pretending to sleep keep drawing and releasing breath in exactly the same rhythm? One can pretend to turn this way and that, slowly open one's eyes at any moment, and see what is happening.
 
-Even that option was denied to Muthunagai. The reason was that there was no room to roll about on the rock where she lay. Nearby there was nothing but the spring, the sound of the waterfall and the stir of the forest. Was the beautiful maiden who had come there still present, or had she gone? Muthunagai was completely confused. The maiden, for her part, did nothing except struggle somehow to wrench her eyes away.
+Even that option was denied to Muthunagai. The reason was that there was no room to roll about on the rock where she lay. There was no spring nearby—only the sound of the waterfall and the stir of the forest. Was the beautiful maiden who had come there still present, or had she gone? Muthunagai was completely confused. The maiden, for her part, did nothing except struggle somehow to wrench her eyes away.
 
 Thus, as far as the two of them were concerned, silence had taken up residence—outwardly! Within, however, the young woman's heart was melting like a flood-swollen stream. Muthunagai could not keep up the act for long. So she too lay there in distress. The moments stretched on.
 
