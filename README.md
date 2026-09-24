@@ -142,7 +142,11 @@
 - Part005 Pass2B source-text/lexical/spacing/punctuation corrections — **0**
 - Part005 Pass2B historical-glyph corrections — **0**
 - Part005 Pass2B unresolved lexical/historical-glyph questions — **0**
-- Part005 Pass3 — **NOT STARTED**
+- Part005 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part005 Pass3 source-text corrections — **0**
+- Part005 Pass3 structural metadata corrections — **0**
+- Part005 Pass3 unresolved visual/structural questions — **0**
+- Part005 Part audit — **NOT STARTED**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
@@ -158,6 +162,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part005 Pass3 — global scans69–85 / local pages1–17.**
+**Part005 Part audit.**
 
 Do not infer scan69 without the supplied Part005 source.

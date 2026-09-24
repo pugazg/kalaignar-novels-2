@@ -231,10 +231,15 @@
 - Pass2B source-text / lexical / spacing / punctuation corrections — **0**
 - Pass2B historical-glyph corrections — **0**
 - Pass2B unresolved lexical / historical-glyph questions — **0**
-- Pass3 — **NOT STARTED**
+- Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass3 source-text corrections — **0**
+- Pass3 structural metadata corrections — **0**
+- Pass3 unresolved visual / structural questions — **0**
+- Pass3 status promotions — **0**
+- Part audit — **NOT STARTED**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 Pass3 — scans69–85 / local1–17**
+- exact next activity — **Part005 Part audit**
 
 ## Boundary
 
@@ -331,11 +336,12 @@
 - `PART_005_PASS1_PROGRESS.md`
 - `PART_005_PASS2A_PROGRESS.md`
 - `PART_005_PASS2B_PROGRESS.md`
+- `PART_005_PASS3_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 Pass3 — scans69–85**
+- prompt frontier — **Part005 Part audit**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -350,6 +356,6 @@
 
 ## Exact next activity
 
-**Part005 Pass3 — global scans69–85 / local pages1–17.**
+**Part005 Part audit.**
 
-Part005 Pass2B is COMPLETE / PASS at 17/17 reviewed, with 0 source-text/lexical corrections, 0 historical-glyph corrections and 0 unresolved. Keep all records needs-review / needs-review through Pass3 and the Part audit.
+Part005 Pass3 is COMPLETE / PASS at 17/17 reviewed with 0 source-text corrections, 0 structural metadata corrections and 0 unresolved visual/structural questions. Keep all records needs-review / needs-review until the audit passes and final status synchronization occurs.
