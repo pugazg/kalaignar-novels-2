@@ -262,7 +262,10 @@
 - Part005 glossary reconciliation — **RECONCILED / PASS**
 - Part005 glossary-driven English section edits — **0**
 - Part005 unresolved glossary holds — **0**
-- exact next activity — **Part005 English editorial review across E16–E17**
+- Part005 English editorial review — **PASS / CLOSED**
+- Part005 editorial corrections — **5**
+- Part005 unresolved editorial holds — **0**
+- exact next activity — **Part005 whole-Part bilingual review across the 2 Tamil/English section pairs**
 
 ## Boundary
 
@@ -369,11 +372,12 @@
 - `translations/en/E16_SOURCE_CHECK.md`
 - `translations/en/E17_SOURCE_CHECK.md`
 - `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
+- `translations/en/PART_005_TRANSLATION_REVIEW.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 English editorial review across E16–E17**
+- prompt frontier — **Part005 whole-Part bilingual review across the 2 Tamil/English section pairs**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -388,6 +392,6 @@
 
 ## Exact next activity
 
-**Part005 English editorial review across E16–E17.**
+**Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
 
-Part005 glossary reconciliation is RECONCILED / PASS with 0 terminology edits and 0 unresolved glossary holds. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
+Part005 editorial review is PASS / CLOSED with 5 source-supported English-only corrections and 0 unresolved editorial holds. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
