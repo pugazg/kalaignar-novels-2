@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 PART AUDIT PASS / STATUS SYNC NEXT**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 VERIFIED / DOC SYNC NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -180,6 +180,9 @@
 - Part005 Pass3 unresolved visual/structural questions — **0**
 - Part005 Part audit — **PASS / COMPLETE**
 - Part005 audit unresolved blockers — **0**
+- Part005 final metadata/status synchronization — **PASS / CLOSED**
+- Part005 Tamil status — **17/17 verified / 0 needs-review**
+- Part005 visual fidelity — **17/17 verified / 0 needs-review**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - outgoing 52→53 witness — **GENUINE CONTINUATION / AUDITED**
@@ -264,4 +267,4 @@
 
 ## Exact next activity
 
-**Part005 final metadata/status synchronization.**
+**Part005 documentation synchronization.**

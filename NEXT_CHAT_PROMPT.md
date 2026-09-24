@@ -1,29 +1,20 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 final metadata/status synchronization
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 documentation synchronization
 
-Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
-
-Parts001–004 are **FINAL CLOSED / FROZEN**.
+Continue directly in `pugazg/kalaignar-novels-2`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Part005:
 
-- canonical — **17/17**
-- Pass1 — **COMPLETE / PASS**
-- Pass2A — **COMPLETE / PASS**
-- Pass2B — **COMPLETE / PASS**
-- Pass3 — **COMPLETE / PASS**
+- canonical records — **17/17**
+- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
-- audit unresolved blockers — **0**
-- current page status — **17/17 needs-review**
-- current visual fidelity — **17/17 needs-review**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil status — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- needs-review exceptions — **0**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 
 ## Exact next activity
 
-**Part005 final metadata/status synchronization.**
+**Part005 documentation synchronization.**
 
-Promote only:
-
-- `status: "needs-review"` → `status: "verified"`
-- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
-
-on all 17 Part005 canonical records. Do not change Tamil body text or other metadata.
+Reconcile live controls to the verified 17/17 state without modifying canonical page records. After documentation sync closes, advance to the Part005 Tamil archival-ready checkpoint.
