@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 BILINGUAL REVIEW PASS / RELEASE READINESS NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 RELEASE/READINESS PASS / RELEASE-READY SYNC NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete, glossary reconciliation, editorial review and bilingual review are closed, and the next English gate is release/readiness review.
+This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete, glossary reconciliation, editorial review, bilingual review and release/readiness are closed, and the next gate is release-ready synchronization.
 
 ## Authority hierarchy
 
@@ -739,3 +739,24 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Current exact English activity
 
 **Part005 release/readiness review and report.**
+
+
+## Part005 release/readiness closure
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- total structural parity — **139/139**
+- total rendered parity — **129/129**
+- provenance parity — **10/10**
+- unresolved release/readiness blockers — **0**
+- canonical / assembled Tamil edits caused by release review — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- durable release report — `PART_005_RELEASE_REPORT.md`
+
+## Current exact English activity
+
+**Part005 release-ready synchronization.**
