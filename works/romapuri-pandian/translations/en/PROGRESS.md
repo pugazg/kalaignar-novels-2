@@ -2,7 +2,7 @@
 
 ## Current project English state
 
-**PARTS001–004 ENGLISH — FINAL CLOSED / FROZEN; PART005 E16–E17 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
+**PARTS001–004 ENGLISH — FINAL CLOSED / FROZEN; PART005 GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
@@ -510,3 +510,20 @@ Part005 batch discipline:
 ## Exact next activity — project
 
 **Part005 whole-Part glossary reconciliation across E16–E17.**
+
+
+## Part005 glossary reconciliation state
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- maintained Part005 English files checked — **2/2**
+- glossary-driven English section edits required — **0**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits caused by glossary work — **0**
+- Parts001–004 English edits caused by Part005 glossary work — **0**
+- Part006 leakage — **0**
+- durable record — `PART_005_GLOSSARY_RECONCILIATION.md`
+
+## Exact next activity — project
+
+**Part005 English editorial review across E16–E17.**
