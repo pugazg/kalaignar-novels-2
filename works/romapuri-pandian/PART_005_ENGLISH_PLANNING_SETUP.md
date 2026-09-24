@@ -272,3 +272,25 @@ The E16–E17 terminology gate has now closed:
 Current frontier:
 
 **Part005 English editorial review across E16–E17.**
+
+
+## Post-glossary Part005 editorial review
+
+The maintained E16–E17 English layer has now completed editorial review:
+
+- English editorial review — **PASS / CLOSED**
+- maintained files reviewed — **2/2**
+- editorial corrections — **5**
+- E16 corrections — **3**
+- E17 corrections — **2**
+- structural block counts changed — **0**
+- provenance / boundary comments removed — **0**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits caused by editorial review — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- durable record — `translations/en/PART_005_TRANSLATION_REVIEW.md`
+
+Current frontier:
+
+**Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
