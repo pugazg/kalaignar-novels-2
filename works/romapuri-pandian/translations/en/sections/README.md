@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–004 are final closed/frozen; Part005 planning/setup is complete.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–004 are final closed/frozen; Part005 E16 is source-checked and E17 is next.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -272,10 +272,10 @@ Part005 Tamil prerequisites are closed:
 
 | Batch | Verified Tamil source | Planned English file | Scans | State |
 |---|---|---|---:|---|
-| E16 | `../../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | `15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | 69–80 | **RESERVED / NEXT** |
-| E17 | `../../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **RESERVED** |
+| E16 | `../../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | `15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | 69–80 | **SOURCE-CHECKED / COMPLETE** |
+| E17 | `../../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **RESERVED / NEXT** |
 
-E16/E17 English section files — **0/2 drafted; planning only**.
+Part005 English section files — **1/2 source-checked; E17 not yet drafted**.
 
 ### Part005 boundary safeguards
 
@@ -297,3 +297,19 @@ E16/E17 English section files — **0/2 drafted; planning only**.
 **E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
 
 Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
+
+
+### E16 closed state
+
+- E16 — **SOURCE-CHECKED / COMPLETE**
+- Tamil / English total blocks — **108 / 108**
+- Tamil / English rendered blocks — **101 / 101**
+- standalone provenance comments — **7 / 7**
+- source-boundary comments retained — **10 / 10**
+- omitted / duplicated source blocks — **0 / 0**
+- unresolved source-check holds — **0**
+- durable record — `../E16_SOURCE_CHECK.md`
+
+## Exact next English activity
+
+**E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
