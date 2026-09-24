@@ -585,3 +585,22 @@ Part005 batch discipline:
 ## Exact next activity — project
 
 **Part005 release-ready synchronization.**
+
+
+## Part005 release-ready synchronization state
+
+- release-ready synchronization — **PASS / CLOSED**
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- unresolved release-ready synchronization blockers — **0**
+- canonical / assembled Tamil edits during synchronization — **0**
+- maintained Part005 English body edits during synchronization — **0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+
+## Exact next activity — project
+
+**Part005 final closure / freeze.**
