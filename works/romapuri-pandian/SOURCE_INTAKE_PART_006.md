@@ -77,8 +77,8 @@ The newly available scan86 witness resolves only the deferred cross-Part boundar
 - source registered — **YES**
 - incoming 85→86 boundary — **GENUINE CONTINUATION / AUDITED**
 - intake + incoming-boundary setup — **PASS / COMPLETE**
-- canonical Part006 records — **0/17**
-- Pass1 — **NOT STARTED**
+- canonical Part006 records — **10/17**
+- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
 - unresolved intake/boundary blockers — **0**
 - outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
 
@@ -88,6 +88,26 @@ Part006 canonical transcription is now authorized.
 
 ## Exact next activity
 
-**Part006 Pass1 Batch 1 — global scans86–95 / local pages1–10.**
+**Part006 Pass1 Batch 2 — global scans96–102 / local pages11–17 — final 7-page remainder.**
 
-Pass1 cadence remains **10 physical pages per iteration; final remainder may contain fewer**.
+Do not begin Pass2A until Pass1 closes at 17/17 TEXT-COMPLETE.
+
+
+## Post-intake Pass1 Batch 1 progress
+
+Part006 Pass1 has begun under the fixed **10-physical-page iteration cadence**:
+
+- Batch 1 — **scans86–95 / local1–10 — COMPLETE / PASS / TEXT-COMPLETE**
+- canonical Part006 records — **10/17**
+- Batch1 text-bearing physical pages — **9/10**
+- Batch1 blank physical pages — **1/10**
+- scan94 — **blank physical separator**
+- scan95 — **illustrated Chapter 6 title / `விறுவெட்டி`**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- frozen Parts001–005 canonical/body mutations — **0**
+- durable control — `PART_006_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part006 Pass1 Batch 2 — scans96–102 / local11–17 — final 7-page remainder.**
