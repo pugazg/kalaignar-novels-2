@@ -192,3 +192,43 @@ Direct comparison confirms:
 ## Exact next activity
 
 **Part005 release/readiness review and report.**
+
+
+## Post-review synchronization verification
+
+Bilingual-review baseline:
+
+`49817e701913ac891ce89911e88244a893be3368`
+
+Post-review synchronized checkpoint before this verification record:
+
+`e35a08468221e7937430089c312be5be45dc350d`
+
+Direct repository comparison confirms that the bilingual-review activity changed only:
+
+- E16 English section body — **2 source-supported bilingual-fidelity substitutions**
+- `PART_005_BILINGUAL_REVIEW.md`
+- English control metadata under `translations/en/`
+- Part005 planning/lifecycle controls
+- repository handover / work README / next-chat navigation
+
+and changed:
+
+- canonical `pages/` files — **0**
+- assembled Tamil `sections/` content files — **0**
+- E17 English section body — **0**
+- Parts001–004 English section-body files — **0**
+- provenance/source-boundary block counts — **0**
+- Part006 files — **0**
+
+The synchronized controls agree on:
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **2**
+- unresolved bilingual holds — **0**
+- exact next activity — **Part005 release/readiness review and report**
+
+Therefore the bilingual gate introduced no Tamil, frozen-Part, provenance, boundary, E17-body, or Part006 drift.
