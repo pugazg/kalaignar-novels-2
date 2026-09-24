@@ -136,11 +136,13 @@
 - Part005 Pass2A Batch 2 — **COMPLETE / PASS — scans78–85**
 - Part005 Pass2A corrections — **4 / 0 unresolved**
 - Part005 Pass2B cadence — **9 pages per iteration; final remainder may contain fewer**
-- Part005 Pass2B — **IN PROGRESS — 9/17 REVIEWED**
+- Part005 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Part005 Pass2B Batch 1 — **COMPLETE / PASS — scans69–77 / local1–9**
+- Part005 Pass2B Batch 2 — **COMPLETE / PASS — scans78–85 / local10–17**
 - Part005 Pass2B source-text/lexical/spacing/punctuation corrections — **0**
 - Part005 Pass2B historical-glyph corrections — **0**
 - Part005 Pass2B unresolved lexical/historical-glyph questions — **0**
+- Part005 Pass3 — **NOT STARTED**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
@@ -156,6 +158,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part005 Pass2B Batch 2 — global scans78–85 / local pages10–17.**
+**Part005 Pass3 — global scans69–85 / local pages1–17.**
 
 Do not infer scan69 without the supplied Part005 source.
