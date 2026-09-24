@@ -277,11 +277,13 @@
 - Part006 source — **REGISTERED / AUTHORIZED — scans86–102 / 17 pages**
 - Part006 intake + incoming boundary — **PASS / COMPLETE**
 - Part006 incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
-- Part006 canonical records — **0/17**
-- Part006 Pass1 — **NOT STARTED**
+- Part006 canonical records — **10/17**
+- Part006 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part006 Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
+- Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 Pass1 Batch 1 — scans86–95 / local1–10**
+- exact next activity — **Part006 Pass1 Batch 2 — scans96–102 / local11–17**
 
 ## Boundary
 
@@ -395,13 +397,14 @@
 - `PART_005_RELEASE_READY_SYNC.md`
 - `PART_005_FINAL_CLOSURE.md`
 - `PART_006_INTAKE_BOUNDARY_SETUP.md`
+- `PART_006_PASS1_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 Pass1 Batch 1 — scans86–95 / local1–10**
+- prompt frontier — **Part006 Pass1 Batch 2 — scans96–102 / local11–17**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -416,6 +419,6 @@
 
 ## Exact next activity
 
-**Part006 Pass1 Batch 1 — global scans86–95 / local pages1–10.**
+**Part006 Pass1 Batch 2 — global scans96–102 / local pages11–17 — final 7-page remainder.**
 
-Part006 source intake and incoming 85→86 boundary setup are PASS / COMPLETE. Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 Pass1 Batch1 is COMPLETE / PASS with 10/17 canonical records and 0 unresolved source-reading holds. Parts001–005 remain FINAL CLOSED / FROZEN.
