@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 RELEASE/READINESS PASS / RELEASE-READY SYNC NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 RELEASE-READY SYNC PASS / FINAL CLOSURE NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete, glossary reconciliation, editorial review, bilingual review and release/readiness are closed, and the next gate is release-ready synchronization.
+This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 E16–E17, glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization are closed. The next gate is Part005 final closure / freeze.
 
 ## Authority hierarchy
 
@@ -760,3 +760,22 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 ## Current exact English activity
 
 **Part005 release-ready synchronization.**
+
+
+## Part005 release-ready synchronization closure
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved release-ready synchronization blockers — **0**
+- canonical / assembled Tamil edits during synchronization — **0**
+- maintained Part005 English body edits during synchronization — **0**
+- frozen Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+
+## Current exact English activity
+
+**Part005 final closure / freeze.**
