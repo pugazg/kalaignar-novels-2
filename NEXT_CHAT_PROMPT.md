@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 English editorial review E16–E17
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part005 whole-Part bilingual review E16–E17
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,30 +31,36 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - English drafted/source-checked — **2/2**
 - unresolved English source-check holds — **0**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
-- glossary-driven English section edits — **0**
 - unresolved glossary holds — **0**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **5**
+- unresolved editorial holds — **0**
 
-Maintained English files:
+Maintained Tamil/English pairs:
 
-1. `translations/en/sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md`
-2. `translations/en/sections/16-chapter-05-the-gathering-of-siva-devotees.md`
+1. `sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md`
+   ↔ `translations/en/sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md`
+2. `sections/16-chapter-05-sivanadiyaar-thirukkoottam.md`
+   ↔ `translations/en/sections/16-chapter-05-the-gathering-of-siva-devotees.md`
 
-Durable records:
+Durable English records:
 
 1. `translations/en/E16_SOURCE_CHECK.md`
 2. `translations/en/E17_SOURCE_CHECK.md`
 3. `translations/en/PART_005_GLOSSARY_RECONCILIATION.md`
+4. `translations/en/PART_005_TRANSLATION_REVIEW.md`
 
 ## Boundary lock
 
+- incoming **68→69 — GENUINE CONTINUATION / AUDITED**
 - outgoing **85→86 — PENDING Part006 adjacent witness / deferred external boundary evidence**
 - do not infer or import scan86 / Part006 wording
 - Part006 leakage — **0**
 
 ## Exact next activity
 
-**Part005 English editorial review across E16–E17.**
+**Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
 
-Review the maintained Part005 English for grammar, clarity, readability, internal consistency, source-faithful rhetoric, dialogue and displayed-text handling. Make only source-supported English editorial corrections. Preserve locked glossary decisions and structural provenance.
+Compare the maintained English directly against the verified assembled Tamil for complete meaning coverage, source order, dialogue, rhetoric, displayed-text handling, internal scan joins, terminology and boundary fidelity. Record any source-supported English corrections if required and create the durable Part005 bilingual review record.
 
 Do not modify verified Tamil. Do not reopen frozen Parts001–004 English. Do not begin Part006.
