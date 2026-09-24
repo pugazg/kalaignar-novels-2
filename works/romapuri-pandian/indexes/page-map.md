@@ -265,3 +265,22 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - exact next activity — **Part005 English translation planning/setup**
+
+
+## Part005 release-ready lifecycle state
+
+- Part005 Tamil archival-ready — **PASS / CLOSED**
+- Part005 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part005 blockers — **0**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+- Part006 leakage — **0**
+
+Current frontier:
+
+**Part005 final closure / freeze.**
