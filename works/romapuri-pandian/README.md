@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 RELEASE-READY SYNC PASS / FINAL CLOSURE NEXT**
+**PART001–005 FINAL CLOSED / FROZEN — PART006 INTAKE PENDING**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -212,6 +212,8 @@
 - Part005 unresolved release/readiness blockers — **0**
 - Part005 release-ready synchronization — **PASS / CLOSED**
 - Part005 release-ready synchronization blockers — **0**
+- Part005 final closure — **PASS / CLOSED / FROZEN**
+- Part005 final unresolved blockers — **0**
 - Part005 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
@@ -295,7 +297,8 @@
 - `PART_004_ENGLISH_PLANNING_SETUP.md`
 - `indexes/page-map.md`
 - `PART_005_RELEASE_READY_SYNC.md`
+- `PART_005_FINAL_CLOSURE.md`
 
 ## Exact next activity
 
-**Part005 final closure / freeze.**
+**Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
