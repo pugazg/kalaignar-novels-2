@@ -308,3 +308,22 @@ Part005 assembled Tamil validation blockers — **0**.
 Current frontier:
 
 **Part005 English translation planning/setup.**
+
+
+## Part005 release-ready state
+
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- physical coverage — **17/17**
+- publication-text coverage — **17/17**
+- English E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved blockers — **0**
+- Part006 leakage — **0**
+
+Exact next lifecycle activity:
+
+**Part005 final closure / freeze.**
