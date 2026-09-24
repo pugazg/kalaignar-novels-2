@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 PLANNING / SETUP COMPLETE / E16 NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 E16 SOURCE-CHECKED / E17 NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 English planning/setup is complete under the reserved E16→E17 sequence.
+This is the cumulative control plan for the project-created English translation. Parts001–004 are final closed/frozen; Part005 English is active under the E16→E17 sequence, with E16 source-checked and E17 next.
 
 ## Authority hierarchy
 
@@ -596,8 +596,8 @@ Verified Part005 assembled inputs:
 
 | Batch | Tamil input | Planned English file | Scans | Planning state |
 |---|---|---|---:|---|
-| **E16** | `../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | `sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | 69–80 | **RESERVED / NEXT** |
-| **E17** | `../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `sections/16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **RESERVED** |
+| **E16** | `../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | `sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | 69–80 | **SOURCE-CHECKED / COMPLETE** |
+| **E17** | `../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `sections/16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **RESERVED / NEXT** |
 
 Batch discipline:
 
@@ -641,3 +641,23 @@ These are project English labels/choices. Verified Tamil section metadata remain
 **E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
 
 Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part005 E16 completion state
+
+- E16 — **SOURCE-CHECKED / COMPLETE**
+- E17 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+- E16 Tamil / English block accounting — **108/108 total; 101/101 rendered; 7/7 standalone provenance**
+- source-boundary comments retained — **10/10**
+- E16 omitted / duplicated source blocks — **0 / 0**
+- unresolved E16 source-check holds — **0**
+- canonical / assembled Tamil edits caused by E16 — **0**
+- Parts001–004 English edits caused by E16 — **0**
+- E17 draft created by E16 — **0**
+- Part006 leakage — **0**
+- durable source-check — `E16_SOURCE_CHECK.md`
+
+## Current exact English activity
+
+**E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
