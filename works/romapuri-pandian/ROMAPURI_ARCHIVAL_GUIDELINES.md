@@ -399,3 +399,27 @@ Part006 is **NOT SUPPLIED / NOT REGISTERED**.
 Current frontier:
 
 **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
+
+
+## Part006 intake / boundary state
+
+Part006 source is now **REGISTERED / AUTHORIZED**.
+
+- physical extent — **17 pages / scans86–102**
+- incoming **85→86 — GENUINE CONTINUATION / AUDITED**
+- frozen Part005 body imported into Part006 — **0**
+- Part006 body imported backward into frozen Part005 — **0**
+- scan94 — blank separator page
+- scan95 — illustrated Chapter 6 title `விறுவெட்டி`
+- outgoing **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
+- unresolved intake/boundary blockers — **0**
+
+## Part006 Pass1 cadence
+
+- fixed cadence — **10 physical pages per iteration**
+- Batch 1 — **scans86–95 / local1–10**
+- Batch 2 — **scans96–102 / local11–17 — final 7-page remainder**
+
+Current frontier:
+
+**Part006 Pass1 Batch 1 — scans86–95 / local1–10.**
