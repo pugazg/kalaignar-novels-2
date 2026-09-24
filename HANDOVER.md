@@ -270,7 +270,9 @@
 - Part005 unresolved bilingual holds — **0**
 - Part005 release/readiness — **PASS / CLOSED**
 - Part005 unresolved release/readiness blockers — **0**
-- exact next activity — **Part005 release-ready synchronization**
+- Part005 release-ready synchronization — **PASS / CLOSED**
+- Part005 release-ready synchronization blockers — **0**
+- exact next activity — **Part005 final closure / freeze**
 
 ## Boundary
 
@@ -380,11 +382,12 @@
 - `translations/en/PART_005_TRANSLATION_REVIEW.md`
 - `translations/en/PART_005_BILINGUAL_REVIEW.md`
 - `translations/en/PART_005_RELEASE_REPORT.md`
+- `PART_005_RELEASE_READY_SYNC.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 release-ready synchronization**
+- prompt frontier — **Part005 final closure / freeze**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -399,6 +402,6 @@
 
 ## Exact next activity
 
-**Part005 release-ready synchronization.**
+**Part005 final closure / freeze.**
 
-Part005 release/readiness is PASS / CLOSED with 0 unresolved release/readiness blockers. Do not declare final Part005 closure until release-ready synchronization and drift verification pass.
+Part005 release-ready synchronization is PASS / CLOSED with 0 synchronization blockers. Create and verify the durable final-closure record before beginning Part006.
