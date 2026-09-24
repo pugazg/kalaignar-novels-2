@@ -193,6 +193,7 @@
 - Part005 final metadata/status synchronization — **PASS / CLOSED**
 - Part005 Tamil status — **17/17 verified / 0 needs-review**
 - Part005 visual fidelity — **17/17 verified / 0 needs-review**
+- Part005 documentation synchronization — **PASS / COMPLETE**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
-- exact next gate — **Part005 documentation synchronization**
+- exact next gate — **Part005 Tamil archival-ready checkpoint**

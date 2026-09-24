@@ -122,6 +122,7 @@
 - Tamil textual status — **17/17 verified / 0 needs-review**
 - visual fidelity — **17/17 verified / 0 needs-review**
 - unresolved status exceptions — **0**
+- documentation synchronization — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - Tamil textual status — **18/18 verified / 0 needs-review**
 - visual fidelity — **18/18 verified / 0 needs-review**
@@ -244,7 +245,7 @@
 - Part audit unresolved blockers — **0**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 documentation synchronization**
+- exact next activity — **Part005 Tamil archival-ready checkpoint**
 
 ## Boundary
 
@@ -344,11 +345,12 @@
 - `PART_005_PASS3_PROGRESS.md`
 - `PART_005_AUDIT.md`
 - `PART_005_FINAL_STATUS_SYNC.md`
+- `PART_005_DOCUMENTATION_SYNC.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 documentation synchronization**
+- prompt frontier — **Part005 Tamil archival-ready checkpoint**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -363,6 +365,6 @@
 
 ## Exact next activity
 
-**Part005 documentation synchronization.**
+**Part005 Tamil archival-ready checkpoint.**
 
-Part005 now has 17/17 verified Tamil records and 17/17 verified visual-fidelity records with 0 needs-review exceptions.
+Part005 documentation synchronization is COMPLETE / PASS; canonical Tamil and visual fidelity are 17/17 verified with 0 unresolved blockers.
