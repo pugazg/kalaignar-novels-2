@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 E16–E17 SOURCE-CHECKED / GLOSSARY RECONCILIATION NEXT**
+Status: **PARTS001–004 FINAL CLOSED / FROZEN — PART005 GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -632,3 +632,33 @@ E17 unresolved glossary/source-check holds — **0**.
 Exact next glossary-bearing activity:
 
 **Part005 whole-Part glossary reconciliation across E16–E17.**
+
+
+## Part005 whole-Part reconciliation result
+
+Part005 E16–E17 glossary reconciliation is **RECONCILED / PASS**.
+
+- maintained Part005 English files checked — **2/2**
+- accidental recurring-name drift — **0**
+- accidental title drift — **0**
+- accidental place/institutional-term drift requiring edits — **0**
+- accidental chant drift — **0**
+- source-facing transliteration drift — **0**
+- glossary-driven English section edits required — **0**
+- unresolved Part005 glossary holds — **0**
+- canonical Tamil edits caused by glossary work — **0**
+- assembled Tamil edits caused by glossary work — **0**
+- Parts001–004 English edits caused by Part005 glossary work — **0**
+- E16/E17 source-checked English body edits required — **0**
+- Part006 leakage — **0**
+
+Context-sensitive distinctions retained deliberately include:
+
+- **Karikalan / Karikala Cholan / Karikala Peruvalathan**
+- **Siva devotee / Siva devotees**
+- **Puhar** for verified Part005 `புகார்`, without rewriting frozen earlier **Poompuhar** handling
+- **Muthu** as Muthunagai's assumed name/signature within the disguise episode
+
+Durable record: `PART_005_GLOSSARY_RECONCILIATION.md`.
+
+Current next gate — **Part005 English editorial review across E16–E17**.
