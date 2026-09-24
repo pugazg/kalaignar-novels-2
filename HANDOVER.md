@@ -249,7 +249,11 @@
 - Part audit unresolved blockers — **0**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 English translation planning/setup**
+- English translation planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E16–E17**
+- English drafted/source-checked — **0/2**
+- unresolved English planning holds — **0**
+- exact next activity — **E16 draft + source-check / scans69–80**
 
 ## Boundary
 
@@ -352,11 +356,12 @@
 - `PART_005_DOCUMENTATION_SYNC.md`
 - `PART_005_TAMIL_ARCHIVAL_READY.md`
 - `PART_005_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_005_ENGLISH_PLANNING_SETUP.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 English translation planning/setup**
+- prompt frontier — **E16 draft + source-check / Part005 Chapter 4 continuation / scans69–80**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -371,6 +376,6 @@
 
 ## Exact next activity
 
-**Part005 English translation planning/setup.**
+**E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
 
-Part005 Tamil archival-ready and assembled Tamil are PASS / CLOSED. Do not reopen verified canonical or assembled Tamil for stylistic polishing.
+Part005 English planning/setup is COMPLETE / PASS. E16 is RESERVED / NEXT; E17 is RESERVED. Do not reopen verified canonical or assembled Tamil, or frozen Parts001–004 English, merely for stylistic polishing.
