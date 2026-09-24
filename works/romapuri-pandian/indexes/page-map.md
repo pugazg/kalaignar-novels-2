@@ -284,3 +284,25 @@ Global `scan_page` is the physical scan order across all 39 supplied split PDFs 
 Current frontier:
 
 **Part005 final closure / freeze.**
+
+
+## Part005 final closure state
+
+- Part005 — **FINAL CLOSED / FROZEN**
+- canonical Tamil — **17/17 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved blockers — **0**
+- outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
+- Part006 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part006 leakage — **0**
+
+Current frontier:
+
+**Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
