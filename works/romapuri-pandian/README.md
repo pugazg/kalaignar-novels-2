@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–004 FINAL CLOSED / FROZEN — PART005 BILINGUAL REVIEW PASS / RELEASE READINESS NEXT**
+**PART001–004 FINAL CLOSED / FROZEN — PART005 RELEASE/READINESS PASS / RELEASE-READY SYNC NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -208,6 +208,8 @@
 - Part005 whole-Part bilingual review — **PASS / CLOSED — 2/2**
 - Part005 bilingual-review corrections — **2**
 - Part005 unresolved bilingual holds — **0**
+- Part005 release/readiness — **PASS / CLOSED**
+- Part005 unresolved release/readiness blockers — **0**
 - Part005 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
@@ -293,4 +295,4 @@
 
 ## Exact next activity
 
-**Part005 release/readiness review and report.**
+**Part005 release-ready synchronization.**
