@@ -188,3 +188,35 @@ The synchronized controls agree on:
 - exact next activity — **E16 draft + source-check / scans69–80**
 
 Therefore this planning gate introduced no canonical Tamil, assembled Tamil, frozen English-body, English-draft, or Part006 drift.
+
+
+## Post-planning E16 closure
+
+The first reserved Part005 English batch has now closed:
+
+- E16 — **SOURCE-CHECKED / COMPLETE**
+- verified Tamil input — `sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md`
+- English file — `translations/en/sections/15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md`
+- scans — **69–80**
+- Tamil / English total blocks — **108 / 108**
+- Tamil / English rendered blocks — **101 / 101**
+- standalone provenance comments — **7 / 7**
+- source-boundary comments retained — **10 / 10**
+- omitted / duplicated source blocks — **0 / 0**
+- unresolved E16 source-check holds — **0**
+- canonical Tamil edits caused by E16 — **0**
+- assembled Tamil edits caused by E16 — **0**
+- Parts001–004 English edits caused by E16 — **0**
+- E17 English draft created — **no**
+- Part006 leakage — **0**
+- durable source-check — `translations/en/E16_SOURCE_CHECK.md`
+
+Current Part005 English state:
+
+- E16 — **SOURCE-CHECKED / COMPLETE**
+- E17 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+
+Current frontier:
+
+**E17 — draft + source-check Part005 Chapter 5 `சிவனடியார் திருக்கூட்டம்` / scans81–85.**
