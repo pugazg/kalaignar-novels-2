@@ -205,6 +205,8 @@ It read:
 Yours,
 Muthu"
 
+That was what she had written.
+
 Thamarai looked at the palm leaf and then gazed up at Muthunagai's face. For a little while their eyes communed. Muthunagai found it amusing. 'What a foolish girl this Thamarai is!' she thought, smiling to herself.
 
 A longing had arisen in Thamarai to pour out everything pent up within her. Her moist lips began to part for that purpose.
