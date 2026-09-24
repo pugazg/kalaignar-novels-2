@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–003 are final closed/frozen.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–004 are final closed/frozen; Part005 planning/setup is complete.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -256,3 +256,44 @@ Part004 English section files — **3/3 source-checked**.
 ## Exact next English activity
 
 **None until Part005 source intake authorizes the next Part.**
+
+
+## Part005 — PLANNING / SETUP COMPLETE / PASS
+
+Part005 Tamil prerequisites are closed:
+
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil blockers — **0**
+
+### Reserved mapping
+
+| Batch | Verified Tamil source | Planned English file | Scans | State |
+|---|---|---|---:|---|
+| E16 | `../../../sections/15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | `15-chapter-04-the-poets-daughter-sets-out-part005-continuation.md` | 69–80 | **RESERVED / NEXT** |
+| E17 | `../../../sections/16-chapter-05-sivanadiyaar-thirukkoottam.md` | `16-chapter-05-the-gathering-of-siva-devotees.md` | 81–85 | **RESERVED** |
+
+E16/E17 English section files — **0/2 drafted; planning only**.
+
+### Part005 boundary safeguards
+
+- incoming **68→69 = GENUINE CONTINUATION / AUDITED**
+- Part004 E15 remains frozen; E16 must not backfill it
+- scan81 is the illustrated Chapter 5 title page
+- outgoing **85→86 = PENDING Part006 adjacent witness / deferred external boundary evidence**
+- Part006 wording must not be inferred or imported
+
+### Planning integrity
+
+- Parts001–004 English section files modified — **0**
+- canonical/assembled Tamil changes caused by planning — **0**
+- Part006 leakage — **0**
+- unresolved planning holds — **0**
+
+## Exact next English activity
+
+**E16 — draft + source-check Part005 Chapter 4 continuation / scans69–80.**
+
+Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
