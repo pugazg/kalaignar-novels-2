@@ -146,7 +146,8 @@
 - Part005 Pass3 source-text corrections — **0**
 - Part005 Pass3 structural metadata corrections — **0**
 - Part005 Pass3 unresolved visual/structural questions — **0**
-- Part005 Part audit — **NOT STARTED**
+- Part005 Part audit — **PASS / COMPLETE**
+- Part005 audit unresolved blockers — **0**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - Part005 unresolved intake/boundary blockers — **0**
 - incoming 52→53 — **GENUINE CONTINUATION / AUDITED**
@@ -162,6 +163,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part005 Part audit.**
+**Part005 final metadata/status synchronization.**
 
 Do not infer scan69 without the supplied Part005 source.

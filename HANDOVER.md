@@ -236,10 +236,11 @@
 - Pass3 structural metadata corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
 - Pass3 status promotions — **0**
-- Part audit — **NOT STARTED**
+- Part audit — **PASS / COMPLETE**
+- Part audit unresolved blockers — **0**
 - outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
-- exact next activity — **Part005 Part audit**
+- exact next activity — **Part005 final metadata/status synchronization**
 
 ## Boundary
 
@@ -337,11 +338,12 @@
 - `PART_005_PASS2A_PROGRESS.md`
 - `PART_005_PASS2B_PROGRESS.md`
 - `PART_005_PASS3_PROGRESS.md`
+- `PART_005_AUDIT.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part005 Part audit**
+- prompt frontier — **Part005 final metadata/status synchronization**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -356,6 +358,6 @@
 
 ## Exact next activity
 
-**Part005 Part audit.**
+**Part005 final metadata/status synchronization.**
 
-Part005 Pass3 is COMPLETE / PASS at 17/17 reviewed with 0 source-text corrections, 0 structural metadata corrections and 0 unresolved visual/structural questions. Keep all records needs-review / needs-review until the audit passes and final status synchronization occurs.
+Part005 Part audit is PASS / COMPLETE at 17/17 canonical records with 0 unresolved supplied-Part blockers. Promote only the two final status fields; do not change canonical Tamil.
