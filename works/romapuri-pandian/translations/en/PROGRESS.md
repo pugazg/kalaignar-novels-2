@@ -527,3 +527,23 @@ Part005 batch discipline:
 ## Exact next activity — project
 
 **Part005 English editorial review across E16–E17.**
+
+
+## Part005 editorial review state
+
+- E16–E17 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **5**
+- E16 corrections — **3**
+- E17 corrections — **2**
+- unresolved editorial holds — **0**
+- unresolved terminology/source-check holds — **0**
+- canonical / assembled Tamil edits caused by editorial review — **0**
+- Parts001–004 English edits — **0**
+- Part006 leakage — **0**
+- durable record — `PART_005_TRANSLATION_REVIEW.md`
+
+## Exact next activity — project
+
+**Part005 whole-Part bilingual review across the 2 Tamil/English section pairs.**
