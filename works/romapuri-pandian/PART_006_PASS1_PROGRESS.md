@@ -274,3 +274,25 @@ Pass1 closure verification — **PASS**.
 Current frontier:
 
 **Part006 Pass2A — scans86–102 / local1–17.**
+
+## Part006 Pass2A closure
+
+- Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- source-supported corrections — **6**
+- pages with corrections — **5**
+- clean pages — **12**
+- unresolved textual questions — **0**
+- printed-page mapping corrections — **0**
+- physical-boundary / continuation corrections — **0**
+- status promotions — **0**
+- all 17 Part006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 text inferred/imported — **0**
+- frozen Parts001–005 canonical/body mutations — **0**
+- durable control — `PART_006_PASS2A_PROGRESS.md`
+
+Pass2B is unblocked but has **not** been started.
+
+Current frontier:
+
+**Part006 Pass2B Batch 1 — scans86–94 / local1–9.**
