@@ -13,8 +13,8 @@
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - planned split set — **39 size-based PDFs**
-- supplied / registered — **Part001 + Part002 + Part003 + Part004 + Part005**
-- mapped physical scans — **1–85**
+- supplied / registered — **Part001 + Part002 + Part003 + Part004 + Part005 + Part006**
+- mapped physical scans — **1–102**
 - source PDFs remain outside Git
 
 ### Part001
@@ -282,12 +282,19 @@
 - Part006 Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
 - Part006 Pass1 Batch 2 — **COMPLETE / PASS — scans96–102 / local11–17**
 - Part006 Pass1 source-supported corrections — **1**
+- Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part006 Pass2A source-supported corrections — **6**
+- Part006 Pass2A pages with corrections — **5**
+- Part006 Pass2A clean pages — **12**
+- Part006 Pass2A unresolved textual questions — **0**
+- Part006 Pass2A status promotions — **0**
+- Part006 Pass2B cadence — **9 physical pages per iteration; final remainder may contain fewer**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 Pass2A — scans86–102 / local1–17**
+- exact next activity — **Part006 Pass2B Batch 1 — scans86–94 / local1–9**
 
 ## Boundary
 
@@ -408,7 +415,7 @@
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 Pass2A — scans86–102 / local1–17**
+- prompt frontier — **Part006 Pass2B Batch 1 — scans86–94 / local1–9**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -423,6 +430,6 @@
 
 ## Exact next activity
 
-**Part006 Pass2A — global scans86–102 / local pages1–17.**
+**Part006 Pass2B Batch 1 — global scans86–94 / local pages1–9.**
 
-Part006 Pass1 is COMPLETE / PASS — 17/17 TEXT-COMPLETE with 1 source-supported title correction and 0 unresolved source-reading holds. Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 Pass2A is COMPLETE / PASS — 17/17 REVIEWED with 6 source-supported corrections across 5 pages and 0 unresolved textual questions. All 17 Part006 records remain needs-review; Parts001–005 remain FINAL CLOSED / FROZEN.

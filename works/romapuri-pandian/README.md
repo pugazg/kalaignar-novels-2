@@ -2,12 +2,12 @@
 
 ## Archive state
 
-**PART001–005 FINAL CLOSED / FROZEN — PART006 PASS1 COMPLETE / PASS2A NEXT**
+**PART001–005 FINAL CLOSED / FROZEN — PART006 PASS2A COMPLETE / PASS2B NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - supplied design — **39 size-based split PDFs**
-- supplied / registered Parts — **5/39**
+- supplied / registered Parts — **6/39**
 - Part001 — **17 pages / global scans1–17**
 - Part002 — **17 pages / global scans18–34 / FINAL CLOSED / FROZEN**
 - Part001 canonical records — **17/17**
@@ -222,6 +222,13 @@
 - Part006 Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
 - Part006 Pass1 Batch 2 — **COMPLETE / PASS — scans96–102 / local11–17**
 - Part006 Pass1 source-supported corrections — **1**
+- Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part006 Pass2A source-supported corrections — **6**
+- Part006 Pass2A pages with corrections — **5**
+- Part006 Pass2A clean pages — **12**
+- Part006 Pass2A unresolved textual questions — **0**
+- Part006 Pass2A status promotions — **0**
+- Part006 Pass2B cadence — **9 physical pages per iteration; final remainder may contain fewer**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -315,9 +322,10 @@
 - `PART_005_FINAL_CLOSURE.md`
 - `PART_006_INTAKE_BOUNDARY_SETUP.md`
 - `PART_006_PASS1_PROGRESS.md`
+- `PART_006_PASS2A_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 Pass2A — global scans86–102 / local pages1–17.**
+**Part006 Pass2B Batch 1 — global scans86–94 / local pages1–9.**

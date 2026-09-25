@@ -171,6 +171,13 @@
 - Part006 Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
 - Part006 Pass1 Batch 2 — **COMPLETE / PASS — scans96–102 / local11–17**
 - Part006 Pass1 source-supported corrections — **1**
+- Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part006 Pass2A source-supported corrections — **6**
+- Part006 Pass2A pages with corrections — **5**
+- Part006 Pass2A clean pages — **12**
+- Part006 Pass2A unresolved textual questions — **0**
+- Part006 Pass2A status promotions — **0**
+- Part006 Pass2B cadence — **9 physical pages per iteration; final remainder may contain fewer**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -193,4 +200,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 Pass2A — global scans86–102 / local pages1–17.**
+**Part006 Pass2B Batch 1 — global scans86–94 / local pages1–9.**
