@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102; formal Part006 Pass 2B Batch1 lexical/historical-glyph reviewed scans86–94"
 ---
 
 # 5. சிவனடியார் திருக்கூட்டம்
@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 
 அப்போது, வீரன் ஒருவன் மாளிகைக்குள் நுழைந்தான். கரிகாலன், அவனை அடையாளம் தெரியாமல் வியப்புற்று விழித்தான். அருகேயிருந்த மெய்க்காப்பாளன் கரிகாலனின் காதில், “வருவது முத்துநகைதான்!” என்று ரகசியமாகச் சொல்லவே, கரிகாலன் புலவரை ஒருமுறை பார்த்துவிட்டு எச்சரிக்கையாக இருந்து கொண்டான். புலவருக்கு எதிரே வருவது தன் மகள் என்று அடையாளம் தெரியவில்லை.
 
-முத்துநகை கரிகாலனிடம், “ரகசியமாகப் பேச வேண்டும்” என முகக்குறிப்புக் காட்டவே, அவன் புலவரையும் மற்றவர்களையும் பார்த்து, “சரி; நான் ஒற்றனிடம் பேச வேண்டியிருக்கிறது... எல்லாரும் போகலாம்; தேவையானால் மீண்டும் அழைக்கிறேன்” எனக் கூறி விட்டுப் புலவர் பின்னால் ஏழடி தூரம் நடந்து சென்று அவரையும் வழியனுப்பிவிட்டு, முத்துநகையுடன் மாளிகைக்கு உட்புறம் சென்றான். தன் தந்தைக்கு எதிரே தெரியாதவனைப்போல் நடந்து கொண்டோமே என்று முத்துநகை நினைக்கிறாள் என்பதை, அவளது கலங்கிய கண்கள் பறைசாற்றிக் கொண்டிருந்தன.
+முத்துநகை கரிகாலனிடம், ‘ரகசியமாகப் பேச வேண்டும்’ என முகக் குறிப்புக் காட்டவே, அவன் புலவரையும் மற்றவர்களையும் பார்த்து, “சரி; நான் ஒற்றனிடம் பேச வேண்டியிருக்கிறது... எல்லாரும் போகலாம்; தேவையானால் மீண்டும் அழைக்கிறேன்” எனக் கூறி விட்டுப் புலவர் பின்னால் ஏழடி தூரம் நடந்து சென்று அவரையும் வழியனுப்பிவிட்டு, முத்துநகையுடன் மாளிகைக்கு உட்புறம் சென்றான். தன் தந்தைக்கு எதிரே தெரியாதவனைப்போல் நடந்து கொண்டோமே என்று முத்துநகை நினைக்கிறாள் என்பதை, அவளது கலங்கிய கண்கள் பறைசாற்றிக் கொண்டிருந்தன.
 
 கரிகாலன் அவளைப் பார்த்து, “நீ மிகவும் திறமைசாலிதான்! அடையாளமே தெரியவில்லையே!” என்று வியந்து பாராட்டினான்.
 
@@ -52,3 +52,14 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+## Formal Part006 Pass 2B lexical / historical-glyph reread
+
+- independent source-pixel reread completed for lexical identity, exact word boundaries, spacing, punctuation-sensitive forms and historical Tamil glyph/orthography identity;
+- source-supported punctuation correction: source uses single quotation marks `‘ரகசியமாகப் பேச வேண்டும்’`, not double quotation marks;
+- source-supported word-boundary correction: `முகக்குறிப்புக்` → `முகக் குறிப்புக்`;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **2**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
