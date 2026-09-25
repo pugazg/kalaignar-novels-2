@@ -12,7 +12,7 @@
 
 ## Current result
 
-**PART006 PASS 1 — IN PROGRESS — 10/17 TEXT-COMPLETE**
+**PART006 PASS 1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 
 ### Batch 1 — COMPLETE / PASS / TEXT-COMPLETE
 
@@ -37,6 +37,40 @@ Created canonical records:
 9. `pages/0094-blank.md`
 10. `pages/0095-chapter-06-title.md`
 
+### Batch 2 — COMPLETE / PASS / TEXT-COMPLETE
+
+- global scans — **96–102**
+- local pages — **11–17**
+- canonical records — **7/7**
+- text-bearing physical pages — **7/7**
+- blank physical pages — **0**
+- unresolved source-reading holds — **0**
+- status promotions — **0**
+
+Created canonical records:
+
+1. `pages/0096-viragu-vetti.md`
+2. `pages/0097-viragu-vetti.md`
+3. `pages/0098-viragu-vetti.md`
+4. `pages/0099-viragu-vetti.md`
+5. `pages/0100-viragu-vetti.md`
+6. `pages/0101-viragu-vetti.md`
+7. `pages/0102-viragu-vetti.md`
+
+## Whole-Part Pass1 coverage
+
+- canonical Part006 records — **17/17**
+- continuous global scans — **86–102**
+- continuous local pages — **1–17**
+- text-bearing physical pages — **16/17**
+- blank physical pages — **1/17**
+- unresolved Pass1 source-reading holds — **0**
+- source-supported Pass1 corrections — **1**
+- status promotions — **0**
+
+The one source-supported Pass1 correction is the scan95 Chapter 6 title:
+`விறுவெட்டி` → `விறகுவெட்டி`, confirmed by direct high-resolution source-pixel reread.
+
 ## Structural progression captured
 
 - scans86–93 — Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / close
@@ -46,6 +80,10 @@ Created canonical records:
 - scan93 — Chapter 5 close with large intentional blank lower field
 - scan94 — **blank physical separator**
 - scan95 — illustrated Chapter 6 title page: `6. விறகுவெட்டி`
+- scans96–102 — Chapter 6 `விறகுவெட்டி` narrative
+- scan96→97 — physical sentence continuation: `அவனைக்` → `கண்டதும் அப்படியே...`
+- scan99→100 — physical sentence continuation: `...தன்னைத் தானே மூன்று` → `சுற்றுச் சுற்றிக் கொண்டு...`
+- scan102 — supplied Part006 terminal page ends on a complete source sentence
 
 ## Printed-page mapping
 
@@ -64,6 +102,16 @@ No source-visible printed numeral:
 
 - scan94 → `printed_page: null`
 - scan95 → `printed_page: null`
+- scan96 → `printed_page: null`
+
+Directly source-visible continuation after the structural pages:
+
+- scan97 → **95**
+- scan98 → **96**
+- scan99 → **97**
+- scan100 → **98**
+- scan101 → **99**
+- scan102 → **100**
 
 No printed numeral was inferred.
 
@@ -80,11 +128,19 @@ Pass1 preserves source-visible wording/punctuation without normalizing it, inclu
 - scan92 — `காட்டுமேடெல்லாம்`, `வந்தாளாக்கும்`, `பொன்னவிர்`, `அதிருக்கட்டும்`
 - scan93 — `ஆமாம்-இருங்கோவேளின்`, `பயமே தேவையில்லை-நான்`
 
+- scan96 — `மாம்பழ உடலை`, `தன்னைத்தவிர`
+- scan97 — `இளைஞுமல்லன்`, source-visible colloquial dialogue
+- scan98 — `தமிழ் நாட்டுக்கு ஈடு தமிழ்நாடுதான்`, `பொங்கலையெடுத்து`
+- scan99 — `பிடிக்கவில்லை யென்றாலும்`, `முயன்றாலுங்கூடத்`, `பொன்றில்`, `அப்படி யிருக்கும்`
+- scan100 — `கூடேறி`, `சூட்டிலும்`, `கண்டு பிடித்து`, `வாசகந்தான்`
+- scan101 — `கையெழுத்தாட்டம்`, `இரத்தங்கட்டாமல்`, `வந்ததும்....`, `சே... சே.. சே..`
+- scan102 — `காதற் பெருவெள்ளத்தில்`, `மூச்சுப்பை நோய்`, `நாழிகை தவறினாலும் தவறும்`
+
 These are retained source readings for formal Pass2A/Pass2B verification; they are not unresolved Pass1 holds.
 
 ## Status discipline
 
-All **10** Part006 canonical records created in Batch1 remain:
+All **17** Part006 canonical records remain:
 
 ```yaml
 status: "needs-review"
@@ -97,8 +153,8 @@ Pass1 does not promote status.
 
 - Parts001–005 — **FINAL CLOSED / FROZEN**
 - pre-Part006 canonical records — **85**
-- Part006 canonical records — **10/17**
-- repository canonical records total — **95**
+- Part006 canonical records — **17/17**
+- repository canonical records total — **102**
 - Part006 unresolved Pass1 holds — **0**
 - frozen Parts001–005 canonical/body mutations — **0**
 
@@ -110,9 +166,9 @@ Pass1 does not promote status.
 
 ## Exact next activity
 
-**Part006 Pass1 Batch 2 — global scans96–102 / local pages11–17 — final 7-page remainder.**
+**Part006 Pass2A — global scans86–102 / local pages1–17.**
 
-Do not begin Pass2A until Part006 Pass1 closes at **17/17 TEXT-COMPLETE**.
+Independently reread the complete Part006 canonical transcription against the source pixels for wording, punctuation, paragraph/dialogue structure, printed pagination and physical page boundaries. Do not promote status or visual fidelity during Pass2A.
 
 
 ## Post-Batch1 synchronization verification
@@ -154,3 +210,22 @@ Live controls agree on:
 - exact next activity — **Part006 Pass1 Batch 2 — scans96–102 / local11–17**
 
 Batch1 introduced no frozen-Part mutation, premature status promotion, later-page transcription, or PDF leakage.
+
+
+## Pass1 gate decision
+
+**PART006 PASS1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+
+- Batch 1 — **scans86–95 / local1–10 — COMPLETE / PASS**
+- Batch 2 — **scans96–102 / local11–17 — COMPLETE / PASS**
+- source-supported Pass1 corrections — **1**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 text inferred/imported — **0**
+
+Pass2A is now unblocked.
+
+## Exact next activity — current
+
+**Part006 Pass2A — global scans86–102 / local pages1–17.**
