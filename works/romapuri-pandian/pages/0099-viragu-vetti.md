@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 scans96–102"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 scans96–102; formal Part006 Pass 2A reviewed scans86–102"
 ---
 
 # 6. விறகுவெட்டி
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 
 
 அந்தப் பதக்கத்திற்குரிய இருங்கோவேள்தான் தனக்குப் பொங்கல் சமைத்துக் கொடுத்துப் பசியாற்றினான், உபசரித்தான் என்ற உண்மை அவளுக்குத் தெரியாது; பாவம், கை கழுவிக் கரையேறிய அவளுக்கு விறகு வெட்டி வேடத்திலிருந்த இருங்கோவேள் தாம்பூலம் கொடுத்தான். அதையும் வாங்கிப் போட்டுக் கொண்டாள்.
 
-“அடடே! அய்யாவுக்கு வாய் நல்லா செவக்குதே!” என்று அவளது செவ்விதழ்களைத் தன் முரட்டு விரல்களால் கிள்ளி விட்டான் இருங்கோவேள். அது அவளுக்குப் பிடிக்கவில்லை யென்றாலும், அவன் விரல்களால் இதழ்களில் கிள்ளியதும், விறுவிறு என்று ஆரம்பித்த வலி உணர்ச்சி எப்படியோ போய் முடிந்தது, சமாளித்துக் கொண்டாள்.
+“அடடே! அய்யாவுக்கு வாய் நல்லா செவக்குதே!” என்று அவளது செவ்விதழ்களைத் தன் முரட்டு விரல்களால் கிள்ளி விட்டான் இருங்கோவேள். அது அவளுக்குப் பிடிக்கவில்லை யென்றாலும், அவன் விரல்களால் இதழ்களில் கிள்ளியதும், விறுவிறு என்று ஆரம்பித்த வலி உணர்ச்சி எப்படியோ போய் முடிந்தது. சமாளித்துக் கொண்டாள்.
 
 விறகு வெட்டியின் கோலத்திலிருந்த இருங்கோவேளின் எடுப்பான தோற்றத்தை அடிக்கடி பார்க்கக் கூடாதென்று கண்களைத் திருப்பிக் கொள்ள எவ்வளவு முயன்றாலுங்கூடத் தோல்வியே கண்டாள், முத்துநகை.
 
@@ -44,3 +44,12 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 99; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 97; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part006 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-supported punctuation correction: `முடிந்தது, சமாளித்துக் கொண்டாள்.` → `முடிந்தது. சமாளித்துக் கொண்டாள்.`;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.

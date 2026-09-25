@@ -10,14 +10,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 scans96–102"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 scans96–102; formal Part006 Pass 2A reviewed scans86–102"
 ---
 
 # 6. விறகுவெட்டி
 
 ## Source transcription
 
-அடுப்பில் பானையிலுள்ள உலை கனவேகமாகப் பொங்கிக் கொண்டிருந்தது. ஒரு துண்டில் முடிந்து வைத்திருந்த முந்திரிப் பருப்புகளையும் வெல்லக் கட்டிகளையும் பானையில் கொட்டிக் கிளறினான். பொங்கல் தயாராகி விட்டது. பானையைக் கீழே இறக்கி வைத்துவிட்டு மண்டபத்தை விட்டு இறங்கி ஓடி இரண்டு பெரிய பூவரச இலைகளைப் பறித்து வந்தான். அவைகளைக் குளத்தில் கழுவியெடுத்து, அவன் கையில் ஓர் இலையைக் கொடுத்தான் பானையிலுள்ள பொங்கலையெடுத்து அந்த இலையில் வைத்தான். தானும் ஓர் இலையில் பொங்கலை வைத்துக் கொண்டு உண்ணத் தொடங்கினான்.
+அடுப்பில் பானையிலுள்ள உலை கனவேகமாகப் பொங்கிக் கொண்டிருந்தது. ஒரு துண்டில் முடிந்து வைத்திருந்த முந்திரிப் பருப்புகளையும் வெல்லக் கட்டிகளையும் பானையில் கொட்டிக் கிளறினான். பொங்கல் தயாராகி விட்டது. பானையைக் கீழே இறக்கி வைத்துவிட்டு மண்டபத்தை விட்டு இறங்கி ஓடி இரண்டு பெரிய பூவரச இலைகளைப் பறித்து வந்தான். அவைகளைக் குளத்தில் கழுவியெடுத்து, அவள் கையில் ஓர் இலையைக் கொடுத்தான் பானையிலுள்ள பொங்கலையெடுத்து அந்த இலையில் வைத்தான். தானும் ஓர் இலையில் பொங்கலை வைத்துக் கொண்டு உண்ணத் தொடங்கினான்.
 
 அவனது உபசரிக்கும் தன்மையைக் கண்டு, முத்துநகை உள்ளுக்குள் மகிழ்ந்தாள். ஏழை வீட்டாக இருந்தாலும் விருந்தினரை உபசரிப்பதில் தமிழ் நாட்டுக்கு ஈடு தமிழ்நாடுதான் என்று தனக்குத் தானே சொல்லிக் கொண்டாள். அதை வெளியில் சொன்னால் தன் வேடம் வெளிப்பட்டு விடுமே!
 
@@ -44,3 +44,12 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 98; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 96; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part006 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-supported correction: `அவன் கையில் ஓர் இலையைக் கொடுத்தான்` → `அவள் கையில் ஓர் இலையைக் கொடுத்தான்`;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
