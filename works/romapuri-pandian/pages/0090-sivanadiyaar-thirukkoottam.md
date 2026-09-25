@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102; formal Part006 Pass 2B Batch1 lexical/historical-glyph reviewed scans86–94"
 ---
 
 # 5. சிவனடியார் திருக்கூட்டம்
@@ -60,3 +60,12 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+## Formal Part006 Pass 2B lexical / historical-glyph reread
+
+- independent source-pixel reread completed for lexical identity, exact word boundaries, spacing, punctuation-sensitive forms and historical Tamil glyph/orthography identity;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **0**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

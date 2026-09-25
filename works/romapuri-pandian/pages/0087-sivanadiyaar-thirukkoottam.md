@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102; formal Part006 Pass 2B Batch1 lexical/historical-glyph reviewed scans86–94"
 ---
 
 # 5. சிவனடியார் திருக்கூட்டம்
@@ -27,9 +27,9 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 
 “எனக்குத் தேவையானவற்றை அளிக்குமாறு முன்பே அரசர் கூறியிருக்கிறாரே; இப்போது நான் கேட்பது எனக்காக அல்லவே? இந்த நாட்டுப் பகைவனைப் பிடிக்கத்தானே!” என்று விளக்கமுரைத்து வற்புறுத்தினாள்.
 
-மெய்க்காப்பாளன், தன் அதிகாரத்தின் கீழுள்ள வீரர்களில் ஐம்பது பேரை முத்துநகையின் பின்னே அனுப்பி வைத்தான். அவள் அவர்களை அழைத்துக் கொண்டு இருங்கோவேளைப் பிடித்துவிடுவோம் என்ற வெற்றிக் களிப்போடு தன் வீடு நோக்கிச் சென்றாள்.
+மெய்க்காப்பாளன், தன் அதிகாரத்தின் கீழுள்ள வீரர்களில் ஐம்பது பேரை முத்துநகையின் பின்னே அனுப்பி வைத்தான். அவள் அவர்களை அழைத்துக் கொண்டு இருங்கோவேளைப் பிடித்துவிட்டோம் என்ற வெற்றிக் களிப்போடு தன் வீடு நோக்கிச் சென்றாள்.
 
-திடுமென அரண்மனை வீரர்கள் ஐம்பது பேர் தெருவிலே வெகு வேகமாகச் செல்வதைக் கண்டு தலைநகரத்து மக்கள் அதிர்ச்சி அடைந்தனர். வீட்டுக்குள்ளிருந்தவர்கள் அனைவரும் வீதிக்கு ஓடி வந்தனர். முன்னே சென்று கொண்டிருந்த முத்துநகை குதிரையைப் பிடித்திழுத்து நிறுத்தினாள். அவளுக்கு பெருத்த ஏமாற்றம்?
+திடுமென அரண்மனை வீரர்கள் ஐம்பது பேர் தெருவிலே வெகு வேகமாகச் செல்வதைக் கண்டு தலைநகரத்து மக்கள் அதிர்ச்சி யடைந்தனர். வீட்டுக்குள்ளிருந்தவர்கள் அனைவரும் வீதிக்கு ஓடி வந்தனர். முன்னே சென்று கொண்டிருந்த முத்துநகை குதிரையைப் பிடித்திழுத்து நிறுத்தினாள். அவளுக்கு பெருத்த ஏமாற்றம்?
 
 தன் வீட்டு வாசலில் கட்டப்பட்டிருந்த யவனக் கிழவரின் குதிரையைக் காணவில்லை. இறங்கி விறுவிறென்று வீட்டைப் பார்த்தாள்; வீடு பூட்டப்பட்டிருந்தது.
 
@@ -57,3 +57,14 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+## Formal Part006 Pass 2B lexical / historical-glyph reread
+
+- independent source-pixel reread completed for lexical identity, exact word boundaries, spacing, punctuation-sensitive forms and historical Tamil glyph/orthography identity;
+- source-supported lexical correction: `பிடித்துவிடுவோம்` → `பிடித்துவிட்டோம்`;
+- source-supported historical-orthography correction: `அதிர்ச்சி அடைந்தனர்` → `அதிர்ச்சி யடைந்தனர்`;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / historical-orthography corrections at Pass2B: **1**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

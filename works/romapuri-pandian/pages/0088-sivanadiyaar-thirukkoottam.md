@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102; formal Part006 Pass 2B Batch1 lexical/historical-glyph reviewed scans86–94"
 ---
 
 # 5. சிவனடியார் திருக்கூட்டம்
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 
 பாண்டியனின் இருப்பிடத்திற்கு வந்துசேர்ந்தான். “செழியன் காணாமற் போனதைத் தவிர வேறு எந்தக் குறையும் தனக்கில்லை” யென்று பாண்டியன், சோழனிடம் மனம் விட்டுப் பேசினான்.
 
-“செழியனைப் பற்றியும் சோழ மண்டலத்தைக் கவிழ்க்க நடைபெறும் சூழ்ச்சித்திட்டங்களைப் பற்றியும் தகவல் அறிந்து வரப் பொறுப்பு வாய்ந்தவர்கள் நியமிக்கப்பட்டிருக்கிறார்கள்” என்றும் “செழியனைப் பற்றி எந்தக் கவலையும் வேண்டாம்” என்றும் கரிகாலன், பெருவழுதிக்கு ஆறுதல் கூறினான். பின்னர் பாண்டிய நாடு, சோழபூமி இரண்டின் உறவு முறைகள் பற்றியும், நட்பு உடன்பாடுகள் பற்றியும் நீண்ட நேரம் பேசினர். தங்களின் ஒற்றுமைக்கும், இரு நாடுகளின் நட்புக்கும் வழி கோலிய புலவர் காரிக்கண்ணனார் பற்றி இருவரும் புகழ்ந்துரைத்தனர்.
+“செழியனைப் பற்றியும் சோழ மண்டலத்தைக் கவிழ்க்க நடை பெறும் சூழ்ச்சித்திட்டங்களைப் பற்றியும் தகவல் அறிந்து வரப் பொறுப்பு வாய்ந்தவர்கள் நியமிக்கப்பட்டிருக்கிறார்கள்” என்றும் “செழியனைப் பற்றி எந்தக் கவலையும் வேண்டாம்” என்றும் கரிகாலன், பெருவழுதிக்கு ஆறுதல் கூறினான். பின்னர் பாண்டிய நாடு, சோழபூமி இரண்டின் உறவு முறைகள் பற்றியும், நட்பு உடன்பாடுகள் பற்றியும் நீண்ட நேரம் பேசினர். தங்களின் ஒற்றுமைக்கும், இரு நாடுகளின் நட்புக்கும் வழி கோலிய புலவர் காரிக்கண்ணனார் பற்றி இருவரும் புகழ்ந்துரைத்தனர்.
 
 “காரிக்கண்ணனாருக்கு ஒரு மகளிருக்கிறாள். அவள் பெயர் முத்துநகை. அவளுடைய திருமணத்தை இந்த நாட்டு இளவரசியின் திருமணம் போல் அவ்வளவு சிறப்பாகச் செய்து முடிக்கப் போகிறேன்” என்றான் கரிகாலன்.
 
@@ -54,3 +54,13 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+## Formal Part006 Pass 2B lexical / historical-glyph reread
+
+- independent source-pixel reread completed for lexical identity, exact word boundaries, spacing, punctuation-sensitive forms and historical Tamil glyph/orthography identity;
+- source-supported word-boundary correction: `நடைபெறும்` → `நடை பெறும்`;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
