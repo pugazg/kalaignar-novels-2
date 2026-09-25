@@ -162,3 +162,21 @@ Part006 Pass2B Batch 1 is now **COMPLETE / PASS**:
 Current frontier:
 
 **Part006 Pass2B Batch 2 — scans95–102 / local10–17 — final 8-page remainder.**
+
+## Post-Pass2B closure
+
+Part006 Pass2B is now closed:
+
+- result — **COMPLETE / PASS — 17/17 REVIEWED**
+- Batch 1 — **scans86–94 / local1–9 — COMPLETE / PASS**
+- Batch 2 — **scans95–102 / local10–17 — COMPLETE / PASS**
+- source-text / lexical / spacing / punctuation corrections — **5**
+- historical-glyph / historical-orthography corrections — **1**
+- total source-supported corrections — **6**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- durable control — `PART_006_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part006 Pass3 — scans86–102 / local1–17.**

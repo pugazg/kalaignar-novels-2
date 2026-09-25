@@ -289,11 +289,14 @@
 - Part006 Pass2A unresolved textual questions — **0**
 - Part006 Pass2A status promotions — **0**
 - Part006 Pass2B cadence — **9 physical pages per iteration; final remainder may contain fewer**
+- Part006 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Part006 Pass2B Batch 1 — **COMPLETE / PASS — scans86–94 / local1–9**
-- Part006 Pass2B reviewed — **9/17**
-- Part006 Pass2B source-text / lexical / spacing / punctuation corrections — **4**
+- Part006 Pass2B Batch 2 — **COMPLETE / PASS — scans95–102 / local10–17**
+- Part006 Pass2B source-text / lexical / spacing / punctuation corrections — **5**
 - Part006 Pass2B historical-glyph / historical-orthography corrections — **1**
-- Part006 Pass2B total source-supported corrections — **5**
+- Part006 Pass2B total source-supported corrections — **6**
+- Part006 Pass2B pages with corrections — **4**
+- Part006 Pass2B clean pages — **13**
 - Part006 Pass2B unresolved lexical / historical-glyph questions — **0**
 - Part006 Pass2B status promotions — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
@@ -301,7 +304,7 @@
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 Pass2B Batch 2 — scans95–102 / local10–17**
+- exact next activity — **Part006 Pass3 — scans86–102 / local1–17**
 
 ## Boundary
 
@@ -424,7 +427,7 @@
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 Pass2B Batch 2 — scans95–102 / local10–17**
+- prompt frontier — **Part006 Pass3 — scans86–102 / local1–17**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -439,6 +442,6 @@
 
 ## Exact next activity
 
-**Part006 Pass2B Batch 2 — global scans95–102 / local pages10–17 — final 8-page remainder.**
+**Part006 Pass3 — global scans86–102 / local pages1–17.**
 
-Part006 Pass2B Batch 1 is COMPLETE / PASS — scans86–94 / local1–9, with 5 source-supported corrections (4 lexical/spacing/punctuation + 1 historical-orthography), 0 unresolved questions, and 0 status promotions. Pass2B remains open; all 17 Part006 records remain needs-review. Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 Pass2B is COMPLETE / PASS — 17/17 REVIEWED, with 6 source-supported corrections (5 lexical/spacing/punctuation + 1 historical-orthography), 0 unresolved questions, and 0 status promotions. Pass3 is now unblocked; all 17 Part006 records remain needs-review. Parts001–005 remain FINAL CLOSED / FROZEN.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Pass2B Batch2 scans95–102
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Pass3 scans86–102
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,29 +27,22 @@ Controlling source:
 
 - Part006 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
+- Part006 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 
-## Part006 Pass2B Batch1 closure
+## Part006 Pass2B closure
 
-**PART006 PASS2B BATCH 1 — COMPLETE / PASS — scans86–94 / local1–9**
-
-- whole-Part reviewed — **9/17**
-- source-text / lexical / spacing / punctuation corrections — **4**
+- Batch 1 — **COMPLETE / PASS — scans86–94 / local1–9**
+- Batch 2 — **COMPLETE / PASS — scans95–102 / local10–17**
+- source-text / lexical / spacing / punctuation corrections — **5**
 - historical-glyph / historical-orthography corrections — **1**
-- total source-supported corrections — **5**
-- pages with corrections — **3**
-- clean pages — **6**
-- unresolved lexical / historical-glyph questions — **0**
+- total source-supported corrections — **6**
+- pages with corrections — **4**
+- clean pages — **13**
 - status promotions — **0**
 
-Corrections:
+Batch2 added one source-supported correction:
 
-1. scan87 — `பிடித்துவிடுவோம்` → `பிடித்துவிட்டோம்`
-2. scan87 — `அதிர்ச்சி அடைந்தனர்` → source-visible historical form `அதிர்ச்சி யடைந்தனர்`
-3. scan88 — `நடைபெறும்` → `நடை பெறும்`
-4. scan91 — double quotes around `ரகசியமாகப் பேச வேண்டும்` → source-visible single quotes
-5. scan91 — `முகக்குறிப்புக்` → `முகக் குறிப்புக்`
-
-Clean scans — **86, 89, 90, 92, 93, 94**.
+- scan100 / printed98 — `தாமரையிடம் எழுதிக் காட்டினாளே!` → **`தாமரையிடம் எழுதி காட்டினாளே!`**
 
 Durable progress control:
 
@@ -64,19 +57,20 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 ```
 
-No status promotion is allowed during Pass2B.
-
-## Fixed Pass2B cadence
-
-- Batch 1 — **scans86–94 / local1–9 — COMPLETE / PASS**
-- Batch 2 — **scans95–102 / local10–17 — final 8-page remainder**
-
 ## Exact next activity
 
-**Part006 Pass2B Batch 2 — global scans95–102 / local pages10–17 — final 8-page remainder.**
+**Part006 Pass3 — global scans86–102 / local pages1–17.**
 
-Independently reread these 8 physical pages directly against the controlling source pixels for lexical identity, exact word boundaries, spacing, punctuation-sensitive forms, and historical Tamil glyph/orthography identity. Preserve unusual source-visible forms; do not silently modernize or normalize.
+Perform the meaningful full-page visual / structural verification directly against the controlling source pixels. Verify:
 
-Record source-supported corrections only. Keep every record at `needs-review`.
+- page type and chapter/section identity;
+- headings and illustrated-title fidelity;
+- blank-page classification;
+- printed pagination and running headers;
+- paragraph/dialogue/displayed-text placement;
+- physical page continuations and page boundaries;
+- any other structural metadata represented in the canonical records.
 
-Do not begin Pass3 until Pass2B closes. Do not infer Part007 / scan103. Do not modify frozen Parts001–005.
+Record source-supported text or structural corrections only. Preserve source-visible forms. Keep all records at `needs-review`; final promotion is deferred until the Part audit and final status synchronization.
+
+Do not begin the Part audit until Pass3 closes. Do not infer Part007 / scan103. Do not modify frozen Parts001–005.

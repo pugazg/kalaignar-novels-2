@@ -229,11 +229,12 @@
 - Part006 Pass2A unresolved textual questions — **0**
 - Part006 Pass2A status promotions — **0**
 - Part006 Pass2B cadence — **9 physical pages per iteration; final remainder may contain fewer**
+- Part006 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
 - Part006 Pass2B Batch 1 — **COMPLETE / PASS — scans86–94 / local1–9**
-- Part006 Pass2B reviewed — **9/17**
-- Part006 Pass2B source-text/lexical/spacing/punctuation corrections — **4**
+- Part006 Pass2B Batch 2 — **COMPLETE / PASS — scans95–102 / local10–17**
+- Part006 Pass2B source-text/lexical/spacing/punctuation corrections — **5**
 - Part006 Pass2B historical-glyph/historical-orthography corrections — **1**
-- Part006 Pass2B total corrections — **5**
+- Part006 Pass2B total corrections — **6**
 - Part006 Pass2B unresolved questions — **0**
 - Part006 Pass2B status promotions — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
@@ -336,4 +337,4 @@
 
 ## Exact next activity
 
-**Part006 Pass2B Batch 2 — global scans95–102 / local pages10–17 — final 8-page remainder.**
+**Part006 Pass3 — global scans86–102 / local pages1–17.**
