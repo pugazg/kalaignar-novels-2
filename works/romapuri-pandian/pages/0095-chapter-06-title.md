@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102"
 ---
 
 # 6. விறகுவெட்டி
@@ -40,3 +40,11 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 - source-text corrections at Pass1 to this record — **1**;
 - unresolved title reading holds — **0**;
 - status and visual fidelity remain needs-review.
+
+## Formal Part006 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **0**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.

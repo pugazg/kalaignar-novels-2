@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102"
 ---
 
 # 5. சிவனடியார் திருக்கூட்டம்
@@ -35,7 +35,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 
 “தாமரை! அழகான பெயர்தான்!”
 
-“அந்தத் தாமரை மலர்ந்த தடாகம் எது என்பது எனக்கு முதலில் தெரியாமல் போய்விட்டது. அதற்குள் அவள் பிரிந்துவிட்டாள். அவள் விருப்பப்படி மறுநாளும் அங்கு சென்றேன்!”
+“அந்தத் தாமரை மலர்ந்த தடாகம் எது என்பது எனக்கு முதல்நாள் தெரியாமல் போய்விட்டது. அதற்குள் அவள் பிரிந்துவிட்டாள். அவள் விருப்பப்படி மறுநாளும் அங்கு சென்றேன்!”
 
 “ஓகோ, அவளும் வந்தாளாக்கும்?”
 
@@ -59,3 +59,12 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 92; பகுதி: 006; பகுதி உள்ளூர் பக்கம்: 7; அச்சுப் பக்கம்: 90; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part006 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-supported correction: `முதலில் தெரியாமல்` → `முதல்நாள் தெரியாமல்`;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
