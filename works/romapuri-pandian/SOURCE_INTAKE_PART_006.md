@@ -227,3 +227,27 @@ All 17 Part006 canonical records remain `status: "needs-review"` / `visual_fidel
 Current frontier:
 
 **Part006 Part audit.**
+
+## Part006 Part-audit closure
+
+- Part006 Part audit — **PASS / COMPLETE**
+- canonical records — **17/17**
+- global scan coverage — **continuous 86–102**
+- local-page coverage — **continuous 1–17**
+- missing / duplicate canonical records — **0 / 0**
+- exact source filename consistency — **17/17**
+- pagination mismatches — **0**
+- page-type / section mismatches — **0**
+- Pass1 / Pass2A / Pass2B / Pass3 evidence gaps — **0**
+- unresolved supplied-Part blockers — **0**
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 / scan103 leakage — **0**
+- frozen Parts001–005 canonical/body mutations — **0**
+- status promotions during audit — **0**
+- durable control — `PART_006_AUDIT.md`
+
+All 17 Part006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Current frontier:
+
+**Part006 final metadata/status synchronization.**
