@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 scans96–102; formal Part006 Pass 2A reviewed scans86–102"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 scans96–102; formal Part006 Pass 2A reviewed scans86–102; formal Part006 Pass 2B Batch2 lexical/historical-glyph reviewed scans95–102"
 ---
 
 # 6. விறகுவெட்டி
@@ -37,7 +37,7 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 
 
 “பிறவியே ஊமையானா?” என்று கேட்டான் அவன்.
 
-உடனே அவள், ஒரு ஓலையில் கிறுகிறுவென்று எழுதி அவனெதிரே நீட்டினாள். தாமரையிடம் எழுதிக் காட்டினாளே! அதே வாசகந்தான்!
+உடனே அவள், ஒரு ஓலையில் கிறுகிறுவென்று எழுதி அவனெதிரே நீட்டினாள். தாமரையிடம் எழுதி காட்டினாளே! அதே வாசகந்தான்!
 
 ## Pass 1 notes
 
@@ -56,3 +56,13 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch2 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+## Formal Part006 Pass 2B lexical / historical-glyph reread
+
+- independent source-pixel reread completed for lexical identity, exact word boundaries, spacing, punctuation-sensitive forms and historical Tamil glyph/orthography identity;
+- source-supported word-boundary / sandhi correction: `தாமரையிடம் எழுதிக் காட்டினாளே!` → `தாமரையிடம் எழுதி காட்டினாளே!`;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph questions after this reread: **0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
