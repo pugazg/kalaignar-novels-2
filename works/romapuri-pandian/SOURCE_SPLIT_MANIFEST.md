@@ -242,7 +242,7 @@
 - Part006 canonical records — **0/17**
 - Part006 Pass1 — **NOT STARTED**
 - source-visible scan94 — **blank separator**
-- source-visible scan95 — **illustrated Chapter 6 title / விறுவெட்டி**
+- source-visible scan95 — **illustrated Chapter 6 title / விறகுவெட்டி**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
 - unresolved Part006 intake/boundary blockers — **0**
 - frozen Parts001–005 mutation caused by Part006 intake — **0**
@@ -257,7 +257,7 @@
 - canonical Part006 records — **10/17**
 - Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
 - scan94 — **blank physical separator**
-- scan95 — **illustrated Chapter 6 title / `விறுவெட்டி`**
+- scan95 — **illustrated Chapter 6 title / `விறகுவெட்டி`**
 - unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
 - frozen Parts001–005 mutations — **0**
