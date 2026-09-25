@@ -144,3 +144,21 @@ Pass2B is now unblocked but has **not** been started.
 Fixed Pass2B cadence is **9 physical pages per iteration**; the final remainder will be scans95–102 / local10–17.
 
 Do not begin Pass3 until Pass2B closes.
+
+## Post-Pass2A Pass2B progress
+
+Part006 Pass2B Batch 1 is now **COMPLETE / PASS**:
+
+- global scans — **86–94**
+- local pages — **1–9**
+- reviewed — **9/17**
+- source-text / lexical / spacing / punctuation corrections — **4**
+- historical-glyph / historical-orthography corrections — **1**
+- total source-supported corrections — **5**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- durable control — `PART_006_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part006 Pass2B Batch 2 — scans95–102 / local10–17 — final 8-page remainder.**

@@ -229,6 +229,13 @@
 - Part006 Pass2A unresolved textual questions — **0**
 - Part006 Pass2A status promotions — **0**
 - Part006 Pass2B cadence — **9 physical pages per iteration; final remainder may contain fewer**
+- Part006 Pass2B Batch 1 — **COMPLETE / PASS — scans86–94 / local1–9**
+- Part006 Pass2B reviewed — **9/17**
+- Part006 Pass2B source-text/lexical/spacing/punctuation corrections — **4**
+- Part006 Pass2B historical-glyph/historical-orthography corrections — **1**
+- Part006 Pass2B total corrections — **5**
+- Part006 Pass2B unresolved questions — **0**
+- Part006 Pass2B status promotions — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -323,9 +330,10 @@
 - `PART_006_INTAKE_BOUNDARY_SETUP.md`
 - `PART_006_PASS1_PROGRESS.md`
 - `PART_006_PASS2A_PROGRESS.md`
+- `PART_006_PASS2B_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 Pass2B Batch 1 — global scans86–94 / local pages1–9.**
+**Part006 Pass2B Batch 2 — global scans95–102 / local pages10–17 — final 8-page remainder.**

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Pass2B Batch1 scans86–94
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Pass2B Batch2 scans95–102
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,40 +23,37 @@ Controlling source:
 - incoming **85→86 — GENUINE CONTINUATION / AUDITED**
 - outgoing **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
 
-## Part006 Pass1 closure
+## Closed gates
 
-**PART006 PASS1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Part006 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 
-- source-supported Pass1 corrections — **1**
-- unresolved Pass1 source-reading holds — **0**
-- scan94 — **blank physical separator**
-- scan95 — illustrated Chapter 6 title **6 / விறகுவெட்டி**
+## Part006 Pass2B Batch1 closure
 
-## Part006 Pass2A closure
+**PART006 PASS2B BATCH 1 — COMPLETE / PASS — scans86–94 / local1–9**
 
-**PART006 PASS2A — COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
-
-- source-supported corrections — **6**
-- pages with corrections — **5**
-- clean pages — **12**
+- whole-Part reviewed — **9/17**
+- source-text / lexical / spacing / punctuation corrections — **4**
+- historical-glyph / historical-orthography corrections — **1**
+- total source-supported corrections — **5**
+- pages with corrections — **3**
+- clean pages — **6**
+- unresolved lexical / historical-glyph questions — **0**
 - status promotions — **0**
-- printed-page mapping corrections — **0**
-- physical-boundary corrections — **0**
 
-Pass2A corrections:
+Corrections:
 
-1. scan88 — restore source-visible closing quotation mark after `இருங்கோவேள் மன்னன்.`
-2. scan92 — `முதலில்` → `முதல்நாள்`
-3. scan97 — `காலை ஓசை` → `காலடி ஓசை`
-4. scan97 — restore closing quotation mark after `உங்க பேரு?`
-5. scan98 — `அவன் கையில்` → `அவள் கையில்`
-6. scan99 — comma after `முடிந்தது` → source-visible full stop
+1. scan87 — `பிடித்துவிடுவோம்` → `பிடித்துவிட்டோம்`
+2. scan87 — `அதிர்ச்சி அடைந்தனர்` → source-visible historical form `அதிர்ச்சி யடைந்தனர்`
+3. scan88 — `நடைபெறும்` → `நடை பெறும்`
+4. scan91 — double quotes around `ரகசியமாகப் பேச வேண்டும்` → source-visible single quotes
+5. scan91 — `முகக்குறிப்புக்` → `முகக் குறிப்புக்`
 
-Clean scans — **86, 87, 89, 90, 91, 93, 94, 95, 96, 100, 101, 102**.
+Clean scans — **86, 89, 90, 92, 93, 94**.
 
 Durable progress control:
 
-`PART_006_PASS2A_PROGRESS.md`
+`PART_006_PASS2B_PROGRESS.md`
 
 ## Canonical state
 
@@ -71,15 +68,14 @@ No status promotion is allowed during Pass2B.
 
 ## Fixed Pass2B cadence
 
-- normal iteration — **9 physical pages**
-- Batch 1 — **scans86–94 / local1–9**
+- Batch 1 — **scans86–94 / local1–9 — COMPLETE / PASS**
 - Batch 2 — **scans95–102 / local10–17 — final 8-page remainder**
 
 ## Exact next activity
 
-**Part006 Pass2B Batch 1 — global scans86–94 / local pages1–9.**
+**Part006 Pass2B Batch 2 — global scans95–102 / local pages10–17 — final 8-page remainder.**
 
-Independently reread those 9 physical pages directly against the controlling source pixels for lexical identity, exact word boundaries, spacing, punctuation-sensitive forms, and historical Tamil glyph identity. Do not silently modernize or normalize source-visible forms.
+Independently reread these 8 physical pages directly against the controlling source pixels for lexical identity, exact word boundaries, spacing, punctuation-sensitive forms, and historical Tamil glyph/orthography identity. Preserve unusual source-visible forms; do not silently modernize or normalize.
 
 Record source-supported corrections only. Keep every record at `needs-review`.
 
