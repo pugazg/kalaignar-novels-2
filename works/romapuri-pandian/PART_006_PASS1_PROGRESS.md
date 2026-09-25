@@ -45,7 +45,7 @@ Created canonical records:
 - scan88 — displayed threatening palm-leaf message signed `இருங்கோவேள் மன்னன்`
 - scan93 — Chapter 5 close with large intentional blank lower field
 - scan94 — **blank physical separator**
-- scan95 — illustrated Chapter 6 title page: `6. விறுவெட்டி`
+- scan95 — illustrated Chapter 6 title page: `6. விறகுவெட்டி`
 
 ## Printed-page mapping
 
