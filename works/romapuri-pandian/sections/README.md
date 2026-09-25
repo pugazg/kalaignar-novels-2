@@ -360,7 +360,7 @@ Part006 source intake is **PASS / COMPLETE**.
 - Pass1 — **NOT STARTED**
 - assembled Part006 Tamil — **NOT STARTED**
 - scan94 — **blank separator**
-- scan95 — **illustrated Chapter 6 title `விறுவெட்டி`**
+- scan95 — **illustrated Chapter 6 title `விறகுவெட்டி`**
 - outgoing 102→103 — **PENDING Part007 adjacent witness**
 - frozen Parts001–005 assembled/body mutations — **0**
 
@@ -375,7 +375,7 @@ Exact next lifecycle activity:
 - Batch1 scans — **86–95**
 - Chapter 5 continuation — **scans86–93**
 - blank separator — **scan94**
-- Chapter 6 illustrated title — **scan95 / `விறுவெட்டி`**
+- Chapter 6 illustrated title — **scan95 / `விறகுவெட்டி`**
 - Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
 - assembled Part006 Tamil — **NOT STARTED**
 - unresolved Pass1 holds — **0**
