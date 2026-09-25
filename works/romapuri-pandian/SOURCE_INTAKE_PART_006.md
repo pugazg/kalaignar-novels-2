@@ -29,7 +29,7 @@ Direct rendered-source inspection establishes:
 
 - scans86–93 / local1–8 — continuing Chapter 5 narrative, printed84–91
 - scan94 / local9 — **blank separator page**
-- scan95 / local10 — illustrated Chapter 6 title page: **6 / விறுவெட்டி**
+- scan95 / local10 — illustrated Chapter 6 title page: **6 / விறகுவெட்டி**
 - scans96–102 / local11–17 — Chapter 6 narrative, ending at source-visible printed page100
 
 These observations are intake-level structure only. Canonical text transcription remains a later Pass1 activity.
@@ -102,7 +102,7 @@ Part006 Pass1 has begun under the fixed **10-physical-page iteration cadence**:
 - Batch1 text-bearing physical pages — **9/10**
 - Batch1 blank physical pages — **1/10**
 - scan94 — **blank physical separator**
-- scan95 — **illustrated Chapter 6 title / `விறுவெட்டி`**
+- scan95 — **illustrated Chapter 6 title / `விறகுவெட்டி`**
 - unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
 - frozen Parts001–005 canonical/body mutations — **0**
