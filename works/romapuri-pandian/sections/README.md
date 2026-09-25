@@ -371,16 +371,34 @@ Exact next lifecycle activity:
 
 ## Part006 Pass1 Batch1 canonical state
 
-- Part006 canonical records — **10/17**
+- Part006 canonical records — **17/17**
 - Batch1 scans — **86–95**
 - Chapter 5 continuation — **scans86–93**
 - blank separator — **scan94**
 - Chapter 6 illustrated title — **scan95 / `விறகுவெட்டி`**
-- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - assembled Part006 Tamil — **NOT STARTED**
 - unresolved Pass1 holds — **0**
 - frozen Parts001–005 assembled/body mutations — **0**
 
 Exact next lifecycle activity:
 
-**Part006 Pass1 Batch 2 — scans96–102 / local11–17.**
+**Part006 Pass2A — scans86–102 / local1–17.**
+
+
+## Part006 Pass1 closed canonical state
+
+- canonical Part006 records — **17/17**
+- scans86–93 — Chapter 5 continuation / close
+- scan94 — blank physical separator
+- scan95 — illustrated Chapter 6 title `விறகுவெட்டி`
+- scans96–102 — Chapter 6 narrative
+- scan102 — complete supplied-Part terminal sentence
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- unresolved Pass1 holds — **0**
+- assembled Part006 Tamil — **NOT STARTED**
+- frozen Parts001–005 body mutations — **0**
+
+Exact next lifecycle activity:
+
+**Part006 Pass2A — scans86–102 / local1–17.**
