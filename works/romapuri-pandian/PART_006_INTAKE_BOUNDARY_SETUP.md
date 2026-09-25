@@ -17,8 +17,8 @@ Source:
 - source text layer — **no usable parsed text**
 - controlling representation — **rendered source page images**
 - source intake — **REGISTERED / AUTHORIZED**
-- canonical Part006 records — **10/17**
-- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- canonical Part006 records — **17/17**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
 
@@ -83,7 +83,7 @@ No final status promotion occurs during Pass1.
 
 ## Exact next activity
 
-**Part006 Pass1 Batch 2 — global scans96–102 / local pages11–17 — final 7-page remainder.**
+**Part006 Pass2A — global scans86–102 / local pages1–17.**
 
 
 ## Post-intake control synchronization verification
@@ -125,7 +125,7 @@ Therefore this intake/boundary gate introduced no canonical transcription, froze
 Part006 Pass1 has begun under the fixed **10-physical-page iteration cadence**:
 
 - Batch 1 — **scans86–95 / local1–10 — COMPLETE / PASS / TEXT-COMPLETE**
-- canonical Part006 records — **10/17**
+- canonical Part006 records — **17/17**
 - Batch1 text-bearing physical pages — **9/10**
 - Batch1 blank physical pages — **1/10**
 - scan94 — **blank physical separator**
@@ -138,3 +138,20 @@ Part006 Pass1 has begun under the fixed **10-physical-page iteration cadence**:
 Current frontier:
 
 **Part006 Pass1 Batch 2 — scans96–102 / local11–17 — final 7-page remainder.**
+
+
+## Post-Pass1 closure
+
+- Part006 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Batch 1 — **scans86–95 / local1–10 — COMPLETE / PASS**
+- Batch 2 — **scans96–102 / local11–17 — COMPLETE / PASS**
+- source-supported Pass1 corrections — **1**
+- scan95 title — **`விறகுவெட்டி`**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- frozen Parts001–005 mutations — **0**
+- outgoing 102→103 — **PENDING Part007 adjacent witness**
+
+Current frontier:
+
+**Part006 Pass2A — scans86–102 / local1–17.**
