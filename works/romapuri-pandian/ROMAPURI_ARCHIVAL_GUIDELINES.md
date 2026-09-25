@@ -410,7 +410,7 @@ Part006 source is now **REGISTERED / AUTHORIZED**.
 - frozen Part005 body imported into Part006 — **0**
 - Part006 body imported backward into frozen Part005 — **0**
 - scan94 — blank separator page
-- scan95 — illustrated Chapter 6 title `விறுவெட்டி`
+- scan95 — illustrated Chapter 6 title `விறகுவெட்டி`
 - outgoing **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
 
@@ -434,7 +434,7 @@ Current frontier:
 - text-bearing physical pages — **9/10**
 - blank physical pages — **1/10**
 - scan94 — blank separator
-- scan95 — Chapter 6 title `விறுவெட்டி`
+- scan95 — Chapter 6 title `விறகுவெட்டி`
 - unresolved source-reading holds — **0**
 - status / visual-fidelity promotions — **0**
 - frozen Parts001–005 mutations — **0**
