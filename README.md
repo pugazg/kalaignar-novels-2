@@ -190,6 +190,8 @@
 - Part006 Pass3 structural metadata corrections — **0**
 - Part006 Pass3 unresolved visual/structural questions — **0**
 - Part006 Pass3 status promotions — **0**
+- Part006 Part audit — **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part006 audit unresolved blockers — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -212,4 +214,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 Part audit.**
+**Part006 final metadata/status synchronization.**

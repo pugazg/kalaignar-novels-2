@@ -176,3 +176,25 @@ The audit must reconcile:
 - unresolved blocker accounting.
 
 Do not perform final metadata/status promotion until the Part audit passes.
+
+## Post-Pass3 Part audit
+
+Part006 Part audit is now **PASS / COMPLETE**:
+
+- canonical records — **17/17**
+- scan coverage — **continuous 86–102**
+- local-page coverage — **continuous 1–17**
+- missing / duplicate records — **0 / 0**
+- source-filename mismatches — **0**
+- pagination mismatches — **0**
+- page-type mismatches — **0**
+- unresolved supplied-Part blockers — **0**
+- Part007 / scan103 leakage — **0**
+- status promotions during audit — **0**
+- durable control — `PART_006_AUDIT.md`
+
+All 17 Part006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Current frontier:
+
+**Part006 final metadata/status synchronization.**

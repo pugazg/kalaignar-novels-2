@@ -242,6 +242,8 @@
 - Part006 Pass3 structural metadata corrections — **0**
 - Part006 Pass3 unresolved visual/structural questions — **0**
 - Part006 Pass3 status promotions — **0**
+- Part006 Part audit — **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part006 audit unresolved blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -338,9 +340,10 @@
 - `PART_006_PASS2A_PROGRESS.md`
 - `PART_006_PASS2B_PROGRESS.md`
 - `PART_006_PASS3_PROGRESS.md`
+- `PART_006_AUDIT.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 Part audit.**
+**Part006 final metadata/status synchronization.**

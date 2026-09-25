@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Part audit
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 final metadata/status synchronization
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,8 +18,6 @@ Controlling source:
 - global scans — **86–102**
 - file size — **48,077,888 bytes**
 - SHA-256 — `df9f8994dc08da0c01e34a91204a29f17d9425ed7e6ebbc5806f4461a5bfb1c2`
-- rendered source pixels — **authoritative**
-- source text layer — **no usable parsed text**
 - incoming **85→86 — GENUINE CONTINUATION / AUDITED**
 - outgoing **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
 
@@ -29,33 +27,32 @@ Controlling source:
 - Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 - Part006 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 - Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
+- Part006 Part audit — **PASS / COMPLETE**
 
-## Part006 Pass3 closure
+## Part006 audit result
 
-- source-text corrections at Pass3 — **0**
-- structural metadata corrections at Pass3 — **0**
-- unresolved visual / structural questions — **0**
-- status promotions — **0**
+The live canonical set is fully reconciled:
 
-Pass3 confirmed:
+- canonical Part006 records — **17/17**
+- global scans — **continuous 86–102**
+- local pages — **continuous 1–17**
+- duplicate scan numbers — **0**
+- duplicate local pages — **0**
+- source-filename mismatches — **0**
+- pagination mismatches — **0**
+- page-type / section mismatches — **0**
+- gate-evidence gaps — **0**
+- unresolved supplied-Part blockers — **0**
+- Part007 / scan103 leakage — **0**
+- Parts001–005 frozen canonical/body mutations — **0**
 
-- scans86–93 — Chapter 5 continuation / close with correct alternating running furniture;
-- scan88 — displayed threatening palm-leaf message/signature;
-- scan93 — large intentional lower blank field;
-- scan94 — genuine blank physical separator;
-- scan95 — illustrated Chapter 6 title `6 / விறகுவெட்டி`;
-- scan96 — Chapter 6 opening with large intentional upper blank field and no running furniture;
-- scans97–102 — Chapter 6 continuation with correct alternating running furniture;
-- scan101 — displayed written palm-leaf text;
-- scan102 — complete terminal sentence.
+Durable audit control:
 
-Durable progress control:
+`PART_006_AUDIT.md`
 
-`PART_006_PASS3_PROGRESS.md`
+## Canonical state before synchronization
 
-## Canonical state
-
-All 17 Part006 records remain:
+All 17 Part006 records still deliberately remain:
 
 ```yaml
 status: "needs-review"
@@ -64,21 +61,17 @@ visual_fidelity: "needs-review"
 
 ## Exact next activity
 
-**Part006 Part audit.**
+**Part006 final metadata/status synchronization.**
 
-Reconcile the complete Part006 canonical set and all gate evidence. The audit must verify:
+Using the passed Part006 audit as the sole promotion basis:
 
-- continuous global scan coverage **86–102** and local-page coverage **1–17**;
-- exactly **17** canonical records with no missing or duplicate scan/local-page records;
-- source filename identity on every canonical record;
-- printed-page mapping and null-page exceptions;
-- page-type / section mapping;
-- Pass1 / Pass2A / Pass2B / Pass3 completion evidence;
-- incoming **85→86** boundary state;
-- outgoing **102→103** external-witness state without inferring Part007;
-- unresolved blocker accounting;
-- Parts001–005 frozen-state integrity.
+- promote all 17 Part006 canonical records from `status: "needs-review"` to `status: "verified"`;
+- promote all 17 from `visual_fidelity: "needs-review"` to `visual_fidelity: "verified"`;
+- do **not** change canonical Tamil source transcription;
+- do **not** change page type, section, printed-page mapping, source filename, scan/local-page numbering, or Pass evidence except for synchronization notes required by the workflow;
+- record an explicit Part006 final-status synchronization control and verify **17/17 verified / 0 needs-review** for both textual status and visual fidelity;
+- preserve outgoing **102→103** as a deferred external witness, not a Part006 blocker;
+- do not infer Part007 / scan103;
+- do not modify frozen Parts001–005.
 
-Create/update the Part006 audit control with an explicit PASS/FAIL decision.
-
-Do not promote canonical `status` or `visual_fidelity` during the audit. Final metadata/status promotion happens only after the Part audit passes. Do not infer Part007 / scan103.
+After final metadata/status synchronization passes, proceed to the separate documentation-synchronization gate.
