@@ -330,16 +330,36 @@ Current frontier:
 
 ## Part006 Pass1 Batch1 state
 
-- canonical Part006 records — **10/17**
+- canonical Part006 records — **17/17**
 - covered global scans — **86–95**
 - covered local pages — **1–10**
 - printed-page mapping — **84–91 visible on scans86–93; scans94–95 null**
 - scan94 — **blank physical separator**
 - scan95 — **illustrated Chapter 6 title `விறகுவெட்டி`**
-- Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
 
 Current frontier:
 
-**Part006 Pass1 Batch 2 — scans96–102 / local11–17.**
+**Part006 Pass2A — scans86–102 / local1–17.**
+
+
+## Part006 Pass1 closure state
+
+- canonical Part006 records — **17/17**
+- global scan coverage — **86–102 continuous**
+- local page coverage — **1–17 continuous**
+- text-bearing pages — **16/17**
+- blank page — **scan94**
+- Chapter 6 title — **scan95 / `விறகுவெட்டி`**
+- scan96 — `printed_page: null`
+- scans97–102 printed mapping — **95–100**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- source-supported Pass1 corrections — **1**
+- unresolved Pass1 holds — **0**
+- status promotions — **0**
+
+Current frontier:
+
+**Part006 Pass2A — scans86–102 / local1–17.**
