@@ -319,7 +319,7 @@ Current frontier:
 - canonical Part006 records — **0/17**
 - Pass1 — **NOT STARTED**
 - scan94 — **blank separator**
-- scan95 — **illustrated Chapter 6 title `விறுவெட்டி`**
+- scan95 — **illustrated Chapter 6 title `விறகுவெட்டி`**
 - outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
 - unresolved intake/boundary blockers — **0**
 
@@ -335,7 +335,7 @@ Current frontier:
 - covered local pages — **1–10**
 - printed-page mapping — **84–91 visible on scans86–93; scans94–95 null**
 - scan94 — **blank physical separator**
-- scan95 — **illustrated Chapter 6 title `விறுவெட்டி`**
+- scan95 — **illustrated Chapter 6 title `விறகுவெட்டி`**
 - Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
 - unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
