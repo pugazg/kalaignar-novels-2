@@ -10,7 +10,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf"
-transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102; formal Part006 Pass 2B Batch1 lexical/historical-glyph reviewed scans86–94"
+transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 scans86–95; formal Part006 Pass 2A reviewed scans86–102; formal Part006 Pass 2B Batch1 lexical/historical-glyph reviewed scans86–94; formal Part006 Pass 3 visual/structural reviewed"
 ---
 
 # 5. சிவனடியார் திருக்கூட்டம்
@@ -68,3 +68,13 @@ transcription_method: "direct source-pixel transcription; Part006 Pass 1 Batch1 
 - unresolved lexical / historical-glyph questions after this reread: **0**;
 - Pass2B result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
+
+## Formal Part006 Pass 3 visual / structural review
+
+- full-page source-image comparison completed;
+- confirmed structure: novel-body; printed85; work-title running header; Chapter 5 continuation; terminal sentence continues physically into scan88;
+- source-text corrections at Pass3: **0**;
+- structural metadata corrections at Pass3: **0**;
+- unresolved visual / structural questions after this review: **0**;
+- Pass3 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; promotion is deferred until the Part audit and final status synchronization.
