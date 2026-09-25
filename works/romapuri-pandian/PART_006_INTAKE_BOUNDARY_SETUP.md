@@ -26,7 +26,7 @@ Source:
 
 - scans86–93 — Chapter 5 continuation
 - scan94 — blank separator
-- scan95 — illustrated Chapter 6 title **விறுவெட்டி**
+- scan95 — illustrated Chapter 6 title **விறகுவெட்டி**
 - scans96–102 — Chapter 6 narrative
 
 ## Incoming boundary
@@ -129,7 +129,7 @@ Part006 Pass1 has begun under the fixed **10-physical-page iteration cadence**:
 - Batch1 text-bearing physical pages — **9/10**
 - Batch1 blank physical pages — **1/10**
 - scan94 — **blank physical separator**
-- scan95 — **illustrated Chapter 6 title / `விறுவெட்டி`**
+- scan95 — **illustrated Chapter 6 title / `விறகுவெட்டி`**
 - unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
 - frozen Parts001–005 canonical/body mutations — **0**
