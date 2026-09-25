@@ -444,3 +444,26 @@ Pass1 remains open.
 Current frontier:
 
 **Part006 Pass1 Batch 2 — scans96–102 / local11–17 — final 7-page remainder.**
+
+
+## Part006 Pass1 closure
+
+Part006 Pass1 is **COMPLETE / PASS — 17/17 TEXT-COMPLETE**.
+
+- Batch 1 — **scans86–95 / local1–10**
+- Batch 2 — **scans96–102 / local11–17**
+- canonical records — **17/17**
+- text-bearing pages — **16/17**
+- blank physical page — **scan94**
+- Chapter 6 title — **scan95 / `விறகுவெட்டி`**
+- source-supported Pass1 corrections — **1**
+- unresolved Pass1 source-reading holds — **0**
+- status / visual-fidelity promotions — **0**
+- frozen Parts001–005 mutations — **0**
+- outgoing 102→103 — **PENDING Part007 adjacent witness**
+
+Pass2A is now unblocked.
+
+Current frontier:
+
+**Part006 Pass2A — scans86–102 / local1–17.**
