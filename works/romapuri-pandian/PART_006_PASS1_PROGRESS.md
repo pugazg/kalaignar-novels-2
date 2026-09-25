@@ -229,3 +229,48 @@ Pass2A is now unblocked.
 ## Exact next activity — current
 
 **Part006 Pass2A — global scans86–102 / local pages1–17.**
+
+
+## Post-Batch2 / Pass1 closure verification
+
+Pre-Batch2 live head:
+
+`06f259fce5dabf4a651281785c40e8a2bb169c25`
+
+Post-Pass1 synchronized checkpoint before this verification record:
+
+`74a12c7340e02fb6e3d4635ca50d430239147a01`
+
+Direct comparison confirms:
+
+- changed files — **19**
+- Batch2 canonical page records added — **7**
+- scan95 Chapter 6 title record source-corrected — **1**
+- lifecycle/status/navigation/control documents updated — **11**
+- frozen Parts001–005 canonical/body files changed — **0**
+- Part007 / scan103 files introduced — **0**
+- active Git PDF paths — **0**
+
+Live-tree verification confirms exactly **17 Part006 canonical records**, scans **86–102** continuous.
+
+Batch2 frontmatter checks confirm:
+
+- scans96–102 — **7/7**
+- local pages11–17 — **7/7**
+- section — **6. விறகுவெட்டி — 7/7**
+- `status: "needs-review"` — **7/7**
+- `visual_fidelity: "needs-review"` — **7/7**
+- scan96 `printed_page: null`
+- scans97–102 printed pages — **95–100**
+
+The supplied Part006 terminal wording at scan102 is:
+
+`இப்படியெல்லாம் கேள்விகளும் பதில்களும் எழுப்பப்பட்டு, உடனுக்குடனே அழிக்கப்பட்டு, அவள் உருவம் மட்டும் அழியாத சித்திரமாகப் பதிந்துவிட்டதை அவன் உணர்ந்தான்.`
+
+The sentence closes within the supplied Part006 source. Outgoing **102→103** nevertheless remains deferred until a Part007 adjacent witness is supplied.
+
+Pass1 closure verification — **PASS**.
+
+Current frontier:
+
+**Part006 Pass2A — scans86–102 / local1–17.**
