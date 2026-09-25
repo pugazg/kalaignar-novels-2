@@ -224,3 +224,28 @@ Pass3 is now unblocked but has **not** been started.
 Current frontier:
 
 **Part006 Pass3 — scans86–102 / local1–17.**
+
+## Part006 Pass3 closure
+
+- Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- source-text corrections at Pass3 — **0**
+- structural metadata corrections at Pass3 — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- page-type mapping — **CONFIRMED / 17/17**
+- printed-page mapping — **CONFIRMED / 14 source-visible numerals + 3 null-page exceptions**
+- scan94 blank separator — **CONFIRMED**
+- scan95 illustrated Chapter 6 title `6 / விறகுவெட்டி` — **CONFIRMED**
+- scan96 chapter-opening blank-upper-field structure — **CONFIRMED**
+- running-header alternation — **CONFIRMED**
+- internal continuations 87→88, 96→97 and 99→100 — **CONFIRMED**
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 / scan103 text inferred or imported — **0**
+- frozen Parts001–005 canonical/body mutations — **0**
+- durable control — `PART_006_PASS3_PROGRESS.md`
+
+All 17 Part006 canonical records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Current frontier:
+
+**Part006 Part audit.**
