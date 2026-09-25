@@ -299,12 +299,17 @@
 - Part006 Pass2B clean pages — **13**
 - Part006 Pass2B unresolved lexical / historical-glyph questions — **0**
 - Part006 Pass2B status promotions — **0**
+- Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part006 Pass3 source-text corrections — **0**
+- Part006 Pass3 structural metadata corrections — **0**
+- Part006 Pass3 unresolved visual / structural questions — **0**
+- Part006 Pass3 status promotions — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 Pass3 — scans86–102 / local1–17**
+- exact next activity — **Part006 Part audit**
 
 ## Boundary
 
@@ -421,13 +426,14 @@
 - `PART_006_PASS1_PROGRESS.md`
 - `PART_006_PASS2A_PROGRESS.md`
 - `PART_006_PASS2B_PROGRESS.md`
+- `PART_006_PASS3_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 Pass3 — scans86–102 / local1–17**
+- prompt frontier — **Part006 Part audit**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -442,6 +448,6 @@
 
 ## Exact next activity
 
-**Part006 Pass3 — global scans86–102 / local pages1–17.**
+**Part006 Part audit.**
 
-Part006 Pass2B is COMPLETE / PASS — 17/17 REVIEWED, with 6 source-supported corrections (5 lexical/spacing/punctuation + 1 historical-orthography), 0 unresolved questions, and 0 status promotions. Pass3 is now unblocked; all 17 Part006 records remain needs-review. Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 Pass3 is COMPLETE / PASS — 17/17 REVIEWED, with 0 source-text corrections, 0 structural metadata corrections, 0 unresolved visual/structural questions, and 0 status promotions. Part audit is now unblocked; all 17 Part006 records remain needs-review. Parts001–005 remain FINAL CLOSED / FROZEN.

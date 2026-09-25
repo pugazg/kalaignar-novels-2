@@ -185,6 +185,11 @@
 - Part006 Pass2B historical-glyph/historical-orthography corrections — **1**
 - Part006 Pass2B total corrections — **6 / 0 unresolved**
 - Part006 Pass2B status promotions — **0**
+- Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part006 Pass3 source-text corrections — **0**
+- Part006 Pass3 structural metadata corrections — **0**
+- Part006 Pass3 unresolved visual/structural questions — **0**
+- Part006 Pass3 status promotions — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -207,4 +212,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 Pass3 — global scans86–102 / local pages1–17.**
+**Part006 Part audit.**

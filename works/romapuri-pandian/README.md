@@ -237,6 +237,11 @@
 - Part006 Pass2B total corrections — **6**
 - Part006 Pass2B unresolved questions — **0**
 - Part006 Pass2B status promotions — **0**
+- Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED**
+- Part006 Pass3 source-text corrections — **0**
+- Part006 Pass3 structural metadata corrections — **0**
+- Part006 Pass3 unresolved visual/structural questions — **0**
+- Part006 Pass3 status promotions — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -332,9 +337,10 @@
 - `PART_006_PASS1_PROGRESS.md`
 - `PART_006_PASS2A_PROGRESS.md`
 - `PART_006_PASS2B_PROGRESS.md`
+- `PART_006_PASS3_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 Pass3 — global scans86–102 / local pages1–17.**
+**Part006 Part audit.**

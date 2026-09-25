@@ -160,3 +160,18 @@ Pass3 is now unblocked but has **not** been started.
 **Part006 Pass3 — global scans86–102 / local pages1–17.**
 
 Do not begin the Part audit until Pass3 closes.
+
+## Post-Pass2B Pass3 closure
+
+Part006 Pass3 is now **COMPLETE / PASS**:
+
+- reviewed — **17/17**
+- source-text corrections at Pass3 — **0**
+- structural metadata corrections at Pass3 — **0**
+- unresolved visual / structural questions — **0**
+- status promotions — **0**
+- durable control — `PART_006_PASS3_PROGRESS.md`
+
+Current frontier:
+
+**Part006 Part audit.**

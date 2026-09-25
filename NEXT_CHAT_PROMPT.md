@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Pass3 scans86–102
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Part audit
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,25 +28,30 @@ Controlling source:
 - Part006 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 - Part006 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
+- Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 
-## Part006 Pass2B closure
+## Part006 Pass3 closure
 
-- Batch 1 — **COMPLETE / PASS — scans86–94 / local1–9**
-- Batch 2 — **COMPLETE / PASS — scans95–102 / local10–17**
-- source-text / lexical / spacing / punctuation corrections — **5**
-- historical-glyph / historical-orthography corrections — **1**
-- total source-supported corrections — **6**
-- pages with corrections — **4**
-- clean pages — **13**
+- source-text corrections at Pass3 — **0**
+- structural metadata corrections at Pass3 — **0**
+- unresolved visual / structural questions — **0**
 - status promotions — **0**
 
-Batch2 added one source-supported correction:
+Pass3 confirmed:
 
-- scan100 / printed98 — `தாமரையிடம் எழுதிக் காட்டினாளே!` → **`தாமரையிடம் எழுதி காட்டினாளே!`**
+- scans86–93 — Chapter 5 continuation / close with correct alternating running furniture;
+- scan88 — displayed threatening palm-leaf message/signature;
+- scan93 — large intentional lower blank field;
+- scan94 — genuine blank physical separator;
+- scan95 — illustrated Chapter 6 title `6 / விறகுவெட்டி`;
+- scan96 — Chapter 6 opening with large intentional upper blank field and no running furniture;
+- scans97–102 — Chapter 6 continuation with correct alternating running furniture;
+- scan101 — displayed written palm-leaf text;
+- scan102 — complete terminal sentence.
 
 Durable progress control:
 
-`PART_006_PASS2B_PROGRESS.md`
+`PART_006_PASS3_PROGRESS.md`
 
 ## Canonical state
 
@@ -59,18 +64,21 @@ visual_fidelity: "needs-review"
 
 ## Exact next activity
 
-**Part006 Pass3 — global scans86–102 / local pages1–17.**
+**Part006 Part audit.**
 
-Perform the meaningful full-page visual / structural verification directly against the controlling source pixels. Verify:
+Reconcile the complete Part006 canonical set and all gate evidence. The audit must verify:
 
-- page type and chapter/section identity;
-- headings and illustrated-title fidelity;
-- blank-page classification;
-- printed pagination and running headers;
-- paragraph/dialogue/displayed-text placement;
-- physical page continuations and page boundaries;
-- any other structural metadata represented in the canonical records.
+- continuous global scan coverage **86–102** and local-page coverage **1–17**;
+- exactly **17** canonical records with no missing or duplicate scan/local-page records;
+- source filename identity on every canonical record;
+- printed-page mapping and null-page exceptions;
+- page-type / section mapping;
+- Pass1 / Pass2A / Pass2B / Pass3 completion evidence;
+- incoming **85→86** boundary state;
+- outgoing **102→103** external-witness state without inferring Part007;
+- unresolved blocker accounting;
+- Parts001–005 frozen-state integrity.
 
-Record source-supported text or structural corrections only. Preserve source-visible forms. Keep all records at `needs-review`; final promotion is deferred until the Part audit and final status synchronization.
+Create/update the Part006 audit control with an explicit PASS/FAIL decision.
 
-Do not begin the Part audit until Pass3 closes. Do not infer Part007 / scan103. Do not modify frozen Parts001–005.
+Do not promote canonical `status` or `visual_fidelity` during the audit. Final metadata/status promotion happens only after the Part audit passes. Do not infer Part007 / scan103.
