@@ -20,15 +20,31 @@
 
 ## Current result
 
-**PART006 PASS 2B BATCH 1 — COMPLETE / PASS — 9/9 REVIEWED**
+**PART006 PASS 2B — COMPLETE / PASS — 17/17 REVIEWED**
 
-- whole-Part reviewed — **9/17**
-- Batch 1 reviewed — **9/9**
+### Batch 1 — COMPLETE / PASS
+
+- scans — **86–94**
+- local pages — **1–9**
+- reviewed — **9/9**
 - source-text / lexical / spacing / punctuation corrections — **4**
 - historical-glyph / historical-orthography corrections — **1**
 - total source-supported corrections — **5**
 - pages with corrections — **3**
 - clean pages — **6**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+
+### Batch 2 — COMPLETE / PASS
+
+- scans — **95–102**
+- local pages — **10–17**
+- reviewed — **8/8**
+- source-text / lexical / spacing / punctuation corrections — **1**
+- historical-glyph / historical-orthography corrections — **0**
+- total source-supported corrections — **1**
+- pages with corrections — **1**
+- clean pages — **7**
 - unresolved lexical / historical-glyph questions — **0**
 - status promotions — **0**
 
@@ -43,10 +59,20 @@
 | 92 | 7 | 90 | 0 | 0 | REVIEWED / PASS |
 | 93 | 8 | 91 | 0 | 0 | REVIEWED / PASS |
 | 94 | 9 | — | 0 | 0 | REVIEWED / PASS |
+| 95 | 10 | — | 0 | 0 | REVIEWED / PASS |
+| 96 | 11 | — | 0 | 0 | REVIEWED / PASS |
+| 97 | 12 | 95 | 0 | 0 | REVIEWED / PASS |
+| 98 | 13 | 96 | 0 | 0 | REVIEWED / PASS |
+| 99 | 14 | 97 | 0 | 0 | REVIEWED / PASS |
+| 100 | 15 | 98 | 1 | 0 | REVIEWED / PASS |
+| 101 | 16 | 99 | 0 | 0 | REVIEWED / PASS |
+| 102 | 17 | 100 | 0 | 0 | REVIEWED / PASS |
 
 ## Source-supported corrections
 
-### scan87 / local2 / printed85
+### Batch 1
+
+#### scan87 / local2 / printed85
 
 1. lexical:
    `இருங்கோவேளைப் பிடித்துவிடுவோம் என்ற வெற்றிக் களிப்போடு`
@@ -56,64 +82,81 @@
    `தலைநகரத்து மக்கள் அதிர்ச்சி அடைந்தனர்.`
    → `தலைநகரத்து மக்கள் அதிர்ச்சி யடைந்தனர்.`
 
-The source visibly prints the glide-bearing form `அதிர்ச்சி யடைந்தனர்`.
-
-### scan88 / local3 / printed86
-
-Word boundary:
+#### scan88 / local3 / printed86
 
 `கவிழ்க்க நடைபெறும் சூழ்ச்சித்திட்டங்களைப்`
 → `கவிழ்க்க நடை பெறும் சூழ்ச்சித்திட்டங்களைப்`
 
-The source visibly separates `நடை` and `பெறும்`.
+#### scan91 / local6 / printed89
 
-### scan91 / local6 / printed89
-
-1. punctuation:
-   `“ரகசியமாகப் பேச வேண்டும்”`
+1. `“ரகசியமாகப் பேச வேண்டும்”`
    → `‘ரகசியமாகப் பேச வேண்டும்’`
-
-2. word boundary:
-   `முகக்குறிப்புக்`
+2. `முகக்குறிப்புக்`
    → `முகக் குறிப்புக்`
 
-Both are directly source-visible.
+### Batch 2
+
+#### scan100 / local15 / printed98
+
+`தாமரையிடம் எழுதிக் காட்டினாளே!`
+→ `தாமரையிடம் எழுதி காட்டினாளே!`
+
+The source visibly prints `எழுதி காட்டினாளே`; no sandhi `க்` is present.
 
 ## Clean-page findings
 
-Clean scans — **86, 89, 90, 92, 93, 94**.
+Batch 1 clean scans — **86, 89, 90, 92, 93, 94**.
+
+Batch 2 clean scans — **95, 96, 97, 98, 99, 101, 102**.
+
+Whole-Part clean pages — **13/17**.
 
 ## Source-sensitive forms explicitly retained
 
-The independent reread confirmed and retained source-visible forms without normalization, including:
+Batch 2 reread confirmed without normalization:
 
-- scan86 — `யவனக் கிழவன்` / `யவனக் கிழவர்`, `உலவிடச் சென்றார்`, `பற்றுந்தான்`
-- scan87 — `திடுமென`, `பிடித்திழுத்து`, `ஆயாசத்தோடு`
-- scan88 — `காணாமற்`, `யென்று`, `வரைவது யாதெனில்-`, `பதில்-செயல்`
-- scan89 — `சிட்டாய்ப்`, `நற நற`, `வீர வாட்களை`, `சோரம்`, `பெருமை-கொள்வோமே`
-- scan90 — `பெருவேந்தே?`, `“அப்படியா?” -`, `சரி..`
-- scan91 — `ஒற்றனிடம்`, `தெரியாதவனைப்போல்`, `எழுதாணியாலேயே`
-- scan92 — `காட்டுமேடெல்லாம்`, `வந்தாளாக்கும்`, `பொன்னவிர்`, `அதிருக்கட்டும்`
-- scan93 — `ஆமாம்-இருங்கோவேளின்`, `பயமே தேவையில்லை-நான்`
-- scan94 — blank physical page; faint reverse-side bleed-through remains excluded as source-visible text
+- scan95 — illustrated title `விறகுவெட்டி`
+- scan96 — `எரிச்சலையுங்கூட`, `தன்னைத்தவிர`, source-visible dash spacing in the self-description
+- scan97 — `இளைஞுமல்லன்`, `வயோதிகனுமல்லன்`, colloquial dialogue forms
+- scan98 — `கனவேகமாகப்`, `தமிழ் நாட்டுக்கு ஈடு தமிழ்நாடுதான்`, `அவ்வளவு தான்`, `‘இருங்கோவேள்’`
+- scan99 — `பிடிக்கவில்லை யென்றாலும்`, `முயன்றாலுங்கூடத்`, `பொன்றில்`, `அப்படி யிருக்கும்`, `ஆரம்பித்தால்!.`
+- scan100 — `கூடேறி`, `சூட்டிலும்`, `கண்டு பிடித்து`, `வாசகந்தான்`
+- scan101 — `கையெழுத்தாட்டம்`, `இரத்தங்கட்டாமல்`, `வந்ததும்....`, `சே... சே.. சே..`
+- scan102 — `காதற் பெருவெள்ளத்தில்`, `மூச்சுப்பை நோய்`, `நாழிகை தவறினாலும் தவறும்`
+
+## Whole-Part Pass2B state
+
+- reviewed — **17/17**
+- Batch 1 — **COMPLETE / PASS — scans86–94 / local1–9**
+- Batch 2 — **COMPLETE / PASS — scans95–102 / local10–17**
+- source-text / lexical / spacing / punctuation corrections — **5**
+- historical-glyph / historical-orthography corrections — **1**
+- total source-supported corrections — **6**
+- pages with corrections — **4**
+- clean pages — **13**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- result — **COMPLETE / PASS**
 
 ## Status discipline
 
-All reviewed Part006 records remain:
+All **17** Part006 canonical records remain:
 
-- `status: "needs-review"`
-- `visual_fidelity: "needs-review"`
+```yaml
+status: "needs-review"
+visual_fidelity: "needs-review"
+```
 
-No status promotion is permitted during Pass2B.
+No status promotion occurred during Pass2B.
 
-## Batch 1 gate decision
+## Gate decision
 
-**PART006 PASS2B BATCH 1 — COMPLETE / PASS — 9/9 REVIEWED / 0 UNRESOLVED**
+**PART006 PASS2B — COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 
-Pass2B remains open.
+Pass3 is now unblocked but has **not** been started.
 
 ## Exact next activity
 
-**Part006 Pass2B Batch 2 — global scans95–102 / local pages10–17 — final 8-page remainder.**
+**Part006 Pass3 — global scans86–102 / local pages1–17.**
 
-Do not begin Pass3 until Pass2B closes.
+Do not begin the Part audit until Pass3 closes.
