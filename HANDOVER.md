@@ -277,13 +277,17 @@
 - Part006 source — **REGISTERED / AUTHORIZED — scans86–102 / 17 pages**
 - Part006 intake + incoming boundary — **PASS / COMPLETE**
 - Part006 incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
-- Part006 canonical records — **10/17**
-- Part006 Pass1 — **IN PROGRESS — 10/17 TEXT-COMPLETE**
+- Part006 canonical records — **17/17**
+- Part006 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part006 Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
+- Part006 Pass1 Batch 2 — **COMPLETE / PASS — scans96–102 / local11–17**
+- Part006 Pass1 source-supported corrections — **1**
+- Part006 Chapter 6 title — **விறகுவெட்டி**
+- Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 Pass1 Batch 2 — scans96–102 / local11–17**
+- exact next activity — **Part006 Pass2A — scans86–102 / local1–17**
 
 ## Boundary
 
@@ -404,7 +408,7 @@
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 Pass1 Batch 2 — scans96–102 / local11–17**
+- prompt frontier — **Part006 Pass2A — scans86–102 / local1–17**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -419,6 +423,6 @@
 
 ## Exact next activity
 
-**Part006 Pass1 Batch 2 — global scans96–102 / local pages11–17 — final 7-page remainder.**
+**Part006 Pass2A — global scans86–102 / local pages1–17.**
 
-Part006 Pass1 Batch1 is COMPLETE / PASS with 10/17 canonical records and 0 unresolved source-reading holds. Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 Pass1 is COMPLETE / PASS — 17/17 TEXT-COMPLETE with 1 source-supported title correction and 0 unresolved source-reading holds. Parts001–005 remain FINAL CLOSED / FROZEN.
