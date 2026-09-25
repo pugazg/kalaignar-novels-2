@@ -222,7 +222,7 @@
 - Part006 Pass1 Batch 1 — **COMPLETE / PASS — scans86–95 / local1–10**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
-- Part006 scan95 — **illustrated Chapter 6 title `விறுவெட்டி`**
+- Part006 scan95 — **illustrated Chapter 6 title `விறகுவெட்டி`**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part005 E17 — **SOURCE-CHECKED / COMPLETE**
