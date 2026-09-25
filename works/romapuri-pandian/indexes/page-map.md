@@ -408,3 +408,27 @@ Pass2B remains open.
 Current frontier:
 
 **Part006 Pass2B Batch 2 — scans95–102 / local10–17 — final 8-page remainder.**
+
+## Part006 Pass2B closure
+
+- Part006 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED**
+- Batch 1 — **COMPLETE / PASS — scans86–94 / local1–9**
+- Batch 2 — **COMPLETE / PASS — scans95–102 / local10–17**
+- source-text / lexical / spacing / punctuation corrections — **5**
+- historical-glyph / historical-orthography corrections — **1**
+- total source-supported corrections — **6**
+- pages with corrections — **4**
+- clean pages — **13**
+- unresolved lexical / historical-glyph questions — **0**
+- status promotions — **0**
+- all 17 Part006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 / scan103 text inferred or imported — **0**
+- frozen Parts001–005 canonical/body mutations — **0**
+- durable control — `PART_006_PASS2B_PROGRESS.md`
+
+Pass3 is now unblocked but has **not** been started.
+
+Current frontier:
+
+**Part006 Pass3 — scans86–102 / local1–17.**
