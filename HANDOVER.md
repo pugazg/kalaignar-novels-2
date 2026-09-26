@@ -313,13 +313,16 @@
 - Part006 documentation synchronization — **PASS / COMPLETE**
 - Part006 documentation-sync canonical page changes — **0**
 - Part006 Tamil archival-ready checkpoint — **PASS / CLOSED**
-- Part006 assembled Tamil — **NEXT GATE**
+- Part006 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- Part006 assembled Tamil coverage — **17/17 physical scans / 16/16 publication-text pages + blank scan94 provenance**
+- Part006 assembled Tamil validation blockers — **0**
+- Part006 English translation planning/setup — **NEXT GATE**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 assembled Tamil construction + audit**
+- exact next activity — **Part006 English translation planning/setup**
 
 ## Boundary
 
@@ -441,13 +444,14 @@
 - `PART_006_FINAL_STATUS_SYNC.md`
 - `PART_006_DOCUMENTATION_SYNC.md`
 - `PART_006_TAMIL_ARCHIVAL_READY.md`
+- `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 assembled Tamil construction + audit**
+- prompt frontier — **Part006 English translation planning/setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -462,6 +466,6 @@
 
 ## Exact next activity
 
-**Part006 assembled Tamil construction + audit.**
+**Part006 English translation planning/setup.**
 
-Part006 Tamil archival-ready checkpoint is PASS / CLOSED. Part006 has 17/17 verified Tamil records, 17/17 verified visual-fidelity records, 0 needs-review, 0 unresolved Tamil/lexical/historical-glyph/visual/structural/documentation blockers, and 0 supplied-Part boundary blockers. No Part006 assembled Tamil or English body was introduced before this checkpoint; Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 assembled Tamil is PASS / CLOSED — 2/2 VERIFIED. Physical coverage is 17/17 scans86–102; publication-text coverage is 16/16 plus blank scan94 provenance. Exact deterministic reconstruction of both assembled files from verified canonical source-transcription blocks passed; missing/duplicate coverage, unsupported Tamil insertion, audit-note leakage, canonical mutation, Part005 duplication, and Part007 leakage are all 0. Parts001–005 remain FINAL CLOSED / FROZEN.
