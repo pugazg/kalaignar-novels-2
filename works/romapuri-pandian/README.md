@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–005 FINAL CLOSED / FROZEN — PART006 E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY NEXT**
+**PART001–005 FINAL CLOSED / FROZEN — PART006 GLOSSARY RECONCILED / PASS — EDITORIAL NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -267,6 +267,9 @@
 - Part006 E19 source-check corrections — **3**
 - Part006 E19 unresolved source-check holds — **0**
 - Part006 unresolved English source-check holds — **0**
+- Part006 glossary reconciliation — **RECONCILED / PASS**
+- Part006 glossary-driven English body edits — **0**
+- Part006 unresolved glossary holds — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -371,9 +374,10 @@
 - `PART_006_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E18_SOURCE_CHECK.md`
 - `translations/en/E19_SOURCE_CHECK.md`
+- `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 whole-Part glossary reconciliation across E18–E19.**
+**Part006 English editorial review across E18–E19.**
