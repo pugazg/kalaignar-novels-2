@@ -2,14 +2,14 @@
 
 ## Current project English state
 
-**PARTS001–005 ENGLISH — FINAL CLOSED / FROZEN; PART006 PLANNING / SETUP COMPLETE / E18 NEXT**
+**PARTS001–005 ENGLISH — FINAL CLOSED / FROZEN; PART006 E18 SOURCE-CHECKED / COMPLETE / E19 NEXT**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
 - Part003 English — **FINAL CLOSED / FROZEN — E11–E12 SOURCE-CHECKED / COMPLETE**
 - Part004 English — **FINAL CLOSED / FROZEN — E13–E15 SOURCE-CHECKED / COMPLETE**
 - Part005 English — **FINAL CLOSED / FROZEN — E16–E17 SOURCE-CHECKED / COMPLETE — 2/2**
-- Part006 English — **PLANNING / SETUP COMPLETE / PASS — E18–E19 RESERVED — E18 NEXT**
+- Part006 English — **IN PROGRESS — E18 SOURCE-CHECKED / COMPLETE — E19 RESERVED / NEXT — 1/2**
 
 ## Part001 historical progress
 
@@ -647,8 +647,8 @@ Tamil prerequisites:
 
 | Batch | Tamil unit | Scans | Planned English file | Status |
 |---|---|---:|---|---|
-| **E18** | `17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | 86–94 | `sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | **RESERVED / NEXT** |
-| **E19** | `18-chapter-06-viragu-vetti.md` | 95–102 | `sections/18-chapter-06-the-woodcutter.md` | **RESERVED** |
+| **E18** | `17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | 86–94 | `sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | **SOURCE-CHECKED / COMPLETE** |
+| **E19** | `18-chapter-06-viragu-vetti.md` | 95–102 | `sections/18-chapter-06-the-woodcutter.md` | **RESERVED / NEXT** |
 
 Planning accounting:
 
@@ -676,3 +676,26 @@ Boundary locks:
 **E18 — draft + source-check Part006 Chapter 5 continuation / scans86–94.**
 
 Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
+
+## Part006 E18 completion accounting
+
+- E18 — **SOURCE-CHECKED / COMPLETE**
+- E19 — **RESERVED / NEXT**
+- maintained Part006 English section files — **1/2**
+- source-checked Part006 English batches — **1/2**
+- Tamil / English total blocks — **88 / 88**
+- Tamil / English rendered blocks — **80 / 80**
+- standalone provenance comments — **8 / 8**
+- source-boundary comments retained — **7 / 7**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **2**
+- unresolved E18 source-check holds — **0**
+- canonical / assembled Tamil edits caused by E18 — **0**
+- Parts001–005 English edits caused by E18 — **0**
+- E19 draft created by E18 — **0**
+- Part007 leakage — **0**
+- durable record — `E18_SOURCE_CHECK.md`
+
+## Exact next activity — project
+
+**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
