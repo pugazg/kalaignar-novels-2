@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–006 FINAL CLOSED / FROZEN — PART007 FINAL STATUS CLOSED — DOCUMENTATION SYNC NEXT**
+**PART001–006 FINAL CLOSED / FROZEN — PART007 DOCUMENTATION SYNC COMPLETE — TAMIL ARCHIVAL-READY NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -311,6 +311,9 @@
 - Part007 Tamil status — **16/16 verified / 0 needs-review**
 - Part007 visual fidelity — **16/16 verified / 0 needs-review**
 - Part007 unresolved status exceptions — **0**
+- Part007 documentation synchronization — **PASS / COMPLETE**
+- Part007 documentation-sync canonical page changes — **0**
+- Part007 Tamil archival-ready checkpoint — **NEXT GATE**
 - Part007 outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
@@ -432,9 +435,12 @@
 - `PART_007_PASS3_PROGRESS.md`
 - `PART_007_AUDIT.md`
 - `PART_007_FINAL_STATUS_SYNC.md`
+- `PART_007_DOCUMENTATION_SYNC.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 documentation synchronization.**
+**Part007 Tamil archival-ready checkpoint.**
+
+Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
