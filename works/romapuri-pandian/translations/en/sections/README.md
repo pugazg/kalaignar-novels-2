@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 E18–E19 are source-checked complete, glossary reconciliation is RECONCILED / PASS, editorial review is PASS / CLOSED, bilingual review is PASS / CLOSED, release/readiness is PASS / CLOSED, release-ready synchronization is PASS / CLOSED, and final closure is next.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–006 are FINAL CLOSED / FROZEN. Part007 is not supplied or registered.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -594,3 +594,20 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **Part006 final closure / freeze.**
+
+## Part006 final-closed English state
+
+- Part006 — **FINAL CLOSED / FROZEN**
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final unresolved blockers — **0**
+- maintained Part006 English body edits caused by final closure — **0**
+- durable final record — `../../../PART_006_FINAL_CLOSURE.md`
+
+## Exact next English activity
+
+None. Part007 English work is not authorized until the Part007 source is supplied, registered, transcribed, verified and assembled.
