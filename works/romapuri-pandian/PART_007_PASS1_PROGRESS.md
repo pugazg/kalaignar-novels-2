@@ -97,3 +97,41 @@ Direct comparison confirms:
 **Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
 
 Do not promote status or visual fidelity during Batch2.
+
+## Post-Batch1 synchronization verification
+
+Pre-Batch1 checkpoint:
+
+`356df0d1575012df0c4a5f4788b4221c449c4995`
+
+Post-Batch1 synchronized checkpoint before this verification record:
+
+`4ab6bd2137919217e7ca3d02ab9fb76e222d4535`
+
+Direct comparison covers **20 commits / 20 changed files**.
+
+Canonical page scope:
+
+- Part007 canonical pages created — **10**
+- exact range — **scans103–112**
+- scans113–118 canonical records created early — **0**
+- frozen Parts001–006 canonical-page changes — **0**
+
+Non-page integrity:
+
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- Part008 / scan119 files — **0**
+- active Git PDF paths — **0**
+- `PART_007_PASS1_PROGRESS.md` — **present**
+
+All Batch1 pages remain:
+
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
+
+The synchronized live frontier is:
+
+**Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
+
+Therefore Batch1 repository drift outside the authorized canonical/control scope — **0**.
