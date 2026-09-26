@@ -244,3 +244,43 @@ On the next explicit continuation with the Part008 source:
 **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup.**
 
 Do not infer scan119 or begin Part008 canonical transcription without the supplied source.
+
+
+## 13. Post-closure synchronization verification
+
+Final-closure record commit:
+
+`02feb79f239b7f6706e707dc33476dc6e3c2ed59`
+
+Post-closure synchronized live head before this record refresh:
+
+`81ea4c23a07cb548a13ce99a0e7e22175090642d`
+
+Direct comparison from the pre-final-closure live head `560b1a8cd458f646ae78513b6de3f021f6df3a55` confirms the complete final-closure activity changed exactly **16 files**:
+
+- durable `PART_007_FINAL_CLOSURE.md` — **1 added**
+- lifecycle/status/navigation/control documents — **15 modified**
+
+No text-bearing authority/body drift occurred:
+
+- canonical `pages/` changes — **0**
+- assembled Tamil section-body changes — **0**
+- maintained Part007 English section-body changes — **0**
+- frozen Parts001–006 English section-body changes — **0**
+- Part008 / scan119 files — **0**
+- active Git PDF paths — **0**
+
+Live-tree verification confirms:
+
+- `PART_007_FINAL_CLOSURE.md` — **present**
+- Part008 / scan119 repository paths — **0**
+- PDF paths in Git — **0**
+
+The synchronized live frontier is therefore:
+
+- Parts001–007 — **FINAL CLOSED / FROZEN**
+- Part008 — **NOT SUPPLIED / NOT REGISTERED**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- next activity — **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied**
+
+Unauthorized textual drift after final closure — **0**.
