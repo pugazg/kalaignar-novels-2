@@ -2,14 +2,14 @@
 
 ## Current project English state
 
-**PARTS001–005 ENGLISH — FINAL CLOSED / FROZEN; PART006 RELEASE-READY SYNC PASS / CLOSED / FINAL CLOSURE NEXT**
+**PARTS001–006 ENGLISH — FINAL CLOSED / FROZEN; PART007 SOURCE NOT SUPPLIED / NOT REGISTERED**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
 - Part003 English — **FINAL CLOSED / FROZEN — E11–E12 SOURCE-CHECKED / COMPLETE**
 - Part004 English — **FINAL CLOSED / FROZEN — E13–E15 SOURCE-CHECKED / COMPLETE**
 - Part005 English — **FINAL CLOSED / FROZEN — E16–E17 SOURCE-CHECKED / COMPLETE — 2/2**
-- Part006 English — **IN PROGRESS — E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILED / PASS — EDITORIAL PASS / CLOSED — BILINGUAL PASS / CLOSED — RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNC PASS / CLOSED — FINAL CLOSURE NEXT**
+- Part006 English — **FINAL CLOSED / FROZEN — E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILED / PASS — EDITORIAL PASS / CLOSED — BILINGUAL PASS / CLOSED — RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNC PASS / CLOSED**
 
 ## Part001 historical progress
 
@@ -824,3 +824,24 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next activity — project
 
 **Part006 final closure / freeze.**
+
+## Part006 final closure state
+
+- final closure — **PASS / CLOSED / FROZEN**
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final unresolved blockers — **0**
+- maintained Part006 English body edits caused by final closure — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable final record — `../../PART_006_FINAL_CLOSURE.md`
+
+## Exact next activity — project
+
+Only when the Part007 source is supplied:
+
+**Part007 source intake + 102→103 adjacent-boundary witness inspection/setup.**
