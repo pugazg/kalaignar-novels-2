@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch1 
 
 “சிவப்புதான்! என்ன அண்ணா இப்படி கேள்வி போடுகிறாய்? உனக்கு முன்னமே தெரியுமா அந்த வாலிபனை?”
 
-“ஊஹும்- தெரியாது! தெரியாது! சந்தேகத்திற்குக் கேட்டேன். நீ அவனை அழைத்து வந்து, அரசிக்கு மருத்துவத்தைத் தொடங்கு. அதோடு ஒன்று - எதற்கும் நாம் ஜாக்கிரதையாக இருப்போம். தப்பித்தவறி நான் இங்கேயிருப்பது அந்த ஊமை வாலிபனுக்குத் தெரிய வேண்டாம். இருங்கோவேள் மன்னன் எங்கேயோ ஓடி விட்டதாக அவனிடம் சொல்லி வையுங்கள். நான் இங்கு வருவதாக இருந்தால் முகத்தை மாற்றிக் கொண்டு தான் வருவேன், உங்களைப் பார்க்க!”
+“ஊஹும்- தெரியாது! தெரியாது! சந்தேகத்திற்குக் கேட்டேன். நீ அவனை அழைத்து வந்து, அரசிக்கு மருத்துவத்தைத் தொடங்கு. அதோடு ஒன்று- எதற்கும் நாம் ஜாக்கிரதையாக இருப்போம். தப்பித்தவறி நான் இங்கேயிருப்பது அந்த ஊமை வாலிபனுக்குத் தெரிய வேண்டாம். இருங்கோவேள் மன்னன் எங்கேயோ ஓடி விட்டதாக அவனிடம் சொல்லி வையுங்கள். நான் இங்கு வருவதாக இருந்தால் முகத்தை மாற்றிக் கொண்டு தான் வருவேன், உங்களைப் பார்க்க!”
 
 “முகத்தை மாற்றிக் கொண்டென்றால், வேறு யாருடைய முகத்தையாவது வாங்கி வைத்துக் கொண்டா?” - எனச் சிரித்துக் கேட்டவாறு இரும ஆரம்பித்தாள் அரசி.
 
@@ -40,3 +40,11 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch1 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 110; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: 108; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
