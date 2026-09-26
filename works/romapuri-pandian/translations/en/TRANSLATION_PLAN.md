@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 E18 SOURCE-CHECKED / COMPLETE — E19 NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–005 are final closed/frozen. Part006 Tamil and assembled Tamil gates are closed, English planning/setup is complete, E18 is source-checked complete, and E19 is the next authorized English batch.
+This is the cumulative control plan for the project-created English translation. Parts001–005 are final closed/frozen. Part006 Tamil and assembled Tamil gates are closed, English planning/setup is complete, and E18–E19 are source-checked complete. Whole-Part Part006 glossary reconciliation is next.
 
 ## Authority hierarchy
 
@@ -832,7 +832,7 @@ Verified Part006 assembled inputs:
 | Batch | Tamil input | Planned English file | Scans | Planning state |
 |---|---|---|---:|---|
 | **E18** | `../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | `sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | 86–94 | **SOURCE-CHECKED / COMPLETE** |
-| **E19** | `../../sections/18-chapter-06-viragu-vetti.md` | `sections/18-chapter-06-the-woodcutter.md` | 95–102 | **RESERVED / NEXT** |
+| **E19** | `../../sections/18-chapter-06-viragu-vetti.md` | `sections/18-chapter-06-the-woodcutter.md` | 95–102 | **SOURCE-CHECKED / COMPLETE** |
 
 Batch discipline:
 
@@ -911,3 +911,24 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Current exact English activity
 
 **E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
+
+## Part006 E19 completion state
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- completed/source-checked — **2/2**
+- E19 Tamil / English total blocks — **71 / 71**
+- E19 Tamil / English rendered blocks — **65 / 65**
+- standalone provenance comments — **6 / 6**
+- source-boundary comments retained — **7 / 7**
+- outgoing-boundary comment retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **3**
+- unresolved E19 source-check holds — **0**
+- canonical / assembled Tamil edits caused by E19 — **0**
+- Parts001–005 / E18 English edits caused by E19 — **0**
+- Part007 leakage — **0**
+- durable source-check — `E19_SOURCE_CHECK.md`
+
+## Current exact English activity
+
+**Part006 whole-Part glossary reconciliation across E18–E19.**
