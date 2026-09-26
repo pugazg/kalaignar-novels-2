@@ -86,3 +86,26 @@ Current frontier:
 **Part006 Tamil archival-ready checkpoint.**
 
 Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
+
+## Part006 Tamil archival-ready closure
+
+- Part006 Tamil archival-ready checkpoint — **PASS / CLOSED**
+- canonical Part006 records — **17/17 verified**
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+- unresolved supplied-Part boundary blockers — **0**
+- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 / scan103 leakage — **0**
+- assembled Part006 section files introduced before archival-ready closure — **0**
+- English Part006 section files introduced before archival-ready closure — **0**
+- frozen Parts001–005 canonical/body mutations — **0**
+- durable control — `PART_006_TAMIL_ARCHIVAL_READY.md`
+
+Current frontier:
+
+**Part006 assembled Tamil construction + audit.**
+
+Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
