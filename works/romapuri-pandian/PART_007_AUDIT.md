@@ -308,3 +308,24 @@ Part007 Tamil archival-ready checkpoint is now **PASS / CLOSED** after the alrea
 Current frontier:
 
 **Part007 assembled Tamil construction + audit.**
+
+
+## Part007 assembled Tamil closure
+
+- Part007 Tamil archival-ready — **PASS / CLOSED**
+- Part007 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- section19 — **Chapter 6 `விறகுவெட்டி` continuation / scans103–104**
+- section20 — **Chapter 7 `தத்தளித்த தாமரை` / scans105–118**
+- physical coverage — **16/16**
+- publication-text coverage — **15/15 + blank scan118 provenance**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part006 body duplication — **0**
+- Part008 leakage — **0**
+- durable control — `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part007 English translation planning/setup.**
