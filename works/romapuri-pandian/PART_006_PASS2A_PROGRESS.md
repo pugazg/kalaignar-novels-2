@@ -229,3 +229,31 @@ All 17 Part006 records remain `status: "needs-review"` / `visual_fidelity: "need
 Current frontier:
 
 **Part006 final metadata/status synchronization.**
+
+## Part006 documentation synchronization
+
+- Part006 documentation synchronization — **PASS / COMPLETE**
+- source intake + incoming-boundary setup — **PASS / COMPLETE**
+- Pass1 — **COMPLETE / PASS — 17/17**
+- Pass2A — **COMPLETE / PASS — 17/17**
+- Pass2B — **COMPLETE / PASS — 17/17**
+- Pass3 — **COMPLETE / PASS — 17/17**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
+- documentation-sync canonical page changes — **0**
+- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 / scan103 leakage — **0**
+- frozen Parts001–005 canonical/body mutations — **0**
+- durable control — `PART_006_DOCUMENTATION_SYNC.md`
+- Tamil archival-ready checkpoint — **NEXT GATE**
+
+Current frontier:
+
+**Part006 Tamil archival-ready checkpoint.**
+
+Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
