@@ -542,3 +542,22 @@ Do not infer scan103 or begin Part007 canonical transcription without the suppli
 - outgoing **118→119 — PENDING Part008 adjacent witness / deferred external boundary evidence**
 - unresolved Part007 intake/boundary blockers — **0**
 - exact next gate — **Part007 Pass1 Batch 1 — scans103–112 / local1–10**
+
+## Part007 Pass1 Batch1 progress
+
+- Batch1 — **COMPLETE / PASS / TEXT-COMPLETE — scans103–112 / local1–10**
+- canonical Part007 records — **10/16**
+- whole-Part Pass1 — **10/16**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- frozen Parts001–006 canonical/body mutations — **0**
+- scan112→113 — **physical sentence continuation witnessed**
+- scan113 body imported into Batch1 — **0**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 / scan119 text inferred — **0**
+- durable control — `PART_007_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
