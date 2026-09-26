@@ -238,6 +238,9 @@
 - Part007 Pass1 Batch 2 — **COMPLETE / PASS / TEXT-COMPLETE — scans113–118 / local11–16**
 - Part007 Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Part007 unresolved Pass1 source-reading holds — **0**
+- Part007 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part007 Pass2A corrections — **9 / 8 pages / 0 unresolved**
+- Part007 Pass2A status promotions — **0**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
@@ -261,4 +264,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part007 Pass2A — scans103–118 / local1–16.**
+**Part007 Pass2B Batch 1 — scans103–111 / local1–9.**
