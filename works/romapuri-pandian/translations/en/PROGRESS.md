@@ -2,13 +2,14 @@
 
 ## Current project English state
 
-**PARTS001–004 ENGLISH — FINAL CLOSED / FROZEN; PART005 GLOSSARY RECONCILED / EDITORIAL REVIEW NEXT**
+**PARTS001–005 ENGLISH — FINAL CLOSED / FROZEN; PART006 PLANNING / SETUP COMPLETE / E18 NEXT**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
 - Part003 English — **FINAL CLOSED / FROZEN — E11–E12 SOURCE-CHECKED / COMPLETE**
 - Part004 English — **FINAL CLOSED / FROZEN — E13–E15 SOURCE-CHECKED / COMPLETE**
-- Part005 English — **IN PROGRESS — E16–E17 SOURCE-CHECKED / COMPLETE — 2/2**
+- Part005 English — **FINAL CLOSED / FROZEN — E16–E17 SOURCE-CHECKED / COMPLETE — 2/2**
+- Part006 English — **PLANNING / SETUP COMPLETE / PASS — E18–E19 RESERVED — E18 NEXT**
 
 ## Part001 historical progress
 
@@ -627,3 +628,51 @@ Part005 English is **FINAL CLOSED / FROZEN**.
 **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
 
 Part006 is not supplied / registered. Do not infer scan86.
+
+## Part006 English planning/setup state
+
+Part006 English planning/setup is **COMPLETE / PASS**.
+
+Tamil prerequisites:
+
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- physical coverage — **17/17 / scans86–102**
+- publication-text coverage — **16/16 + blank scan94 provenance**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+
+### Reserved Part006 batches
+
+| Batch | Tamil unit | Scans | Planned English file | Status |
+|---|---|---:|---|---|
+| **E18** | `17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | 86–94 | `sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | **RESERVED / NEXT** |
+| **E19** | `18-chapter-06-viragu-vetti.md` | 95–102 | `sections/18-chapter-06-the-woodcutter.md` | **RESERVED** |
+
+Planning accounting:
+
+- maintained Part006 English section files — **0/2**
+- source-checked Part006 English batches — **0/2**
+- E18/E19 draft files created in planning — **0**
+- E18/E19 source-check records created in planning — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Parts001–005 English section edits caused by planning — **0**
+- Part007 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `../../PART_006_ENGLISH_PLANNING_SETUP.md`
+
+Boundary locks:
+
+- incoming **85→86 — GENUINE CONTINUATION / AUDITED**
+- Part005 E17 remains frozen; E18 must not backfill it
+- scan94 has no translatable body text
+- outgoing **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
+- E19 must not infer or import Part007 wording
+
+## Exact next activity — project
+
+**E18 — draft + source-check Part006 Chapter 5 continuation / scans86–94.**
+
+Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
