@@ -240,3 +240,46 @@ Structural accounting remains unchanged after the two English substitutions.
 ## Exact next activity
 
 **Part006 release/readiness review and report.**
+
+## Post-review synchronization verification
+
+Bilingual-review baseline:
+
+`727f32c1e3f7f3c1c5900305f40b3e290b0ff2eb`
+
+English section checkpoint after bilingual corrections:
+
+`28de3c7e965a2cb04575550d05e146de04cd9fda`
+
+Post-review synchronized checkpoint before this verification record:
+
+`571d09f5cfad399e3f2eddd13d897850dfb821cc`
+
+Direct repository comparison confirms that the bilingual-review activity changed only:
+
+- E18 English section body — **1 source-supported bilingual-fidelity substitution**
+- E19 English section body — **1 source-supported bilingual-fidelity substitution**
+- `PART_006_BILINGUAL_REVIEW.md`
+- cumulative English control metadata under `translations/en/`
+- Part006 planning/lifecycle controls
+- repository handover / work README / next-chat navigation
+
+and changed:
+
+- canonical `pages/` files — **0**
+- assembled Tamil `sections/` content files — **0**
+- frozen Parts001–005 English section-body files — **0**
+- Part007 / scan103 files — **0**
+- structural/provenance block counts — **0**
+
+The synchronized controls agree on:
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **2 total — E18 1 / E19 1**
+- unresolved bilingual holds — **0**
+- exact next activity — **Part006 release/readiness review and report**
+
+Therefore the bilingual gate introduced no Tamil, frozen-Part, provenance, boundary, or Part007 drift.
