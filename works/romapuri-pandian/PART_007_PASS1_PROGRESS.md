@@ -222,3 +222,45 @@ Direct comparison confirms:
 **Part007 Pass2A — scans103–118 / local1–16.**
 
 Do not promote final status or visual fidelity during Pass2A.
+
+## Post-Batch2 synchronization verification
+
+Batch1 synchronized checkpoint:
+
+`0e2121e9ff6778d1fbe267074132d76e6055d524`
+
+Post-Batch2 synchronized checkpoint before this verification record:
+
+`f45346ce407e816aed487a251f3790e1d745b3a6`
+
+Direct comparison covers **17 commits / 16 changed files**.
+
+Authorized canonical scope:
+
+- Batch2 canonical pages created — **6**
+- exact range — **scans113–118**
+- frozen Parts001–006 canonical-page changes — **0**
+- Part007 scans103–112 canonical-page changes during Batch2 — **0**
+
+Control synchronization:
+
+- lifecycle/navigation/control files changed — **10**
+- `PART_007_PASS1_PROGRESS.md` updated — **1**
+- maintained assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+
+Live-tree verification:
+
+- Part007 canonical records — **16/16**
+- `PART_007_PASS1_PROGRESS.md` — **present**
+- `PART_007_PASS2A_PROGRESS.md` — **not yet created**
+- Part008 / scan119 repository paths — **0**
+- active Git PDF paths — **0**
+
+All 16 Part007 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+The synchronized live frontier is:
+
+**Part007 Pass2A — scans103–118 / local1–16.**
+
+Therefore Batch2 / whole-Part Pass1 repository drift outside the authorized canonical/control scope — **0**.
