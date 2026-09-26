@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–006 FINAL CLOSED / FROZEN — PART007 TAMIL ARCHIVAL-READY CLOSED — ASSEMBLED TAMIL NEXT**
+**PART001–006 FINAL CLOSED / FROZEN — PART007 ASSEMBLED TAMIL CLOSED — ENGLISH PLANNING NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -317,7 +317,10 @@
 - Part007 archival-ready canonical Tamil — **16/16 verified**
 - Part007 archival-ready visual fidelity — **16/16 verified**
 - Part007 archival-ready blockers — **0**
-- Part007 assembled Tamil — **NOT STARTED / NEXT GATE**
+- Part007 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- Part007 assembled Tamil coverage — **16/16 physical scans / 15/15 publication-text pages + blank scan118 provenance**
+- Part007 assembled Tamil validation blockers — **0**
+- Part007 English translation planning/setup — **NEXT GATE**
 - Part007 outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
@@ -441,11 +444,12 @@
 - `PART_007_FINAL_STATUS_SYNC.md`
 - `PART_007_DOCUMENTATION_SYNC.md`
 - `PART_007_TAMIL_ARCHIVAL_READY.md`
+- `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 assembled Tamil construction + audit.**
+**Part007 English translation planning/setup.**
 
-Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+Do not alter verified canonical or assembled Tamil during English planning.
