@@ -21,7 +21,7 @@ The Woodcutter
 
 All her work lay in that forest region.
 
-She travelled a long distance along the edge of the forest, dismounted from her horse, and cast her eyes in all four directions. She saw a ruined mandapam and, beside it, a beautiful pond. It seemed like a place where she could bathe. She decided that it was the safest place for a bath. Tying the horse in a concealed spot, she removed her male clothes, left them on the bank and stepped into the pond. The cool water relieved not only her weariness but even the irritation in her mind. With no desire to come ashore, she swam and played in the water. Wondering how many more days she would have to wander about hiding the radiance of her womanhood beneath men's clothing, she admired the beauty of her own body submerged in the water. When she thought of a woman falling in love with her, laughter rose in her without her realizing it. She laughed aloud.
+She travelled a long distance along the edge of the forest, dismounted from her horse, and looked in all four directions. She saw a ruined mandapam and, beside it, a beautiful pond. It seemed like a place where she could bathe. She decided that it was the safest place for a bath. Tying the horse in a concealed spot, she removed her male clothes, left them on the bank and stepped into the pond. The cool water relieved not only her weariness but even the irritation in her mind. With no desire to come ashore, she swam and played in the water. Wondering how many more days she would have to wander about hiding the radiance of her womanhood beneath men's clothing, she admired the beauty of her own body submerged in the water. When she thought of a woman falling in love with her, laughter rose in her without her realizing it. She laughed aloud.
 
 She did not notice that two eyes were watching that blissful bath through a gap in the bushes. She bathed without concern. Ashamed to watch her bathing, those eyes closed and opened again. Then the eyes moved. After that, they disappeared from the place.
 
@@ -37,7 +37,7 @@ Then he looked at her and asked, "Who are you?"
 
 She made signs to show that she was mute.
 
-He did not understand. Still, he was eager to. "What place are you from?" he asked.
+He did not understand, but he was eager to understand. "What place are you from?" he asked.
 
 Again he did not understand the signs she made. "What's your name?" he asked.
 
@@ -75,7 +75,7 @@ Poor Muthunagai did not know the truth: the Irungovel to whom that medallion bel
 
 "Oh! Sir's mouth has gone nicely red!" said Irungovel, pinching her red lips with his rough fingers. Though she did not like it, the sharp pain that began when his fingers pinched her lips somehow passed away. She managed to compose herself.
 
-However hard Muthunagai tried to turn her eyes away so that she would not keep looking at the striking figure of Irungovel in the woodcutter's guise, she only failed.
+However hard Muthunagai tried to turn her eyes away from Irungovel's striking figure in the woodcutter's guise, she failed every time.
 
 His tall, firm shoulders and broad, expansive chest greatly attracted her. Good heavens! What enormous eyes he had! She delighted in thinking that those eyes were like a standing mirror in which she might look at her own face, place a beauty mark upon it and make herself radiant.
 
@@ -93,9 +93,9 @@ Dizzy from being spun around and around, she lay faint and unable to open her ey
 
 "Muthu! Muthu! Sir! Sir!" he called.
 
-He ran to the pond, brought water and sprinkled it over her. He laid her in his lap and rubbed her chest. At that moment his whole body shivered and trembled! A body trembles in the cold, of course; but he was not a man who did not know that it could tremble even in such heat. The woman who had been lying unconscious suddenly sat up with a start.
+He ran to the pond, brought water and sprinkled it over her. He laid her in his lap and rubbed her chest. At that moment his whole body shivered and trembled! A body trembles in the cold, of course; but he knew that it could tremble even in such heat. The woman who had been lying unconscious suddenly sat up with a start.
 
-Muthunagai was not unaware that the woodcutter, believing her to be a man, was behaving with such abandon that the situation was being drawn somewhere beyond control. She could neither like that situation nor hate it. Pulling the cloth of her turban across her chest, she sat a little farther away from him.
+Muthunagai understood that the woodcutter, believing her to be a man, was behaving with such abandon that the situation was being drawn somewhere beyond control. She could neither like that situation nor hate it. Pulling the cloth of her turban across her chest, she sat a little farther away from him.
 
 Her fear and suspicion that he might have discovered the truth about her increased. She watched his face. She could read no sign at all from that valour-filled face. Irungovel too was born of the great Tamil stock whose code of valour held that it was cowardice even to blink when spears came flying straight at one's eyes! Could one so easily detect changes of feeling and expression on his face?
 
@@ -127,7 +127,7 @@ Irungovel raised his head after finishing it! She was looking anxiously at the b
 
 He could not find the medicinal leaf he was looking for. Determined somehow to pluck the right leaf and take it back, he searched for a while.
 
-For a short time, mutterings such as Chola land—Karikalan—vengeance for vengeance—had moved away from him.
+For a short while, mutterings of Chola land—Karikalan—vengeance for vengeance—had left him.
 
 Some vague, indistinct feeling tossed him about. While she was bathing, he had seen her; his heart had begun to melt at that very moment. When she ate the pongal he had cooked, he saw her from very close by. Then he lifted her and whirled her around.
 
@@ -135,7 +135,7 @@ When she fainted... he had begun rubbing the hollow of her chest, and—tch... t
 
 <!-- source boundary: scan 101 → scan 102 -->
 
-His feet walked in search of the medicinal leaf. But green, fresh thoughts carried him far away, wound him up in a whirlwind of love, and left him struggling, unable to free himself. It could not be said that this flavour of experience was entirely unknown to him.
+His feet carried him in search of the medicinal leaf. But green, fresh thoughts carried him far away, wound him up in a whirlwind of love, and left him struggling, unable to free himself. It could not be said that this flavour of experience was entirely unknown to him.
 
 He had married when he was very young. He had desired and married his maternal uncle's daughter, Perunthevi. For two or three years the two of them had swum and bathed in a great flood of love.
 
@@ -145,9 +145,9 @@ There was no shortage of good physicians among the Velir people.
 
 Even after all the most accomplished physicians attended to her, there was no improvement. The queen had become nothing but skin and bone.
 
-Even if the appointed hour slipped, the giving of medicine to the queen never did. In this condition, Perunthevi merely fulfilled in name the convention that if there is a king, there must also be a queen.
+The appointed hour might slip, but the queen's medicine was never missed. In this condition, Perunthevi merely fulfilled in name the convention that if there is a king, there must also be a queen.
 
-After misfortune befell the country and they came to the forest, need one even ask whether the queen's illness worsened? Thinking of her husband's plight and weeping and weeping, the queen's whole face had become swollen. None of that swollen face now cast even a shadow upon the screen of Irungovel's mind. Only the beauty-filled face of Muthunagai was stirring a great struggle within him.
+After misfortune befell the country and they came to the forest, need one even ask whether the queen's illness worsened? Thinking of her husband's plight and weeping and weeping, the queen's whole face had become swollen. That swollen face no longer cast even a shadow upon the screen of Irungovel's mind. Only the beauty-filled face of Muthunagai was stirring a great struggle within him.
 
 "Why should she, like a golden statue fashioned by gathering all beauty into one form, wander about alone? Is that male clothing meant only to keep danger from befalling her? Or is it to help her fulfil her ideal? Why does she refuse to speak? Is it not because speaking would reveal a woman's voice? If I had not seen her bathing, even I would have been deceived."
 
