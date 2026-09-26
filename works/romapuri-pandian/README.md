@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–005 FINAL CLOSED / FROZEN — PART006 E18 SOURCE-CHECKED / COMPLETE — E19 NEXT**
+**PART001–005 FINAL CLOSED / FROZEN — PART006 E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -256,13 +256,17 @@
 - Part006 assembled Tamil validation blockers — **0**
 - Part006 English translation planning/setup — **COMPLETE / PASS**
 - Part006 reserved English batches — **E18–E19**
-- Part006 English drafted/source-checked — **1/2**
+- Part006 English drafted/source-checked — **2/2**
 - Part006 unresolved English planning holds — **0**
 - Part006 E18 — **SOURCE-CHECKED / COMPLETE — scans86–94**
 - Part006 E18 structural parity — **88/88 total; 80/80 rendered; 8/8 provenance**
 - Part006 E18 source-check corrections — **2**
 - Part006 E18 unresolved source-check holds — **0**
-- Part006 E19 — **RESERVED / NEXT**
+- Part006 E19 — **SOURCE-CHECKED / COMPLETE — scans95–102**
+- Part006 E19 structural parity — **71/71 total; 65/65 rendered; 6/6 provenance**
+- Part006 E19 source-check corrections — **3**
+- Part006 E19 unresolved source-check holds — **0**
+- Part006 unresolved English source-check holds — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -366,9 +370,10 @@
 - `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_006_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E18_SOURCE_CHECK.md`
+- `translations/en/E19_SOURCE_CHECK.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
+**Part006 whole-Part glossary reconciliation across E18–E19.**
