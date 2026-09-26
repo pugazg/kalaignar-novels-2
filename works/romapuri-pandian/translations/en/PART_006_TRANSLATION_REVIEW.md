@@ -332,3 +332,45 @@ Outgoing:
 ## Exact next activity
 
 **Part006 whole-Part bilingual review across the 2 Tamil/English section pairs.**
+
+## Post-review synchronization verification
+
+Editorial-review baseline:
+
+`f0a5fec745aadb19e027056e223f152192e6d387`
+
+English-only section checkpoint:
+
+`df01cc463797265fce3360cc10ee208c0fb6ca67`
+
+Post-review synchronized checkpoint before this verification record:
+
+`b617ca111dbe3669e07c00e38f1ba5804719ae7c`
+
+Direct repository comparison confirms that the editorial-review activity changed:
+
+- E18 English section body — **5 English-only editorial substitutions**
+- E19 English section body — **9 English-only editorial substitutions**
+- `PART_006_TRANSLATION_REVIEW.md`
+- cumulative English control metadata under `translations/en/`
+- Part006 planning/lifecycle controls
+- repository handover / work README / next-chat navigation
+
+and changed:
+
+- canonical `pages/` files — **0**
+- assembled Tamil `sections/` content files — **0**
+- frozen Parts001–005 English section-body files — **0**
+- Part007 / scan103 files — **0**
+- structural/provenance block counts — **0**
+
+The synchronized controls agree on:
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **14 total — E18 5 / E19 9**
+- unresolved editorial holds — **0**
+- exact next activity — **Part006 whole-Part bilingual review across E18–E19**
+
+Therefore the editorial gate introduced no Tamil, frozen-Part, provenance, boundary, or Part007 drift.
