@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–005 FINAL CLOSED / FROZEN — PART006 ASSEMBLED TAMIL PASS / CLOSED — ENGLISH PLANNING NEXT**
+**PART001–005 FINAL CLOSED / FROZEN — PART006 ENGLISH PLANNING COMPLETE / PASS — E18 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -254,7 +254,12 @@
 - Part006 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - Part006 assembled Tamil coverage — **17/17 physical scans / 16/16 publication-text pages + blank scan94 provenance**
 - Part006 assembled Tamil validation blockers — **0**
-- Part006 English translation planning/setup — **NEXT GATE**
+- Part006 English translation planning/setup — **COMPLETE / PASS**
+- Part006 reserved English batches — **E18–E19**
+- Part006 English drafted/source-checked — **0/2**
+- Part006 unresolved English planning holds — **0**
+- Part006 E18 — **RESERVED / NEXT**
+- Part006 E19 — **RESERVED**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -356,9 +361,10 @@
 - `PART_006_DOCUMENTATION_SYNC.md`
 - `PART_006_TAMIL_ARCHIVAL_READY.md`
 - `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_006_ENGLISH_PLANNING_SETUP.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 English translation planning/setup.**
+**E18 — draft + source-check Part006 Chapter 5 continuation / scans86–94.**
