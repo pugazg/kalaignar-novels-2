@@ -364,7 +364,7 @@
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104**
+- exact next activity — **E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118**
 
 ## Boundary
 
@@ -511,11 +511,12 @@
 - `PART_007_TAMIL_ARCHIVAL_READY.md`
 - `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_007_ENGLISH_PLANNING_SETUP.md`
+- `translations/en/E20_SOURCE_CHECK.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104**
+- prompt frontier — **E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -530,6 +531,6 @@
 
 ## Exact next activity
 
-**E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
+**E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118.**
 
-Parts001–006 remain FINAL CLOSED / FROZEN. Part007 canonical Tamil is 16/16 verified; Tamil archival-ready and assembled Tamil are PASS / CLOSED, with 2/2 verified assembled sections. Part007 English planning/setup is COMPLETE / PASS. Reserved batches are E20–E21; no Part007 English draft/source-check files were created during planning. E20 is RESERVED / NEXT for section19 / scans103–104; E21 is RESERVED for section20 / scans105–118. Outgoing 118→119 remains deferred external evidence. Exact next activity: E20 draft + source-check; do not begin E21 until E20 is SOURCE-CHECKED / COMPLETE.
+Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Tamil is fully verified and assembled Tamil is PASS / CLOSED — 2/2 VERIFIED. English planning/setup is COMPLETE / PASS. E20 (Chapter 6 continuation / scans103–104) is SOURCE-CHECKED / COMPLETE with 14/14 structural parity, 3 source-check corrections and 0 unresolved holds. E21 is RESERVED / NEXT for Chapter 7 / scans105–118. No canonical/assembled Tamil or frozen earlier-Part English was changed by E20. Exact next activity: E21 draft + source-check; do not begin whole-Part glossary reconciliation until E21 closes.
