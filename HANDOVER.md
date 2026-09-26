@@ -534,4 +534,4 @@
 
 **Part007 whole-Part glossary reconciliation across E20–E21.**
 
-Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Tamil is fully verified and assembled Tamil is PASS / CLOSED — 2/2 VERIFIED. English planning/setup is COMPLETE / PASS. E20 and E21 are both SOURCE-CHECKED / COMPLETE (2/2), with structural parity 14/14 and 124/124 respectively, 0 unresolved source-check holds, 0 canonical/assembled Tamil edits, 0 frozen earlier-Part English edits, and 0 Part008 leakage. Exact next activity: Part007 whole-Part glossary reconciliation across E20–E21.
+Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Tamil and assembled Tamil are fully closed. English E20–E21 are SOURCE-CHECKED / COMPLETE — 2/2. Part007 glossary reconciliation is RECONCILED / PASS; English editorial review is PASS / CLOSED with 18 corrections; whole-Part bilingual review is PASS / CLOSED — 2/2 PAIRS with 3 additional English-only fidelity corrections. Structural parity is 138/138 total blocks, 124/124 rendered, 14/14 standalone provenance, with 0 unresolved source-check/glossary/editorial/bilingual holds and 0 Part008 leakage. Exact next activity: Part007 release/readiness review and report.
