@@ -347,9 +347,10 @@
 - Part007 source — **REGISTERED / AUTHORIZED — scans103–118 / 16 pages**
 - Part007 intake + incoming boundary — **PASS / COMPLETE**
 - Part007 incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
-- Part007 canonical records — **10/16**
+- Part007 canonical records — **16/16**
 - Part007 Pass1 Batch 1 — **COMPLETE / PASS / TEXT-COMPLETE — scans103–112 / local1–10**
-- Part007 whole-Part Pass1 — **10/16**
+- Part007 Pass1 Batch 2 — **COMPLETE / PASS / TEXT-COMPLETE — scans113–118 / local11–16**
+- Part007 Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Part007 unresolved Pass1 source-reading holds — **0**
 - Part007 scan105 — **illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`**
 - Part007 scan118 — **blank physical page**
@@ -360,7 +361,7 @@
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder**
+- exact next activity — **Part007 Pass2A — scans103–118 / local1–16**
 
 ## Boundary
 
@@ -502,7 +503,7 @@
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder**
+- prompt frontier — **Part007 Pass2A — scans103–118 / local1–16**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -517,6 +518,6 @@
 
 ## Exact next activity
 
-**Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
+**Part007 Pass2A — scans103–118 / local1–16.**
 
-Part006 remains FINAL CLOSED / FROZEN. Part007 Pass1 Batch 1 is COMPLETE / PASS / TEXT-COMPLETE across scans103–112 / local1–10. Canonical coverage is 10/16, all ten records remain needs-review for text and visual fidelity, unresolved Pass1 holds are 0, and no frozen Parts001–006 body was changed. The 112→113 physical sentence continuation is witnessed without importing scan113 into Batch1. Pass1 Batch 2 scans113–118 / local11–16 is next.
+Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Pass1 is COMPLETE / PASS — 16/16 TEXT-COMPLETE across scans103–118. Batch2 closed scans113–118 / local11–16, including blank physical scan118. All 16 records remain needs-review for text and visual fidelity; unresolved Pass1 holds are 0; no frozen Parts001–006 body was changed; outgoing 118→119 remains deferred external evidence. Part007 Pass2A scans103–118 is next.
