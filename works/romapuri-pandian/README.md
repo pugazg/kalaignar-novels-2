@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–005 FINAL CLOSED / FROZEN — PART006 RELEASE-READY SYNC PASS / CLOSED — FINAL CLOSURE NEXT**
+**PART001–006 FINAL CLOSED / FROZEN — PART007 SOURCE NOT SUPPLIED / NOT REGISTERED**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -280,6 +280,9 @@
 - Part006 unresolved release/readiness blockers — **0**
 - Part006 release-ready synchronization — **PASS / CLOSED**
 - Part006 release-ready synchronization blockers — **0**
+- Part006 final closure — **PASS / CLOSED / FROZEN**
+- Part006 final unresolved blockers — **0**
+- Part007 source — **NOT SUPPLIED / NOT REGISTERED**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -389,9 +392,10 @@
 - `translations/en/PART_006_BILINGUAL_REVIEW.md`
 - `translations/en/PART_006_RELEASE_REPORT.md`
 - `PART_006_RELEASE_READY_SYNC.md`
+- `PART_006_FINAL_CLOSURE.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 final closure / freeze.**
+**Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
