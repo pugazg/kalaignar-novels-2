@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–006 FINAL CLOSED / FROZEN — PART007 E20–E21 SOURCE-CHECKED — GLOSSARY NEXT**
+**PART001–006 FINAL CLOSED / FROZEN — PART007 BILINGUAL REVIEW CLOSED — RELEASE REVIEW NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -324,14 +324,13 @@
 - Part007 reserved English batches — **E20–E21**
 - Part007 English drafted/source-checked — **2/2**
 - Part007 E20 — **SOURCE-CHECKED / COMPLETE — scans103–104**
-- Part007 E20 structural parity — **14/14 total; 12/12 rendered; 2/2 provenance**
-- Part007 E20 source-check corrections — **3**
-- Part007 E20 unresolved source-check holds — **0**
 - Part007 E21 — **SOURCE-CHECKED / COMPLETE — scans105–118**
-- Part007 E21 structural parity — **124/124 total; 112/112 rendered; 12/12 provenance**
-- Part007 E21 source-check corrections — **4**
-- Part007 E21 unresolved source-check holds — **0**
-- Part007 unresolved English source-check holds — **0**
+- Part007 glossary reconciliation — **RECONCILED / PASS**
+- Part007 English editorial review — **PASS / CLOSED — 18 corrections**
+- Part007 whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- Part007 bilingual-review corrections — **3**
+- Part007 structural parity — **138/138 total; 124/124 rendered; 14/14 provenance**
+- Part007 unresolved English review holds — **0**
 - Part007 unresolved English planning holds — **0**
 - Part007 outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 - Part007 unresolved intake/boundary blockers — **0**
@@ -460,11 +459,12 @@
 - `PART_007_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E20_SOURCE_CHECK.md`
 - `translations/en/E21_SOURCE_CHECK.md`
+- `translations/en/PART_007_GLOSSARY_RECONCILIATION.md`
+- `translations/en/PART_007_TRANSLATION_REVIEW.md`
+- `translations/en/PART_007_BILINGUAL_REVIEW.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 whole-Part glossary reconciliation across E20–E21.**
-
-Do not begin English editorial review until the glossary reconciliation gate closes.
+**Part007 release/readiness review and report.**
