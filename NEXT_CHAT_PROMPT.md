@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part007 Pass2A — scans103–118
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part007 Pass2B Batch1 — scans103–111
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,66 +21,78 @@ Controlling source:
 - source text layer — **no usable parsed text**
 - controlling representation — **rendered source page images**
 - source intake — **REGISTERED / AUTHORIZED**
-- intake + incoming-boundary setup — **PASS / COMPLETE**
 - incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 
 ## Part007 Pass1 closed state
 
-**PART007 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
-
-- Batch1 — **COMPLETE / PASS — scans103–112 / local1–10**
-- Batch2 — **COMPLETE / PASS — scans113–118 / local11–16**
+- Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - canonical records — **16/16**
-- global scan coverage — **103–118 continuous**
-- local-page coverage — **1–16 continuous**
-- text-bearing physical pages — **15/16**
-- blank physical pages — **1/16 — scan118**
 - unresolved Pass1 source-reading holds — **0**
+
+## Part007 Pass2A closed state
+
+**PART007 PASS2A — COMPLETE / PASS — 16/16 REVIEWED**
+
+- source-supported corrections — **9**
+- pages with corrections — **8**
+- clean pages — **8**
+- unresolved textual questions — **0**
+- printed-page mapping corrections — **0**
+- page-type / section corrections — **0**
+- boundary / continuation corrections — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
-- all records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- all 16 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - frozen Parts001–006 canonical/body mutations — **0**
 - Part008 / scan119 text inferred — **0**
 
+Pass2A correction scans:
+
+- scan103 — 1
+- scan104 — 1
+- scan108 — 2
+- scan110 — 1
+- scan111 — 1
+- scan112 — 1
+- scan113 — 1
+- scan117 — 1
+
 Durable control:
 
-`PART_007_PASS1_PROGRESS.md`
+`PART_007_PASS2A_PROGRESS.md`
 
-## Structural state
+## Fixed Pass2B cadence
 
-- scans103–104 — Chapter 6 `விறகுவெட்டி` continuation / close
-- scan105 — illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`
-- scan106 — Chapter 7 opening page without normal printed page numeral/header
-- scans107–117 — Chapter 7 narrative
-- scan118 — blank physical terminal page
-- scan112→113 — continuation preserved
-- scan116→117 — continuation preserved
-- scan117 ends on a complete source sentence
+- normal iteration — **9 physical pages**
+- Batch 1 — **scans103–111 / local1–9**
+- Batch 2 — **scans112–118 / local10–16 — final 7-page remainder**
 
 ## Exact next activity
 
-**Part007 Pass2A — global scans103–118 / local pages1–16.**
+**Part007 Pass2B Batch 1 — global scans103–111 / local pages1–9.**
 
-Perform an independent direct source-pixel reread of all 16 Part007 canonical records for:
+Perform an independent source-pixel reread for:
 
-- exact words and word boundaries;
-- punctuation, quotation marks and ellipses;
-- paragraph/dialogue segmentation;
-- displayed/quoted text;
-- printed-page mapping and running furniture;
-- chapter-title/opening-page/blank-page structure;
-- physical scan continuations and boundary joins.
+- lexical identity and exact word boundaries;
+- spacing-sensitive forms;
+- punctuation-sensitive forms;
+- historical Tamil glyph / orthography identity;
+- proper names and source-sensitive compounds;
+- retained source variants that must not be normalized.
 
 Requirements:
 
 - source pixels remain controlling authority;
-- make only source-supported Tamil corrections;
-- record every correction with scan/local/printed page and before → after evidence;
-- unresolved textual questions must be explicit;
-- do not promote `status` or `visual_fidelity` during Pass2A;
+- review scans103–111 only in Batch1;
+- record source-text/lexical/spacing/punctuation corrections separately from historical-glyph/historical-orthography corrections;
+- explicitly list source-sensitive forms retained without normalization;
+- unresolved lexical/historical-glyph questions must be explicit;
+- do not promote `status` or `visual_fidelity`;
 - do not modify frozen Parts001–006;
 - do not infer Part008 / scan119;
-- create/update durable `PART_007_PASS2A_PROGRESS.md`.
+- create/update `PART_007_PASS2B_PROGRESS.md`.
 
-After Pass2A closes, proceed to **Part007 Pass2B**.
+After Batch1 closes, proceed to **Part007 Pass2B Batch 2 — scans112–118 / local10–16 — final 7-page remainder**.
+
+Do not begin Pass3 until Pass2B closes.
