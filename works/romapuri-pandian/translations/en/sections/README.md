@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 English planning/setup is complete with E18–E19 reserved and E18 next.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 E18 is source-checked complete and E19 is next.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -455,10 +455,10 @@ Part006 Tamil prerequisites are closed:
 
 | Batch | Verified Tamil source | Planned English file | Scans | State |
 |---|---|---|---:|---|
-| E18 | `../../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | `17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | 86–94 | **RESERVED / NEXT** |
-| E19 | `../../../sections/18-chapter-06-viragu-vetti.md` | `18-chapter-06-the-woodcutter.md` | 95–102 | **RESERVED** |
+| E18 | `../../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | `17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | 86–94 | **SOURCE-CHECKED / COMPLETE** |
+| E19 | `../../../sections/18-chapter-06-viragu-vetti.md` | `18-chapter-06-the-woodcutter.md` | 95–102 | **RESERVED / NEXT** |
 
-Part006 English section files — **0/2 drafted; 0/2 source-checked**.
+Part006 English section files — **1/2 drafted; 1/2 source-checked**.
 
 ### Part006 boundary safeguards
 
@@ -483,3 +483,21 @@ Part006 English section files — **0/2 drafted; 0/2 source-checked**.
 **E18 — draft + source-check Part006 Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / scans86–94.**
 
 Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
+
+### E18 closed state
+
+- E18 — **SOURCE-CHECKED / COMPLETE**
+- Tamil / English total blocks — **88 / 88**
+- Tamil / English rendered blocks — **80 / 80**
+- standalone provenance comments — **8 / 8**
+- source-boundary comments retained — **7 / 7**
+- incoming-boundary comment retained — **1 / 1**
+- blank scan94 provenance retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **2**
+- unresolved source-check holds — **0**
+- durable record — `../E18_SOURCE_CHECK.md`
+
+## Exact next English activity
+
+**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
