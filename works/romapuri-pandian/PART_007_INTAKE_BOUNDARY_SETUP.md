@@ -143,3 +143,25 @@ The synchronized live frontier is:
 Current frontier:
 
 **Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
+
+## Part007 Pass1 closure
+
+- Pass1 Batch1 — **COMPLETE / PASS / TEXT-COMPLETE — scans103–112 / local1–10**
+- Pass1 Batch2 — **COMPLETE / PASS / TEXT-COMPLETE — scans113–118 / local11–16**
+- whole-Part Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+- canonical Part007 records — **16/16**
+- text-bearing physical pages — **15/16**
+- blank physical pages — **1/16 — scan118**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all Part007 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- frozen Parts001–006 canonical/body mutations — **0**
+- scan116→117 continuation — **CONFIRMED**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 / scan119 text inferred — **0**
+- durable control — `PART_007_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part007 Pass2A — scans103–118 / local1–16.**
