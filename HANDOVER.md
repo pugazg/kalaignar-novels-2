@@ -316,13 +316,18 @@
 - Part006 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - Part006 assembled Tamil coverage — **17/17 physical scans / 16/16 publication-text pages + blank scan94 provenance**
 - Part006 assembled Tamil validation blockers — **0**
-- Part006 English translation planning/setup — **NEXT GATE**
+- Part006 English translation planning/setup — **COMPLETE / PASS**
+- Part006 reserved English batches — **E18–E19**
+- Part006 English drafted/source-checked — **0/2**
+- Part006 unresolved English planning holds — **0**
+- E18 — **RESERVED / NEXT**
+- E19 — **RESERVED**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 English translation planning/setup**
+- exact next activity — **E18 draft + source-check Part006 Chapter 5 continuation / scans86–94**
 
 ## Boundary
 
@@ -445,13 +450,14 @@
 - `PART_006_DOCUMENTATION_SYNC.md`
 - `PART_006_TAMIL_ARCHIVAL_READY.md`
 - `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_006_ENGLISH_PLANNING_SETUP.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 English translation planning/setup**
+- prompt frontier — **E18 draft + source-check / Part006 scans86–94**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -466,6 +472,6 @@
 
 ## Exact next activity
 
-**Part006 English translation planning/setup.**
+**E18 — draft + source-check Part006 Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / scans86–94.**
 
-Part006 assembled Tamil is PASS / CLOSED — 2/2 VERIFIED. Physical coverage is 17/17 scans86–102; publication-text coverage is 16/16 plus blank scan94 provenance. Exact deterministic reconstruction of both assembled files from verified canonical source-transcription blocks passed; missing/duplicate coverage, unsupported Tamil insertion, audit-note leakage, canonical mutation, Part005 duplication, and Part007 leakage are all 0. Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 English translation planning/setup is COMPLETE / PASS. The next non-colliding batches are E18–E19: E18 covers Chapter 5 continuation scans86–94 and is RESERVED / NEXT; E19 covers Chapter 6 `விறகுவெட்டி` scans95–102 and is RESERVED. Planning created 0 English draft files and 0 source-check records, changed 0 canonical/assembled Tamil and 0 frozen Parts001–005 English bodies, and introduced 0 Part007 leakage.
