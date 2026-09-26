@@ -218,6 +218,9 @@
 - Part006 glossary reconciliation — **RECONCILED / PASS**
 - Part006 glossary-driven English body edits — **0**
 - Part006 unresolved glossary holds — **0**
+- Part006 English editorial review — **PASS / CLOSED**
+- Part006 editorial corrections — **14 total — E18 5 / E19 9**
+- Part006 unresolved editorial holds — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -240,4 +243,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 English editorial review across E18–E19.**
+**Part006 whole-Part bilingual review across E18–E19.**
