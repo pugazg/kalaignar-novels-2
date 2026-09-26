@@ -262,3 +262,22 @@ Current Part006 English state:
 Current frontier:
 
 **Part006 whole-Part glossary reconciliation across E18–E19.**
+
+## Post-planning glossary reconciliation closure
+
+Part006 whole-Part English glossary reconciliation is now **RECONCILED / PASS**:
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- maintained Part006 English files checked — **2/2**
+- glossary-driven body edits — **0**
+- accidental recurring-name/title/alias/transliteration drift — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable record — `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
+
+Current frontier:
+
+**Part006 English editorial review across E18–E19.**
