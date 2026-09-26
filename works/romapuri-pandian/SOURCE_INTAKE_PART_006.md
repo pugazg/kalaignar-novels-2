@@ -324,3 +324,31 @@ Current frontier:
 **Part006 English translation planning/setup.**
 
 Do not alter verified canonical or assembled Tamil during English planning.
+
+## Part006 release-ready synchronization closure
+
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E18–E19 source-check — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- structural parity — **159/159 total; 145/145 rendered; 14/14 provenance**
+- unresolved release/readiness blockers — **0**
+- unresolved release-ready synchronization blockers — **0**
+- canonical page changes during synchronization — **0**
+- assembled Tamil body changes during synchronization — **0**
+- maintained Part006 English body changes during synchronization — **0**
+- frozen Parts001–005 English changes — **0**
+- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 / scan103 leakage — **0**
+- active Git PDF paths — **0**
+- durable control — `PART_006_RELEASE_READY_SYNC.md`
+
+Current frontier:
+
+**Part006 final closure / freeze.**
