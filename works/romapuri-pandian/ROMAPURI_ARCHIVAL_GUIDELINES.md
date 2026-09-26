@@ -686,3 +686,33 @@ Do not alter verified canonical or assembled Tamil during English planning.
 Current frontier:
 
 **Part006 final closure / freeze.**
+
+## Part006 final closure / freeze
+
+- Part006 final closure — **PASS / CLOSED / FROZEN**
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E18–E19 source-check — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final unresolved blockers — **0**
+- canonical page changes caused by final closure — **0**
+- assembled Tamil body changes caused by final closure — **0**
+- maintained Part006 English body changes caused by final closure — **0**
+- frozen Parts001–005 changes — **0**
+- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part007 / scan103 leakage — **0**
+- active Git PDF paths — **0**
+- durable control — `PART_006_FINAL_CLOSURE.md`
+
+Current frontier:
+
+**Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
+
+Do not infer scan103 or begin Part007 canonical transcription without the supplied source.
