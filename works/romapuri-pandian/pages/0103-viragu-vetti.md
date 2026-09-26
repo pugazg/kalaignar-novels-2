@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch1 
 
 ## Source transcription
 
-அவன் பார்க்கும் பச்சிலைகளினுடைய பசுமை நிறத்தின் மீதெல்லாம் அவள் பளிங்கு முகத்தையே கண்டான். அவள் கழுத்தைத் திருப்புவது போல் அந்தப் பச்சிலையை எப்படிப் பறிப்பது என்று தயங்கி நின்றான். பெரிய மரமொன்றில் ஒரு நீலநிறப் பசலைக்கொடி படர்ந்து கிடந்தது. அந்தக் கொடியை அவள் குளிக்கும்போது கண்ட இடை நெளிவோடு ஒப்பிட்டுப் பார்த்து, கொடி தோற்று விட்டதாக வலிய வந்து தீர்ப்புக் கூறினான். வழக்கு நடக்காமலே! செவ்விளநீர் தாங்கி நிற்கும் இளந் தென்னைகளைக் கண்டான். ஏனோ அவனையறியாமல் பெருமூச்சு எழுந்தது. கண்களை மூடிக் கொண்டு நின்றான்.
+அவன் பார்க்கும் பச்சிலைகளினுடைய பசுமை நிறத்தின் மீதெல்லாம், அவள் பளிங்கு முகத்தையே கண்டான். அவள் கழுத்தைத் திருப்புவது போல் அந்தப் பச்சிலையை எப்படிப் பறிப்பது என்று தயங்கி நின்றான். பெரிய மரமொன்றில் ஒரு நீலநிறப் பசலைக்கொடி படர்ந்து கிடந்தது. அந்தக் கொடியை அவள் குளிக்கும்போது கண்ட இடை நெளிவோடு ஒப்பிட்டுப் பார்த்து, கொடி தோற்று விட்டதாக வலிய வந்து தீர்ப்புக் கூறினான். வழக்கு நடக்காமலே! செவ்விளநீர் தாங்கி நிற்கும் இளந் தென்னைகளைக் கண்டான். ஏனோ அவனையறியாமல் பெருமூச்சு எழுந்தது. கண்களை மூடிக் கொண்டு நின்றான்.
 
 ஏனெனில், திடீரெனக் கண்ணைத் திறந்து, நாடி வந்த பச்சிலையைப் பறித்து விடலாம் என்ற தந்திரம்- இல்லாவிட்டால் பச்சிலைச் செடிகள் அவளாகவே மாறிவிடுகின்றனவாம்! கண்ணை மூடினால் இன்னும் மோசம்! குளக்கரை எதிரே வந்து நின்று அவன் உயிரை மெல்ல மெல்லக் கொல்ல முனைந்தது.
 
@@ -46,3 +46,11 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch1 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 103; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 101; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
