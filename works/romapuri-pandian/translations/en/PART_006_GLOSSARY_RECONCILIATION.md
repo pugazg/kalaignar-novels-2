@@ -198,3 +198,25 @@ Part006 English editorial review has now closed on top of the reconciled glossar
 Current frontier:
 
 **Part006 whole-Part bilingual review across E18–E19.**
+
+## Post-bilingual-review closure
+
+Part006 whole-Part bilingual review is now **PASS / CLOSED — 2/2 PAIRS**.
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- structural parity — **159/159 total; 145/145 rendered; 14/14 provenance**
+- bilingual-review corrections — **2 — E18 1 / E19 1**
+- complete source meaning coverage — **PASS**
+- omitted / duplicated source meaning — **0 / 0**
+- unresolved bilingual holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable record — `translations/en/PART_006_BILINGUAL_REVIEW.md`
+
+Current frontier:
+
+**Part006 release/readiness review and report.**
