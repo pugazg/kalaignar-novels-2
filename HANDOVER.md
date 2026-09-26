@@ -332,12 +332,15 @@
 - Part006 glossary reconciliation — **RECONCILED / PASS**
 - Part006 glossary-driven English body edits — **0**
 - Part006 unresolved glossary holds — **0**
+- Part006 English editorial review — **PASS / CLOSED**
+- Part006 editorial corrections — **14 total — E18 5 / E19 9**
+- Part006 unresolved editorial holds — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 English editorial review across E18–E19**
+- exact next activity — **Part006 whole-Part bilingual review across E18–E19**
 
 ## Boundary
 
@@ -464,13 +467,14 @@
 - `translations/en/E18_SOURCE_CHECK.md`
 - `translations/en/E19_SOURCE_CHECK.md`
 - `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
+- `translations/en/PART_006_TRANSLATION_REVIEW.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 English editorial review across E18–E19**
+- prompt frontier — **Part006 whole-Part bilingual review across E18–E19**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -485,6 +489,6 @@
 
 ## Exact next activity
 
-**Part006 English editorial review across E18–E19.**
+**Part006 whole-Part bilingual review across E18–E19.**
 
-Part006 glossary reconciliation is RECONCILED / PASS across the complete E18–E19 English layer. Both maintained files were checked; accidental recurring-name, alias, title, Yavana/devotee, transliteration, food/plant/cultural-term, and context-sensitive Velir drift are all 0. No E18/E19 body edits were required, unresolved glossary holds are 0, canonical/assembled Tamil and frozen Parts001–005 English remain unchanged, and editorial review is next.
+Part006 English editorial review is PASS / CLOSED across all E18–E19 pages. Fourteen English-only corrections were applied — 5 in E18 and 9 in E19 — for grammar, punctuation, awkward literal phrasing, displayed-letter quotation structure and readability, while preserving Tamil meaning, locked glossary choices and all provenance/source-boundary blocks. Unresolved editorial holds are 0; canonical/assembled Tamil, frozen Parts001–005 English and Part007 remain unchanged. Whole-Part bilingual review is next.
