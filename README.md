@@ -199,7 +199,10 @@
 - Part006 documentation synchronization — **PASS / COMPLETE**
 - Part006 documentation-sync canonical page changes — **0**
 - Part006 Tamil archival-ready checkpoint — **PASS / CLOSED**
-- Part006 assembled Tamil — **NEXT GATE**
+- Part006 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- Part006 assembled Tamil coverage — **17/17 physical scans / 16/16 publication-text pages + blank scan94 provenance**
+- Part006 assembled Tamil validation blockers — **0**
+- Part006 English translation planning/setup — **NEXT GATE**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -222,4 +225,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 assembled Tamil construction + audit.**
+**Part006 English translation planning/setup.**
