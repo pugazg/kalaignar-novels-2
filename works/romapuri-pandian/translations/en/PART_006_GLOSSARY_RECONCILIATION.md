@@ -178,3 +178,23 @@ Part006 English state after this gate:
 **Part006 English editorial review across E18–E19.**
 
 Editorial review may improve English only where source fidelity, grammar, clarity, or internal consistency requires it. It must not alter verified Tamil, reopen frozen Parts001–005 English, or infer Part007.
+
+## Post-reconciliation editorial-review closure
+
+Part006 English editorial review has now closed on top of the reconciled glossary state:
+
+- editorial review — **PASS / CLOSED**
+- E18 editorial corrections — **5**
+- E19 editorial corrections — **9**
+- total editorial corrections — **14**
+- locked glossary decisions changed — **0**
+- unresolved editorial holds — **0**
+- unresolved terminology holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable record — `PART_006_TRANSLATION_REVIEW.md`
+
+Current frontier:
+
+**Part006 whole-Part bilingual review across E18–E19.**
