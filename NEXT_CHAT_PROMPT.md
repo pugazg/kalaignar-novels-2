@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part007 Pass1 Batch2 — scans113–118
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part007 Pass2A — scans103–118
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,59 +23,64 @@ Controlling source:
 - source intake — **REGISTERED / AUTHORIZED**
 - intake + incoming-boundary setup — **PASS / COMPLETE**
 - incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 
-## Part007 Pass1 state
+## Part007 Pass1 closed state
 
-Batch 1 is **COMPLETE / PASS / TEXT-COMPLETE**.
+**PART007 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 
-- Batch1 scans — **103–112**
-- Batch1 local pages — **1–10**
-- canonical Part007 records — **10/16**
-- whole-Part Pass1 — **10/16**
+- Batch1 — **COMPLETE / PASS — scans103–112 / local1–10**
+- Batch2 — **COMPLETE / PASS — scans113–118 / local11–16**
+- canonical records — **16/16**
+- global scan coverage — **103–118 continuous**
+- local-page coverage — **1–16 continuous**
+- text-bearing physical pages — **15/16**
+- blank physical pages — **1/16 — scan118**
 - unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
-- all ten Batch1 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- all records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - frozen Parts001–006 canonical/body mutations — **0**
+- Part008 / scan119 text inferred — **0**
 
 Durable control:
 
 `PART_007_PASS1_PROGRESS.md`
 
-## Batch1 structural state
+## Structural state
 
-- scans103–104 — Chapter 6 `விறகுவெட்டி` continuation / close, printed101–102
+- scans103–104 — Chapter 6 `விறகுவெட்டி` continuation / close
 - scan105 — illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`
-- scan106 — Chapter 7 opening page without ordinary running furniture
-- scans107–112 — Chapter 7 body, printed105–110
-- scan112→113 — **physical sentence continuation witnessed**
-- Batch1 scan112 ends `...வீரர்களில் ஒருவனை அழைத்துச் சாய்ந்து`
-- scan113 begins `கிடக்கும் கைதிகளுக்கு...`
-- scan113 source body imported into Batch1 canonical records — **0**
-
-## Batch2 source extent
-
-- Batch 2 — **scans113–118 / local11–16 — final 6-page remainder**
-- scans113–117 — Chapter 7 narrative, printed111–115
-- scan118 — **blank physical page**
-- outgoing **118→119 — PENDING Part008 adjacent witness / deferred external boundary evidence**
+- scan106 — Chapter 7 opening page without normal printed page numeral/header
+- scans107–117 — Chapter 7 narrative
+- scan118 — blank physical terminal page
+- scan112→113 — continuation preserved
+- scan116→117 — continuation preserved
+- scan117 ends on a complete source sentence
 
 ## Exact next activity
 
-**Part007 Pass1 Batch 2 — global scans113–118 / local pages11–16 — final 6-page remainder.**
+**Part007 Pass2A — global scans103–118 / local pages1–16.**
 
-Create canonical Part007 records for scans113–118 only from the rendered source pixels.
+Perform an independent direct source-pixel reread of all 16 Part007 canonical records for:
+
+- exact words and word boundaries;
+- punctuation, quotation marks and ellipses;
+- paragraph/dialogue segmentation;
+- displayed/quoted text;
+- printed-page mapping and running furniture;
+- chapter-title/opening-page/blank-page structure;
+- physical scan continuations and boundary joins.
 
 Requirements:
 
-- continue scan112→113 exactly from source evidence;
-- transcribe source-visible publication text faithfully;
-- preserve printed-page mapping, running furniture, paragraph/dialogue structure and blank scan118;
-- carry `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- do not promote status or visual fidelity during Pass1;
+- source pixels remain controlling authority;
+- make only source-supported Tamil corrections;
+- record every correction with scan/local/printed page and before → after evidence;
+- unresolved textual questions must be explicit;
+- do not promote `status` or `visual_fidelity` during Pass2A;
 - do not modify frozen Parts001–006;
 - do not infer Part008 / scan119;
-- maintain outgoing **118→119** as deferred external boundary evidence;
-- update `PART_007_PASS1_PROGRESS.md` and close whole-Part Pass1 only after all scans113–118 are accounted for.
+- create/update durable `PART_007_PASS2A_PROGRESS.md`.
 
-After Batch2 closes and whole-Part Pass1 is verified, proceed to **Part007 Pass2A — scans103–118 / local1–16**.
+After Pass2A closes, proceed to **Part007 Pass2B**.
