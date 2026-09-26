@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part007 E20 draft + source-check — scans103–104
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part007 E21 draft + source-check — scans105–118
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,8 +14,6 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - visual fidelity — **16/16 verified**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
-- physical coverage — **16/16 / scans103–118**
-- publication-text coverage — **15/15 + blank scan118 provenance**
 - incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 
@@ -24,61 +22,47 @@ Verified assembled Tamil inputs:
 1. `sections/19-chapter-06-viragu-vetti-part007-continuation.md` — scans103–104
 2. `sections/20-chapter-07-thathalitha-thamarai.md` — scans105–118
 
-## Part007 English planning state
+## Part007 English state
 
-**PART007 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+Planning/setup — **COMPLETE / PASS**
 
-Reserved batches:
+- **E20 — SOURCE-CHECKED / COMPLETE**
+  - English file — `translations/en/sections/19-chapter-06-the-woodcutter-part007-continuation.md`
+  - scans — **103–104**
+  - structural parity — **14/14 total; 12/12 rendered; 2/2 provenance**
+  - source-check corrections — **3**
+  - unresolved holds — **0**
+- **E21 — RESERVED / NEXT**
+  - Tamil source — `sections/20-chapter-07-thathalitha-thamarai.md`
+  - scans — **105–118**
+  - planned English file — `translations/en/sections/20-chapter-07-the-floundering-lotus.md`
 
-- **E20 — RESERVED / NEXT** — Chapter 6 `விறகுவெட்டி` continuation / scans103–104
-- **E21 — RESERVED** — Chapter 7 `தத்தளித்த தாமரை` / scans105–118
+Working title:
 
-Planned English files:
+`தத்தளித்த தாமரை` → **The Floundering Lotus**
 
-- E20 — `translations/en/sections/19-chapter-06-the-woodcutter-part007-continuation.md`
-- E21 — `translations/en/sections/20-chapter-07-the-floundering-lotus.md`
-
-Planning integrity:
-
-- Part007 English draft files created — **0**
-- Part007 source-check records created — **0**
-- canonical / assembled Tamil edits — **0**
-- frozen Parts001–006 English edits — **0**
-- Part008 leakage — **0**
-- unresolved planning holds — **0**
-
-Working terms:
-
-- `விறகுவெட்டி` → **The Woodcutter**
-- `தத்தளித்த தாமரை` → **The Floundering Lotus** as working Chapter 7 title
-- character `தாமரை` → **Thamarai**
-- `முத்துநகை` → **Muthunagai**
-- `செழியன்` → **Sezhiyan**
-- `இருங்கோவேள்` → **Irungovel**
-- `கரிகாலன்` → **Karikalan**
-- `பெருந்தேவி` → **Perunthevi**
-- `யவனக் கிழவர்` → **Yavana elder**
-
-Durable control:
-
-`PART_007_ENGLISH_PLANNING_SETUP.md`
+Character name `தாமரை` remains **Thamarai** in body text.
 
 ## Exact next activity
 
-**E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
+**E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118.**
+
+Process the entire reserved E21 unit.
 
 Requirements:
 
-- translate only from verified `sections/19-chapter-06-viragu-vetti-part007-continuation.md`;
+- translate only from verified `sections/20-chapter-07-thathalitha-thamarai.md`;
 - canonical Tamil `pages/` remains ultimate authority;
 - do not use outside published/web English versions;
-- preserve incoming 102→103 as non-rendering provenance only;
-- do not backfill or revise frozen Part006 E19;
-- preserve paragraph/dialogue structure and source voice;
-- create `translations/en/sections/19-chapter-06-the-woodcutter-part007-continuation.md`;
-- source-check the completed E20 draft against verified Tamil;
-- create `translations/en/E20_SOURCE_CHECK.md`;
+- preserve displayed title structure and source-boundary provenance;
+- preserve the 112→113 and 116→117 same-sentence joins;
+- scan118 contributes provenance only and no English body text;
+- preserve outgoing 118→119 only as non-rendering pending-boundary provenance;
+- do not infer Part008 / scan119;
+- preserve source voice, dialogue paragraphing and meaning;
+- create `translations/en/sections/20-chapter-07-the-floundering-lotus.md`;
+- source-check the completed draft against verified Tamil;
+- create `translations/en/E21_SOURCE_CHECK.md`;
 - record exact structural parity, corrections and unresolved holds;
 - do not alter canonical or assembled Tamil;
-- do not infer Part008 / scan119;
-- do **not** begin E21 until E20 is **SOURCE-CHECKED / COMPLETE**.
+- do not begin whole-Part glossary reconciliation until E21 is **SOURCE-CHECKED / COMPLETE**.
