@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 INTAKE PENDING**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 ENGLISH PLANNING / SETUP COMPLETE — E18 NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -758,3 +758,41 @@ Part005 is **FINAL CLOSED / FROZEN**.
 Part006 source is **NOT SUPPLIED / NOT REGISTERED**.
 
 Current next gate — **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup**.
+
+## Part006 planning glossary
+
+Part006 English planning/setup is **COMPLETE / PASS**. Locked earlier project forms carry forward where the same Tamil form recurs.
+
+| Tamil source | Planned English handling | Note |
+|---|---|---|
+| `சிவனடியார் திருக்கூட்டம்` | **The Gathering of Siva Devotees** | carry forward locked Chapter 5 title |
+| `விறகுவெட்டி` | **The Woodcutter** | working Chapter 6 English title |
+| `விறகு வெட்டி` | **woodcutter** | common-noun/occupation use |
+| `முத்துநகை` | **Muthunagai** | carry forward locked character form |
+| `முத்து` | **Muthu** | Muthunagai's assumed name where source context indicates |
+| `செழியன்` | **Sezhiyan** | carry forward locked project form |
+| `கரிகாலன்` | **Karikalan** | carry forward locked project form |
+| `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` | **Peruvazhuthi / Peruvazhuthi Pandiyan** | carry forward locked project handling |
+| `காரிக்கண்ணனார்` | **Karikannanar** | carry forward locked project handling |
+| `இருங்கோவேள்` | **Irungovel** | carry forward locked project ruler/name form |
+| `தாமரை` | **Thamarai** | carry forward Part005 personal name |
+| `யவனக் கிழவர்` / `யவனக்கிழவர்` | **Yavana elder** | carry forward locked source-facing handling |
+| `வீரன்` | **Veeran** | source-given personal name/alias in Chapter 6; distinguish from generic “warrior” by context |
+| `பெருந்தேவி` | **Perunthevi** | source personal name; conservative romanization |
+| `வேளிர்குடி` | **Velir clan / Velir people** | choose by local syntax |
+
+Source-sensitive safeguards for Part006:
+
+- do not normalize verified Tamil forms merely because English renders them naturally;
+- preserve displayed palm-leaf messages as displayed text where structurally meaningful;
+- do not import published, remembered or web English versions;
+- new locally ambiguous source terms may be settled conservatively during E18/E19 source-check without changing Tamil;
+- incoming 85→86 must not cause E18 to backfill frozen Part005 E17;
+- blank scan94 has provenance only and no English body text;
+- outgoing 102→103 remains external and Part007 wording must not be inferred.
+
+Part006 planning glossary holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**E18 draft + source-check.**
