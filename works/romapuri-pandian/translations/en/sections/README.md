@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–004 are final closed/frozen; Part005 E16–E17 are source-checked complete.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 English planning/setup is complete with E18–E19 reserved and E18 next.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -440,3 +440,46 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 **None until Part006 source intake authorizes the next Part.**
 
 Repository frontier: **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
+
+## Part006 — PLANNING / SETUP COMPLETE / PASS
+
+Part006 Tamil prerequisites are closed:
+
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil/documentation blockers — **0**
+
+### Reserved mapping
+
+| Batch | Verified Tamil source | Planned English file | Scans | State |
+|---|---|---|---:|---|
+| E18 | `../../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | `17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | 86–94 | **RESERVED / NEXT** |
+| E19 | `../../../sections/18-chapter-06-viragu-vetti.md` | `18-chapter-06-the-woodcutter.md` | 95–102 | **RESERVED** |
+
+Part006 English section files — **0/2 drafted; 0/2 source-checked**.
+
+### Part006 boundary safeguards
+
+- incoming **85→86 = GENUINE CONTINUATION / AUDITED**
+- frozen Part005 E17 must not be backfilled by E18
+- scan94 is a blank physical separator and has no English body text
+- scan95 is the Chapter 6 title `விறகுவெட்டி`
+- outgoing **102→103 = PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 wording must not be inferred or imported
+
+### Planning integrity
+
+- Parts001–005 English section files modified — **0**
+- canonical/assembled Tamil changes caused by planning — **0**
+- E18/E19 English draft files created in planning — **0**
+- E18/E19 source-check records created in planning — **0**
+- Part007 leakage — **0**
+- unresolved planning holds — **0**
+
+## Exact next English activity
+
+**E18 — draft + source-check Part006 Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / scans86–94.**
+
+Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
