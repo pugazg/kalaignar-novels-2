@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 final metadata/status synchronization
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 documentation synchronization
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,50 +28,55 @@ Controlling source:
 - Part006 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 - Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 - Part006 Part audit — **PASS / COMPLETE**
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
 
-## Part006 audit result
+## Final status state
 
-The live canonical set is fully reconciled:
-
-- canonical Part006 records — **17/17**
-- global scans — **continuous 86–102**
-- local pages — **continuous 1–17**
-- duplicate scan numbers — **0**
-- duplicate local pages — **0**
-- source-filename mismatches — **0**
-- pagination mismatches — **0**
-- page-type / section mismatches — **0**
-- gate-evidence gaps — **0**
-- unresolved supplied-Part blockers — **0**
-- Part007 / scan103 leakage — **0**
-- Parts001–005 frozen canonical/body mutations — **0**
-
-Durable audit control:
-
-`PART_006_AUDIT.md`
-
-## Canonical state before synchronization
-
-All 17 Part006 records still deliberately remain:
+All 17 Part006 canonical records are now:
 
 ```yaml
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 ```
+
+Distribution:
+
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+
+Metadata-only comparison:
+
+- pre-status audited checkpoint — `1b40aac29e1925bf747dd2f91a7347064120185b`
+- final page-status checkpoint — `ff5c916e8343334b7b952f3e9ea6e489b33f6057`
+- changed canonical files — **17/17 Part006 only**
+- per-file change — **2 additions / 2 deletions**
+- authorized fields changed — **status + visual_fidelity only**
+- canonical Tamil body drift — **0**
+- frozen Parts001–005 changes — **0**
+- Part007 / scan103 leakage — **0**
+
+Durable control:
+
+`PART_006_FINAL_STATUS_SYNC.md`
 
 ## Exact next activity
 
-**Part006 final metadata/status synchronization.**
+**Part006 documentation synchronization.**
 
-Using the passed Part006 audit as the sole promotion basis:
+Synchronize the Part006 lifecycle state across all maintained repository controls and verify they agree on:
 
-- promote all 17 Part006 canonical records from `status: "needs-review"` to `status: "verified"`;
-- promote all 17 from `visual_fidelity: "needs-review"` to `visual_fidelity: "verified"`;
-- do **not** change canonical Tamil source transcription;
-- do **not** change page type, section, printed-page mapping, source filename, scan/local-page numbering, or Pass evidence except for synchronization notes required by the workflow;
-- record an explicit Part006 final-status synchronization control and verify **17/17 verified / 0 needs-review** for both textual status and visual fidelity;
-- preserve outgoing **102→103** as a deferred external witness, not a Part006 blocker;
-- do not infer Part007 / scan103;
-- do not modify frozen Parts001–005.
+- Pass1 / Pass2A / Pass2B / Pass3 closure;
+- Part audit **PASS / COMPLETE**;
+- final metadata/status synchronization **PASS / CLOSED**;
+- Tamil textual status **17/17 verified / 0 needs-review**;
+- visual fidelity **17/17 verified / 0 needs-review**;
+- unresolved status exceptions **0**;
+- incoming 85→86 **GENUINE CONTINUATION / AUDITED**;
+- outgoing 102→103 **PENDING external Part007 witness**, not a Part006 blocker;
+- no Part007 / scan103 leakage;
+- Parts001–005 remain **FINAL CLOSED / FROZEN**.
 
-After final metadata/status synchronization passes, proceed to the separate documentation-synchronization gate.
+Create/update the explicit Part006 documentation-synchronization control. Do not alter canonical Tamil text or page metadata during documentation synchronization.
+
+After documentation synchronization passes, proceed to the Part006 Tamil archival-ready checkpoint.
