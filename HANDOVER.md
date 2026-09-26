@@ -312,13 +312,14 @@
 - Part006 unresolved status exceptions — **0**
 - Part006 documentation synchronization — **PASS / COMPLETE**
 - Part006 documentation-sync canonical page changes — **0**
-- Part006 Tamil archival-ready checkpoint — **NEXT GATE**
+- Part006 Tamil archival-ready checkpoint — **PASS / CLOSED**
+- Part006 assembled Tamil — **NEXT GATE**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 Tamil archival-ready checkpoint**
+- exact next activity — **Part006 assembled Tamil construction + audit**
 
 ## Boundary
 
@@ -439,13 +440,14 @@
 - `PART_006_AUDIT.md`
 - `PART_006_FINAL_STATUS_SYNC.md`
 - `PART_006_DOCUMENTATION_SYNC.md`
+- `PART_006_TAMIL_ARCHIVAL_READY.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 Tamil archival-ready checkpoint**
+- prompt frontier — **Part006 assembled Tamil construction + audit**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -460,6 +462,6 @@
 
 ## Exact next activity
 
-**Part006 Tamil archival-ready checkpoint.**
+**Part006 assembled Tamil construction + audit.**
 
-Part006 documentation synchronization is PASS / COMPLETE. All maintained lifecycle controls now agree on Pass1/Pass2A/Pass2B/Pass3 closure, Part audit PASS, final metadata/status PASS, Tamil textual status 17/17 verified, visual fidelity 17/17 verified, 0 needs-review, 0 status exceptions, incoming 85→86 audited, outgoing 102→103 deferred external witness, and 0 Part007 leakage. Documentation synchronization changed no canonical page record. Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 Tamil archival-ready checkpoint is PASS / CLOSED. Part006 has 17/17 verified Tamil records, 17/17 verified visual-fidelity records, 0 needs-review, 0 unresolved Tamil/lexical/historical-glyph/visual/structural/documentation blockers, and 0 supplied-Part boundary blockers. No Part006 assembled Tamil or English body was introduced before this checkpoint; Parts001–005 remain FINAL CLOSED / FROZEN.
