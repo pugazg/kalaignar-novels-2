@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 ENGLISH PLANNING / SETUP COMPLETE — E18 NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 E18 SOURCE-CHECKED / COMPLETE — E19 NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–005 are final closed/frozen. Part006 Tamil and assembled Tamil gates are closed, English planning/setup is complete, and E18 is the next authorized English batch.
+This is the cumulative control plan for the project-created English translation. Parts001–005 are final closed/frozen. Part006 Tamil and assembled Tamil gates are closed, English planning/setup is complete, E18 is source-checked complete, and E19 is the next authorized English batch.
 
 ## Authority hierarchy
 
@@ -831,8 +831,8 @@ Verified Part006 assembled inputs:
 
 | Batch | Tamil input | Planned English file | Scans | Planning state |
 |---|---|---|---:|---|
-| **E18** | `../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | `sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | 86–94 | **RESERVED / NEXT** |
-| **E19** | `../../sections/18-chapter-06-viragu-vetti.md` | `sections/18-chapter-06-the-woodcutter.md` | 95–102 | **RESERVED** |
+| **E18** | `../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | `sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | 86–94 | **SOURCE-CHECKED / COMPLETE** |
+| **E19** | `../../sections/18-chapter-06-viragu-vetti.md` | `sections/18-chapter-06-the-woodcutter.md` | 95–102 | **RESERVED / NEXT** |
 
 Batch discipline:
 
@@ -887,3 +887,27 @@ These are project English labels/choices. Verified Tamil section metadata remain
 **E18 — draft + source-check Part006 Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / scans86–94.**
 
 Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
+
+## Part006 E18 completion state
+
+- E18 — **SOURCE-CHECKED / COMPLETE**
+- E19 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+- E18 Tamil / English total blocks — **88 / 88**
+- E18 Tamil / English rendered blocks — **80 / 80**
+- standalone provenance comments — **8 / 8**
+- source-boundary comments retained — **7 / 7**
+- incoming-boundary comment retained — **1 / 1**
+- blank scan94 provenance retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **2**
+- unresolved E18 source-check holds — **0**
+- canonical / assembled Tamil edits caused by E18 — **0**
+- Parts001–005 English edits caused by E18 — **0**
+- E19 draft created by E18 — **0**
+- Part007 leakage — **0**
+- durable source-check — `E18_SOURCE_CHECK.md`
+
+## Current exact English activity
+
+**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
