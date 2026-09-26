@@ -845,3 +845,50 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 Only when the Part007 source is supplied:
 
 **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup.**
+
+
+## Part007 English planning/setup state
+
+Part007 English planning/setup is **COMPLETE / PASS**.
+
+Tamil prerequisites:
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil/documentation blockers — **0**
+
+### Reserved Part007 batches
+
+| Batch | Verified Tamil source | Planned English file | Scans | State |
+|---|---|---|---:|---|
+| E20 | `../../sections/19-chapter-06-viragu-vetti-part007-continuation.md` | `sections/19-chapter-06-the-woodcutter-part007-continuation.md` | 103–104 | **RESERVED / NEXT** |
+| E21 | `../../sections/20-chapter-07-thathalitha-thamarai.md` | `sections/20-chapter-07-the-floundering-lotus.md` | 105–118 | **RESERVED** |
+
+Planning accounting:
+
+- maintained Part007 English section files — **0/2**
+- source-checked Part007 English batches — **0/2**
+- E20/E21 draft files created in planning — **0**
+- E20/E21 source-check records created in planning — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Parts001–006 English edits caused by planning — **0**
+- Part008 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `../../PART_007_ENGLISH_PLANNING_SETUP.md`
+
+Boundary locks:
+
+- incoming **102→103 — GENUINE CONTINUATION / AUDITED**
+- frozen Part006 E19 remains unchanged
+- scan118 has no translatable body text
+- outgoing **118→119 — PENDING Part008 adjacent witness / deferred external boundary evidence**
+- E21 must not infer or import Part008 wording
+
+## Exact next activity — project
+
+**E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
+
+Do not begin E21 until E20 is **SOURCE-CHECKED / COMPLETE**.
