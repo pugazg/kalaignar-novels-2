@@ -226,6 +226,8 @@
 - Part006 unresolved bilingual holds — **0**
 - Part006 release/readiness — **PASS / CLOSED**
 - Part006 unresolved release/readiness blockers — **0**
+- Part006 release-ready synchronization — **PASS / CLOSED**
+- Part006 release-ready synchronization blockers — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -248,4 +250,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 release-ready synchronization.**
+**Part006 final closure / freeze.**
