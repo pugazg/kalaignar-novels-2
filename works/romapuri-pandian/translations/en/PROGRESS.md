@@ -2,14 +2,14 @@
 
 ## Current project English state
 
-**PARTS001–005 ENGLISH — FINAL CLOSED / FROZEN; PART006 GLOSSARY RECONCILED / PASS / EDITORIAL NEXT**
+**PARTS001–005 ENGLISH — FINAL CLOSED / FROZEN; PART006 EDITORIAL REVIEW PASS / CLOSED / BILINGUAL NEXT**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
 - Part003 English — **FINAL CLOSED / FROZEN — E11–E12 SOURCE-CHECKED / COMPLETE**
 - Part004 English — **FINAL CLOSED / FROZEN — E13–E15 SOURCE-CHECKED / COMPLETE**
 - Part005 English — **FINAL CLOSED / FROZEN — E16–E17 SOURCE-CHECKED / COMPLETE — 2/2**
-- Part006 English — **IN PROGRESS — E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILED / PASS — EDITORIAL NEXT**
+- Part006 English — **IN PROGRESS — E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILED / PASS — EDITORIAL PASS / CLOSED — BILINGUAL NEXT**
 
 ## Part001 historical progress
 
@@ -743,3 +743,23 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next activity — project
 
 **Part006 English editorial review across E18–E19.**
+
+## Part006 English editorial review state
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- E18 editorial corrections — **5**
+- E19 editorial corrections — **9**
+- total editorial corrections — **14**
+- unresolved editorial holds — **0**
+- unresolved terminology holds — **0**
+- unresolved source-check holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable record — `PART_006_TRANSLATION_REVIEW.md`
+
+## Exact next activity — project
+
+**Part006 whole-Part bilingual review across E18–E19.**
