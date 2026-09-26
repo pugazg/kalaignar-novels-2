@@ -314,3 +314,22 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part007 release-ready synchronization.**
+
+
+## Part007 final closure
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- Parts001–007 — **FINAL CLOSED / FROZEN**
+- Part007 canonical Tamil — **16/16 verified**
+- Part007 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- Part007 English E20–E21 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary / editorial / bilingual / release gates — **CLOSED / PASS**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved final blockers — **0**
+- Part008 / scan119 leakage — **0**
+- Part008 — **NOT SUPPLIED / NOT REGISTERED**
+
+## Current exact next activity
+
+**Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied.**
