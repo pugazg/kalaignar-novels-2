@@ -244,6 +244,10 @@
 - Part006 Pass3 status promotions — **0**
 - Part006 Part audit — **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part006 audit unresolved blockers — **0**
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- Part006 Tamil textual status — **17/17 verified / 0 needs-review**
+- Part006 visual fidelity — **17/17 verified / 0 needs-review**
+- Part006 unresolved status exceptions — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -341,9 +345,10 @@
 - `PART_006_PASS2B_PROGRESS.md`
 - `PART_006_PASS3_PROGRESS.md`
 - `PART_006_AUDIT.md`
+- `PART_006_FINAL_STATUS_SYNC.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 final metadata/status synchronization.**
+**Part006 documentation synchronization.**
