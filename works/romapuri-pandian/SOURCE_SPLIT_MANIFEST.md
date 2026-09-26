@@ -15,9 +15,9 @@
 | 002 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_002_pages_18-34.pdf` | 47,528,017 | `0be5e57ed61405a39b18276db7184652ded8d401a18114caa3c9c039917a7dc0` | 17 | 18–34 | REGISTERED | **PASS / CLOSED / FROZEN** |
 | 003 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_003_pages_35-52.pdf` | 49,781,150 | `d5fbc2e1164141016db04e22544373ceda28286d22c50d923f8dcd65d5ac2e7a` | 18 | 35–52 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 004 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf` | 47,813,374 | `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5` | 16 | 53–68 | REGISTERED | **FINAL CLOSED / FROZEN** |
-| 005 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf` | 47,433,786 | `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b` | 17 | 69–85 | REGISTERED | NOT STARTED |
-| 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
-| 007 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 005 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf` | 47,433,786 | `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b` | 17 | 69–85 | REGISTERED | **FINAL CLOSED / FROZEN** |
+| 006 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf` | 48,077,888 | `df9f8994dc08da0c01e34a91204a29f17d9425ed7e6ebbc5806f4461a5bfb1c2` | 17 | 86–102 | REGISTERED | **FINAL CLOSED / FROZEN** |
+| 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | NOT STARTED |
 | 008 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 009 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 010 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -53,7 +53,7 @@
 
 ## Current frontier
 
-- supplied / registered Parts — **4/39**
+- supplied / registered Parts — **7/39**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
@@ -528,3 +528,17 @@ Current frontier:
 **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
 
 Do not infer scan103 or begin Part007 canonical transcription without the supplied source.
+
+## Part007 source intake / boundary activation
+
+- Part007 source — **REGISTERED / AUTHORIZED — scans103–118 / 16 pages**
+- file size — **45,974,175 bytes**
+- SHA-256 — `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae`
+- Part006 outgoing / Part007 incoming **102→103 — GENUINE CONTINUATION / AUDITED**
+- Part006 remains **FINAL CLOSED / FROZEN**
+- Part007 canonical records — **0/16**
+- scan105 — illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`
+- scan118 — blank physical page
+- outgoing **118→119 — PENDING Part008 adjacent witness / deferred external boundary evidence**
+- unresolved Part007 intake/boundary blockers — **0**
+- exact next gate — **Part007 Pass1 Batch 1 — scans103–112 / local1–10**
