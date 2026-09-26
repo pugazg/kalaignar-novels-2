@@ -306,12 +306,16 @@
 - Part006 Pass3 status promotions — **0**
 - Part006 Part audit — **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part006 audit unresolved blockers — **0**
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- Part006 Tamil textual status — **17/17 verified / 0 needs-review**
+- Part006 visual fidelity — **17/17 verified / 0 needs-review**
+- Part006 unresolved status exceptions — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 final metadata/status synchronization**
+- exact next activity — **Part006 documentation synchronization**
 
 ## Boundary
 
@@ -430,13 +434,14 @@
 - `PART_006_PASS2B_PROGRESS.md`
 - `PART_006_PASS3_PROGRESS.md`
 - `PART_006_AUDIT.md`
+- `PART_006_FINAL_STATUS_SYNC.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 final metadata/status synchronization**
+- prompt frontier — **Part006 documentation synchronization**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -451,6 +456,6 @@
 
 ## Exact next activity
 
-**Part006 final metadata/status synchronization.**
+**Part006 documentation synchronization.**
 
-Part006 Part audit is PASS / COMPLETE — 17/17 canonical records reconciled, continuous scans86–102 / local1–17, 0 missing, 0 duplicate, 0 pagination/page-type/source-filename mismatches, 0 unresolved blockers, and 0 Part007 leakage. All 17 Part006 records remain needs-review pending the separate final metadata/status synchronization gate. Parts001–005 remain FINAL CLOSED / FROZEN.
+Part006 final metadata/status synchronization is PASS / CLOSED. All 17 Part006 canonical records are now `status: "verified"` and `visual_fidelity: "verified"`; 0 needs-review and 0 status exceptions. The metadata-only comparison changed exactly the expected 17 Part006 page records, two authorized fields per file, with 0 Tamil-body drift, 0 frozen Parts001–005 changes, and 0 Part007 leakage. Parts001–005 remain FINAL CLOSED / FROZEN.
