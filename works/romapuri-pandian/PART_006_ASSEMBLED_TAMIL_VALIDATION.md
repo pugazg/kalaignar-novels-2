@@ -209,3 +209,26 @@ Part006 English translation planning/setup is now **COMPLETE / PASS**:
 Current frontier:
 
 **E18 — draft + source-check Part006 Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / scans86–94.**
+
+## Post-assembly E18 English closure
+
+The first Part006 English batch has now closed without changing verified Tamil:
+
+- E18 — **SOURCE-CHECKED / COMPLETE**
+- source scans — **86–94**
+- Tamil / English total blocks — **88 / 88**
+- rendered blocks — **80 / 80**
+- standalone provenance blocks — **8 / 8**
+- source-boundary comments — **7 / 7**
+- source-check corrections — **2**
+- unresolved E18 source-check holds — **0**
+- canonical Tamil edits caused by E18 — **0**
+- assembled Tamil edits caused by E18 — **0**
+- Parts001–005 English edits — **0**
+- E19 draft created — **0**
+- Part007 leakage — **0**
+- durable source-check — `translations/en/E18_SOURCE_CHECK.md`
+
+Current frontier:
+
+**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
