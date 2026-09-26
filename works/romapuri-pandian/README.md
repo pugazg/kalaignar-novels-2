@@ -305,6 +305,9 @@
 - Part007 Pass3 structural metadata corrections — **0**
 - Part007 Pass3 unresolved visual/structural questions — **0**
 - Part007 Pass3 status promotions — **0**
+- Part007 Part audit — **PASS / COMPLETE — 16/16 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
+- Part007 audit unresolved blockers — **0**
+- Part007 outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
@@ -423,9 +426,10 @@
 - `PART_007_PASS2A_PROGRESS.md`
 - `PART_007_PASS2B_PROGRESS.md`
 - `PART_007_PASS3_PROGRESS.md`
+- `PART_007_AUDIT.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 Part audit.**
+**Part007 final metadata/status synchronization.**
