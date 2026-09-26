@@ -255,7 +255,10 @@
 - Part007 archival-ready canonical Tamil — **16/16 verified**
 - Part007 archival-ready visual fidelity — **16/16 verified**
 - Part007 archival-ready blockers — **0**
-- Part007 assembled Tamil — **NEXT GATE / NOT STARTED**
+- Part007 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- Part007 assembled Tamil coverage — **16/16 physical scans / 15/15 publication-text pages + blank scan118 provenance**
+- Part007 assembled Tamil validation blockers — **0**
+- Part007 English translation planning/setup — **NEXT GATE**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
@@ -279,6 +282,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part007 assembled Tamil construction + audit.**
+**Part007 English translation planning/setup.**
 
-Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+Verified canonical and assembled Tamil remain authoritative; do not alter them during English planning.
