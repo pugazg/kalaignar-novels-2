@@ -195,3 +195,48 @@ Fixed Pass2B cadence:
 - Batch 2 — **7-page final remainder / scans112–118 / local10–16**
 
 Do not begin Pass3 until Pass2B closes.
+
+## Post-Pass2A synchronization verification
+
+Pre-Pass2A checkpoint:
+
+`527be0eb1ec6f5b266815486ce44b93e4d63b1d2`
+
+Post-Pass2A synchronized checkpoint before this verification record:
+
+`bf430a58e85bc44c278abab2de1284b7d7fd28c4`
+
+Direct comparison covers **27 commits / 27 changed files**.
+
+Canonical scope:
+
+- Part007 canonical records reviewed — **16/16**
+- exact range — **scans103–118**
+- source-supported text corrections — **9**
+- formal Pass2A review evidence added — **16/16**
+- frozen Parts001–006 canonical-page changes — **0**
+
+Control synchronization:
+
+- lifecycle/navigation/control files changed — **11**
+- durable `PART_007_PASS2A_PROGRESS.md` — **present**
+- `PART_007_PASS2B_PROGRESS.md` — **not yet created**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+
+Repository safeguards:
+
+- Part008 / scan119 repository paths — **0**
+- active Git PDF paths — **0**
+- outgoing 118→119 remains **PENDING Part008 adjacent witness / deferred external boundary evidence**
+
+Status discipline remains unchanged across all Part007 canonical records:
+
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
+
+The synchronized live frontier is:
+
+**Part007 Pass2B Batch 1 — scans103–111 / local1–9.**
+
+Therefore Pass2A repository drift outside the authorized Part007 canonical/control scope — **0**.
