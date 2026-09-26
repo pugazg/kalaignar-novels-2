@@ -262,14 +262,13 @@
 - Part007 reserved English batches — **E20–E21**
 - Part007 English drafted/source-checked — **2/2**
 - Part007 E20 — **SOURCE-CHECKED / COMPLETE — scans103–104**
-- Part007 E20 structural parity — **14/14 total; 12/12 rendered; 2/2 provenance**
-- Part007 E20 source-check corrections — **3**
-- Part007 E20 unresolved source-check holds — **0**
 - Part007 E21 — **SOURCE-CHECKED / COMPLETE — scans105–118**
-- Part007 E21 structural parity — **124/124 total; 112/112 rendered; 12/12 provenance**
-- Part007 E21 source-check corrections — **4**
-- Part007 E21 unresolved source-check holds — **0**
-- Part007 unresolved English source-check holds — **0**
+- Part007 glossary reconciliation — **RECONCILED / PASS**
+- Part007 English editorial review — **PASS / CLOSED — 18 corrections**
+- Part007 whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- Part007 bilingual-review corrections — **3**
+- Part007 structural parity — **138/138 total; 124/124 rendered; 14/14 provenance**
+- Part007 unresolved English review holds — **0**
 - Part007 unresolved English planning holds — **0**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
@@ -294,6 +293,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part007 whole-Part glossary reconciliation across E20–E21.**
-
-Do not begin English editorial review until the glossary reconciliation gate closes.
+**Part007 release/readiness review and report.**
