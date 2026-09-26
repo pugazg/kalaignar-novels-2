@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 E19 draft + source-check
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 whole-Part glossary reconciliation
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,70 +18,57 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - publication-text coverage — **16/16 + blank scan94 provenance**
 - unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
 
-## Part006 English state
+## Part006 English source-check state
 
 English translation planning/setup is **COMPLETE / PASS**.
 
-- E18 — **SOURCE-CHECKED / COMPLETE**
-- E18 scans — **86–94**
-- E18 Tamil / English total blocks — **88 / 88**
-- E18 rendered blocks — **80 / 80**
-- E18 standalone provenance — **8 / 8**
-- E18 source-boundary comments — **7 / 7**
+- E18 — **SOURCE-CHECKED / COMPLETE — scans86–94**
+- E18 structural parity — **88/88 total; 80/80 rendered; 8/8 provenance**
 - E18 source-check corrections — **2**
-- unresolved E18 source-check holds — **0**
-- E19 — **RESERVED / NEXT**
-- completed/source-checked — **1/2**
+- E19 — **SOURCE-CHECKED / COMPLETE — scans95–102**
+- E19 structural parity — **71/71 total; 65/65 rendered; 6/6 provenance**
+- E19 source-check corrections — **3**
+- completed/source-checked — **2/2**
+- unresolved Part006 English source-check holds — **0**
 
-Durable E18 source-check:
+Maintained English files:
 
-`translations/en/E18_SOURCE_CHECK.md`
+1. `translations/en/sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md`
+2. `translations/en/sections/18-chapter-06-the-woodcutter.md`
 
-## E19 verified Tamil input
+Durable source-check records:
 
-`sections/18-chapter-06-viragu-vetti.md`
-
-Coverage:
-
-- scans — **95–102**
-- scan95 — illustrated Chapter 6 title `6. விறகுவெட்டி`
-- scan96 — narrative opening
-- scan96→97 — same-sentence continuation
-- scan99→100 — same-sentence continuation
-- scan101 — displayed written palm-leaf text
-- scan102 — complete terminal sentence
-- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-
-Planned English file:
-
-`translations/en/sections/18-chapter-06-the-woodcutter.md`
-
-## Locked Part006 English choices relevant to E19
-
-- `விறகுவெட்டி` → **The Woodcutter**
-- `விறகு வெட்டி` → **woodcutter**
-- `முத்துநகை` → **Muthunagai**
-- `முத்து` → **Muthu**
-- `கரிகாலன்` → **Karikalan**
-- `இருங்கோவேள்` → **Irungovel**
-- `தாமரை` → **Thamarai**
-- `வீரன்` → **Veeran** when used as the source-given personal name/alias
-- `பெருந்தேவி` → **Perunthevi**
-- `வேளிர்குடி` → **Velir clan / Velir people**, by local syntax
-
-Do not use outside published/web English versions.
+1. `translations/en/E18_SOURCE_CHECK.md`
+2. `translations/en/E19_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
+**Part006 whole-Part glossary reconciliation across E18–E19.**
 
-Create:
+Read the two source-checked English files, their verified Tamil inputs, `translations/en/GLOSSARY.md`, and the E18/E19 source-check records.
 
-1. `translations/en/sections/18-chapter-06-the-woodcutter.md`
-2. durable `translations/en/E19_SOURCE_CHECK.md`
+Reconcile recurring names, titles, aliases, terms, source-sensitive transliterations, and context-sensitive distinctions across both Part006 English files. In particular verify consistency for:
 
-Translate only from the verified assembled Tamil input. Preserve title/body structure, paragraph/dialogue/displayed-text structure, physical source-boundary provenance, and the outgoing 102→103 provenance comment.
+- Muthunagai / Muthu;
+- Irungovel;
+- Karikalan;
+- Sezhiyan;
+- Peruvazhuthi / Peruvazhuthi Pandiyan;
+- Karikannanar;
+- Thamarai;
+- Yavana elder;
+- Thiruneettradiyar;
+- Veeran;
+- Perunthevi;
+- Velir clan / Velir people;
+- The Gathering of Siva Devotees;
+- The Woodcutter;
+- source-facing terms such as pongal, poovarasu leaf and tamboolam.
 
-Source-check structural block parity, omissions, duplication, terminology, narrative meaning, the scan96→97 and 99→100 continuations, and the scan101 displayed written text.
+Preserve deliberate context-sensitive distinctions; do not mechanically normalize frozen earlier Parts.
 
-Do not modify canonical Tamil or assembled Tamil. Do not modify Parts001–005 English or E18. Do not begin glossary reconciliation until E19 is **SOURCE-CHECKED / COMPLETE**.
+Create durable `translations/en/PART_006_GLOSSARY_RECONCILIATION.md` with explicit RECONCILED / PASS or blocker accounting.
+
+Do not edit canonical Tamil or assembled Tamil. Do not modify Parts001–005 English. If no accidental Part006 English terminology drift exists, make no body edits merely for stylistic polishing.
+
+After glossary reconciliation closes, proceed to **Part006 English editorial review across E18–E19**.
