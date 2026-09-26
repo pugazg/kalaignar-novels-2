@@ -65,7 +65,7 @@ Karikalan turned back only after the Pandiyan's party and retinue had gone a lon
 
 Before Karikalan could finish asking, "Who are you?" the soldier took out the rolled palm leaf in his hand and held it out. The king eagerly took it and read.
 
-"This is what I write to Chola king Karikalan: the Pandiyan warrior Sezhiyan lies enslaved in my custody. If you wish to hand him over alive to the Pandiyan, you must return my country to me. Otherwise I intend to torture Sezhiyan and kill him little by little! Answer at once—through action!
+"This is what I write to Chola king Karikalan: the Pandiyan warrior Sezhiyan is being held captive by me. If you wish to hand him over alive to the Pandiyan, you must return my country to me. Otherwise I intend to torture Sezhiyan and kill him little by little! Answer at once—through action!
 
 — King Irungovel."
 
