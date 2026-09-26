@@ -318,19 +318,23 @@
 - Part006 assembled Tamil validation blockers — **0**
 - Part006 English translation planning/setup — **COMPLETE / PASS**
 - Part006 reserved English batches — **E18–E19**
-- Part006 English drafted/source-checked — **1/2**
+- Part006 English drafted/source-checked — **2/2**
 - Part006 unresolved English planning holds — **0**
 - E18 — **SOURCE-CHECKED / COMPLETE — scans86–94**
 - E18 structural parity — **88/88 total; 80/80 rendered; 8/8 provenance**
 - E18 source-check corrections — **2**
 - E18 unresolved source-check holds — **0**
-- E19 — **RESERVED / NEXT**
+- E19 — **SOURCE-CHECKED / COMPLETE — scans95–102**
+- E19 structural parity — **71/71 total; 65/65 rendered; 6/6 provenance**
+- E19 source-check corrections — **3**
+- E19 unresolved source-check holds — **0**
+- Part006 unresolved English source-check holds — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **E19 draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102**
+- exact next activity — **Part006 whole-Part glossary reconciliation across E18–E19**
 
 ## Boundary
 
@@ -455,13 +459,14 @@
 - `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_006_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E18_SOURCE_CHECK.md`
+- `translations/en/E19_SOURCE_CHECK.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E19 draft + source-check / Part006 scans95–102**
+- prompt frontier — **Part006 whole-Part glossary reconciliation across E18–E19**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -476,6 +481,6 @@
 
 ## Exact next activity
 
-**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
+**Part006 whole-Part glossary reconciliation across E18–E19.**
 
-Part006 E18 is SOURCE-CHECKED / COMPLETE across all scans86–94. Structural parity is 88/88 total blocks, 80/80 rendered blocks and 8/8 standalone provenance blocks; 7/7 source-boundary comments, the incoming 85→86 note and blank scan94 provenance are retained. Two source-check corrections were applied, unresolved holds are 0, canonical/assembled Tamil and frozen Parts001–005 English remain unchanged, and E19 is RESERVED / NEXT.
+Part006 E18–E19 are SOURCE-CHECKED / COMPLETE — 2/2. E19 covers all scans95–102 with 71/71 total blocks, 65/65 rendered blocks, 6/6 provenance blocks, 7/7 source-boundary comments and the outgoing 102→103 provenance retained. Three E19 source-check corrections were applied; unresolved Part006 source-check holds are 0, canonical/assembled Tamil and frozen Parts001–005/E18 English remain unchanged, and whole-Part glossary reconciliation is next.
