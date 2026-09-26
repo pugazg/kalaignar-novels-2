@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 E18 SOURCE-CHECKED / COMPLETE — E19 NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -825,3 +825,36 @@ E18 unresolved glossary/source-check holds — **0**.
 Exact next glossary-bearing activity:
 
 **E19 draft + source-check.**
+
+## E19 source-check decisions
+
+E19 confirms the following Part006 English handling:
+
+- `விறகுவெட்டி` → **The Woodcutter**
+- `விறகு வெட்டி` → **woodcutter**
+- `முத்துநகை` → **Muthunagai**
+- `முத்து` → **Muthu**
+- `இருங்கோவேள்` → **Irungovel**
+- `வீரன்` → **Veeran**
+- `தாமரை` → **Thamarai**
+- `யவனக் கிழவர்` → **Yavana elder**
+- `பெருந்தேவி` → **Perunthevi**
+- `வேளிர்குடி` → **Velir people** in the scan102 medical-context sentence
+- `பொங்கல்` → **pongal**
+- `பூவரச இலை` → **poovarasu leaf**
+- `தாம்பூலம்` → **tamboolam**
+- `பச்சிலை` → **medicinal leaf**
+- `பயத்தங்காய் மாதிரி` → **like a little bean pod**
+- `மூச்சுப்பை நோய்` → **lung disease**
+- `மருத்துவ சிகாமணிகள்` → **the most accomplished physicians**
+- `சே... சே.. சே..` → **tch... tch... tch...**
+
+E19 source-check corrections — **3**.
+
+E19 unresolved glossary/source-check holds — **0**.
+
+E18–E19 source-check state — **COMPLETE — 2/2**.
+
+Exact next glossary-bearing activity:
+
+**Part006 whole-Part glossary reconciliation across E18–E19.**
