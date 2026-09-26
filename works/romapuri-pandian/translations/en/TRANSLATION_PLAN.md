@@ -1164,3 +1164,37 @@ Current Part007 English state:
 Current frontier:
 
 **E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118.**
+
+
+## E21 source-check closure
+
+- E21 — **SOURCE-CHECKED / COMPLETE**
+- verified Tamil input — `sections/20-chapter-07-thathalitha-thamarai.md`
+- English file — `translations/en/sections/20-chapter-07-the-floundering-lotus.md`
+- scans — **105–118**
+- Tamil / English total blocks — **124 / 124**
+- Tamil / English rendered blocks — **112 / 112**
+- standalone provenance comments — **12 / 12**
+- source-boundary occurrences retained — **12 / 12**
+- blank scan118 provenance retained — **1 / 1**
+- outgoing 118→119 provenance retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **4**
+- unresolved E21 source-check holds — **0**
+- canonical Tamil edits caused by E21 — **0**
+- assembled Tamil edits caused by E21 — **0**
+- frozen Parts001–006 English edits — **0**
+- E20 English-body edits caused by E21 — **0**
+- Part008 leakage — **0**
+- durable source-check — `translations/en/E21_SOURCE_CHECK.md`
+
+Current Part007 English state:
+
+- E20 — **SOURCE-CHECKED / COMPLETE**
+- E21 — **SOURCE-CHECKED / COMPLETE**
+- completed/source-checked — **2/2**
+- unresolved English source-check holds — **0**
+
+Current frontier:
+
+**Part007 whole-Part glossary reconciliation across E20–E21.**
