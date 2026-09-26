@@ -155,3 +155,39 @@ At the release/readiness checkpoint and through synchronization:
 Create and independently verify the durable **Part006 final closure / freeze** record.
 
 Do not begin Part007 canonical transcription unless Part006 final closure passes and the Part007 source is supplied/registered.
+
+## Post-synchronization drift verification
+
+Release/readiness verified checkpoint:
+
+`65b33e500d1e6d850f27f18612ce4f40927f053c`
+
+Release-ready synchronization record commit:
+
+`1f565981cd4d30f541947913eeb79d00f37d2304`
+
+Direct comparison covers **16 commits** and exactly **16 changed files**:
+
+- lifecycle/status/navigation/control documents — **15 modified**
+- durable `PART_006_RELEASE_READY_SYNC.md` — **1 added**
+
+No text-bearing authority/body drift occurred:
+
+- canonical `pages/` changes — **0**
+- assembled Tamil section-body changes — **0**
+- maintained Part006 English section-body changes — **0**
+- frozen Parts001–005 English section-body changes — **0**
+- Part007 / scan103 files — **0**
+- active Git PDF paths — **0**
+
+Live-tree verification also confirms:
+
+- `PART_006_RELEASE_READY_SYNC.md` — **present**
+- Part007 / scan103 repository paths — **0**
+- PDF paths in Git — **0**
+
+Therefore post-release synchronization drift — **0**.
+
+The synchronized live frontier remains:
+
+**Part006 final closure / freeze.**
