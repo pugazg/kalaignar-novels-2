@@ -202,7 +202,12 @@
 - Part006 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - Part006 assembled Tamil coverage — **17/17 physical scans / 16/16 publication-text pages + blank scan94 provenance**
 - Part006 assembled Tamil validation blockers — **0**
-- Part006 English translation planning/setup — **NEXT GATE**
+- Part006 English translation planning/setup — **COMPLETE / PASS**
+- Part006 reserved English batches — **E18–E19**
+- Part006 English drafted/source-checked — **0/2**
+- Part006 unresolved English planning holds — **0**
+- Part006 E18 — **RESERVED / NEXT**
+- Part006 E19 — **RESERVED**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -225,4 +230,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 English translation planning/setup.**
+**E18 — draft + source-check Part006 Chapter 5 continuation / scans86–94.**
