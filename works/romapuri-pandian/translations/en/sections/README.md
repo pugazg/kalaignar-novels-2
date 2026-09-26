@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 E18 is source-checked complete and E19 is next.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 E18–E19 are source-checked complete and whole-Part glossary reconciliation is next.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -456,9 +456,9 @@ Part006 Tamil prerequisites are closed:
 | Batch | Verified Tamil source | Planned English file | Scans | State |
 |---|---|---|---:|---|
 | E18 | `../../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | `17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | 86–94 | **SOURCE-CHECKED / COMPLETE** |
-| E19 | `../../../sections/18-chapter-06-viragu-vetti.md` | `18-chapter-06-the-woodcutter.md` | 95–102 | **RESERVED / NEXT** |
+| E19 | `../../../sections/18-chapter-06-viragu-vetti.md` | `18-chapter-06-the-woodcutter.md` | 95–102 | **SOURCE-CHECKED / COMPLETE** |
 
-Part006 English section files — **1/2 drafted; 1/2 source-checked**.
+Part006 English section files — **2/2 drafted; 2/2 source-checked**.
 
 ### Part006 boundary safeguards
 
@@ -501,3 +501,22 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
+
+### E19 closed state
+
+- E19 — **SOURCE-CHECKED / COMPLETE**
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- Tamil / English total blocks — **71 / 71**
+- Tamil / English rendered blocks — **65 / 65**
+- standalone provenance comments — **6 / 6**
+- source-boundary comments retained — **7 / 7**
+- outgoing-boundary comment retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **3**
+- unresolved E19 source-check holds — **0**
+- unresolved Part006 source-check holds — **0**
+- durable record — `../E19_SOURCE_CHECK.md`
+
+## Exact next English activity
+
+**Part006 whole-Part glossary reconciliation across E18–E19.**
