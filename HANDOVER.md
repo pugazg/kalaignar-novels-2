@@ -364,7 +364,7 @@
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part007 assembled Tamil construction + audit**
+- exact next activity — **Part007 English translation planning/setup**
 
 ## Boundary
 
@@ -509,11 +509,12 @@
 - `PART_007_FINAL_STATUS_SYNC.md`
 - `PART_007_DOCUMENTATION_SYNC.md`
 - `PART_007_TAMIL_ARCHIVAL_READY.md`
+- `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part007 assembled Tamil construction + audit**
+- prompt frontier — **Part007 English translation planning/setup**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -528,6 +529,6 @@
 
 ## Exact next activity
 
-**Part007 assembled Tamil construction + audit.**
+**Part007 English translation planning/setup.**
 
-Parts001–006 remain FINAL CLOSED / FROZEN. Part007 source intake, Pass1, Pass2A, Pass2B, Pass3, Part audit, final metadata/status synchronization, documentation synchronization and Tamil archival-ready checkpoint are all CLOSED / PASS. Canonical Tamil and visual fidelity are 16/16 verified. No Part007 assembled or English section existed before archival-ready closure. Outgoing 118→119 remains deferred external evidence. Exact next activity: Part007 assembled Tamil construction + audit; canonical pages remain authoritative and English must not begin until assembly closes.
+Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Tamil archival-ready is PASS / CLOSED and assembled Tamil is PASS / CLOSED — 2/2 VERIFIED: section19 covers scans103–104 and section20 covers scans105–118 with blank scan118 represented by provenance only. Physical coverage is 16/16; publication-text coverage is 15/15; missing/duplicate/unsupported insertion/audit-note leakage/canonical mutation/Part006 duplication/Part008 leakage are all 0. Exact next activity: Part007 English translation planning/setup.
