@@ -251,6 +251,11 @@
 - Part007 visual fidelity — **16/16 verified / 0 needs-review**
 - Part007 documentation synchronization — **PASS / COMPLETE**
 - Part007 documentation-sync canonical page changes — **0**
+- Part007 Tamil archival-ready checkpoint — **PASS / CLOSED**
+- Part007 archival-ready canonical Tamil — **16/16 verified**
+- Part007 archival-ready visual fidelity — **16/16 verified**
+- Part007 archival-ready blockers — **0**
+- Part007 assembled Tamil — **NEXT GATE / NOT STARTED**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
@@ -274,6 +279,6 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part007 Tamil archival-ready checkpoint.**
+**Part007 assembled Tamil construction + audit.**
 
-Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
+Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
