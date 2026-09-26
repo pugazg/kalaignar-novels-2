@@ -612,3 +612,27 @@ Current frontier:
 **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
 
 Do not infer scan103 or begin Part007 canonical transcription without the supplied source.
+
+## Part007 intake + Pass1 Batch1 state
+
+- Part007 source — **REGISTERED / AUTHORIZED — scans103–118 / 16 pages**
+- incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
+- canonical Part007 records — **10/16**
+- Pass1 Batch1 — **COMPLETE / PASS / TEXT-COMPLETE — scans103–112 / local1–10**
+- whole-Part Pass1 — **10/16**
+- scans103–104 — Chapter 6 `விறகுவெட்டி` continuation / close
+- scan105 — illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`
+- scan106 — Chapter 7 opening page / no ordinary printed numeral
+- scans107–112 — Chapter 7 body / printed105–110
+- scan112→113 — **physical sentence continuation witnessed**
+- scan113 body imported into Batch1 — **0**
+- unresolved Pass1 source-reading holds — **0**
+- status / visual-fidelity promotions — **0 / 0**
+- frozen Parts001–006 canonical/body mutations — **0**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 / scan119 text inferred — **0**
+- durable control — `PART_007_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
