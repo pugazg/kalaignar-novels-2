@@ -71,7 +71,7 @@ With great difficulty she finished eating the pongal, stepped into the pond and 
 
 <!-- source boundary: scan 98 → scan 99 -->
 
-Poor Muthunagai did not know the truth: the Irungovel to whom that medallion belonged was the very man who had cooked pongal for her, satisfied her hunger and shown her hospitality. When she finished washing her hands and came ashore, Irungovel, still in the guise of the woodcutter, offered her tamboolam. She accepted that too and took it.
+Poor Muthunagai did not know the truth: the Irungovel to whom that medallion belonged was the very man who had cooked pongal for her, satisfied her hunger and shown her hospitality. When she finished washing her hands and came ashore, Irungovel, still in the guise of the woodcutter, offered her tamboolam. She accepted it and put it in her mouth.
 
 "Oh! Sir's mouth has gone nicely red!" said Irungovel, pinching her red lips with his rough fingers. Though she did not like it, the sharp pain that began when his fingers pinched her lips somehow passed away. She managed to compose herself.
 
