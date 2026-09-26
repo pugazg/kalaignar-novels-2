@@ -61,8 +61,67 @@ Pass2A's canonical text for scans103–111 already matches the controlling sourc
 - Part008 / scan119 inference: **0**
 - Pass3 started: **NO**
 
+
+## Batch 2 — scans112–118 / local10–16
+
+**Status: COMPLETE / PASS — 7/7 independently source-pixel reread**
+
+The live post-Pass2A canonical records were reread against the controlling rendered pixels. Scan118 is a genuine blank physical page; faint reverse-side bleed-through was not promoted to text.
+
+| scan | local | printed | result | source-text / lexical / spacing / punctuation corrections | historical-glyph / orthography corrections | unresolved |
+|---:|---:|---:|---|---:|---:|---:|
+| 112 | 10 | 110 | PASS | 0 | 0 | 0 |
+| 113 | 11 | 111 | PASS | 0 | 0 | 0 |
+| 114 | 12 | 112 | PASS | 0 | 0 | 0 |
+| 115 | 13 | 113 | PASS | 0 | 0 | 0 |
+| 116 | 14 | 114 | PASS | 0 | 0 | 0 |
+| 117 | 15 | 115 | PASS | 0 | 0 | 0 |
+| 118 | 16 | — | PASS / BLANK | 0 | 0 | 0 |
+
+### Batch 2 correction ledger
+
+- source-text / lexical / spacing / punctuation corrections: **0**
+- historical-glyph / historical-orthography corrections: **0**
+- canonical page-record mutations: **0**
+- unresolved lexical questions: **0**
+- unresolved historical-glyph / orthography questions: **0**
+
+### Source-sensitive forms explicitly retained without normalization
+
+- scan112: `நறநறவென்று`, `செதில் செதிலாக`, `‘பளார் பளார்’`; 112→113 sentence continuation retained
+- scan113: `மயக்கமுற்றிருந்த`, `எங்கே இதற்குமுன்`, `ஏழெட்டுப்`
+- scan114: `சித்திரத்துப்பாவை`, `கைகள்களில்`, `கனைத்துக் கொண்டான்`; source dash/quote structure retained
+- scan115: `விர்ரென்று`, `சாவுருக்குப் போகும் வழி`, `உலகக்கூடத்தில்`; internal-quotation punctuation retained
+- scan116: `சுழன்றடிக்கும் நினைவுச் சூறாவளியில்`, `அந்தவீடே`, `கனைத்திடத்`, `வறட்டுக் குரல்`; 116→117 continuation retained
+- scan117: `‘ஙொய்’`, `பறவைகள்போல்`, `ஆண்களைப்போல்`, `பேசமுடியும்`; source hyphenated responsibility phrase retained
+- scan118: blank physical page retained; reverse-side bleed-through is not source-visible text
+
+### Batch 2 guard checks
+
+- all seven records remain `status: "needs-review"`: PASS
+- all seven records remain `visual_fidelity: "needs-review"`: PASS
+- frozen Parts001–006 mutations: **0**
+- Part008 / scan119 inference: **0**
+- outgoing 118→119 boundary: **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Pass3 started: **NO**
+
+## Part007 Pass2B closure
+
+**PART007 PASS2B — COMPLETE / PASS — 16/16 REVIEWED**
+
+- Batch1 scans103–111: **9/9 PASS**
+- Batch2 scans112–118: **7/7 PASS**
+- new Pass2B source-text / lexical / spacing / punctuation corrections: **0**
+- new Pass2B historical-glyph / historical-orthography corrections: **0**
+- new Pass2B canonical mutations: **0**
+- unresolved Pass2B questions: **0**
+- status promotions: **0**
+- visual-fidelity promotions: **0**
+- frozen Parts001–006 mutations: **0**
+- Part008 / scan119 text inferred: **0**
+
+Pass2B is closed. **Pass3 has not been started.**
+
 ## Next exact activity
 
-**Part007 Pass2B Batch 2 — scans112–118 / local10–16 — final 7-page remainder.**
-
-Do not begin Pass3 until Batch2 closes and Part007 Pass2B is COMPLETE / PASS.
+**Part007 Pass3**, only when separately authorized.
