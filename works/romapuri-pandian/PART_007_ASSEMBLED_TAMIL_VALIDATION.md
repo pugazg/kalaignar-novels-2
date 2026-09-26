@@ -200,3 +200,25 @@ The synchronized controls agree on:
 - exact next gate — **Part007 English translation planning/setup**
 
 Therefore the assembled-Tamil gate introduced no canonical Tamil, English-body, frozen earlier-Part, or Part008 drift.
+
+
+## Post-assembly Part007 English planning closure
+
+Part007 English translation planning/setup is now **COMPLETE / PASS**:
+
+- reserved batches — **E20–E21**
+- E20 — **RESERVED / NEXT — scans103–104**
+- E21 — **RESERVED — scans105–118**
+- English drafted/source-checked — **0/2**
+- E20/E21 English draft files created in planning — **0**
+- E20/E21 source-check records created in planning — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Parts001–006 English edits caused by planning — **0**
+- Part008 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `PART_007_ENGLISH_PLANNING_SETUP.md`
+
+Current frontier:
+
+**E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
