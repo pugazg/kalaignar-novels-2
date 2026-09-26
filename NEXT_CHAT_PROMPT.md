@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 assembled Tamil construction + audit
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 English translation planning/setup
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,58 +21,53 @@ Controlling source:
 - incoming **85→86 — GENUINE CONTINUATION / AUDITED**
 - outgoing **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
 
-## Closed Tamil archival chain
+## Closed Tamil chain
 
 - source intake + incoming boundary — **PASS / COMPLETE**
-- Pass1 — **COMPLETE / PASS — 17/17**
-- Pass2A — **COMPLETE / PASS — 17/17**
-- Pass2B — **COMPLETE / PASS — 17/17**
-- Pass3 — **COMPLETE / PASS — 17/17**
+- Pass1 / Pass2A / Pass2B / Pass3 — **CLOSED / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
 - documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready checkpoint — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 
-## Final canonical state
+## Assembled Tamil inventory
 
-- canonical Part006 records — **17/17**
-- Tamil textual status — **17/17 verified / 0 needs-review**
-- visual fidelity — **17/17 verified / 0 needs-review**
-- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
-- unresolved supplied-Part boundary blockers — **0**
-- Part007 / scan103 leakage — **0**
+1. `sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` — scans86–94
+2. `sections/18-chapter-06-viragu-vetti.md` — scans95–102
 
-Durable archival-ready control:
+Coverage:
 
-`PART_006_TAMIL_ARCHIVAL_READY.md`
+- physical scans — **17/17 / scans86–102**
+- publication-text pages — **16/16**
+- blank scan94 — **provenance only / no rendered Tamil**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part005 body duplication — **0**
+- Part007 leakage — **0**
+
+Durable validation control:
+
+`PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Exact next activity
 
-**Part006 assembled Tamil construction + audit.**
+**Part006 English translation planning/setup.**
 
-Construct the maintained Part006 Tamil reading layer under `sections/` from verified canonical `pages/` only.
+Read the live Part006 assembled Tamil, existing English translation plan/progress/glossary controls, and prior reserved E-batch sequence before assigning new batch IDs.
 
-Required source structure:
+Create/update the Part006 English planning/setup control. Reserve the next sequential non-colliding English batch IDs for the two verified Part006 assembled sections, define their exact Tamil source-section coverage, and synchronize translation plan/progress/glossary controls without drafting English body text in the planning activity.
 
-- scans86–93 — Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / close;
-- scan94 — blank physical separator; preserve as provenance only, not rendered body text;
-- scan95 — illustrated Chapter 6 title `6. விறகுவெட்டி`;
-- scans96–102 — Chapter 6 narrative opening / continuation.
+Preserve:
 
-Maintain exact canonical Tamil wording and punctuation. Preserve meaningful physical joins such as 87→88, 96→97 and 99→100. Do not import Part005 body backward or Part007/scan103 text forward.
+- verified canonical Tamil unchanged;
+- verified assembled Tamil unchanged;
+- source-visible names, titles and historical/source variants;
+- incoming 85→86 audited boundary;
+- outgoing 102→103 deferred external witness;
+- no Part007 / scan103 leakage;
+- Parts001–005 frozen.
 
-Audit assembled Tamil for:
-
-- 17/17 physical scan coverage structurally;
-- all publication-text source-transcription pages represented exactly once;
-- blank scan94 represented only as non-rendering provenance;
-- missing / duplicate coverage = 0;
-- unsupported Tamil insertion = 0;
-- audit-note leakage into rendered body = 0;
-- canonical `pages/` mutations caused by assembly = 0;
-- English body changes = 0;
-- Part007 leakage = 0.
-
-Create/update the explicit Part006 assembled-Tamil validation control and synchronize shared `sections/README.md` and lifecycle controls.
-
-Do not begin English translation until assembled Tamil closes.
+Do not begin English drafting/source-check until the planning/setup gate closes.
