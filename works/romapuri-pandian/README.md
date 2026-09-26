@@ -485,3 +485,28 @@
 Current frontier:
 
 **Part007 release-ready synchronization.**
+
+
+## Part007 final closure
+
+**PART007 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+Parts001–007 are now **FINAL CLOSED / FROZEN**.
+
+- Part007 Tamil — **16/16 verified**
+- Part007 visual fidelity — **16/16 verified**
+- assembled Tamil — **2/2 VERIFIED / CLOSED**
+- English E20–E21 — **2/2 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved final blockers — **0**
+- outgoing 118→119 — **PENDING Part008 adjacent witness**
+- Part008 — **NOT SUPPLIED / NOT REGISTERED**
+- durable closure — `PART_007_FINAL_CLOSURE.md`
+
+Current frontier:
+
+**Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied.**
