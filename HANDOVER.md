@@ -352,6 +352,9 @@
 - Part007 Pass1 Batch 2 — **COMPLETE / PASS / TEXT-COMPLETE — scans113–118 / local11–16**
 - Part007 Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Part007 unresolved Pass1 source-reading holds — **0**
+- Part007 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part007 Pass2A corrections — **9 / 8 pages / 0 unresolved**
+- Part007 Pass2A status promotions — **0**
 - Part007 scan105 — **illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`**
 - Part007 scan118 — **blank physical page**
 - Part007 outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
@@ -361,7 +364,7 @@
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part007 Pass2A — scans103–118 / local1–16**
+- exact next activity — **Part007 Pass2B Batch 1 — scans103–111 / local1–9**
 
 ## Boundary
 
@@ -499,11 +502,12 @@
 - `PART_006_BOUNDARY_AUDIT_102_103.md`
 - `PART_007_INTAKE_BOUNDARY_SETUP.md`
 - `PART_007_PASS1_PROGRESS.md`
+- `PART_007_PASS2A_PROGRESS.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part007 Pass2A — scans103–118 / local1–16**
+- prompt frontier — **Part007 Pass2B Batch 1 — scans103–111 / local1–9**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -518,6 +522,6 @@
 
 ## Exact next activity
 
-**Part007 Pass2A — scans103–118 / local1–16.**
+**Part007 Pass2B Batch 1 — scans103–111 / local1–9.**
 
 Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Pass1 is COMPLETE / PASS — 16/16 TEXT-COMPLETE across scans103–118. Batch2 closed scans113–118 / local11–16, including blank physical scan118. All 16 records remain needs-review for text and visual fidelity; unresolved Pass1 holds are 0; no frozen Parts001–006 body was changed; outgoing 118→119 remains deferred external evidence. Part007 Pass2A scans103–118 is next.
