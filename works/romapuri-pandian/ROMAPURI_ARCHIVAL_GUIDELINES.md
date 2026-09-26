@@ -716,3 +716,29 @@ Current frontier:
 **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
 
 Do not infer scan103 or begin Part007 canonical transcription without the supplied source.
+
+## Part007 intake / boundary state
+
+Part007 source is now **REGISTERED / AUTHORIZED**.
+
+- physical extent — **16 pages / scans103–118**
+- incoming **102→103 — GENUINE CONTINUATION / AUDITED**
+- frozen Part006 body imported into Part007 — **0**
+- Part007 body imported backward into frozen Part006 — **0**
+- scans103–104 — Chapter 6 continuation
+- scan105 — illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`
+- scan106 — Chapter 7 opening page
+- scans107–117 — Chapter 7 narrative
+- scan118 — blank physical page
+- outgoing **118→119 — PENDING Part008 adjacent witness / deferred external boundary evidence**
+- unresolved intake/boundary blockers — **0**
+
+## Part007 Pass1 cadence
+
+- fixed cadence — **10 physical pages per iteration**
+- Batch 1 — **scans103–112 / local1–10**
+- Batch 2 — **scans113–118 / local11–16 — final 6-page remainder**
+
+Current frontier:
+
+**Part007 Pass1 Batch 1 — scans103–112 / local1–10.**
