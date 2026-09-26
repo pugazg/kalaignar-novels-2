@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–005 FINAL CLOSED / FROZEN — PART006 ENGLISH EDITORIAL REVIEW PASS / CLOSED — BILINGUAL NEXT**
+**PART001–005 FINAL CLOSED / FROZEN — PART006 BILINGUAL REVIEW PASS / CLOSED — RELEASE-READINESS NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -273,6 +273,9 @@
 - Part006 English editorial review — **PASS / CLOSED**
 - Part006 editorial corrections — **14 total — E18 5 / E19 9**
 - Part006 unresolved editorial holds — **0**
+- Part006 whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- Part006 bilingual-review corrections — **2 total — E18 1 / E19 1**
+- Part006 unresolved bilingual holds — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -379,9 +382,10 @@
 - `translations/en/E19_SOURCE_CHECK.md`
 - `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_006_TRANSLATION_REVIEW.md`
+- `translations/en/PART_006_BILINGUAL_REVIEW.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 whole-Part bilingual review across E18–E19.**
+**Part006 release/readiness review and report.**
