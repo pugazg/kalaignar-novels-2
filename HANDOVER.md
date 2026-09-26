@@ -364,7 +364,7 @@
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part007 Pass2B Batch 1 — scans103–111 / local1–9**
+- exact next activity — **Part007 Tamil archival-ready checkpoint**
 
 ## Boundary
 
@@ -503,11 +503,16 @@
 - `PART_007_INTAKE_BOUNDARY_SETUP.md`
 - `PART_007_PASS1_PROGRESS.md`
 - `PART_007_PASS2A_PROGRESS.md`
+- `PART_007_PASS2B_PROGRESS.md`
+- `PART_007_PASS3_PROGRESS.md`
+- `PART_007_AUDIT.md`
+- `PART_007_FINAL_STATUS_SYNC.md`
+- `PART_007_DOCUMENTATION_SYNC.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part007 Pass2B Batch 1 — scans103–111 / local1–9**
+- prompt frontier — **Part007 Tamil archival-ready checkpoint**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -522,6 +527,6 @@
 
 ## Exact next activity
 
-**Part007 Pass2B Batch 1 — scans103–111 / local1–9.**
+**Part007 Tamil archival-ready checkpoint.**
 
-Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Pass1 is COMPLETE / PASS — 16/16 TEXT-COMPLETE across scans103–118. Batch2 closed scans113–118 / local11–16, including blank physical scan118. All 16 records remain needs-review for text and visual fidelity; unresolved Pass1 holds are 0; no frozen Parts001–006 body was changed; outgoing 118→119 remains deferred external evidence. Part007 Pass2A scans103–118 is next.
+Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Pass1, Pass2A, Pass2B and Pass3 are COMPLETE / PASS; Part007 Part audit is PASS / COMPLETE; final metadata/status synchronization is PASS / CLOSED; all 16 canonical records are verified for Tamil text and visual fidelity; documentation synchronization is PASS / COMPLETE; outgoing 118→119 remains deferred external evidence. Part007 Tamil archival-ready checkpoint is next.
