@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 ENGLISH PLANNING / SETUP COMPLETE — E18 NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 E18 SOURCE-CHECKED / COMPLETE — E19 NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -796,3 +796,32 @@ Part006 planning glossary holds — **0**.
 Exact next glossary-bearing activity:
 
 **E18 draft + source-check.**
+
+## E18 source-check decisions
+
+E18 confirms the following Part006 English handling:
+
+- `சிவனடியார் திருக்கூட்டம்` → **The Gathering of Siva Devotees**
+- `முத்துநகை` → **Muthunagai**
+- `செழியன்` → **Sezhiyan**
+- `கரிகாலன்` → **Karikalan**
+- `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` → **Peruvazhuthi / Peruvazhuthi Pandiyan**
+- `காரிக்கண்ணனார்` → **Karikannanar**
+- `இருங்கோவேள்` → **Irungovel**
+- `தாமரை` → **Thamarai**
+- `யவனக் கிழவர்` / `யவனக்கிழவர்` → **Yavana elder**
+- `திருநீற்றடியார்` → **Thiruneettradiyar**
+- `ஒற்றன்` → **spy**
+- `அறைகூவல்` → **challenge**
+- `விழுப்புண்` → **honourable battle wounds**
+- `சூழ்ச்சியைச் சூழ்ச்சியினால் தான் முறியடிக்க வேண்டும்` → **A plot must be defeated by a plot**
+- `தந்திரத்தை தந்திரத்தால்தான் வெல்ல வேண்டும்` → **A stratagem must be defeated by a stratagem**
+- `அந்தத் தாமரை மலர்ந்த தடாகம் எது` → **which pond that lotus had bloomed in**, retaining the source wordplay
+
+E18 source-check corrections — **2**.
+
+E18 unresolved glossary/source-check holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**E19 draft + source-check.**
