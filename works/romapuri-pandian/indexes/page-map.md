@@ -636,3 +636,28 @@ Do not infer scan103 or begin Part007 canonical transcription without the suppli
 Current frontier:
 
 **Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
+
+## Part007 Pass1 closure
+
+- canonical Part007 records — **16/16**
+- global scans — **103–118 continuous**
+- local pages — **1–16 continuous**
+- Batch1 — **COMPLETE / PASS — scans103–112 / local1–10**
+- Batch2 — **COMPLETE / PASS — scans113–118 / local11–16**
+- whole-Part Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+- scans103–104 — Chapter 6 continuation / close
+- scan105 — illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`
+- scan106 — Chapter 7 opening / no printed numeral
+- scans107–117 — Chapter 7 body
+- scan118 — blank physical terminal page
+- unresolved Pass1 source-reading holds — **0**
+- status / visual-fidelity promotions — **0 / 0**
+- all records remain `needs-review` / `needs-review`
+- frozen Parts001–006 canonical/body mutations — **0**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 / scan119 text inferred — **0**
+- durable control — `PART_007_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part007 Pass2A — scans103–118 / local1–16.**
