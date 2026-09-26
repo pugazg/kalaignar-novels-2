@@ -2,14 +2,14 @@
 
 ## Current project English state
 
-**PARTS001–005 ENGLISH — FINAL CLOSED / FROZEN; PART006 BILINGUAL REVIEW PASS / CLOSED / RELEASE-READINESS NEXT**
+**PARTS001–005 ENGLISH — FINAL CLOSED / FROZEN; PART006 RELEASE/READINESS PASS / CLOSED / RELEASE-READY SYNC NEXT**
 
 - Part001 English — **FINAL CLOSED / FROZEN**
 - Part002 English — **FINAL CLOSED / FROZEN**
 - Part003 English — **FINAL CLOSED / FROZEN — E11–E12 SOURCE-CHECKED / COMPLETE**
 - Part004 English — **FINAL CLOSED / FROZEN — E13–E15 SOURCE-CHECKED / COMPLETE**
 - Part005 English — **FINAL CLOSED / FROZEN — E16–E17 SOURCE-CHECKED / COMPLETE — 2/2**
-- Part006 English — **IN PROGRESS — E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILED / PASS — EDITORIAL PASS / CLOSED — BILINGUAL PASS / CLOSED — RELEASE-READINESS NEXT**
+- Part006 English — **IN PROGRESS — E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILED / PASS — EDITORIAL PASS / CLOSED — BILINGUAL PASS / CLOSED — RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNC NEXT**
 
 ## Part001 historical progress
 
@@ -783,3 +783,24 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next activity — project
 
 **Part006 release/readiness review and report.**
+
+## Part006 release/readiness state
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- release/readiness — **PASS / CLOSED**
+- structural parity — **159/159 total**
+- rendered parity — **145/145**
+- provenance parity — **14/14**
+- unresolved release/readiness blockers — **0**
+- canonical / assembled Tamil edits — **0**
+- maintained Part006 English body edits — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable record — `PART_006_RELEASE_REPORT.md`
+
+## Exact next activity — project
+
+**Part006 release-ready synchronization.**
