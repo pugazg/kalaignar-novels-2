@@ -35,7 +35,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch1 
 
 “எனது திருநாட்டை அபகரித்துக் கொண்டவன் கொடுங்கோலன் அல்லாமல் வேறு யார்?”
 
-“போரில் தோற்ற பொறுந்தாதே உன் நாடு!”
+“போரில் தோற்ற பொருந்தாதே உன் நாடு!”
 
 ## Pass 1 notes
 
@@ -46,3 +46,11 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch1 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 111; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 109; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
