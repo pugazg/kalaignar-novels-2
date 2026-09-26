@@ -296,3 +296,38 @@ The synchronized live frontier is therefore:
 - next activity — **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied**
 
 Unauthorized textual drift after final closure — **0**.
+
+## 14. Post-closure external boundary resolution
+
+Part007 source has now been supplied and registered without reopening frozen Part006.
+
+Part007 witness:
+
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf`
+
+- local pages — **16**
+- global scans — **103–118**
+- file size — **45,974,175 bytes**
+- SHA-256 — `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae`
+- scan103 printed page — **101**
+
+Direct adjacent-source comparison resolves the formerly deferred boundary:
+
+**102→103 — GENUINE CONTINUATION / AUDITED**
+
+Frozen scan102 closes with Irungovel realizing that Muthunagai's form has become an indelible picture in his mind. Scan103 immediately continues the same Chapter 6 thought, beginning:
+
+`அவன் பார்க்கும் பச்சிலைகளினுடைய பசுமை நிறத்தின்மீதெல்லாம் அவள் பளிங்கு முகத்தையே கண்டான்.`
+
+No Chapter 7 heading occurs until scan105.
+
+Post-closure boundary resolution effects:
+
+- Part006 canonical/body mutation — **0**
+- Part006 assembled Tamil mutation — **0**
+- Part006 English mutation — **0**
+- scan103 body imported backward — **0**
+- Part006 final closure remains — **PASS / CLOSED / FROZEN**
+- durable boundary record — `PART_006_BOUNDARY_AUDIT_102_103.md`
+
+Part007 intake + incoming-boundary setup is **PASS / COMPLETE**.
