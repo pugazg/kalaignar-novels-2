@@ -294,3 +294,23 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Exact next activity
 
 **Part007 release/readiness review and report.**
+
+
+## Part007 release/readiness closure
+
+- release/readiness — **PASS / CLOSED**
+- Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- English E20–E21 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED — 18 corrections**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **3**
+- structural parity — **138/138 total; 124/124 rendered; 14/14 provenance**
+- unresolved release/readiness blockers — **0**
+- Part008 leakage — **0**
+
+## Current exact next activity
+
+**Part007 release-ready synchronization.**
