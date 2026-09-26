@@ -204,13 +204,17 @@
 - Part006 assembled Tamil validation blockers — **0**
 - Part006 English translation planning/setup — **COMPLETE / PASS**
 - Part006 reserved English batches — **E18–E19**
-- Part006 English drafted/source-checked — **1/2**
+- Part006 English drafted/source-checked — **2/2**
 - Part006 unresolved English planning holds — **0**
 - Part006 E18 — **SOURCE-CHECKED / COMPLETE — scans86–94**
 - Part006 E18 structural parity — **88/88 total; 80/80 rendered; 8/8 provenance**
 - Part006 E18 source-check corrections — **2**
 - Part006 E18 unresolved source-check holds — **0**
-- Part006 E19 — **RESERVED / NEXT**
+- Part006 E19 — **SOURCE-CHECKED / COMPLETE — scans95–102**
+- Part006 E19 structural parity — **71/71 total; 65/65 rendered; 6/6 provenance**
+- Part006 E19 source-check corrections — **3**
+- Part006 E19 unresolved source-check holds — **0**
+- Part006 unresolved English source-check holds — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -233,4 +237,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
+**Part006 whole-Part glossary reconciliation across E18–E19.**
