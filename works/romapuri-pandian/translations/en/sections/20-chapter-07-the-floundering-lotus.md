@@ -29,7 +29,7 @@ A bell rang with a terrifying sound.
 
 A hundred warriors came carrying blazing torches. The torches were planted in the ground there. Their flames flared so fiercely that it was impossible to stand even at a distance. Many prisoners, their hands in fetters, were dragged in.
 
-Sezhiyan was one of them. Exhausted, he walked as though he could hardly walk at all. Yet even in that condition, his valour flew like a banner.
+Sezhiyan was one of them. Exhausted, he came along barely able to walk. Yet even in that condition, his valour flew like a banner.
 
 The prisoners were made to stand amid the torches planted in the ground. How could they bear, from so close by, the heat spewed by those demons of flame, their fiery tongues twisting and burning in every direction?
 
@@ -43,17 +43,17 @@ What positions did they hold in the Chola palace? Were they warriors? Ministers?
 
 Who was there to answer Sezhiyan's questions? They too looked eagerly at Sezhiyan.
 
-Every pair of eyes seemed to raise the question mark: "Who is the new man?"
+Every pair of eyes seemed to ask: "Who is the new man?"
 
 Irungovel began to speak. No! No! He began to roar.
 
-"Slaves! How long are you going to suffer like this? In any case, none of you is going to be freed. If you want at least to remain in prison without hardship and torment, tell the truth properly. Hey, Sezhiya! Foolish young man! Warrior of Pandiyan country! You too may tell whatever truths you know. They say Karikala Cholan goes to a secret place to think all by himself! Where is that place? Look at these fools—they are suffering mortal agony because they will not tell that truth. Sezhiya! If you know it, tell me and save yourself!"
+"Slaves! How long are you going to suffer like this? In any case, none of you is going to be freed. If you want at least to remain in prison without hardship and torment, tell me the truth plainly. Hey, Sezhiya! Foolish young man! Warrior of Pandiyan country! You too may tell whatever truths you know. They say Karikala Cholan goes to a secret place to think all by himself! Where is that place? Look at these fools—they are suffering mortal agony because they will not tell that truth. Sezhiya! If you know it, tell me and save yourself!"
 
 Sezhiyan replied to Irungovel:
 
 "You yourself call the place where the Chola king goes to think a secret place. If it is secret, how would I or these men know it?"
 
-"What arrogance! Hey! Do you know the law here? If any prisoner from Chola country opens his mouth, he is allowed to open it only to tell truths about Karikalan. Otherwise, he must not open his mouth here even to cry 'Ah! Ah!' in pain! Understand that."
+"What arrogance! Hey! Do you know the law here? If any prisoner from Chola country opens his mouth, he is allowed to open it only to tell the truth about Karikalan. Otherwise, he must not open his mouth here even to cry 'Ah! Ah!' in pain! Understand that."
 
 — Roaring angrily like this, Irungovel left the place. The Chola prisoners and Sezhiyan stood writhing amid the cruel heat of the torches.
 
@@ -61,13 +61,13 @@ A short while after Irungovel left, some of the prisoners fainted from the heat 
 
 <!-- source boundary: scan 107 → scan 108 -->
 
-Watching that dreadful scene, Sezhiyan stood rumbling like a volcano. He did not sway. He did not move. Though the fire scorched his body, he stood with a majestic, heroic gaze. From inside the wooden palace, Queen Perunthevi, Thamarai and the others watched that cruel punishment through the windows. Just then King Irungovel entered. Still lying on her bed, the queen stretched out her hand, called him near and received him with affection.
+Watching that dreadful scene, Sezhiyan stood rumbling like a volcano. He did not sway. He did not move. Though the fire scorched his body, he stood with a look of heroic majesty. From inside the wooden palace, Queen Perunthevi, Thamarai and the others watched that cruel punishment through the windows. Just then King Irungovel entered. Still lying on her bed, the queen stretched out her hand, called him near and received him with affection.
 
 Looking at his sister, Irungovel asked, "What is it, Thamarai? Why are you looking on with such deep sorrow?"
 
 Gathering a little courage, Thamarai said, "Everything else may be as it is, brother! But it seems to me that punishing the Chola prisoners this cruelly crosses the bounds of humaneness!"
 
-"Crazy girl! You too feel pity for those sinners? We have lost our country, lost our well-being, and live like wanderers with the life of beasts in the middle of the forest. Whatever suffering we inflict on those who reduced us to this state is deserved!" Irungovel shouted like a man possessed.
+"Crazy girl! You too feel pity for those sinners? We have lost our country, lost our well-being, and live like wanderers, leading the life of beasts in the deep forest. Whatever suffering we inflict on those who reduced us to this state is deserved!" Irungovel shouted like a man possessed.
 
 Thamarai did not want to argue any further. She went over to the window and began looking at the prisoners through it. One by one they were falling down. Her eyes filled with tears. She stood there, utterly absorbed in the sight.
 
@@ -79,7 +79,7 @@ The queen began speaking softly to Irungovel, coughing now and then.
 
 "It seems that young man is wandering about seeking revenge on Karikalan..."
 
-The first question of suspicion formed in Irungovel's mind.
+The first question of suspicion arose in Irungovel's mind.
 
 <!-- source boundary: scan 108 → scan 109 -->
 
@@ -93,7 +93,7 @@ The queen's words echoed in turn.
 
 — the king asked eagerly, seeking an answer.
 
-"I do not know whether your sister has developed some affection for him, or what kind of affection it may be. Apparently the young man knows good methods of medicine. Thamarai told me that if he were brought here, he could treat me and also be of help to you in taking revenge on Karikalan. I told her I wanted none of it and refused."
+"I do not know whether your sister has developed some affection for him, or what kind of affection it may be. Apparently the young man knows effective methods of treatment. Thamarai told me that if he were brought here, he could treat me and also be of help to you in taking revenge on Karikalan. I told her I wanted none of it and refused."
 
 "Why did you refuse?... What is the young man's name, she says?"
 
@@ -111,7 +111,7 @@ The queen's words echoed in turn.
 
 "A young man, yes!"
 
-"A young man with a moustache coming in?"
+"A young man whose moustache has begun to grow?"
 
 "I don't know whether it has started growing or not; there is no moustache on his face!"
 
@@ -125,7 +125,7 @@ The queen's words echoed in turn.
 
 "Reddish! Why are you asking questions like this, brother? Did you already know that young man?"
 
-"Uh-uh—no! No! I asked only out of suspicion. Bring him here and begin the queen's treatment. One more thing—we must be careful about everything. By no accident should that mute young man learn that I am here. Tell him that King Irungovel has run away somewhere. If I come here to see you, I will come only after changing my face!"
+"Uh-uh—no! No! I asked only out of suspicion. Bring him here and begin the queen's treatment. One more thing—we must be careful about everything. That mute young man must not, by any chance, learn that I am here. Tell him that King Irungovel has run away somewhere. If I come here to see you, I will come only after changing my face!"
 
 "Changing your face? Will you buy someone else's face and put it on?" the queen asked with a laugh, and began to cough.
 
@@ -137,7 +137,7 @@ The king smiled as he embraced her. Embarrassed to watch them, Thamarai looked o
 
 <!-- source boundary: scan 110 → scan 111 -->
 
-Irungovel walked straight up to him and stood staring at him. The determination that shone as though written across the brave young man's face touched Irungovel's heart. He looked at the nearby warriors and ordered them to extinguish the torches. Within a few moments all the torches were put out. Sezhiyan, who had been on the point of falling, steadied himself, opened his eyes wide and looked ahead. Irungovel stood before him with a smile. Sezhiyan looked around. The cruelty of seeing the Chola prisoners lying unconscious filled him with fury.
+Irungovel walked straight up to him and stood staring at him. The determination that shone as though written across the brave young man's face touched Irungovel's heart. He looked at the nearby warriors and ordered them to extinguish the torches. Within a few moments all the torches were put out. Sezhiyan, who had been on the point of falling, steadied himself, opened his eyes wide and looked ahead. Irungovel stood before him with a smile. Sezhiyan looked around. The sight of the Chola prisoners lying unconscious filled him with fury.
 
 Looking at Irungovel, he shouted, "Are you a warrior too?"
 
@@ -163,7 +163,7 @@ Looking at Irungovel, he shouted, "Are you a warrior too?"
 
 "Go to ruin for all I care! What sentence have you given me? Tell me quickly!"
 
-At those words, the anger of Irungovel, who had been patient until then, suddenly surged. He had thought that allowing Sezhiyan to speak might serve some purpose, but not only was he disappointed—the young man's replies turned him into a volcano. He ground his teeth.
+At those words, the anger of Irungovel, who had been patient until then, suddenly surged. He had thought that allowing Sezhiyan to speak might serve some purpose, but he was not merely disappointed; the young man's replies made him erupt like a volcano. He ground his teeth.
 
 "Sentence? You arrogant wretch! Sentence? I have planned to kill you little by little! I will take out your eyes, hold them in my hand, and delight in showing those very eyes the sight of your limbs being torn apart little by little—piece by piece! Is that sentence enough? Would you like some new method as well?"
 
@@ -175,7 +175,7 @@ Irungovel expected his laughter to die down. But Sezhiyan kept looking at Irungo
 
 Thamarai had watched these terrible scenes without blinking. As soon as her brother left, she came out slowly, called one of the warriors, and ordered him to revive the prisoners lying <!-- source boundary: scan 112 → scan 113 --> unconscious and give them something to eat. Obeying Thamarai's order, he gathered a few other warriors and began tending to all the prisoners who had fainted.
 
-Then she slowly approached the place where Sezhiyan stood. Without looking at her, he stood with his eyes closed and his face lifted toward the sky. Thamarai thought she should help him somehow. She decided for herself that helping him in that way would not be disloyal to her brother. Though it was not her policy that the prisoners should be freed, she could not bear to see them tortured.
+Then she slowly approached the place where Sezhiyan stood. Without looking at her, he stood with his eyes closed and his face lifted toward the sky. Thamarai thought she should help him somehow. She decided for herself that helping him in that way would not be disloyal to her brother. Though she did not believe the prisoners should be released, she could not bear to see them tortured.
 
 "Do you want some water?"
 
@@ -231,7 +231,7 @@ After giving Sezhiyan her reply and moving away, Thamarai stood at a distance an
 
 At that moment, Muthu entered the chamber of her thoughts. She had never expected her brother's permission to bring Muthu home to come so easily. Not wanting to let the opportunity slip away, she began planning to go at once, meet Muthu and bring him back.
 
-Muthunagai had decided to wait by the waterfall until Thamarai came to take her away, and she remained there through the night. The sky had drawn a black curtain without even letting the stars show themselves. From time to time there was thunder too, like a man with a cold coughing! With flashes of lightning like sparks rising in the great hall of the world, nature seemed to paint the picture of her heart.
+Muthunagai had decided to wait by the waterfall until Thamarai came to take her away, and she remained there through the night. The sky had drawn a black curtain without even letting the stars show themselves. From time to time there was thunder too, like the cough of a man with a cold! With flashes of lightning like sparks rising in the great hall of the world, nature seemed to paint the picture of her heart.
 
 It seemed to her that the poet Karikannanar stood before her in tears, saying, 'What suffering I endure because you are away from me, child—why, my daughter, do you torture me like this?' At once an answer would rise in her own heart.
 
@@ -255,7 +255,7 @@ Now she could speak like a man. But her throat hurt a little. What could be done
 
 Only after speaking did she realize what she had said! She had entered the test only to see whether her own voice remained—why had she wandered into the grove of love? Did that mean she was in love with that woodcutter?
 
-She felt shy at the thought of herself. It seemed as though a hand had come to rest on her shoulder! The sensation did not make her start up in alarm. She remained as she was. The hand seemed to press and hold her shoulder. She made no attempt to free herself. Instead, she leaned backward along with the hand. Something strange came over her. It was a dizziness like being held in the embrace of a powerful arm. She closed her eyes lightly and savoured the sensation. Then her hand moved toward her shoulder. As though to push away the rough hand gripping her there, her soft hand crept upward, caressing and enjoying the feeling. It rose toward her shoulder.
+She felt shy at the thought of herself. It seemed as though a hand had come to rest on her shoulder! The sensation did not make her start up in alarm. She remained as she was. The hand seemed to press and hold her shoulder. She made no attempt to free herself. Instead, she leaned back into the hand. Something strange came over her. It was a dizziness like being held in the embrace of a powerful arm. She closed her eyes lightly and savoured the sensation. Then her hand moved toward her shoulder. As though to push away the rough hand gripping her there, her soft hand crept upward, caressing and enjoying the feeling. It rose toward her shoulder.
 
 <!-- physical blank terminal page: scan 118; source-visible text: none -->
 
