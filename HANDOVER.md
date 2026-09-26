@@ -546,3 +546,10 @@ Part007 release/readiness is **PASS / CLOSED**. Tamil is 16/16 verified; assembl
 
 
 Parts001–007 are **FINAL CLOSED / FROZEN**. Part007 final closure is PASS / CLOSED / FROZEN with 16/16 verified Tamil pages, 2/2 verified assembled Tamil sections, E20–E21 source-checked 2/2, glossary/editorial/bilingual/release/release-ready gates closed, and 0 unresolved final blockers. Part008 is NOT SUPPLIED / NOT REGISTERED. Outgoing 118→119 remains pending the Part008 adjacent witness. Next activity only when Part008 source is supplied: Part008 source intake + 118→119 adjacent-boundary witness inspection/setup.
+
+
+- `SOURCE_INTAKE_PART_008.md`
+- `PART_007_BOUNDARY_AUDIT_118_119.md`
+- `PART_008_INTAKE_BOUNDARY_SETUP.md`
+
+Parts001–007 remain **FINAL CLOSED / FROZEN**. Part008 source is supplied and registered for scans119–134 / 16 pages. The formerly deferred 118→119 boundary is resolved as **CHAPTER TRANSITION / AUDITED**: scan118 is blank and scan119 is the illustrated Chapter 8 title `வேடம் கலைந்தது!`. Part008 intake + incoming-boundary setup is PASS / COMPLETE with 0 unresolved blockers and 0 frozen-Part mutations. Exact next activity: **Part008 Pass1 Batch 1 — scans119–128 / local1–10**.
