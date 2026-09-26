@@ -958,3 +958,25 @@ Part008 remains **NOT SUPPLIED / NOT REGISTERED**.
 Current frontier:
 
 **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied.**
+
+
+## Part008 source intake + incoming-boundary closure
+
+- Part008 source — **SUPPLIED / REGISTERED / AUTHORIZED — scans119–134 / 16 pages**
+- source size — **47,320,955 bytes**
+- source SHA-256 — `f8caf176e22589e4597ab1f5016ba3b04b86074e2732e87981baf69c90a8daa1`
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- scan119 — **illustrated Chapter 8 title / 8 / வேடம் கலைந்தது!**
+- scan132 — **blank physical page**
+- scan133 — **illustrated Chapter 9 title / 9 / பெருந்தேவியின் மருத்துவர்**
+- canonical Part008 records — **0/16**
+- unresolved intake/boundary blockers — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- frozen Parts001–007 canonical/assembled/English mutations — **0**
+- durable source intake — `SOURCE_INTAKE_PART_008.md`
+- durable setup — `PART_008_INTAKE_BOUNDARY_SETUP.md`
+- durable incoming-boundary audit — `PART_007_BOUNDARY_AUDIT_118_119.md`
+
+Current frontier:
+
+**Part008 Pass1 Batch 1 — scans119–128 / local1–10.**
