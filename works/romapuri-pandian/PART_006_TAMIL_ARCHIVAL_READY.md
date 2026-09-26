@@ -125,3 +125,22 @@ This checkpoint causes:
 **Part006 assembled Tamil construction + audit.**
 
 Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+
+## Post-checkpoint assembled Tamil closure
+
+The maintained Part006 assembled Tamil stage subsequently closed without reopening canonical Tamil:
+
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- physical scan coverage — **17/17 / scans86–102**
+- publication-text coverage — **16/16 + blank scan94 provenance**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part005 body duplication — **0**
+- Part007 leakage — **0**
+- durable control — `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part006 English translation planning/setup.**
