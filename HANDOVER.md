@@ -364,7 +364,7 @@
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **Part007 Tamil archival-ready checkpoint**
+- exact next activity — **Part007 assembled Tamil construction + audit**
 
 ## Boundary
 
@@ -508,11 +508,12 @@
 - `PART_007_AUDIT.md`
 - `PART_007_FINAL_STATUS_SYNC.md`
 - `PART_007_DOCUMENTATION_SYNC.md`
+- `PART_007_TAMIL_ARCHIVAL_READY.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part007 Tamil archival-ready checkpoint**
+- prompt frontier — **Part007 assembled Tamil construction + audit**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -527,6 +528,6 @@
 
 ## Exact next activity
 
-**Part007 Tamil archival-ready checkpoint.**
+**Part007 assembled Tamil construction + audit.**
 
-Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Pass1, Pass2A, Pass2B and Pass3 are COMPLETE / PASS; Part007 Part audit is PASS / COMPLETE; final metadata/status synchronization is PASS / CLOSED; all 16 canonical records are verified for Tamil text and visual fidelity; documentation synchronization is PASS / COMPLETE; outgoing 118→119 remains deferred external evidence. Part007 Tamil archival-ready checkpoint is next.
+Parts001–006 remain FINAL CLOSED / FROZEN. Part007 source intake, Pass1, Pass2A, Pass2B, Pass3, Part audit, final metadata/status synchronization, documentation synchronization and Tamil archival-ready checkpoint are all CLOSED / PASS. Canonical Tamil and visual fidelity are 16/16 verified. No Part007 assembled or English section existed before archival-ready closure. Outgoing 118→119 remains deferred external evidence. Exact next activity: Part007 assembled Tamil construction + audit; canonical pages remain authoritative and English must not begin until assembly closes.
