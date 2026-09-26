@@ -340,12 +340,14 @@
 - Part006 unresolved bilingual holds — **0**
 - Part006 release/readiness — **PASS / CLOSED**
 - Part006 unresolved release/readiness blockers — **0**
+- Part006 release-ready synchronization — **PASS / CLOSED**
+- Part006 release-ready synchronization blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 release-ready synchronization**
+- exact next activity — **Part006 final closure / freeze**
 
 ## Boundary
 
@@ -475,13 +477,14 @@
 - `translations/en/PART_006_TRANSLATION_REVIEW.md`
 - `translations/en/PART_006_BILINGUAL_REVIEW.md`
 - `translations/en/PART_006_RELEASE_REPORT.md`
+- `PART_006_RELEASE_READY_SYNC.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 release-ready synchronization**
+- prompt frontier — **Part006 final closure / freeze**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -496,6 +499,6 @@
 
 ## Exact next activity
 
-**Part006 release-ready synchronization.**
+**Part006 final closure / freeze.**
 
-Part006 release/readiness is PASS / CLOSED. Live-main inspection confirms 17/17 verified canonical pages, 2/2 verified assembled Tamil sections, 2/2 source-checked English sections, reconciled glossary, closed editorial and bilingual reviews, 159/159 total block parity, 145/145 rendered parity, 14/14 provenance parity, 0 unresolved release blockers, 0 Git PDFs, and 0 Part007/scan103 paths. Canonical/assembled Tamil and maintained English bodies were not changed by the release review. Release-ready synchronization is next.
+Part006 release-ready synchronization is PASS / CLOSED. All maintained lifecycle/release controls now agree on the closed Tamil, assembled-Tamil, E18–E19 source-check, glossary, editorial, bilingual and release/readiness state. Synchronization changes to canonical pages, assembled Tamil bodies, maintained Part006 English bodies and frozen Parts001–005 English bodies are 0; Git PDFs and Part007/scan103 paths remain 0. Final closure / freeze is next.
