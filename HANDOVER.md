@@ -318,16 +318,19 @@
 - Part006 assembled Tamil validation blockers — **0**
 - Part006 English translation planning/setup — **COMPLETE / PASS**
 - Part006 reserved English batches — **E18–E19**
-- Part006 English drafted/source-checked — **0/2**
+- Part006 English drafted/source-checked — **1/2**
 - Part006 unresolved English planning holds — **0**
-- E18 — **RESERVED / NEXT**
-- E19 — **RESERVED**
+- E18 — **SOURCE-CHECKED / COMPLETE — scans86–94**
+- E18 structural parity — **88/88 total; 80/80 rendered; 8/8 provenance**
+- E18 source-check corrections — **2**
+- E18 unresolved source-check holds — **0**
+- E19 — **RESERVED / NEXT**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **E18 draft + source-check Part006 Chapter 5 continuation / scans86–94**
+- exact next activity — **E19 draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102**
 
 ## Boundary
 
@@ -451,13 +454,14 @@
 - `PART_006_TAMIL_ARCHIVAL_READY.md`
 - `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_006_ENGLISH_PLANNING_SETUP.md`
+- `translations/en/E18_SOURCE_CHECK.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E18 draft + source-check / Part006 scans86–94**
+- prompt frontier — **E19 draft + source-check / Part006 scans95–102**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -472,6 +476,6 @@
 
 ## Exact next activity
 
-**E18 — draft + source-check Part006 Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / scans86–94.**
+**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
 
-Part006 English translation planning/setup is COMPLETE / PASS. The next non-colliding batches are E18–E19: E18 covers Chapter 5 continuation scans86–94 and is RESERVED / NEXT; E19 covers Chapter 6 `விறகுவெட்டி` scans95–102 and is RESERVED. Planning created 0 English draft files and 0 source-check records, changed 0 canonical/assembled Tamil and 0 frozen Parts001–005 English bodies, and introduced 0 Part007 leakage.
+Part006 E18 is SOURCE-CHECKED / COMPLETE across all scans86–94. Structural parity is 88/88 total blocks, 80/80 rendered blocks and 8/8 standalone provenance blocks; 7/7 source-boundary comments, the incoming 85→86 note and blank scan94 provenance are retained. Two source-check corrections were applied, unresolved holds are 0, canonical/assembled Tamil and frozen Parts001–005 English remain unchanged, and E19 is RESERVED / NEXT.
