@@ -342,12 +342,15 @@
 - Part006 unresolved release/readiness blockers — **0**
 - Part006 release-ready synchronization — **PASS / CLOSED**
 - Part006 release-ready synchronization blockers — **0**
+- Part006 final closure — **PASS / CLOSED / FROZEN**
+- Part006 final unresolved blockers — **0**
+- Part007 source — **NOT SUPPLIED / NOT REGISTERED**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 final closure / freeze**
+- exact next activity — **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied**
 
 ## Boundary
 
@@ -478,13 +481,14 @@
 - `translations/en/PART_006_BILINGUAL_REVIEW.md`
 - `translations/en/PART_006_RELEASE_REPORT.md`
 - `PART_006_RELEASE_READY_SYNC.md`
+- `PART_006_FINAL_CLOSURE.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 final closure / freeze**
+- prompt frontier — **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when supplied**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -499,6 +503,6 @@
 
 ## Exact next activity
 
-**Part006 final closure / freeze.**
+**Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
 
-Part006 release-ready synchronization is PASS / CLOSED. All maintained lifecycle/release controls now agree on the closed Tamil, assembled-Tamil, E18–E19 source-check, glossary, editorial, bilingual and release/readiness state. Synchronization changes to canonical pages, assembled Tamil bodies, maintained Part006 English bodies and frozen Parts001–005 English bodies are 0; Git PDFs and Part007/scan103 paths remain 0. Final closure / freeze is next.
+Part006 final closure is PASS / CLOSED / FROZEN. The complete Tamil, assembled-Tamil, E18–E19 source-check, glossary, editorial, bilingual, release/readiness and release-ready synchronization chain is closed with 0 final blockers and 0 post-release body drift. Parts001–006 are now FINAL CLOSED / FROZEN. Part007 is NOT SUPPLIED / NOT REGISTERED; the 102→103 adjacent witness remains pending external evidence, so no Part007 transcription is authorized until its source is supplied.
