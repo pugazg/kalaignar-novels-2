@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 documentation synchronization
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Tamil archival-ready checkpoint
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -29,10 +29,11 @@ Controlling source:
 - Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
 - Part006 Part audit — **PASS / COMPLETE**
 - Part006 final metadata/status synchronization — **PASS / CLOSED**
+- Part006 documentation synchronization — **PASS / COMPLETE**
 
-## Final status state
+## Verified canonical state
 
-All 17 Part006 canonical records are now:
+All 17 Part006 canonical records are:
 
 ```yaml
 status: "verified"
@@ -44,39 +45,46 @@ Distribution:
 - Tamil textual status — **17/17 verified / 0 needs-review**
 - visual fidelity — **17/17 verified / 0 needs-review**
 - unresolved status exceptions — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
 
-Metadata-only comparison:
+## Documentation synchronization result
 
-- pre-status audited checkpoint — `1b40aac29e1925bf747dd2f91a7347064120185b`
-- final page-status checkpoint — `ff5c916e8343334b7b952f3e9ea6e489b33f6057`
-- changed canonical files — **17/17 Part006 only**
-- per-file change — **2 additions / 2 deletions**
-- authorized fields changed — **status + visual_fidelity only**
-- canonical Tamil body drift — **0**
-- frozen Parts001–005 changes — **0**
+All maintained Part006 controls now agree on:
+
+- source intake + incoming boundary — **PASS / COMPLETE**
+- Pass1 / Pass2A / Pass2B / Pass3 — **CLOSED / PASS**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- needs-review — **0**
+- unresolved status exceptions — **0**
+- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 102→103 — **PENDING external Part007 witness / not a Part006 blocker**
 - Part007 / scan103 leakage — **0**
+- documentation-sync canonical page changes — **0**
+- Parts001–005 remain **FINAL CLOSED / FROZEN**
 
 Durable control:
 
-`PART_006_FINAL_STATUS_SYNC.md`
+`PART_006_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-**Part006 documentation synchronization.**
+**Part006 Tamil archival-ready checkpoint.**
 
-Synchronize the Part006 lifecycle state across all maintained repository controls and verify they agree on:
+Verify the whole Part006 Tamil archival state from the closed gates and synchronized documentation:
 
-- Pass1 / Pass2A / Pass2B / Pass3 closure;
-- Part audit **PASS / COMPLETE**;
-- final metadata/status synchronization **PASS / CLOSED**;
+- canonical Part006 coverage **17/17**;
 - Tamil textual status **17/17 verified / 0 needs-review**;
 - visual fidelity **17/17 verified / 0 needs-review**;
-- unresolved status exceptions **0**;
-- incoming 85→86 **GENUINE CONTINUATION / AUDITED**;
-- outgoing 102→103 **PENDING external Part007 witness**, not a Part006 blocker;
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers **0**;
+- source filename and provenance consistent;
+- incoming 85→86 remains audited;
+- outgoing 102→103 remains a deferred external witness, not a supplied-Part blocker;
 - no Part007 / scan103 leakage;
-- Parts001–005 remain **FINAL CLOSED / FROZEN**.
+- Parts001–005 remain frozen and unchanged.
 
-Create/update the explicit Part006 documentation-synchronization control. Do not alter canonical Tamil text or page metadata during documentation synchronization.
+Create/update the explicit Part006 Tamil archival-ready control with a PASS/CLOSED decision.
 
-After documentation synchronization passes, proceed to the Part006 Tamil archival-ready checkpoint.
+Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
