@@ -135,3 +135,90 @@ The synchronized live frontier is:
 **Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
 
 Therefore Batch1 repository drift outside the authorized canonical/control scope — **0**.
+
+## Batch 2 result
+
+**COMPLETE / PASS / TEXT-COMPLETE**
+
+Coverage:
+
+- global scans — **113–118**
+- local pages — **11–16**
+- canonical records created — **6**
+- text-bearing physical pages in Batch2 — **5/6**
+- blank physical pages in Batch2 — **1/6 — scan118**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- frozen Parts001–006 canonical/body mutations — **0**
+- Part008 / scan119 text inferred — **0**
+
+All 6 Batch2 records remain:
+
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
+
+## Batch2 canonical records
+
+11. `pages/0113-thathalitha-thamarai.md` — scan113 / local11 / printed111
+12. `pages/0114-thathalitha-thamarai.md` — scan114 / local12 / printed112
+13. `pages/0115-thathalitha-thamarai.md` — scan115 / local13 / printed113
+14. `pages/0116-thathalitha-thamarai.md` — scan116 / local14 / printed114
+15. `pages/0117-thathalitha-thamarai.md` — scan117 / local15 / printed115
+16. `pages/0118-blank.md` — scan118 / local16 / blank physical page / no printed numeral
+
+## Batch2 structural observations retained
+
+- scan112→113 — physical sentence continuation completed from `...வீரர்களில் ஒருவனை அழைத்துச் சாய்ந்து` into `கிடக்கும் கைதிகளுக்கு...`
+- scans113–117 — Chapter 7 `தத்தளித்த தாமரை` narrative / printed111–115
+- scan116→117 — physical sentence continuation retained: terminal `ஒலிபோலக்` → `கருடன் எழுப்பும் ‘ஙொய்’ என்ற ஒலி!`
+- scan117 — ends on a complete source sentence
+- scan118 — blank physical terminal page; faint reverse-side bleed-through excluded
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- no scan119 / Part008 wording inferred or imported
+
+## Batch2 repository integrity
+
+Batch1 synchronized checkpoint:
+
+`0e2121e9ff6778d1fbe267074132d76e6055d524`
+
+Batch2 page checkpoint:
+
+`181032e0a7e0c391c3507f837382b6722a6a6795`
+
+Direct comparison confirms:
+
+- commits — **6**
+- changed files — **6**
+- changed files are exactly the expected Part007 canonical scans113–118
+- frozen Parts001–006 page/body changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- Part008 / scan119 files — **0**
+- source PDFs added to Git — **0**
+
+## Whole-Part Pass1 closure
+
+**PART007 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+
+- global scan coverage — **103–118 continuous**
+- local-page coverage — **1–16 continuous**
+- canonical records — **16/16**
+- text-bearing physical pages — **15/16**
+- blank physical pages — **1/16 — scan118**
+- illustrated chapter-title pages — **1 — scan105**
+- chapter-opening no-printed-number page — **1 — scan106**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- frozen Parts001–006 canonical/body mutations — **0**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 / scan119 text inferred or imported — **0**
+
+## Exact next activity
+
+**Part007 Pass2A — scans103–118 / local1–16.**
+
+Do not promote final status or visual fidelity during Pass2A.
