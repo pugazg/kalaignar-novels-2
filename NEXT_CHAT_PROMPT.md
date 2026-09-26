@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 Tamil archival-ready checkpoint
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 assembled Tamil construction + audit
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,70 +21,58 @@ Controlling source:
 - incoming **85→86 — GENUINE CONTINUATION / AUDITED**
 - outgoing **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
 
-## Closed gates
-
-- Part006 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
-- Part006 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
-- Part006 Pass2B — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
-- Part006 Pass3 — **COMPLETE / PASS — 17/17 REVIEWED / 0 UNRESOLVED**
-- Part006 Part audit — **PASS / COMPLETE**
-- Part006 final metadata/status synchronization — **PASS / CLOSED**
-- Part006 documentation synchronization — **PASS / COMPLETE**
-
-## Verified canonical state
-
-All 17 Part006 canonical records are:
-
-```yaml
-status: "verified"
-visual_fidelity: "verified"
-```
-
-Distribution:
-
-- Tamil textual status — **17/17 verified / 0 needs-review**
-- visual fidelity — **17/17 verified / 0 needs-review**
-- unresolved status exceptions — **0**
-- unresolved Tamil / lexical / historical-glyph / visual / structural blockers — **0**
-
-## Documentation synchronization result
-
-All maintained Part006 controls now agree on:
+## Closed Tamil archival chain
 
 - source intake + incoming boundary — **PASS / COMPLETE**
-- Pass1 / Pass2A / Pass2B / Pass3 — **CLOSED / PASS**
+- Pass1 — **COMPLETE / PASS — 17/17**
+- Pass2A — **COMPLETE / PASS — 17/17**
+- Pass2B — **COMPLETE / PASS — 17/17**
+- Pass3 — **COMPLETE / PASS — 17/17**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
-- Tamil textual status — **17/17 verified**
-- visual fidelity — **17/17 verified**
-- needs-review — **0**
-- unresolved status exceptions — **0**
-- incoming 85→86 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 102→103 — **PENDING external Part007 witness / not a Part006 blocker**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready checkpoint — **PASS / CLOSED**
+
+## Final canonical state
+
+- canonical Part006 records — **17/17**
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+- unresolved supplied-Part boundary blockers — **0**
 - Part007 / scan103 leakage — **0**
-- documentation-sync canonical page changes — **0**
-- Parts001–005 remain **FINAL CLOSED / FROZEN**
 
-Durable control:
+Durable archival-ready control:
 
-`PART_006_DOCUMENTATION_SYNC.md`
+`PART_006_TAMIL_ARCHIVAL_READY.md`
 
 ## Exact next activity
 
-**Part006 Tamil archival-ready checkpoint.**
+**Part006 assembled Tamil construction + audit.**
 
-Verify the whole Part006 Tamil archival state from the closed gates and synchronized documentation:
+Construct the maintained Part006 Tamil reading layer under `sections/` from verified canonical `pages/` only.
 
-- canonical Part006 coverage **17/17**;
-- Tamil textual status **17/17 verified / 0 needs-review**;
-- visual fidelity **17/17 verified / 0 needs-review**;
-- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers **0**;
-- source filename and provenance consistent;
-- incoming 85→86 remains audited;
-- outgoing 102→103 remains a deferred external witness, not a supplied-Part blocker;
-- no Part007 / scan103 leakage;
-- Parts001–005 remain frozen and unchanged.
+Required source structure:
 
-Create/update the explicit Part006 Tamil archival-ready control with a PASS/CLOSED decision.
+- scans86–93 — Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / close;
+- scan94 — blank physical separator; preserve as provenance only, not rendered body text;
+- scan95 — illustrated Chapter 6 title `6. விறகுவெட்டி`;
+- scans96–102 — Chapter 6 narrative opening / continuation.
 
-Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
+Maintain exact canonical Tamil wording and punctuation. Preserve meaningful physical joins such as 87→88, 96→97 and 99→100. Do not import Part005 body backward or Part007/scan103 text forward.
+
+Audit assembled Tamil for:
+
+- 17/17 physical scan coverage structurally;
+- all publication-text source-transcription pages represented exactly once;
+- blank scan94 represented only as non-rendering provenance;
+- missing / duplicate coverage = 0;
+- unsupported Tamil insertion = 0;
+- audit-note leakage into rendered body = 0;
+- canonical `pages/` mutations caused by assembly = 0;
+- English body changes = 0;
+- Part007 leakage = 0.
+
+Create/update the explicit Part006 assembled-Tamil validation control and synchronize shared `sections/README.md` and lifecycle controls.
+
+Do not begin English translation until assembled Tamil closes.
