@@ -5,7 +5,7 @@ layer: "translation"
 section_order: 18
 section_title: "6. The Woodcutter"
 language: "en"
-translation_status: "draft"
+translation_status: "source-checked"
 batch: "E19"
 source_section: "../../../sections/18-chapter-06-viragu-vetti.md"
 source_scans: "95-102"
@@ -27,7 +27,7 @@ She did not notice that two eyes were watching that blissful bath through a gap 
 
 After remaining in the water for a long while, Muthunagai came ashore. With neither fear nor embarrassment, she stood on the bank and changed her clothes. She believed that no one but herself had seen her beautiful form—her mango-like body that could enchant any beholder—or her reflection dancing in the water.
 
-After carefully putting on her male clothes, she came to the mandapam on the bank. She started in surprise. There, a rough-looking man was cooking, with a pot set upon a hearth made by stacking a few bricks. On seeing him <!-- source boundary: scan 96 → scan 97 -->she stood completely still. She consoled herself with the thought that he could not have seen her, or the disarray in which she had bathed.
+After carefully putting on her male clothes, she came to the mandapam on the bank. She started in surprise. There, a rough-looking man was cooking, with a pot set upon a hearth made by stacking a few bricks. On seeing him <!-- source boundary: scan 96 → scan 97 -->she stood completely still. She consoled herself with the thought that he could not have seen her, or the state in which she had been bathing.
 
 He had turned the other way and was deeply occupied with his cooking. Only after hearing the sound of her approaching footsteps did he slowly turn around. Ah! What a striking face! A large, carefully twisted moustache! Broad shoulders! A distinctive gleam in his eyes that could captivate anyone! A well-built body! He was neither a youth nor an old man; one could not quite call him a middle-aged young man. Nor could one say that he was no longer youthful!
 
@@ -145,9 +145,9 @@ There was no shortage of good physicians among the Velir people.
 
 Even after all the most accomplished physicians attended to her, there was no improvement. The queen had become nothing but skin and bone.
 
-The hour itself might fail, but the giving of medicine to the queen never did. In this condition, Perunthevi merely fulfilled in name the convention that if there is a king, there must also be a queen.
+Even if the appointed hour slipped, the giving of medicine to the queen never did. In this condition, Perunthevi merely fulfilled in name the convention that if there is a king, there must also be a queen.
 
-After disaster came upon the country and they were driven into the forest, need one even ask whether the queen's illness worsened? Thinking of her husband's plight and weeping and weeping, the queen's whole face had become swollen. None of that swollen face now cast even a shadow upon the screen of Irungovel's mind. Only the beauty-filled face of Muthunagai was stirring a great struggle within him.
+After misfortune befell the country and they came to the forest, need one even ask whether the queen's illness worsened? Thinking of her husband's plight and weeping and weeping, the queen's whole face had become swollen. None of that swollen face now cast even a shadow upon the screen of Irungovel's mind. Only the beauty-filled face of Muthunagai was stirring a great struggle within him.
 
 "Why should she, like a golden statue fashioned by gathering all beauty into one form, wander about alone? Is that male clothing meant only to keep danger from befalling her? Or is it to help her fulfil her ideal? Why does she refuse to speak? Is it not because speaking would reveal a woman's voice? If I had not seen her bathing, even I would have been deceived."
 
