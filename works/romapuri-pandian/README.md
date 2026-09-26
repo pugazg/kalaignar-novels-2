@@ -7,7 +7,7 @@
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - supplied design — **39 size-based split PDFs**
-- supplied / registered Parts — **6/39**
+- supplied / registered Parts — **7/39**
 - Part001 — **17 pages / global scans1–17**
 - Part002 — **17 pages / global scans18–34 / FINAL CLOSED / FROZEN**
 - Part001 canonical records — **17/17**
@@ -285,15 +285,17 @@
 - Part007 source — **REGISTERED / AUTHORIZED — scans103–118 / 16 pages**
 - Part007 intake + incoming boundary — **PASS / COMPLETE**
 - Part007 incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
-- Part007 canonical records — **0/16**
-- Part007 Pass1 — **NOT STARTED**
+- Part007 canonical records — **10/16**
+- Part007 Pass1 Batch 1 — **COMPLETE / PASS / TEXT-COMPLETE — scans103–112 / local1–10**
+- Part007 whole-Part Pass1 — **10/16**
+- Part007 unresolved Pass1 source-reading holds — **0**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
 - Part006 scan95 — **illustrated Chapter 6 title `விறகுவெட்டி`**
-- Part006 outgoing 102→103 — **PENDING Part007 adjacent witness**
+- Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part005 E17 — **SOURCE-CHECKED / COMPLETE**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
@@ -401,9 +403,10 @@
 - `SOURCE_INTAKE_PART_007.md`
 - `PART_006_BOUNDARY_AUDIT_102_103.md`
 - `PART_007_INTAKE_BOUNDARY_SETUP.md`
+- `PART_007_PASS1_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 Pass1 Batch 1 — scans103–112 / local1–10.**
+**Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
