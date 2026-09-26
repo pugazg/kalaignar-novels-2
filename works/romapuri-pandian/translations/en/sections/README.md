@@ -611,3 +611,47 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 None. Part007 English work is not authorized until the Part007 source is supplied, registered, transcribed, verified and assembled.
+
+
+## Part007 — PLANNING / SETUP COMPLETE / PASS
+
+Part007 Tamil prerequisites are closed:
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil/documentation blockers — **0**
+
+### Reserved mapping
+
+| Batch | Verified Tamil source | Planned English file | Scans | State |
+|---|---|---|---:|---|
+| E20 | `../../../sections/19-chapter-06-viragu-vetti-part007-continuation.md` | `19-chapter-06-the-woodcutter-part007-continuation.md` | 103–104 | **RESERVED / NEXT** |
+| E21 | `../../../sections/20-chapter-07-thathalitha-thamarai.md` | `20-chapter-07-the-floundering-lotus.md` | 105–118 | **RESERVED** |
+
+Part007 English section files — **0/2 drafted; 0/2 source-checked**.
+
+### Part007 boundary safeguards
+
+- incoming **102→103 = GENUINE CONTINUATION / AUDITED**
+- frozen Part006 E19 must not be backfilled by E20
+- scan112→113 and scan116→117 physical joins remain continuous
+- scan118 is blank and has no English body text
+- outgoing **118→119 = PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 wording must not be inferred or imported
+
+### Planning integrity
+
+- Parts001–006 English section files modified — **0**
+- canonical/assembled Tamil changes caused by planning — **0**
+- E20/E21 English draft files created in planning — **0**
+- E20/E21 source-check records created in planning — **0**
+- Part008 leakage — **0**
+- unresolved planning holds — **0**
+
+## Exact next English activity
+
+**E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
+
+Do not begin E21 until E20 is **SOURCE-CHECKED / COMPLETE**.
