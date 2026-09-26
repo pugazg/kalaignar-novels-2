@@ -992,3 +992,44 @@ Part006 is now **FINAL CLOSED / FROZEN**.
 - durable final record — `../../PART_006_FINAL_CLOSURE.md`
 
 No Part007 glossary activity is authorized until its source is supplied and intake begins.
+
+
+## Part007 planning glossary
+
+Part007 English planning/setup is **COMPLETE / PASS**. Locked earlier project forms carry forward where the same Tamil form recurs.
+
+| Tamil source | Planned English handling | Note |
+|---|---|---|
+| `விறகுவெட்டி` | **The Woodcutter** | carry forward locked Chapter 6 title |
+| `விறகு வெட்டி` | **woodcutter** | common-noun/occupation use |
+| `தத்தளித்த தாமரை` | **The Floundering Lotus** | working Chapter 7 English title; preserves lotus image |
+| `தாமரை` | **Thamarai** | personal name in body text; do not translate the name as “Lotus” |
+| `முத்துநகை` | **Muthunagai** | carry forward locked character form |
+| `முத்து` | **Muthu** | Muthunagai's assumed name where source context indicates |
+| `செழியன்` | **Sezhiyan** | carry forward locked project form |
+| `கரிகாலன்` | **Karikalan** | carry forward locked project form |
+| `கரிகாற் சோழன்` / `கரிகால் சோழன்` | **Karikala Cholan** | use local source form/context |
+| `கரிகால் பெருவளத்தான்` | **Karikala Peruvalathan** | carry forward locked E19-era handling |
+| `இருங்கோவேள்` | **Irungovel** | carry forward locked ruler/name form |
+| `பெருந்தேவி` | **Perunthevi** | carry forward source personal name |
+| `யவனக் கிழவர்` / `யவனக்கிழவர்` | **Yavana elder** | carry forward locked source-facing handling |
+| `வேளிர்குடி` | **Velir clan / Velir people** | choose by local syntax |
+| `ஜுவாலை` | **flame / blaze** | translate by local sense; do not normalize verified Tamil |
+| `மெளனம்` | **silence** | meaning translation; verified Tamil historical orthography remains untouched |
+
+Source-sensitive safeguards for Part007:
+
+- title `தத்தளித்த தாமரை` uses **The Floundering Lotus** as the working literary English title, while the character name remains **Thamarai**;
+- do not normalize verified Tamil source forms because English renders them differently;
+- preserve dialogue and source-boundary structure;
+- preserve scan112→113 and scan116→117 semantic joins;
+- blank scan118 has provenance only and no English body text;
+- do not import published, remembered or web English versions;
+- incoming 102→103 must not backfill frozen Part006 E19;
+- outgoing 118→119 remains external and Part008 wording must not be inferred.
+
+Part007 planning glossary holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**E20 draft + source-check.**
