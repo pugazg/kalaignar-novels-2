@@ -284,3 +284,40 @@ The synchronized live frontier is therefore:
 - next activity — **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied**
 
 Unauthorized textual drift after final closure — **0**.
+
+
+## 14. Post-closure external boundary resolution
+
+Part008 source has now been supplied and registered without reopening frozen Part007.
+
+Part008 witness:
+
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_008_pages_119-134.pdf`
+
+- local pages — **16**
+- global scans — **119–134**
+- file size — **47,320,955 bytes**
+- SHA-256 — `f8caf176e22589e4597ab1f5016ba3b04b86074e2732e87981baf69c90a8daa1`
+- scan119 — **illustrated Chapter 8 title page**
+- scan119 source title — **8 / வேடம் கலைந்தது!**
+
+Direct adjacent-source comparison resolves the formerly deferred boundary:
+
+**118→119 — CHAPTER TRANSITION / AUDITED**
+
+Frozen scan118 is a genuine blank physical terminal page. Scan119 immediately opens a new numbered chapter with an illustrated title page. No Part007 sentence or narrative body continues across the split.
+
+Post-closure boundary-resolution effects:
+
+- Part007 canonical/body mutation — **0**
+- Part007 assembled Tamil mutation — **0**
+- Part007 English mutation — **0**
+- scan119 body imported backward — **0**
+- Part007 final closure remains — **PASS / CLOSED / FROZEN**
+- durable boundary record — `PART_007_BOUNDARY_AUDIT_118_119.md`
+
+Part008 intake + incoming-boundary setup is **PASS / COMPLETE**.
+
+Current frontier:
+
+**Part008 Pass1 Batch 1 — scans119–128 / local1–10.**
