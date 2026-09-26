@@ -293,6 +293,18 @@
 - Part007 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
 - Part007 Pass2A corrections — **9 / 8 pages / 0 unresolved**
 - Part007 Pass2A status promotions — **0**
+- Part007 Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part007 Pass2B Batch 1 — **COMPLETE / PASS — scans103–111 / local1–9**
+- Part007 Pass2B Batch 2 — **COMPLETE / PASS — scans112–118 / local10–16**
+- Part007 Pass2B source-text/lexical/spacing/punctuation corrections — **0**
+- Part007 Pass2B historical-glyph/historical-orthography corrections — **0**
+- Part007 Pass2B unresolved questions — **0**
+- Part007 Pass2B status promotions — **0**
+- Part007 Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part007 Pass3 source-text corrections — **0**
+- Part007 Pass3 structural metadata corrections — **0**
+- Part007 Pass3 unresolved visual/structural questions — **0**
+- Part007 Pass3 status promotions — **0**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
@@ -409,9 +421,11 @@
 - `PART_007_INTAKE_BOUNDARY_SETUP.md`
 - `PART_007_PASS1_PROGRESS.md`
 - `PART_007_PASS2A_PROGRESS.md`
+- `PART_007_PASS2B_PROGRESS.md`
+- `PART_007_PASS3_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 Pass2B Batch 1 — scans103–111 / local1–9.**
+**Part007 Part audit.**
