@@ -15,15 +15,15 @@ working_title: "Romapuri Pandiyan"
 
 <!-- incoming audited continuation: scan 102 → scan 103; frozen Part006 English body text intentionally not imported into this Part007 English file -->
 
-In the green of every medicinal leaf he looked at, he saw only her crystal-clear face. He hesitated over how to pluck a leaf, as though he were turning her neck. A blue-green creeper had spread over a large tree. Comparing it with the curve of her waist that he had seen while she bathed, he came forward and pronounced that the creeper had lost. Without even a trial! He saw young coconut palms standing with red tender coconuts. For some reason, a deep sigh rose from him without his realizing it. He stood with his eyes closed.
+In the green of every medicinal leaf he looked at, he saw only her crystal-clear face. He hesitated over how to pluck a leaf, as though he were turning her neck. A blue-hued creeper had spread over a large tree. Comparing it with the curve of her waist that he had seen while she bathed, he came forward and pronounced that the creeper had lost. Without even a trial! He saw young coconut palms standing with red tender coconuts. For some reason, a deep sigh rose from him without his realizing it. He stood with his eyes closed.
 
 His trick was to open his eyes suddenly and pluck the medicinal leaf he had come looking for—otherwise, it seemed, the leafy plants themselves turned into her! Closing his eyes was even worse! The pond bank came and stood before him, bent on slowly killing him.
 
-"Irungovel! You are called the 'iron-hearted man.' Are you the one losing heart like this? Do not be overcome!" he said aloud to himself once, and walked very quickly.
+"Irungovel! You are called the 'iron-hearted man.' Are you the one losing heart like this? Don't lose your senses!" he said aloud to himself once, and walked very quickly.
 
 A medicinal-leaf plant stood before him! He suddenly sprang forward and tore up the plant.
 
-A snake was coiled around the plant as well. He did not notice it. His thoughts would not let him notice anything. Poor thing! The snake writhed there, having placed its head in his hand!
+A snake was coiled around the plant as well. He did not notice it. His thoughts would not let him notice anything. Poor thing! The snake writhed there, its head caught in his hand!
 
 He hurried back to the mandapam. The mandapam was empty.
 
