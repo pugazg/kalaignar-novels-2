@@ -108,3 +108,25 @@ Current frontier:
 **Part006 assembled Tamil construction + audit.**
 
 Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+
+## Part006 assembled Tamil closure
+
+- Part006 Tamil archival-ready — **PASS / CLOSED**
+- Part006 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled section 17 — **Chapter 5 continuation / scans86–94**
+- assembled section 18 — **Chapter 6 `விறகுவெட்டி` / scans95–102**
+- physical scan coverage — **17/17 / scans86–102**
+- publication-text coverage — **16/16 + blank scan94 provenance**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part005 body duplication — **0**
+- Part007 / scan103 leakage — **0**
+- durable control — `PART_006_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part006 English translation planning/setup.**
+
+Do not alter verified canonical or assembled Tamil during English planning.
