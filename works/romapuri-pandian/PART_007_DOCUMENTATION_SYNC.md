@@ -86,3 +86,27 @@ Canonical `pages/` remains the controlling Tamil authority.
 **Part007 Tamil archival-ready checkpoint.**
 
 Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
+
+
+## Part007 Tamil archival-ready closure
+
+- Part007 Tamil archival-ready checkpoint — **PASS / CLOSED**
+- canonical Part007 records — **16/16 verified**
+- Tamil textual status — **16/16 verified / 0 needs-review**
+- visual fidelity — **16/16 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+- unresolved supplied-Part boundary blockers — **0**
+- incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 / scan119 leakage — **0**
+- assembled Part007 section files introduced before archival-ready closure — **0**
+- English Part007 section files introduced before archival-ready closure — **0**
+- frozen Parts001–006 canonical/body mutations — **0**
+- durable control — `PART_007_TAMIL_ARCHIVAL_READY.md`
+
+Current frontier:
+
+**Part007 assembled Tamil construction + audit.**
+
+Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
