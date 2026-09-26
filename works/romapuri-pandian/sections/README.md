@@ -99,6 +99,8 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 | 14 | 004 | `14-chapter-04-pulavar-magal-purappattaal.md` | 67–68 | Chapter 4 illustrated title + narrative opening | **VERIFIED** |
 | 15 | 005 | `15-chapter-04-pulavar-magal-purappattaal-part005-continuation.md` | 69–80 | Chapter 4 continuation / close | **VERIFIED** |
 | 16 | 005 | `16-chapter-05-sivanadiyaar-thirukkoottam.md` | 81–85 | Chapter 5 illustrated title + narrative / continuation | **VERIFIED** |
+| 17 | 006 | `17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | 86–94 | Chapter 5 continuation / close; scan94 blank separator represented by provenance | **VERIFIED** |
+| 18 | 006 | `18-chapter-06-viragu-vetti.md` | 95–102 | Chapter 6 illustrated title + narrative opening / continuation | **VERIFIED** |
 
 ## Assembly rules
 
@@ -173,8 +175,11 @@ Canonical `pages/` remains authoritative if any conflict is ever discovered.
 - outgoing Part004 / incoming Part005 **68→69 — GENUINE CONTINUATION / AUDITED**
 - Part004 body imported into Part005 assembled layer — **0**
 - Part005 body imported backward into Part004 assembled layer — **0**
-- outgoing Part005 **85→86 — PENDING Part006 adjacent witness / deferred external boundary evidence**
-- Part006 text imported into Part005 assembled layer — **0**
+- outgoing Part005 / incoming Part006 **85→86 — GENUINE CONTINUATION / AUDITED**
+- Part006 text imported backward into Part005 assembled layer — **0**
+- Part005 body imported forward into Part006 assembled layer — **0**
+- outgoing Part006 **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 text imported into Part006 assembled layer — **0**
 
 ## Downstream state
 
@@ -402,3 +407,31 @@ Exact next lifecycle activity:
 Exact next lifecycle activity:
 
 **Part006 Pass2A — scans86–102 / local1–17.**
+
+## Part006 special cases
+
+- scan86 — begins the audited continuation from Part005 scan85; Part005 body is not duplicated into the Part006 assembled file.
+- scan87→88 — same-sentence continuation retained as `...சோழன், பாண்டியனின் இருப்பிடத்திற்கு...`.
+- scan93 — Chapter 5 closes with a large intentional lower blank field.
+- scan94 — fully blank physical separator represented by provenance only; no rendered Tamil text.
+- scan95 — illustrated Chapter 6 title page `6. விறகுவெட்டி` retained at the start of the Chapter 6 assembled file.
+- scan96 — Chapter 6 narrative opens after the title page with a large intentional upper blank field.
+- scan96→97 — same-sentence continuation retained as `அவனைக் கண்டதும் அப்படியே...`.
+- scan99→100 — same-sentence continuation retained as `...தன்னைத் தானே மூன்று சுற்றுச் சுற்றிக் கொண்டு...`.
+- scan102 — ends on a complete sentence; no Part007 text is imported.
+
+## Part006 assembled Tamil state
+
+Part006 Tamil archival-ready — **PASS / CLOSED**.
+
+Part006 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**.
+
+Part006 assembled Tamil coverage — **17/17 physical scans / 16/16 publication-text pages + blank scan94 provenance**.
+
+Part006 assembled Tamil validation blockers — **0**.
+
+Validation control — `../PART_006_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+Current frontier:
+
+**Part006 English translation planning/setup.**
