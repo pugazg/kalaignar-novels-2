@@ -5,7 +5,7 @@ layer: "translation"
 section_order: 17
 section_title: "5. The Gathering of Siva Devotees — Part006 continuation"
 language: "en"
-translation_status: "draft"
+translation_status: "source-checked"
 batch: "E18"
 source_section: "../../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md"
 source_scans: "86-94"
@@ -61,7 +61,7 @@ Karikalan reassured Peruvazhuthi that "responsible men have been appointed to ga
 
 Karikalan smiled and replied, "Very well, then!"
 
-Karikalan turned back only after the Pandiyan's party and retinue had gone a long distance and disappeared from sight. To his astonishment, a soldier came riding at great speed, dismounted before him and stood there in salute.
+Karikalan turned back only after the Pandiyan's party and retinue had gone a long distance and disappeared from sight. To his astonishment, a soldier came riding at great speed, saluted Karikalan and stood before him.
 
 Before Karikalan could finish asking, "Who are you?" the soldier took out the rolled palm leaf in his hand and held it out. The king eagerly took it and read.
 
@@ -185,6 +185,6 @@ Muthunagai looked all around her.
 
 "Muthunagai! Look at this threatening letter Irungovel has written!" said the Chola king, handing her the palm leaf. She read it and then gave it back to the king.
 
-"A stratagem must be defeated by a stratagem. If we clash with an army, it may become difficult to recover Sezhiyan alive. Whatever happens, please wait until I come and meet you next time." Saying this, Muthunagai took leave of the king, mounted her horse and rode away.
+"A stratagem must be defeated by a stratagem. If we attack with troops, it may become difficult to recover Sezhiyan alive. Whatever happens, please wait until I come and meet you next time." Saying this, Muthunagai took leave of the king, mounted her horse and rode away.
 
 <!-- physical blank separator: scan 94; source-visible text: none -->
