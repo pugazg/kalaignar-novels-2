@@ -520,3 +520,43 @@ Expected next maintained Tamil section orders are **19–20**, derived only from
 Current frontier:
 
 **Part007 assembled Tamil construction + audit.**
+
+
+## Part007 assembled Tamil state
+
+Part007 Tamil archival-ready — **PASS / CLOSED**.
+
+Part007 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**.
+
+Part007 maintained section inventory:
+
+1. `19-chapter-06-viragu-vetti-part007-continuation.md` — scans103–104
+2. `20-chapter-07-thathalitha-thamarai.md` — scans105–118
+
+Coverage:
+
+- physical scans — **16/16 / scans103–118**
+- publication-text pages — **15/15**
+- blank physical scan118 — **provenance only**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part006 body duplication — **0**
+- Part008 leakage — **0**
+
+Part007 special cases:
+
+- scan103 begins the audited continuation from Part006 scan102; Part006 body is not duplicated into section19.
+- scan104 closes Chapter 6 `விறகுவெட்டி`.
+- scan105 is the illustrated Chapter 7 title `7. தத்தளித்த தாமரை`.
+- scan106 opens Chapter 7 narrative.
+- scan112→113 and scan116→117 physical continuations are preserved with non-rendering source-boundary comments.
+- scan118 is blank and contributes provenance only.
+- outgoing 118→119 remains pending Part008 adjacent witness; no Part008 text is imported.
+
+Validation control — `../PART_007_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+Current frontier:
+
+**Part007 English translation planning/setup.**
