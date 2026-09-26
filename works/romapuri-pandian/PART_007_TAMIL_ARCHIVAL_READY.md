@@ -178,3 +178,28 @@ The maintained Part007 assembled Tamil stage subsequently closed without reopeni
 Current frontier:
 
 **Part007 English translation planning/setup.**
+
+
+## Part007 English planning closure
+
+- Part007 English translation planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E20–E21**
+- E20 — **RESERVED / NEXT — scans103–104**
+- E21 — **RESERVED — scans105–118**
+- English drafted/source-checked — **0/2**
+- E20/E21 English draft files created in planning — **0**
+- E20/E21 source-check records created in planning — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–006 English edits caused by planning — **0**
+- incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `PART_007_ENGLISH_PLANNING_SETUP.md`
+
+Current frontier:
+
+**E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
+
+Do not begin E21 until E20 is **SOURCE-CHECKED / COMPLETE**.
