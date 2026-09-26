@@ -335,12 +335,15 @@
 - Part006 English editorial review — **PASS / CLOSED**
 - Part006 editorial corrections — **14 total — E18 5 / E19 9**
 - Part006 unresolved editorial holds — **0**
+- Part006 whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- Part006 bilingual-review corrections — **2 total — E18 1 / E19 1**
+- Part006 unresolved bilingual holds — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 whole-Part bilingual review across E18–E19**
+- exact next activity — **Part006 release/readiness review and report**
 
 ## Boundary
 
@@ -468,13 +471,14 @@
 - `translations/en/E19_SOURCE_CHECK.md`
 - `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_006_TRANSLATION_REVIEW.md`
+- `translations/en/PART_006_BILINGUAL_REVIEW.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 whole-Part bilingual review across E18–E19**
+- prompt frontier — **Part006 release/readiness review and report**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -489,6 +493,6 @@
 
 ## Exact next activity
 
-**Part006 whole-Part bilingual review across E18–E19.**
+**Part006 release/readiness review and report.**
 
-Part006 English editorial review is PASS / CLOSED across all E18–E19 pages. Fourteen English-only corrections were applied — 5 in E18 and 9 in E19 — for grammar, punctuation, awkward literal phrasing, displayed-letter quotation structure and readability, while preserving Tamil meaning, locked glossary choices and all provenance/source-boundary blocks. Unresolved editorial holds are 0; canonical/assembled Tamil, frozen Parts001–005 English and Part007 remain unchanged. Whole-Part bilingual review is next.
+Part006 whole-Part bilingual review is PASS / CLOSED — 2/2 PAIRS across all scans86–102. Structural parity is 159/159 total blocks, 145/145 rendered and 14/14 standalone provenance. Two English-only source-fidelity corrections were required — one in E18 for Sezhiyan's captive status in Irungovel's displayed threat, and one in E19 to restore the source-visible tamboolam action. Unresolved bilingual holds are 0; canonical/assembled Tamil, frozen Parts001–005 English and Part007 remain unchanged. Release/readiness is next.
