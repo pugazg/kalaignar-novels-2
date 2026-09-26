@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 E18 draft + source-check
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 E19 draft + source-check
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,59 +18,70 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - publication-text coverage — **16/16 + blank scan94 provenance**
 - unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
 
-## Part006 English planning state
+## Part006 English state
 
 English translation planning/setup is **COMPLETE / PASS**.
 
-Reserved batches:
+- E18 — **SOURCE-CHECKED / COMPLETE**
+- E18 scans — **86–94**
+- E18 Tamil / English total blocks — **88 / 88**
+- E18 rendered blocks — **80 / 80**
+- E18 standalone provenance — **8 / 8**
+- E18 source-boundary comments — **7 / 7**
+- E18 source-check corrections — **2**
+- unresolved E18 source-check holds — **0**
+- E19 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
 
-| Batch | Verified Tamil input | Scans | Planned English file | State |
-|---|---|---:|---|---|
-| **E18** | `sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | 86–94 | `translations/en/sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | **RESERVED / NEXT** |
-| **E19** | `sections/18-chapter-06-viragu-vetti.md` | 95–102 | `translations/en/sections/18-chapter-06-the-woodcutter.md` | **RESERVED** |
+Durable E18 source-check:
 
-Batch discipline:
+`translations/en/E18_SOURCE_CHECK.md`
 
-**E18 must become SOURCE-CHECKED / COMPLETE before E19 begins.**
+## E19 verified Tamil input
 
-Durable planning control:
+`sections/18-chapter-06-viragu-vetti.md`
 
-`PART_006_ENGLISH_PLANNING_SETUP.md`
+Coverage:
 
-## Locked Part006 English choices relevant to E18
+- scans — **95–102**
+- scan95 — illustrated Chapter 6 title `6. விறகுவெட்டி`
+- scan96 — narrative opening
+- scan96→97 — same-sentence continuation
+- scan99→100 — same-sentence continuation
+- scan101 — displayed written palm-leaf text
+- scan102 — complete terminal sentence
+- outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
 
-- `சிவனடியார் திருக்கூட்டம்` → **The Gathering of Siva Devotees**
+Planned English file:
+
+`translations/en/sections/18-chapter-06-the-woodcutter.md`
+
+## Locked Part006 English choices relevant to E19
+
+- `விறகுவெட்டி` → **The Woodcutter**
+- `விறகு வெட்டி` → **woodcutter**
 - `முத்துநகை` → **Muthunagai**
-- `செழியன்` → **Sezhiyan**
+- `முத்து` → **Muthu**
 - `கரிகாலன்` → **Karikalan**
-- `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` → **Peruvazhuthi / Peruvazhuthi Pandiyan**
-- `காரிக்கண்ணனார்` → **Karikannanar**
 - `இருங்கோவேள்` → **Irungovel**
 - `தாமரை` → **Thamarai**
-- `யவனக் கிழவர்` → **Yavana elder**
+- `வீரன்` → **Veeran** when used as the source-given personal name/alias
+- `பெருந்தேவி` → **Perunthevi**
+- `வேளிர்குடி` → **Velir clan / Velir people**, by local syntax
 
 Do not use outside published/web English versions.
 
-## Boundary / structure locks for E18
-
-- incoming **85→86 — GENUINE CONTINUATION / AUDITED**
-- frozen Part005 E17 must not be backfilled or altered
-- scans86–93 — Chapter 5 continuation / close
-- scan87→88 — same-sentence continuation
-- scan88 — displayed palm-leaf message/signature must remain structurally distinct
-- scan93 — Chapter 5 close
-- scan94 — blank physical separator; provenance only, no rendered English body text
-- E18 must stop at scan94 and must not include Chapter 6 / scan95 wording
-
 ## Exact next activity
 
-**E18 — draft + source-check Part006 Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / scans86–94.**
+**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
 
 Create:
 
-1. `translations/en/sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md`
-2. durable `translations/en/E18_SOURCE_CHECK.md`
+1. `translations/en/sections/18-chapter-06-the-woodcutter.md`
+2. durable `translations/en/E19_SOURCE_CHECK.md`
 
-Translate only from the verified assembled Tamil input. Preserve paragraph/dialogue/displayed-text structure and non-rendering provenance comments where required. Source-check structural block parity, omissions, duplication, boundaries, terminology, and meaning against verified Tamil.
+Translate only from the verified assembled Tamil input. Preserve title/body structure, paragraph/dialogue/displayed-text structure, physical source-boundary provenance, and the outgoing 102→103 provenance comment.
 
-Do not modify canonical Tamil or assembled Tamil. Do not modify Parts001–005 English. Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
+Source-check structural block parity, omissions, duplication, terminology, narrative meaning, the scan96→97 and 99→100 continuations, and the scan101 displayed written text.
+
+Do not modify canonical Tamil or assembled Tamil. Do not modify Parts001–005 English or E18. Do not begin glossary reconciliation until E19 is **SOURCE-CHECKED / COMPLETE**.
