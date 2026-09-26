@@ -15,11 +15,11 @@ working_title: "Romapuri Pandiyan"
 
 <!-- incoming audited continuation: scan 102 → scan 103; frozen Part006 English body text intentionally not imported into this Part007 English file -->
 
-In the green of every medicinal leaf he looked at, he saw only her crystal-clear face. He hesitated over how to pluck a leaf, as though he were turning her neck. A blue-hued creeper had spread over a large tree. Comparing it with the curve of her waist that he had seen while she bathed, he came forward and pronounced that the creeper had lost. Without even a trial! He saw young coconut palms standing with red tender coconuts. For some reason, a deep sigh rose from him without his realizing it. He stood with his eyes closed.
+In the green of every medicinal leaf he looked at, he saw only her crystal-clear face. He hesitated over how to pluck a leaf, as though he were turning her neck. A blue-hued creeper had spread over a large tree. Comparing it with the curve of her waist he had seen while she bathed, he went so far as to pronounce the creeper defeated. Without even a trial! He saw young coconut palms standing with red tender coconuts. For some reason, a deep sigh rose from him without his realizing it. He stood with his eyes closed.
 
 His trick was to open his eyes suddenly and pluck the medicinal leaf he had come looking for—otherwise, it seemed, the leafy plants themselves turned into her! Closing his eyes was even worse! The pond bank came and stood before him, bent on slowly killing him.
 
-"Irungovel! You are called the 'iron-hearted man.' Are you the one losing heart like this? Don't lose your senses!" he said aloud to himself once, and walked very quickly.
+"Irungovel! You are called the 'iron-hearted man.' Are you the one losing heart like this? Don't lose your senses!" he said aloud to himself once, then walked very quickly.
 
 A medicinal-leaf plant stood before him! He suddenly sprang forward and tore up the plant.
 
@@ -39,4 +39,4 @@ He wandered round and round the mandapam. He went and stood on the bank of the p
 
 He scooped up water in his hand and splashed it on his face. Then he rose and walked on.
 
-After walking a long distance and disappearing into the forest, Irungovel mounted a tall horse and sped towards his wooden palace. The warriors standing at the entrance to the wooden palace took hold of the horse, tied it up, and attended to it.
+After walking a long way into the forest, Irungovel mounted a tall horse and sped towards his wooden palace. The warriors standing at the entrance to the wooden palace took hold of the horse, tied it up, and attended to it.
