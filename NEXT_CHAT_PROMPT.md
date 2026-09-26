@@ -1,34 +1,52 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part007 release-ready synchronization
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 source intake + 118→119 adjacent-boundary witness
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Parts001–006 are **FINAL CLOSED / FROZEN**.
+## Durable frozen state
 
-Part007 prerequisite gates are closed:
+Parts001–007 are **FINAL CLOSED / FROZEN**.
 
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, editorial/bilingual reviews, release records, release-ready synchronization records, or final-closure records merely to advance Part008.
+
+## Part007 closed state
+
+- source scans — **103–118 / 16**
 - canonical Tamil — **16/16 verified**
 - visual fidelity — **16/16 verified**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
-- E20–E21 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- English E20–E21 — **SOURCE-CHECKED / COMPLETE — 2/2**
 - glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED — 18 corrections**
 - whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
 - bilingual-review corrections — **3**
 - release/readiness — **PASS / CLOSED**
-- unresolved release/readiness blockers — **0**
-- structural parity — **138/138 total; 124/124 rendered; 14/14 standalone provenance**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved final blockers — **0**
 - active Git PDF paths — **0**
-- incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
-- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
-- Part008 leakage — **0**
 
-Durable release report:
+Durable final record:
 
-`translations/en/PART_007_RELEASE_REPORT.md`
+`PART_007_FINAL_CLOSURE.md`
+
+## Outgoing boundary
+
+- scan117 ends with complete narrative text
+- scan118 is a genuine blank physical terminal page
+- **118→119 — PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 / scan119 text inferred/imported — **0**
+
+## Part008 state
+
+- source — **NOT SUPPLIED / NOT REGISTERED**
+- source intake — **NOT REGISTERED**
+- canonical records — **0**
+- scan119 adjacent witness — **NOT AVAILABLE**
 
 ## Exact next activity
 
-**Part007 release-ready synchronization.**
+When the Part008 source is supplied:
 
-Synchronize lifecycle/status/navigation/control documents only. Do not alter canonical Tamil, assembled Tamil, maintained Part007 English bodies, or frozen Parts001–006. Create `PART_007_RELEASE_READY_SYNC.md`, verify post-sync drift is zero, then advance to **Part007 final closure / freeze**.
+**Part008 source intake + 118→119 adjacent-boundary witness inspection/setup.**
+
+Do not infer scan119 or begin Part008 canonical transcription without the supplied Part008 source.
