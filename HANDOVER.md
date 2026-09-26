@@ -364,7 +364,7 @@
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
-- exact next activity — **E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118**
+- exact next activity — **Part007 whole-Part glossary reconciliation across E20–E21**
 
 ## Boundary
 
@@ -512,11 +512,12 @@
 - `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
 - `PART_007_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E20_SOURCE_CHECK.md`
+- `translations/en/E21_SOURCE_CHECK.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118**
+- prompt frontier — **Part007 whole-Part glossary reconciliation across E20–E21**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -531,6 +532,6 @@
 
 ## Exact next activity
 
-**E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118.**
+**Part007 whole-Part glossary reconciliation across E20–E21.**
 
-Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Tamil is fully verified and assembled Tamil is PASS / CLOSED — 2/2 VERIFIED. English planning/setup is COMPLETE / PASS. E20 (Chapter 6 continuation / scans103–104) is SOURCE-CHECKED / COMPLETE with 14/14 structural parity, 3 source-check corrections and 0 unresolved holds. E21 is RESERVED / NEXT for Chapter 7 / scans105–118. No canonical/assembled Tamil or frozen earlier-Part English was changed by E20. Exact next activity: E21 draft + source-check; do not begin whole-Part glossary reconciliation until E21 closes.
+Parts001–006 remain FINAL CLOSED / FROZEN. Part007 Tamil is fully verified and assembled Tamil is PASS / CLOSED — 2/2 VERIFIED. English planning/setup is COMPLETE / PASS. E20 and E21 are both SOURCE-CHECKED / COMPLETE (2/2), with structural parity 14/14 and 124/124 respectively, 0 unresolved source-check holds, 0 canonical/assembled Tamil edits, 0 frozen earlier-Part English edits, and 0 Part008 leakage. Exact next activity: Part007 whole-Part glossary reconciliation across E20–E21.
