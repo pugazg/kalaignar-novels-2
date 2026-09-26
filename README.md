@@ -192,6 +192,10 @@
 - Part006 Pass3 status promotions — **0**
 - Part006 Part audit — **PASS / COMPLETE — 17/17 canonical; 0 missing / 0 duplicate / 0 supplied-Part blockers**
 - Part006 audit unresolved blockers — **0**
+- Part006 final metadata/status synchronization — **PASS / CLOSED**
+- Part006 Tamil textual status — **17/17 verified / 0 needs-review**
+- Part006 visual fidelity — **17/17 verified / 0 needs-review**
+- Part006 unresolved status exceptions — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
@@ -214,4 +218,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part006 final metadata/status synchronization.**
+**Part006 documentation synchronization.**
