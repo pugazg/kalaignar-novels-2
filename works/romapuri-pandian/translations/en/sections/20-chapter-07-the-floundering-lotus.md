@@ -5,7 +5,7 @@ layer: "translation"
 section_order: 20
 section_title: "7. The Floundering Lotus"
 language: "en"
-translation_status: "draft"
+translation_status: "source-checked"
 batch: "E21"
 source_section: "../../../sections/20-chapter-07-thathalitha-thamarai.md"
 source_scans: "105-118"
@@ -65,7 +65,7 @@ Watching that dreadful scene, Sezhiyan stood rumbling like a volcano. He did not
 
 Looking at his sister, Irungovel asked, "What is it, Thamarai? Why are you looking on with such deep sorrow?"
 
-Gathering a little courage, Thamarai said, "Everything else may be as it is, brother! But it seems to me that punishing the Chola prisoners this cruelly goes beyond humanity!"
+Gathering a little courage, Thamarai said, "Everything else may be as it is, brother! But it seems to me that punishing the Chola prisoners this cruelly crosses the bounds of humaneness!"
 
 "Crazy girl! You too feel pity for those sinners? We have lost our country, lost our well-being, and live like wanderers with the life of beasts in the middle of the forest. Whatever suffering we inflict on those who reduced us to this state is deserved!" Irungovel shouted like a man possessed.
 
@@ -181,7 +181,7 @@ Then she slowly approached the place where Sezhiyan stood. Without looking at he
 
 Hearing a woman's voice, Sezhiyan opened his eyes and looked. He could not believe his own eyes. Who was this woman standing before him? Where had he seen her before...?
 
-A warrior had once come to Sezhiyan saying that Peruvazhuthi Pandiyan was calling him, and Sezhiyan had gone at once. Inside the palace, in a separate mansion, the Pandiyan was pacing in deep thought. When he saw Sezhiyan, his face brightened and he received him warmly.
+A warrior came to Sezhiyan saying that Peruvazhuthi Pandiyan was calling him; Sezhiyan immediately set out. Inside the palace, in a separate mansion, the Pandiyan was pacing in deep thought. When he saw Sezhiyan, his face brightened and he received him warmly.
 
 "Do you know why I called you?"
 
@@ -225,7 +225,7 @@ If he said "yes," Sezhiyan would place him too among the list of tormentors; if 
 
 "Why do you need all these questions?" Thamarai said, and swiftly left the place.
 
-Sezhiyan, having received no proper answer, stood bewildered and watched her go. One by one, the prisoners who had fainted were dragged away and shut inside wooden storerooms. At last Sezhiyan too was dragged away, thrown into a prison marked 'Road to Death,' and the guard outside was strengthened.
+Sezhiyan, having received no proper answer, stood bewildered and watched her go. One by one, the prisoners who had fainted were dragged away and shut inside timber sheds. At last Sezhiyan too was dragged away, thrown into a prison marked 'Way to Death,' and the guard outside was strengthened.
 
 After giving Sezhiyan her reply and moving away, Thamarai stood at a distance and watched anxiously as he was taken away. She watched until he was locked up, then wandered here and there outside the palace.
 
