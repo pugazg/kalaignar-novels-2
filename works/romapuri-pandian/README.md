@@ -510,3 +510,26 @@ Parts001–007 are now **FINAL CLOSED / FROZEN**.
 Current frontier:
 
 **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied.**
+
+
+## Part008 intake / activation
+
+**PART008 INTAKE + INCOMING BOUNDARY — PASS / COMPLETE**
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_008_pages_119-134.pdf`
+- scans — **119–134 / 16**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- scan119 — **8 / வேடம் கலைந்தது!**
+- scan120 — **Chapter 8 opening**
+- scans121–131 — **Chapter 8 body / printed119–129**
+- scan132 — **blank physical page**
+- scan133 — **9 / பெருந்தேவியின் மருத்துவர்**
+- scan134 — **Chapter 9 opening**
+- canonical records — **0/16**
+- unresolved intake/boundary blockers — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness**
+- durable controls — `SOURCE_INTAKE_PART_008.md`, `PART_008_INTAKE_BOUNDARY_SETUP.md`, `PART_007_BOUNDARY_AUDIT_118_119.md`
+
+Current frontier:
+
+**Part008 Pass1 Batch 1 — scans119–128 / local1–10.**
