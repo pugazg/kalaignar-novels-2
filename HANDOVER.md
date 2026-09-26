@@ -344,13 +344,21 @@
 - Part006 release-ready synchronization blockers — **0**
 - Part006 final closure — **PASS / CLOSED / FROZEN**
 - Part006 final unresolved blockers — **0**
-- Part007 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part007 source — **REGISTERED / AUTHORIZED — scans103–118 / 16 pages**
+- Part007 intake + incoming boundary — **PASS / COMPLETE**
+- Part007 incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
+- Part007 canonical records — **0/16**
+- Part007 Pass1 — **NOT STARTED**
+- Part007 scan105 — **illustrated Chapter 7 title `7 / தத்தளித்த தாமரை`**
+- Part007 scan118 — **blank physical page**
+- Part007 outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
-- Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied**
+- Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
+- exact next activity — **Part007 Pass1 Batch 1 — scans103–112 / local1–10**
 
 ## Boundary
 
@@ -484,11 +492,14 @@
 - `PART_006_FINAL_CLOSURE.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
+- `SOURCE_INTAKE_PART_007.md`
+- `PART_006_BOUNDARY_AUDIT_102_103.md`
+- `PART_007_INTAKE_BOUNDARY_SETUP.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when supplied**
+- prompt frontier — **Part007 Pass1 Batch 1 — scans103–112 / local1–10**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -503,6 +514,6 @@
 
 ## Exact next activity
 
-**Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
+**Part007 Pass1 Batch 1 — scans103–112 / local1–10.**
 
-Part006 final closure is PASS / CLOSED / FROZEN. The complete Tamil, assembled-Tamil, E18–E19 source-check, glossary, editorial, bilingual, release/readiness and release-ready synchronization chain is closed with 0 final blockers and 0 post-release body drift. Parts001–006 are now FINAL CLOSED / FROZEN. Part007 is NOT SUPPLIED / NOT REGISTERED; the 102→103 adjacent witness remains pending external evidence, so no Part007 transcription is authorized until its source is supplied.
+Part006 remains FINAL CLOSED / FROZEN. Part007 is now REGISTERED / AUTHORIZED from the supplied 16-page scans103–118 source. Direct adjacent-source review resolves 102→103 as GENUINE CONTINUATION / AUDITED without changing frozen Part006. Part007 intake + incoming-boundary setup is PASS / COMPLETE, canonical records remain 0/16, unresolved intake/boundary blockers are 0, and Pass1 Batch 1 scans103–112 is next.
