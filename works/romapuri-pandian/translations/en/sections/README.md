@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 E18–E19 are source-checked complete, glossary reconciliation is RECONCILED / PASS, and editorial review is next.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 E18–E19 are source-checked complete, glossary reconciliation is RECONCILED / PASS, editorial review is PASS / CLOSED, and bilingual review is next.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -533,3 +533,19 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **Part006 English editorial review across E18–E19.**
+
+## Part006 editorial-reviewed English state
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- E18 editorial corrections — **5**
+- E19 editorial corrections — **9**
+- total editorial corrections — **14**
+- unresolved editorial holds — **0**
+- structural/provenance block counts changed — **0**
+- durable record — `../PART_006_TRANSLATION_REVIEW.md`
+
+## Exact next English activity
+
+**Part006 whole-Part bilingual review across E18–E19.**
