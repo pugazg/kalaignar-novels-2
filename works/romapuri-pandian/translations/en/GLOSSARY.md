@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 E18–E19 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -858,3 +858,38 @@ E18–E19 source-check state — **COMPLETE — 2/2**.
 Exact next glossary-bearing activity:
 
 **Part006 whole-Part glossary reconciliation across E18–E19.**
+
+## Part006 glossary reconciliation closure
+
+**PART006 GLOSSARY RECONCILIATION — RECONCILED / PASS**
+
+Full E18–E19 review confirms:
+
+- maintained Part006 English files checked — **2/2**
+- recurring personal-name drift — **0**
+- assumed-name drift — **0**
+- ruler-name drift — **0**
+- chapter-title drift — **0**
+- Yavana / devotee-name drift — **0**
+- source-facing transliteration drift — **0**
+- common-noun/title capitalization drift — **0**
+- food / plant / cultural-term drift — **0**
+- context-sensitive Velir drift requiring edits — **0**
+- glossary-driven E18 body edits — **0**
+- glossary-driven E19 body edits — **0**
+- unresolved glossary holds — **0**
+
+Deliberate distinctions retained:
+
+- **Muthunagai / Muthu** — full name versus assumed name;
+- **Peruvazhuthi / Peruvazhuthi Pandiyan** — source-context short/expanded forms;
+- **The Woodcutter / woodcutter** — chapter title versus common noun;
+- **Velir people / Velir clan** — context-sensitive project rendering; Part006 E19 uses **Velir people**;
+- **poovarasu leaf / poovarasu leaves** — ordinary singular/plural syntax;
+- **Veeran** — personal name/alias, distinct from generic **warrior**.
+
+Durable record: `PART_006_GLOSSARY_RECONCILIATION.md`.
+
+Exact next glossary-bearing activity:
+
+**Part006 English editorial review across E18–E19.**
