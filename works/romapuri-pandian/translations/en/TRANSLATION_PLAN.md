@@ -1,6 +1,6 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 ENGLISH EDITORIAL REVIEW PASS / CLOSED — BILINGUAL NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
 
 This is the cumulative control plan for the project-created English translation. Parts001–005 are final closed/frozen. Part006 Tamil and assembled Tamil gates are closed, English planning/setup is complete, and E18–E19 are source-checked complete. Whole-Part Part006 glossary reconciliation is next.
 
@@ -972,3 +972,22 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Current exact English activity
 
 **Part006 whole-Part bilingual review across E18–E19.**
+
+## Part006 whole-Part bilingual review closure
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- structural parity — **159/159 total; 145/145 rendered; 14/14 standalone provenance**
+- bilingual-review corrections — **2 total — E18 1 / E19 1**
+- unresolved bilingual holds — **0**
+- editorial-correction meaning drift — **0**
+- canonical / assembled Tamil edits caused by bilingual review — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable bilingual record — `PART_006_BILINGUAL_REVIEW.md`
+
+## Current exact English activity
+
+**Part006 release/readiness review and report.**
