@@ -41,7 +41,7 @@ The bodyguard thought for a moment and hesitated. "But I cannot send them withou
 
 "The king has already said that I am to be given whatever I need. And what I am asking for now is not for myself, is it? It is to capture an enemy of this country!" she explained, insisting on her request.
 
-The bodyguard sent fifty of the soldiers under his command behind Muthunagai. Taking them with her, she headed toward her house with the exultation of one who felt that Irungovel was already as good as caught.
+The bodyguard sent fifty of the soldiers under his command to follow Muthunagai. Taking them with her, she headed toward her house with the exultation of one who felt that Irungovel was already as good as caught.
 
 Seeing fifty palace soldiers suddenly moving at great speed through the street, the people of the capital were startled. Everyone inside the houses rushed out into the street. Muthunagai, riding at the front, pulled hard on the reins and stopped her horse. What a bitter disappointment?
 
@@ -51,7 +51,7 @@ The Yavana elder's horse, which had been tied at the entrance of her house, was 
 
 Muthunagai wrote on a palm leaf, "Delay; because of it he escaped," gave it to a soldier with instructions to hand it to the bodyguard, and continued her journey in another direction.
 
-After Peruvazhuthi Pandiyan informed the Chola king that he wished to return to the capital, the Chola king, <!-- source boundary: scan 87 → scan 88 -->went to the Pandiyan's residence. The Pandiyan spoke openly to the Chola king, saying that apart from Sezhiyan's disappearance, he had no other worry.
+After Peruvazhuthi Pandiyan expressed his wish to return to the capital, the Chola king <!-- source boundary: scan 87 → scan 88 -->went to the Pandiyan's residence. The Pandiyan spoke openly to the Chola king, saying that apart from Sezhiyan's disappearance, he had no other worry.
 
 Karikalan reassured Peruvazhuthi that "responsible men have been appointed to gather information about Sezhiyan and about the conspiratorial schemes being carried out to overthrow the Chola realm," and that "there is no need for any concern about Sezhiyan." They then spoke at length about the relations between the Pandiyan country and the Chola land and about agreements of friendship. Both men praised the poet Karikannanar, who had shown the way toward their unity and friendship between the two countries.
 
@@ -65,7 +65,7 @@ Karikalan turned back only after the Pandiyan's party and retinue had gone a lon
 
 Before Karikalan could finish asking, "Who are you?" the soldier took out the rolled palm leaf in his hand and held it out. The king eagerly took it and read.
 
-"What is written to Chola king Karikalan is this—the Pandiyan warrior Sezhiyan lies enslaved in my custody. If you wish to hand him over alive to the Pandiyan, you must return my country to me. Otherwise I intend to torture Sezhiyan and kill him little by little! Answer at once—through action!"
+"This is what I write to Chola king Karikalan: the Pandiyan warrior Sezhiyan lies enslaved in my custody. If you wish to hand him over alive to the Pandiyan, you must return my country to me. Otherwise I intend to torture Sezhiyan and kill him little by little! Answer at once—through action!
 
 — King Irungovel."
 
@@ -125,7 +125,7 @@ The poet approached him with a smile. "Great Chola king! What promise did you ma
 
 Just then a soldier entered the palace. Karikalan stared in surprise, unable to recognize him. The nearby bodyguard whispered into Karikalan's ear, "The one coming in is Muthunagai!" Karikalan glanced once at the poet and remained alert. The poet did not recognize that the person approaching him was his own daughter.
 
-Muthunagai signalled to Karikalan with her expression that she wanted to speak in secret. He looked at the poet and the others and said, "All right; I need to speak with the spy... everyone may leave. If necessary, I will call you again." He walked seven paces behind the poet, saw him off as well, and then went into the inner part of the palace with Muthunagai. Her troubled eyes proclaimed that she was thinking about how she had behaved before her own father as though she did not know him.
+Muthunagai signalled to Karikalan with her expression that she wanted to speak in secret. He looked at the poet and the others and said, "All right; I need to speak with the spy... everyone may leave. If necessary, I will call you again." He followed the poet for seven paces, saw him off, and then went into the inner part of the palace with Muthunagai. Her troubled eyes proclaimed that she was thinking about how she had behaved before her own father as though she did not know him.
 
 Karikalan looked at her and said, "You really are very clever! I could not recognize you at all!" He marvelled at her skill.
 
@@ -133,7 +133,7 @@ Karikalan looked at her and said, "You really are very clever! I could not recog
 
 "That is all well and good, but your voice gives you away!" said the king.
 
-"That is why I am playing the mute! I say that I am observing a vow of silence and conduct every conversation only through my stylus!"
+"That is why I am playing the mute! I say that I am observing a vow of silence and converse only through my stylus!"
 
 <!-- source boundary: scan 91 → scan 92 -->
 
