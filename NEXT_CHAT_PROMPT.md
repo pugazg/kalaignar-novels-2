@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 whole-Part bilingual review
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part006 release-readiness
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,12 +25,20 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - source-checked — **2/2**
 - glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
-- E18 editorial corrections — **5**
-- E19 editorial corrections — **9**
-- total editorial corrections — **14**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- editorial corrections — **14 total — E18 5 / E19 9**
+- bilingual-review corrections — **2 total — E18 1 / E19 1**
 - unresolved source-check holds — **0**
 - unresolved glossary holds — **0**
 - unresolved editorial holds — **0**
+- unresolved bilingual holds — **0**
+
+Structural parity after bilingual review:
+
+- E18 — **88/88 total; 80/80 rendered; 8/8 provenance**
+- E19 — **71/71 total; 65/65 rendered; 6/6 provenance**
+- Part006 total — **159/159 total; 145/145 rendered; 14/14 provenance**
+- provenance/source-boundary mismatches — **0**
 
 Durable records:
 
@@ -38,49 +46,39 @@ Durable records:
 - `translations/en/E19_SOURCE_CHECK.md`
 - `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_006_TRANSLATION_REVIEW.md`
+- `translations/en/PART_006_BILINGUAL_REVIEW.md`
 
-## Maintained bilingual pairs
+## Boundary state
 
-Pair 1:
-
-- Tamil — `sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md`
-- English — `translations/en/sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md`
-- scans — **86–94**
-
-Pair 2:
-
-- Tamil — `sections/18-chapter-06-viragu-vetti.md`
-- English — `translations/en/sections/18-chapter-06-the-woodcutter.md`
-- scans — **95–102**
-
-Structural parity remains:
-
-- E18 — **88/88 total blocks; 80/80 rendered; 8/8 provenance**
-- E19 — **71/71 total blocks; 65/65 rendered; 6/6 provenance**
-- provenance/source-boundary blocks removed by editorial review — **0**
+- incoming **85→86 — GENUINE CONTINUATION / AUDITED**
+- scan94 — blank physical separator / provenance only
+- scan95 — illustrated Chapter 6 title `விறகுவெட்டி`
+- scan102 — complete terminal sentence
+- outgoing **102→103 — PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part007 / scan103 leakage — **0**
 
 ## Exact next activity
 
-**Part006 whole-Part bilingual review across E18–E19.**
+**Part006 release/readiness review and report.**
 
-Review both complete Tamil/English section pairs across all Part006 pages for:
+Review the whole Part006 lifecycle and release surface:
 
-- source meaning parity;
-- omissions or duplicated meaning;
-- names, aliases, titles and pronoun referents;
-- rhetorical force and figurative imagery;
-- dialogue tone;
-- displayed written-text meaning;
-- chapter/blank-page transitions;
-- physical source-boundary continuity;
-- incoming 85→86 boundary integrity;
-- outgoing 102→103 deferred external witness integrity;
-- any editorial correction that accidentally changed meaning.
+- canonical Tamil 17/17 verified;
+- assembled Tamil 2/2 verified;
+- E18–E19 source-check 2/2 complete;
+- glossary reconciliation PASS;
+- editorial review PASS;
+- bilingual review PASS;
+- all structural/provenance counts consistent;
+- all correction ledgers reconciled;
+- unresolved Tamil / English / terminology / editorial / bilingual blockers = 0;
+- incoming boundary audited;
+- outgoing 102→103 remains deferred external evidence and is not a supplied-Part blocker;
+- Part007 leakage = 0;
+- Parts001–005 remain frozen.
 
-Make bilingual-review English corrections only when required by verified Tamil. Do not modify verified Tamil unless a separate source-backed defect is discovered and explicitly reopened.
+Create durable `translations/en/PART_006_RELEASE_REPORT.md` with explicit PASS/CLOSED or blocker accounting.
 
-Create durable `translations/en/PART_006_BILINGUAL_REVIEW.md` with explicit PASS/CLOSED, pair-by-pair accounting, correction ledger, and unresolved blocker count.
+Do not modify canonical Tamil, assembled Tamil, or maintained English unless a release-blocking defect is found and separately justified.
 
-Do not modify frozen Parts001–005 English. Do not infer Part007 / scan103 wording.
-
-After bilingual review closes, proceed to **Part006 release/readiness**.
+After release/readiness closes, proceed to **Part006 release-ready synchronization**.
