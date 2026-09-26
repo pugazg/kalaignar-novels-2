@@ -806,3 +806,24 @@ Current frontier:
 **Part007 assembled Tamil construction + audit.**
 
 Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+
+
+## Part007 assembled Tamil closure
+
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled section19 — **scans103–104 / Chapter 6 continuation**
+- assembled section20 — **scans105–118 / Chapter 7**
+- physical coverage — **16/16**
+- publication-text coverage — **15/15 + blank scan118 provenance**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part006 body duplication — **0**
+- Part008 leakage — **0**
+- durable control — `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part007 English translation planning/setup.**
