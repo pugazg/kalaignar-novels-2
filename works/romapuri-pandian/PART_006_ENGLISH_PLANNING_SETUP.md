@@ -281,3 +281,24 @@ Part006 whole-Part English glossary reconciliation is now **RECONCILED / PASS**:
 Current frontier:
 
 **Part006 English editorial review across E18–E19.**
+
+## Post-planning Part006 English editorial review closure
+
+Part006 English editorial review is now **PASS / CLOSED**:
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- E18 editorial corrections — **5**
+- E19 editorial corrections — **9**
+- total editorial corrections — **14**
+- unresolved editorial holds — **0**
+- unresolved source-check / terminology holds — **0 / 0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable record — `translations/en/PART_006_TRANSLATION_REVIEW.md`
+
+Current frontier:
+
+**Part006 whole-Part bilingual review across E18–E19.**
