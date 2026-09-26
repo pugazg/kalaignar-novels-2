@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–006 FINAL CLOSED / FROZEN — PART007 ASSEMBLED TAMIL CLOSED — ENGLISH PLANNING NEXT**
+**PART001–006 FINAL CLOSED / FROZEN — PART007 ENGLISH PLANNING COMPLETE — E20 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -320,7 +320,10 @@
 - Part007 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - Part007 assembled Tamil coverage — **16/16 physical scans / 15/15 publication-text pages + blank scan118 provenance**
 - Part007 assembled Tamil validation blockers — **0**
-- Part007 English translation planning/setup — **NEXT GATE**
+- Part007 English translation planning/setup — **COMPLETE / PASS**
+- Part007 reserved English batches — **E20–E21**
+- Part007 English drafted/source-checked — **0/2**
+- Part007 unresolved English planning holds — **0**
 - Part007 outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
@@ -445,11 +448,12 @@
 - `PART_007_DOCUMENTATION_SYNC.md`
 - `PART_007_TAMIL_ARCHIVAL_READY.md`
 - `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
+- `PART_007_ENGLISH_PLANNING_SETUP.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 English translation planning/setup.**
+**E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
 
-Do not alter verified canonical or assembled Tamil during English planning.
+Do not begin E21 until E20 is **SOURCE-CHECKED / COMPLETE**.
