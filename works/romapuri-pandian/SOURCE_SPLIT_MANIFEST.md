@@ -17,7 +17,7 @@
 | 004 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf` | 47,813,374 | `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5` | 16 | 53–68 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 005 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf` | 47,433,786 | `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b` | 17 | 69–85 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 006 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf` | 48,077,888 | `df9f8994dc08da0c01e34a91204a29f17d9425ed7e6ebbc5806f4461a5bfb1c2` | 17 | 86–102 | REGISTERED | **FINAL CLOSED / FROZEN** |
-| 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | NOT STARTED |
+| 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | **PASS1 COMPLETE / PASS** |
 | 008 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 009 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 010 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
