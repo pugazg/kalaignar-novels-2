@@ -257,3 +257,22 @@ The second and final Part006 English batch has now closed without changing verif
 Current frontier:
 
 **Part006 whole-Part glossary reconciliation across E18–E19.**
+
+## Post-assembly Part006 glossary reconciliation closure
+
+Part006 English glossary reconciliation has now closed without changing verified Tamil or source-checked English bodies:
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- maintained Part006 English files checked — **2/2**
+- glossary-driven English body edits — **0**
+- unresolved glossary holds — **0**
+- canonical Tamil edits — **0**
+- assembled Tamil edits — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable record — `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
+
+Current frontier:
+
+**Part006 English editorial review across E18–E19.**
