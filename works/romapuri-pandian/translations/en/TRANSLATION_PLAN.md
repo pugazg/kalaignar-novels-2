@@ -1055,3 +1055,80 @@ No Part007 English activity is authorized.
 Next repository activity, only when the Part007 source is supplied:
 
 **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup.**
+
+
+## Part007 English translation planning/setup
+
+Part007 English planning/setup is **COMPLETE / PASS**.
+
+Tamil prerequisites:
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- physical coverage — **16/16 / scans103–118**
+- publication-text coverage — **15/15 + blank scan118 provenance**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+
+Verified Part007 assembled inputs:
+
+1. `../../sections/19-chapter-06-viragu-vetti-part007-continuation.md` — scans103–104
+2. `../../sections/20-chapter-07-thathalitha-thamarai.md` — scans105–118
+
+### Reserved Part007 English units
+
+| Batch | Tamil input | Planned English file | Scans | Planning state |
+|---|---|---|---:|---|
+| **E20** | `../../sections/19-chapter-06-viragu-vetti-part007-continuation.md` | `sections/19-chapter-06-the-woodcutter-part007-continuation.md` | 103–104 | **RESERVED / NEXT** |
+| **E21** | `../../sections/20-chapter-07-thathalitha-thamarai.md` | `sections/20-chapter-07-the-floundering-lotus.md` | 105–118 | **RESERVED** |
+
+Batch discipline:
+
+**E20 closes draft + source-check before E21 begins.**
+
+A draft alone does not close a batch. Each batch requires a durable source-check record.
+
+### Part007 translation safeguards
+
+- incoming **102→103 = GENUINE CONTINUATION / AUDITED**;
+- frozen Part006 E19 must not be backfilled or altered by E20;
+- verified assembled Tamil joins and provenance remain authoritative;
+- scan112→113 and scan116→117 same-sentence physical continuations must remain semantically continuous;
+- scan118 is blank and carries provenance only, with no English body text;
+- outgoing **118→119 = PENDING Part008 adjacent witness / deferred external boundary evidence**;
+- E21 must not infer, translate or import Part008 wording;
+- no outside published/web English version may be used to fill or normalize the project translation.
+
+### Working Part007 English labels
+
+- `விறகுவெட்டி` → **The Woodcutter**
+- `தத்தளித்த தாமரை` → **The Floundering Lotus** as working Chapter 7 title
+- personal-name `தாமரை` → **Thamarai**
+- `முத்துநகை` → **Muthunagai**
+- `முத்து` → **Muthu**
+- `செழியன்` → **Sezhiyan**
+- `கரிகாலன்` → **Karikalan**
+- `கரிகாற் சோழன்` / `கரிகால் சோழன்` → **Karikala Cholan**
+- `கரிகால் பெருவளத்தான்` → **Karikala Peruvalathan**
+- `இருங்கோவேள்` → **Irungovel**
+- `பெருந்தேவி` → **Perunthevi**
+- `யவனக் கிழவர்` / `யவனக்கிழவர்` → **Yavana elder**
+- `வேளிர்குடி` → **Velir clan / Velir people**, by local syntax
+
+Planning integrity:
+
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- Parts001–006 English section changes — **0**
+- E20/E21 English draft files created in planning — **0**
+- E20/E21 source-check records created in planning — **0**
+- Part008 leakage — **0**
+- unresolved planning holds — **0**
+- durable planning control — `../../PART_007_ENGLISH_PLANNING_SETUP.md`
+
+## Current exact English activity
+
+**E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
+
+Do not begin E21 until E20 is **SOURCE-CHECKED / COMPLETE**.
