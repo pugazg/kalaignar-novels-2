@@ -9,8 +9,8 @@
 - source family — **TVA_BOK_0065553**
 - original source size — approximately **1.85 GB** (user-reported)
 - source design — **39 size-based split PDFs**, each <=50 MB
-- supplied / registered — **Part001–Part005 / 5 of 39**
-- mapped source extent so far — **global scans1–85**
+- supplied / registered — **Part001–Part007 / 7 of 39**
+- mapped source extent so far — **global scans1–118**
 - Part001 canonical records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED — 19 corrections / 0 unresolved**
@@ -233,14 +233,16 @@
 - Part007 source — **REGISTERED / AUTHORIZED — scans103–118 / 16 pages**
 - Part007 intake + incoming boundary — **PASS / COMPLETE**
 - Part007 incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
-- Part007 canonical records — **0/16**
-- Part007 Pass1 — **NOT STARTED**
+- Part007 canonical records — **10/16**
+- Part007 Pass1 Batch 1 — **COMPLETE / PASS / TEXT-COMPLETE — scans103–112 / local1–10**
+- Part007 whole-Part Pass1 — **10/16**
+- Part007 unresolved Pass1 source-reading holds — **0**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 scan95 source title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 scan94 — **blank separator**
 - Part006 scan95 — **illustrated Chapter 6 title / விறகுவெட்டி**
-- Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
+- Part006 outgoing 102→103 — **GENUINE CONTINUATION / AUDITED**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part005 unresolved English/release blockers — **0**
 - Part005 outgoing 85→86 — **PENDING Part006 adjacent witness / deferred external boundary evidence**
@@ -258,4 +260,4 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 
 ## Exact next activity
 
-**Part007 Pass1 Batch 1 — scans103–112 / local1–10.**
+**Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
