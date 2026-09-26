@@ -84,3 +84,43 @@ No final status promotion occurs during Pass1.
 ## Exact next activity
 
 **Part007 Pass1 Batch 1 — global scans103–112 / local pages1–10.**
+
+## Post-intake control synchronization verification
+
+Pre-intake live head:
+
+`3c27792fc2fba476fb702e8a4070b5604bdad9b5`
+
+Post-intake synchronized head before this verification record:
+
+`942e2c61a33b4acedb71fb00508c7b5ca00f66ed`
+
+Direct comparison covers **10 commits / 10 changed files**:
+
+- new Part007 source intake control — **1**
+- new 102→103 boundary audit — **1**
+- new Part007 intake/boundary setup control — **1**
+- lifecycle/navigation/source-manifest controls — **7**
+
+No text-bearing archive drift occurred:
+
+- canonical `pages/` changes — **0**
+- assembled Tamil section-body changes — **0**
+- maintained English section-body changes — **0**
+- Part007 canonical page records created — **0**
+- frozen Parts001–006 body changes — **0**
+- Part008 / scan119 content inferred — **0**
+- active Git PDF paths — **0**
+
+Live-tree verification confirms:
+
+- `SOURCE_INTAKE_PART_007.md` — **present**
+- `PART_006_BOUNDARY_AUDIT_102_103.md` — **present**
+- `PART_007_INTAKE_BOUNDARY_SETUP.md` — **present**
+- `PART_007_PASS1_PROGRESS.md` — **not yet created**
+- Part007 canonical page paths — **0**
+- PDF paths in Git — **0**
+
+The synchronized live frontier is:
+
+**Part007 Pass1 Batch 1 — scans103–112 / local1–10.**
