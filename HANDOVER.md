@@ -329,12 +329,15 @@
 - E19 source-check corrections — **3**
 - E19 unresolved source-check holds — **0**
 - Part006 unresolved English source-check holds — **0**
+- Part006 glossary reconciliation — **RECONCILED / PASS**
+- Part006 glossary-driven English body edits — **0**
+- Part006 unresolved glossary holds — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 whole-Part glossary reconciliation across E18–E19**
+- exact next activity — **Part006 English editorial review across E18–E19**
 
 ## Boundary
 
@@ -460,13 +463,14 @@
 - `PART_006_ENGLISH_PLANNING_SETUP.md`
 - `translations/en/E18_SOURCE_CHECK.md`
 - `translations/en/E19_SOURCE_CHECK.md`
+- `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 whole-Part glossary reconciliation across E18–E19**
+- prompt frontier — **Part006 English editorial review across E18–E19**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -481,6 +485,6 @@
 
 ## Exact next activity
 
-**Part006 whole-Part glossary reconciliation across E18–E19.**
+**Part006 English editorial review across E18–E19.**
 
-Part006 E18–E19 are SOURCE-CHECKED / COMPLETE — 2/2. E19 covers all scans95–102 with 71/71 total blocks, 65/65 rendered blocks, 6/6 provenance blocks, 7/7 source-boundary comments and the outgoing 102→103 provenance retained. Three E19 source-check corrections were applied; unresolved Part006 source-check holds are 0, canonical/assembled Tamil and frozen Parts001–005/E18 English remain unchanged, and whole-Part glossary reconciliation is next.
+Part006 glossary reconciliation is RECONCILED / PASS across the complete E18–E19 English layer. Both maintained files were checked; accidental recurring-name, alias, title, Yavana/devotee, transliteration, food/plant/cultural-term, and context-sensitive Velir drift are all 0. No E18/E19 body edits were required, unresolved glossary holds are 0, canonical/assembled Tamil and frozen Parts001–005 English remain unchanged, and editorial review is next.
