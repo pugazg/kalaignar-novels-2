@@ -17,7 +17,7 @@
 | 004 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf` | 47,813,374 | `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5` | 16 | 53–68 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 005 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf` | 47,433,786 | `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b` | 17 | 69–85 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 006 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf` | 48,077,888 | `df9f8994dc08da0c01e34a91204a29f17d9425ed7e6ebbc5806f4461a5bfb1c2` | 17 | 86–102 | REGISTERED | **FINAL CLOSED / FROZEN** |
-| 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | **PASS1 COMPLETE / PASS** |
+| 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | **PASS2A COMPLETE / PASS** |
 | 008 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 009 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 010 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -583,3 +583,17 @@ Current frontier:
 Current frontier:
 
 **Part007 Pass2A — scans103–118 / local1–16.**
+
+## Part007 Pass2A closure
+
+- result — **COMPLETE / PASS — 16/16 REVIEWED**
+- source-supported corrections — **9**
+- pages with corrections — **8**
+- clean pages — **8**
+- unresolved textual questions — **0**
+- status / visual-fidelity promotions — **0 / 0**
+- frozen Parts001–006 mutations — **0**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 / scan119 text inferred — **0**
+- durable control — `PART_007_PASS2A_PROGRESS.md`
+- exact next gate — **Part007 Pass2B Batch 1 — scans103–111 / local1–9**
