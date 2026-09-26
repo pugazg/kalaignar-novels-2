@@ -1,6 +1,6 @@
 # English Translation Glossary — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 EDITORIAL REVIEW PASS / CLOSED — BILINGUAL REVIEW NEXT**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 BILINGUAL REVIEW PASS / CLOSED — RELEASE/READINESS NEXT**
 
 This cumulative glossary is derived only from verified canonical/assembled Tamil and source-visible English in the supplied Parts. It contains project translation choices, not external historical or linguistic claims.
 
@@ -915,3 +915,26 @@ All glossary-reconciled forms remain controlling for the next gate.
 Exact next glossary-bearing activity:
 
 **Part006 whole-Part bilingual review across E18–E19.**
+
+## Part006 bilingual-review terminology safeguard
+
+Part006 whole-Part bilingual review is **PASS / CLOSED — 2/2 PAIRS**.
+
+- bilingual-review corrections — **2 — E18 1 / E19 1**
+- locked glossary decisions changed — **0**
+- context-sensitive distinctions flattened — **0**
+- unresolved bilingual holds — **0**
+- unresolved terminology holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen Parts001–005 English edits — **0**
+- Part007 leakage — **0**
+- durable bilingual record — `PART_006_BILINGUAL_REVIEW.md`
+
+The two bilingual corrections clarify source meaning without changing the reconciled glossary:
+
+- Sezhiyan's status in Irungovel's displayed threat — **held captive by me**
+- tamboolam action — **accepted it and put it in her mouth**
+
+Exact next glossary-bearing activity:
+
+**Part006 release/readiness review and report.**
