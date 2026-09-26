@@ -1,6 +1,6 @@
 # English Section Workspace — ரோமாபுரிப் பாண்டியன்
 
-This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 E18–E19 are source-checked complete, glossary reconciliation is RECONCILED / PASS, editorial review is PASS / CLOSED, bilingual review is PASS / CLOSED, release/readiness is PASS / CLOSED, and release-ready synchronization is next.
+This directory contains the project-created English translation workspace derived from verified assembled Tamil layers. Parts001–005 are final closed/frozen; Part006 E18–E19 are source-checked complete, glossary reconciliation is RECONCILED / PASS, editorial review is PASS / CLOSED, bilingual review is PASS / CLOSED, release/readiness is PASS / CLOSED, release-ready synchronization is PASS / CLOSED, and final closure is next.
 
 Canonical Tamil `../../../pages/` remains the controlling textual authority.
 
@@ -578,3 +578,19 @@ Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
 ## Exact next English activity
 
 **Part006 release-ready synchronization.**
+
+## Part006 release-ready synchronized English state
+
+- E18–E19 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- maintained Part006 English body edits during synchronization — **0**
+- unresolved release-ready synchronization blockers — **0**
+- durable control — `../../../PART_006_RELEASE_READY_SYNC.md`
+
+## Exact next English activity
+
+**Part006 final closure / freeze.**
