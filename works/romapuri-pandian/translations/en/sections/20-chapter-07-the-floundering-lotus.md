@@ -211,7 +211,7 @@ Now that vain doubt had disappeared. He had seen the woman from the painting ali
 
 "I want water!" he said.
 
-She called a warrior and told him to give Sezhiyan water at once. The warrior brought water and poured it into Sezhiyan's mouth. After drinking it, he cleared his throat and regained a little strength. She had not failed to notice the swelling on Sezhiyan's cheek caused by her brother's rough hands. Sezhiyan thanked the man who gave him water. He replied, "It's all right."
+She called a warrior and told him to give Sezhiyan water at once. The warrior brought water and poured it into Sezhiyan's mouth. After drinking it, he cleared his throat with a little more strength. She had not failed to notice the swelling on Sezhiyan's cheek caused by her brother's rough hands. Sezhiyan thanked the man who gave him water. He replied, "It's all right."
 
 "You're from this place too, aren't you?"
 
@@ -229,7 +229,7 @@ Sezhiyan, having received no proper answer, stood bewildered and watched her go.
 
 After giving Sezhiyan her reply and moving away, Thamarai stood at a distance and watched anxiously as he was taken away. She watched until he was locked up, then wandered here and there outside the palace.
 
-At that moment, Muthu entered the chamber of her thoughts. She had never expected her brother's permission to bring Muthu home to come so easily. Not wanting to let the opportunity slip away, she began planning to go at once, meet Muthu and bring him back.
+At that moment, Muthu entered the chamber of her thoughts. She had never expected to obtain her brother's permission to bring Muthu home so easily. Not wanting to let the opportunity slip away, she began planning to go at once, meet Muthu and bring him back.
 
 Muthunagai had decided to wait by the waterfall until Thamarai came to take her away, and she remained there through the night. The sky had drawn a black curtain without even letting the stars show themselves. From time to time there was thunder too, like the cough of a man with a cold! With flashes of lightning like sparks rising in the great hall of the world, nature seemed to paint the picture of her heart.
 
@@ -239,7 +239,7 @@ It seemed to her that the poet Karikannanar stood before her in tears, saying, '
 
 <!-- source boundary: scan 115 → scan 116 -->
 
-Is it not strange that the poor girl who had left home after concluding that Irungovel, in the guise of the Yavana elder, was friendly with her father was now, without even realizing it, floundering after surrendering her own heart to that same Irungovel?
+Is it not strange that the maiden who had left home after concluding that Irungovel, in the guise of the Yavana elder, was friendly with her father was now, without even realizing it, floundering after surrendering her own heart to that same Irungovel?
 
 The sense of duty she still had to fulfil kept pursuing her from another side; poor Thamarai, believing her to be a man, was falling at her feet saying she had become a slave to love. With one thought overtaking another in the whirling storm inside her mind, the flowering creeper sat leaning against the tree with her eyes gently closed. The frightening thunder and lightning disturbed the calm of a few birds perched on the branches. They cried out and moved about from branch to branch. Muthunagai listened closely to their calls. She too felt like speaking something aloud. Keeping her mouth shut like a mute was painful to her. If she were at home, she would be talking about something with the poet. The poet too took a special pleasure in answering her questions! With the doubts she raised about each poem he wrote and the explanations the poet gave in reply, the whole house would look like a Tamil garden. For someone like her to keep her mouth closed...?
 
