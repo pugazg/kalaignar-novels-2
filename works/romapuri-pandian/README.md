@@ -285,9 +285,10 @@
 - Part007 source — **REGISTERED / AUTHORIZED — scans103–118 / 16 pages**
 - Part007 intake + incoming boundary — **PASS / COMPLETE**
 - Part007 incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
-- Part007 canonical records — **10/16**
+- Part007 canonical records — **16/16**
 - Part007 Pass1 Batch 1 — **COMPLETE / PASS / TEXT-COMPLETE — scans103–112 / local1–10**
-- Part007 whole-Part Pass1 — **10/16**
+- Part007 Pass1 Batch 2 — **COMPLETE / PASS / TEXT-COMPLETE — scans113–118 / local11–16**
+- Part007 Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Part007 unresolved Pass1 source-reading holds — **0**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
@@ -409,4 +410,4 @@
 
 ## Exact next activity
 
-**Part007 Pass1 Batch 2 — scans113–118 / local11–16 — final 6-page remainder.**
+**Part007 Pass2A — scans103–118 / local1–16.**
