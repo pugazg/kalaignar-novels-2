@@ -229,3 +229,36 @@ Current Part006 English state:
 Current frontier:
 
 **E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
+
+## Post-planning E19 closure
+
+The second and final reserved Part006 English batch has now closed:
+
+- E19 — **SOURCE-CHECKED / COMPLETE**
+- verified Tamil input — `sections/18-chapter-06-viragu-vetti.md`
+- English file — `translations/en/sections/18-chapter-06-the-woodcutter.md`
+- scans — **95–102**
+- Tamil / English total blocks — **71 / 71**
+- Tamil / English rendered blocks — **65 / 65**
+- standalone provenance comments — **6 / 6**
+- source-boundary comments retained — **7 / 7**
+- outgoing-boundary comment retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **3**
+- unresolved E19 source-check holds — **0**
+- canonical Tamil edits caused by E19 — **0**
+- assembled Tamil edits caused by E19 — **0**
+- Parts001–005 / E18 English edits caused by E19 — **0**
+- Part007 leakage — **0**
+- durable source-check — `translations/en/E19_SOURCE_CHECK.md`
+
+Current Part006 English state:
+
+- E18 — **SOURCE-CHECKED / COMPLETE**
+- E19 — **SOURCE-CHECKED / COMPLETE**
+- completed/source-checked — **2/2**
+- unresolved English source-check holds — **0**
+
+Current frontier:
+
+**Part006 whole-Part glossary reconciliation across E18–E19.**
