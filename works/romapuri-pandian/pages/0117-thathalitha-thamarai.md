@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch2 
 
 ## Source transcription
 
-கருடன் எழுப்பும் ‘ஙொய்’ என்ற ஒலி! அந்தப் போட்டியிலும் வெற்றி பெற்றாள். அவளது சிந்தனை பலமாக வேலை செய்யத் தொடங்கிற்று. சற்று நேரம் மௌனம்; குரலை எப்படி எப்படியோ மாற்றி ஒலித்துப் பார்த்தாள். பறவைகளுடன் நடந்த போட்டி நின்று விட்டது.
+கருடன் எழுப்பும் ‘ஙொய்’ என்ற ஒலி! அந்தப் போட்டியிலும் வெற்றி பெற்றாள். அவளது சிந்தனை பலமாக வேலை செய்யத் தொடங்கிற்று. சற்று நேரம் மெளனம்; குரலை எப்படி எப்படியோ மாற்றி ஒலித்துப் பார்த்தாள். பறவைகளுடன் நடந்த போட்டி நின்று விட்டது.
 
 ஆண் குரலில் பேசிப் பழக வேண்டுமென்ற துடிப்பு அதிகமாயிற்று. தாமரையுடன் சென்றால் அங்கும் எழுதி எழுதிக் காட்டிக் கொண்டிருக்க முடியாது என்ற எண்ணம் மேலோங்கியது. பறவைகள்போல் கத்த முடிந்த பிறகு ஆண்களைப்போல் பேசிப் பழகிக்கொள்ள முடியாதா என்ன? துணிவு பிறந்தது. பேச ஆரம்பித்தாள். எடுத்த எடுப்பில் வெற்றி கிட்டவில்லை. ஆனாலும் வெற்றி கிட்டும் என்ற நம்பிக்கை உதயமாகியது. தன் தந்தையார் எழுதிய கவிதைகள் பலவற்றை மனப்பாடம் செய்து வைத்திருந்தாள். அவைகளையெல்லாம் ஆண் குரலில் முழக்கமிடத் தொடங்கினாள். இறுதியில் வெற்றிதான்!
 
@@ -40,3 +40,11 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 117; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: 115; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
