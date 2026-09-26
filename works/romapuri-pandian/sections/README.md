@@ -493,3 +493,30 @@ Current frontier:
 **Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
 
 Do not infer scan103 or begin Part007 canonical transcription without the supplied source.
+
+
+## Part007 pre-assembly state
+
+Part007 Tamil archival-ready — **PASS / CLOSED**.
+
+- canonical Part007 records — **16/16 verified**
+- Tamil textual status — **16/16 verified / 0 needs-review**
+- visual fidelity — **16/16 verified / 0 needs-review**
+- physical scans — **103–118 / 16**
+- scans103–104 — Chapter 6 `விறகுவெட்டி` continuation / close
+- scan105 — illustrated Chapter 7 title `7. தத்தளித்த தாமரை`
+- scan106 — Chapter 7 opening
+- scans107–117 — Chapter 7 continuation
+- scan118 — blank physical terminal page
+- assembled Part007 content files currently present — **0**
+- English Part007 section files currently present — **0**
+- incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
+- Part008 leakage — **0**
+- durable checkpoint — `../PART_007_TAMIL_ARCHIVAL_READY.md`
+
+Expected next maintained Tamil section orders are **19–20**, derived only from verified canonical pages.
+
+Current frontier:
+
+**Part007 assembled Tamil construction + audit.**
