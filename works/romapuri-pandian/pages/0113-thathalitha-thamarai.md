@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch2 
 
 “தண்ணீர் வேண்டுமா?”
 
-ஒரு பெண்ணின் குரல் கேட்டு செழியன் கண்விழித்துப் பார்த்தான். அவன் கண்களை அவனால் நம்ப முடியவில்லை. எதிரே நிற்கும் இந்தப் பெண் யார்? இவளை எங்கே இதற்குமுன் பார்த்திருக்கிறேன்...?
+ஒரு பெண்ணின் குரல் கேட்டு செழியன் கண்விழித்துப் பார்த்தான். அவன் கண்களை அவனால் நம்ப முடியவில்லை. எதிரே நிற்கும் இந்தப் பெண் யார்? இவளை எங்கே இதற்குமுன் பார்த்திருக்கிறேனே...?
 
 பெருவழுதிப் பாண்டியன் அழைப்பதாகச் செழியனை ஒரு வீரன் வந்து அழைத்தான்; அவனும் உடனே புறப்பட்டான். அரண்மனைக்குள்ளே தனி மாளிகையில் பாண்டியன் ஆழ்ந்த சிந்தனையுடன் உலவிக் கொண்டிருந்தான். செழியனைக் கண்டதும் பாண்டியன் முகமலர்ச்சியுடன் உபசரித்தான்.
 
@@ -51,3 +51,11 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 113; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 11; அச்சுப் பக்கம்: 111; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
