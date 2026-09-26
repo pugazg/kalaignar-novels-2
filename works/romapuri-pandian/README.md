@@ -290,6 +290,9 @@
 - Part007 Pass1 Batch 2 — **COMPLETE / PASS / TEXT-COMPLETE — scans113–118 / local11–16**
 - Part007 Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Part007 unresolved Pass1 source-reading holds — **0**
+- Part007 Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Part007 Pass2A corrections — **9 / 8 pages / 0 unresolved**
+- Part007 Pass2A status promotions — **0**
 - Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
@@ -405,9 +408,10 @@
 - `PART_006_BOUNDARY_AUDIT_102_103.md`
 - `PART_007_INTAKE_BOUNDARY_SETUP.md`
 - `PART_007_PASS1_PROGRESS.md`
+- `PART_007_PASS2A_PROGRESS.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 Pass2A — scans103–118 / local1–16.**
+**Part007 Pass2B Batch 1 — scans103–111 / local1–9.**
