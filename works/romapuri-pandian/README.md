@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–006 FINAL CLOSED / FROZEN — PART007 SOURCE NOT SUPPLIED / NOT REGISTERED**
+**PART001–006 FINAL CLOSED / FROZEN — PART007 REGISTERED / AUTHORIZED — PASS1 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -282,7 +282,12 @@
 - Part006 release-ready synchronization blockers — **0**
 - Part006 final closure — **PASS / CLOSED / FROZEN**
 - Part006 final unresolved blockers — **0**
-- Part007 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part007 source — **REGISTERED / AUTHORIZED — scans103–118 / 16 pages**
+- Part007 intake + incoming boundary — **PASS / COMPLETE**
+- Part007 incoming 102→103 — **GENUINE CONTINUATION / AUDITED**
+- Part007 canonical records — **0/16**
+- Part007 Pass1 — **NOT STARTED**
+- Part007 unresolved intake/boundary blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -393,9 +398,12 @@
 - `translations/en/PART_006_RELEASE_REPORT.md`
 - `PART_006_RELEASE_READY_SYNC.md`
 - `PART_006_FINAL_CLOSURE.md`
+- `SOURCE_INTAKE_PART_007.md`
+- `PART_006_BOUNDARY_AUDIT_102_103.md`
+- `PART_007_INTAKE_BOUNDARY_SETUP.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part007 source intake + 102→103 adjacent-boundary witness inspection/setup when the Part007 source is supplied.**
+**Part007 Pass1 Batch 1 — scans103–112 / local1–10.**
