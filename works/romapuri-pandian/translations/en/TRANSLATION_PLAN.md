@@ -1,8 +1,8 @@
 # English Translation Plan — ரோமாபுரிப் பாண்டியன்
 
-Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 INTAKE PENDING**
+Status: **PARTS001–005 FINAL CLOSED / FROZEN — PART006 ENGLISH PLANNING / SETUP COMPLETE — E18 NEXT**
 
-This is the cumulative control plan for the project-created English translation. Parts001–005 are final closed/frozen. Part006 is not supplied or registered; no Part006 English planning is authorized.
+This is the cumulative control plan for the project-created English translation. Parts001–005 are final closed/frozen. Part006 Tamil and assembled Tamil gates are closed, English planning/setup is complete, and E18 is the next authorized English batch.
 
 ## Authority hierarchy
 
@@ -800,3 +800,90 @@ Do not begin E17 until E16 is **SOURCE-CHECKED / COMPLETE**.
 **None until Part006 source intake authorizes the next Part.**
 
 Repository frontier: **Part006 source intake + 85→86 adjacent-boundary witness inspection/setup.**
+
+## Part006 planning/setup — COMPLETE / PASS
+
+Parts001–005 remain **FINAL CLOSED / FROZEN** and are not reopened by this extension.
+
+Part006 English prerequisites are closed:
+
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled physical coverage — **17/17 / scans86–102**
+- publication-text coverage — **16/16 + blank scan94 provenance**
+- missing / duplicate assembled coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- Part005 body duplication — **0**
+- Part007 leakage — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+
+Verified Part006 assembled inputs:
+
+1. `../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` — scans86–94
+2. `../../sections/18-chapter-06-viragu-vetti.md` — scans95–102
+
+### Reserved Part006 English units
+
+| Batch | Tamil input | Planned English file | Scans | Planning state |
+|---|---|---|---:|---|
+| **E18** | `../../sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md` | `sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md` | 86–94 | **RESERVED / NEXT** |
+| **E19** | `../../sections/18-chapter-06-viragu-vetti.md` | `sections/18-chapter-06-the-woodcutter.md` | 95–102 | **RESERVED** |
+
+Batch discipline:
+
+**E18 closes draft + source-check before E19 begins.**
+
+A draft alone does not close a batch. Each batch requires a durable source-check record.
+
+### Part006 translation safeguards
+
+- incoming **85→86 = GENUINE CONTINUATION / AUDITED**;
+- frozen Part005 E17 must not be backfilled or altered by E18;
+- verified assembled Tamil joins and displayed-text boundaries remain authoritative;
+- scan88 contains a displayed palm-leaf message/signature;
+- scan94 is blank and carries provenance only, with no English body text;
+- scan95 is the illustrated Chapter 6 title `விறகுவெட்டி`;
+- scan101 contains displayed written palm-leaf text;
+- outgoing **102→103 = PENDING Part007 adjacent witness / deferred external boundary evidence**;
+- E19 must not infer, translate or import Part007 wording.
+
+### Working Part006 English labels
+
+- `சிவனடியார் திருக்கூட்டம்` → **The Gathering of Siva Devotees**
+- `விறகுவெட்டி` → **The Woodcutter**
+- `முத்துநகை` → **Muthunagai**
+- `முத்து` → **Muthu**
+- `செழியன்` → **Sezhiyan**
+- `கரிகாலன்` → **Karikalan**
+- `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` → **Peruvazhuthi / Peruvazhuthi Pandiyan**
+- `காரிக்கண்ணனார்` → **Karikannanar**
+- `இருங்கோவேள்` → **Irungovel**
+- `தாமரை` → **Thamarai**
+- `யவனக் கிழவர்` → **Yavana elder**
+- `வீரன்` → **Veeran** when used as the source-given personal name/alias
+- `பெருந்தேவி` → **Perunthevi**
+- `வேளிர்குடி` → **Velir clan / Velir people**, by local syntax
+
+These are project English labels/choices. Verified Tamil section metadata remains authoritative.
+
+### Planning integrity
+
+- canonical Tamil changes caused by planning — **0**
+- assembled Tamil changes caused by planning — **0**
+- Parts001–005 English section changes — **0**
+- E18/E19 English draft files created in planning — **0**
+- E18/E19 source-check records created in planning — **0**
+- Part007 leakage — **0**
+- unresolved planning holds — **0**
+- durable planning control — `../../PART_006_ENGLISH_PLANNING_SETUP.md`
+
+## Current exact English activity
+
+**E18 — draft + source-check Part006 Chapter 5 `சிவனடியார் திருக்கூட்டம்` continuation / scans86–94.**
+
+Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
