@@ -333,3 +333,22 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied.**
+
+
+## Part008 activation
+
+- Parts001–007 — **FINAL CLOSED / FROZEN**
+- Part008 source — **SUPPLIED / REGISTERED / AUTHORIZED**
+- Part008 scans — **119–134 / 16 pages**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- scan119 — **Chapter 8 title / வேடம் கலைந்தது!**
+- scan132 — **blank physical page**
+- scan133 — **Chapter 9 title / பெருந்தேவியின் மருத்துவர்**
+- canonical Part008 records — **0/16**
+- unresolved intake/boundary blockers — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness**
+- Part008 canonical transcription — **AUTHORIZED**
+
+## Current exact next activity
+
+**Part008 Pass1 Batch 1 — scans119–128 / local pages1–10.**
