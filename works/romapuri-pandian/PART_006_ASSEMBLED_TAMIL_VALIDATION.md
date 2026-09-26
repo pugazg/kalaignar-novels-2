@@ -232,3 +232,28 @@ The first Part006 English batch has now closed without changing verified Tamil:
 Current frontier:
 
 **E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
+
+## Post-assembly E19 English closure
+
+The second and final Part006 English batch has now closed without changing verified Tamil:
+
+- E19 — **SOURCE-CHECKED / COMPLETE**
+- source scans — **95–102**
+- Tamil / English total blocks — **71 / 71**
+- rendered blocks — **65 / 65**
+- standalone provenance blocks — **6 / 6**
+- source-boundary comments — **7 / 7**
+- outgoing-boundary comment — **1 / 1**
+- source-check corrections — **3**
+- unresolved E19 source-check holds — **0**
+- Part006 source-check batches — **2/2 COMPLETE**
+- unresolved Part006 source-check holds — **0**
+- canonical Tamil edits caused by E19 — **0**
+- assembled Tamil edits caused by E19 — **0**
+- Parts001–005 / E18 English edits — **0**
+- Part007 leakage — **0**
+- durable source-check — `translations/en/E19_SOURCE_CHECK.md`
+
+Current frontier:
+
+**Part006 whole-Part glossary reconciliation across E18–E19.**
