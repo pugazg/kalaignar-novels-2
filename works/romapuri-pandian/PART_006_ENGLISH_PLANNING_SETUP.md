@@ -197,3 +197,35 @@ The synchronized controls agree on:
 - exact next activity — **E18 draft + source-check / scans86–94**
 
 Therefore this planning gate introduced no canonical Tamil, assembled Tamil, frozen English-body, English-draft/source-check, or Part007 drift.
+
+## Post-planning E18 closure
+
+The first reserved Part006 English batch has now closed:
+
+- E18 — **SOURCE-CHECKED / COMPLETE**
+- verified Tamil input — `sections/17-chapter-05-sivanadiyaar-thirukkoottam-part006-continuation.md`
+- English file — `translations/en/sections/17-chapter-05-the-gathering-of-siva-devotees-part006-continuation.md`
+- scans — **86–94**
+- Tamil / English total blocks — **88 / 88**
+- Tamil / English rendered blocks — **80 / 80**
+- standalone provenance comments — **8 / 8**
+- source-boundary comments retained — **7 / 7**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **2**
+- unresolved E18 source-check holds — **0**
+- canonical Tamil edits caused by E18 — **0**
+- assembled Tamil edits caused by E18 — **0**
+- Parts001–005 English edits caused by E18 — **0**
+- E19 English draft created — **no**
+- Part007 leakage — **0**
+- durable source-check — `translations/en/E18_SOURCE_CHECK.md`
+
+Current Part006 English state:
+
+- E18 — **SOURCE-CHECKED / COMPLETE**
+- E19 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+
+Current frontier:
+
+**E19 — draft + source-check Part006 Chapter 6 `விறகுவெட்டி` / scans95–102.**
