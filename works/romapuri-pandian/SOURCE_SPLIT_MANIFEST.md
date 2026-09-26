@@ -633,3 +633,18 @@ Current frontier:
 - outgoing 118→119 — **PENDING Part008 adjacent witness / deferred external boundary evidence**
 - Part008 / scan119 leakage — **0**
 - exact next gate — **Part007 assembled Tamil construction + audit**
+
+
+## Part007 assembled Tamil closure
+
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled scans — **103–118 / 16/16 physical**
+- publication-text pages — **15/15 + blank scan118 provenance**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- canonical mutation — **0**
+- Part006 body duplication — **0**
+- Part008 leakage — **0**
+- durable control — `PART_007_ASSEMBLED_TAMIL_VALIDATION.md`
+- exact next gate — **Part007 English translation planning/setup**
