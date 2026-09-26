@@ -892,3 +892,35 @@ Boundary locks:
 **E20 — draft + source-check Part007 Chapter 6 `விறகுவெட்டி` continuation / scans103–104.**
 
 Do not begin E21 until E20 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## E20 source-check closure
+
+- E20 — **SOURCE-CHECKED / COMPLETE**
+- verified Tamil input — `sections/19-chapter-06-viragu-vetti-part007-continuation.md`
+- English file — `translations/en/sections/19-chapter-06-the-woodcutter-part007-continuation.md`
+- scans — **103–104**
+- Tamil / English total blocks — **14 / 14**
+- Tamil / English rendered blocks — **12 / 12**
+- standalone provenance comments — **2 / 2**
+- incoming-boundary comments retained — **1 / 1**
+- source-boundary comments retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **3**
+- unresolved E20 source-check holds — **0**
+- canonical Tamil edits caused by E20 — **0**
+- assembled Tamil edits caused by E20 — **0**
+- frozen Parts001–006 English edits — **0**
+- E21 English draft created during E20 — **0**
+- Part008 leakage — **0**
+- durable source-check — `translations/en/E20_SOURCE_CHECK.md`
+
+Current Part007 English state:
+
+- E20 — **SOURCE-CHECKED / COMPLETE**
+- E21 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+
+Current frontier:
+
+**E21 — draft + source-check Part007 Chapter 7 `தத்தளித்த தாமரை` / scans105–118.**
