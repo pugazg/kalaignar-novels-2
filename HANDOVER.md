@@ -338,12 +338,14 @@
 - Part006 whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
 - Part006 bilingual-review corrections — **2 total — E18 1 / E19 1**
 - Part006 unresolved bilingual holds — **0**
+- Part006 release/readiness — **PASS / CLOSED**
+- Part006 unresolved release/readiness blockers — **0**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved intake/boundary blockers — **0**
 - Part006 outgoing 102→103 — **PENDING Part007 adjacent witness / deferred external boundary evidence**
-- exact next activity — **Part006 release/readiness review and report**
+- exact next activity — **Part006 release-ready synchronization**
 
 ## Boundary
 
@@ -472,13 +474,14 @@
 - `translations/en/PART_006_GLOSSARY_RECONCILIATION.md`
 - `translations/en/PART_006_TRANSLATION_REVIEW.md`
 - `translations/en/PART_006_BILINGUAL_REVIEW.md`
+- `translations/en/PART_006_RELEASE_REPORT.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Next-chat handoff
 
 - root continuation prompt — `NEXT_CHAT_PROMPT.md`
-- prompt frontier — **Part006 release/readiness review and report**
+- prompt frontier — **Part006 release-ready synchronization**
 - Part002 English planning/setup — **COMPLETE / PASS**
 - Part002 English E7–E10 — **SOURCE-CHECKED / COMPLETE**
 - Part002 release-ready synchronization — **PASS / CLOSED**
@@ -493,6 +496,6 @@
 
 ## Exact next activity
 
-**Part006 release/readiness review and report.**
+**Part006 release-ready synchronization.**
 
-Part006 whole-Part bilingual review is PASS / CLOSED — 2/2 PAIRS across all scans86–102. Structural parity is 159/159 total blocks, 145/145 rendered and 14/14 standalone provenance. Two English-only source-fidelity corrections were required — one in E18 for Sezhiyan's captive status in Irungovel's displayed threat, and one in E19 to restore the source-visible tamboolam action. Unresolved bilingual holds are 0; canonical/assembled Tamil, frozen Parts001–005 English and Part007 remain unchanged. Release/readiness is next.
+Part006 release/readiness is PASS / CLOSED. Live-main inspection confirms 17/17 verified canonical pages, 2/2 verified assembled Tamil sections, 2/2 source-checked English sections, reconciled glossary, closed editorial and bilingual reviews, 159/159 total block parity, 145/145 rendered parity, 14/14 provenance parity, 0 unresolved release blockers, 0 Git PDFs, and 0 Part007/scan103 paths. Canonical/assembled Tamil and maintained English bodies were not changed by the release review. Release-ready synchronization is next.
