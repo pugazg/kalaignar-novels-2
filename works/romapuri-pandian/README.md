@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–005 FINAL CLOSED / FROZEN — PART006 PASS2A COMPLETE / PASS2B NEXT**
+**PART001–005 FINAL CLOSED / FROZEN — PART006 VERIFIED / DOCUMENTATION SYNC COMPLETE — TAMIL ARCHIVAL-READY NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -248,6 +248,9 @@
 - Part006 Tamil textual status — **17/17 verified / 0 needs-review**
 - Part006 visual fidelity — **17/17 verified / 0 needs-review**
 - Part006 unresolved status exceptions — **0**
+- Part006 documentation synchronization — **PASS / COMPLETE**
+- Part006 documentation-sync canonical page changes — **0**
+- Part006 Tamil archival-ready checkpoint — **NEXT GATE**
 - Part006 Chapter 6 title — **விறகுவெட்டி**
 - Part006 unresolved Pass1 holds — **0**
 - Part006 unresolved Pass1 holds — **0**
@@ -346,9 +349,10 @@
 - `PART_006_PASS3_PROGRESS.md`
 - `PART_006_AUDIT.md`
 - `PART_006_FINAL_STATUS_SYNC.md`
+- `PART_006_DOCUMENTATION_SYNC.md`
 - `PART_005_BOUNDARY_AUDIT_85_86.md`
 - `SOURCE_INTAKE_PART_006.md`
 
 ## Exact next activity
 
-**Part006 documentation synchronization.**
+**Part006 Tamil archival-ready checkpoint.**
