@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch1 
 
 ## Source transcription
 
-‘இளைஞனே! உன்னிடம் எனக்கென்ன பேச்சு? என்னையும் என் நாட்டு மக்களையும் அடிமைப்படுத்தி விட்டதாகக் கருதியிருக்கும் அந்தச் சோழனையும், அவனுக்குத் துணை நிற்கும் அந்தப் பாண்டியனையும் பழி வாங்காமல் ஓயப் போவதில்லை நான்!’
+“இளைஞனே! உன்னிடம் எனக்கென்ன பேச்சு? என்னையும் என் நாட்டு மக்களையும் அடிமைப்படுத்தி விட்டதாகக் கருதியிருக்கும் அந்தச் சோழனையும், அவனுக்குத் துணை நிற்கும் அந்தப் பாண்டியனையும் பழி வாங்காமல் ஓயப் போவதில்லை நான்!”
 
 “எக்கேடாவது கெட்டுப் போ! எனக்கு நீ வழங்கியிருக்கும் தீர்ப்பு என்ன? அதைச் சீக்கிரம் கூறிவிடு!”
 
@@ -43,3 +43,11 @@ transcription_method: "direct source-pixel transcription; Part007 Pass 1 Batch1 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 112; பகுதி: 007; பகுதி உள்ளூர் பக்கம்: 10; அச்சுப் பக்கம்: 110; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part007 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **1**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
