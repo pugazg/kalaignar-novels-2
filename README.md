@@ -392,3 +392,23 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 Pass2A — scans119–134 / local1–16.**
+
+
+## Part008 Pass2A closure
+
+**PART008 PASS2A — COMPLETE / PASS — 16/16 REVIEWED**
+
+- source-supported corrections — **4**
+- corrected pages — **1 — scan121**
+- clean pages — **15/16**
+- unresolved textual questions — **0**
+- pagination / page-type / boundary corrections — **0 / 0 / 0**
+- status / visual promotions — **0 / 0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–007 mutations — **0**
+- Part009 / scan135 leakage — **0**
+- durable control — `works/romapuri-pandian/PART_008_PASS2A_PROGRESS.md`
+
+## Current exact next activity
+
+**Part008 Pass2B Batch 1 — scans119–127 / local1–9.**
