@@ -1,0 +1,120 @@
+# ரோமாபுரிப் பாண்டியன் — Part008 Pass1 Progress
+
+## Source
+
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_008_pages_119-134.pdf`
+
+- local pages — **16**
+- global scans — **119–134**
+- file size — **47,320,955 bytes**
+- SHA-256 — `f8caf176e22589e4597ab1f5016ba3b04b86074e2732e87981baf69c90a8daa1`
+- controlling authority — **rendered source pixels**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+
+## Pass1 cadence
+
+- fixed cadence — **10 physical pages per iteration**
+- Batch 1 — **scans119–128 / local1–10**
+- Batch 2 — **scans129–134 / local11–16 — final 6-page remainder**
+
+## Batch 1 result
+
+**COMPLETE / PASS / TEXT-COMPLETE**
+
+Coverage:
+
+- global scans — **119–128**
+- local pages — **1–10**
+- canonical records created — **10**
+- whole-Part canonical coverage — **10/16**
+- text/display-bearing physical pages in Batch1 — **10/10**
+- blank physical pages in Batch1 — **0**
+- source-supported Pass1 corrections after initial write — **1**
+- pages with Pass1 corrections — **1 — scan125**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- frozen Parts001–007 canonical/body mutations — **0**
+- Part009 / scan135 text inferred — **0**
+
+All 10 Batch1 records remain:
+
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
+
+## Batch1 canonical records
+
+1. `pages/0119-chapter-08-title.md` — scan119 / local1 / illustrated Chapter 8 title / no printed numeral
+2. `pages/0120-vedam-kalaindhathu.md` — scan120 / local2 / Chapter 8 opening / no printed numeral
+3. `pages/0121-vedam-kalaindhathu.md` — scan121 / local3 / printed119
+4. `pages/0122-vedam-kalaindhathu.md` — scan122 / local4 / printed120
+5. `pages/0123-vedam-kalaindhathu.md` — scan123 / local5 / printed121
+6. `pages/0124-vedam-kalaindhathu.md` — scan124 / local6 / printed122
+7. `pages/0125-vedam-kalaindhathu.md` — scan125 / local7 / printed123
+8. `pages/0126-vedam-kalaindhathu.md` — scan126 / local8 / printed124
+9. `pages/0127-vedam-kalaindhathu.md` — scan127 / local9 / printed125
+10. `pages/0128-vedam-kalaindhathu.md` — scan128 / local10 / printed126
+
+## Structural observations retained
+
+- scan119 — full-page illustrated Chapter 8 title **8 / வேடம் கலைந்தது!**
+- scan120 — Chapter 8 narrative opening without ordinary running header/printed numeral
+- scans121–128 — ordinary Chapter 8 body pages with alternating running furniture and printed119–126
+- scan120→121 — physical sentence continuation retained: terminal `...மரம் முறிந்து கீழே விழத்` → `தொடங்கியது.`
+- scan124→125 — physical sentence continuation retained: terminal `...பச்சிலைச் செடியுடன்` → `அவன் கொண்டுவந்து போட்ட அதே பாம்பு...`
+- scan127→128 — physical quotation/sentence continuation retained: terminal `“இந்த ஓலைக்கும்` → `எனக்கும் என்ன சம்பந்தம்?”`
+- scan128 ends on the complete dialogue sentence `“பாண்டிய நாடும் சோழ நாடும் நட்புக் கொண்டிருக்கின்றவே தவிர ஒன்றையொன்று அடிமைப்படுத்தவில்லையே - அது போலத்தான் நாமும்!”`
+- scan129 adjacent Batch2 witness begins subsequent narration; no scan129 body is imported into Batch1
+
+## Pass1 correction ledger
+
+One direct source-pixel correction was applied before Batch1 closure:
+
+- scan125 — `இருப்புக் கம்பியைநட்டு` → source-visible `இரும்புக் கம்பியைநட்டு`
+
+No other canonical Batch1 source-text correction was required before closure.
+
+## Repository integrity
+
+Pre-Batch1 synchronized checkpoint:
+
+`847dcbf8d18914b8188c6cfd50bb334e622f00bf`
+
+Batch1 page checkpoint:
+
+`e66ad8be165a64c7473a4767eb9831506a7be499`
+
+Direct comparison confirms:
+
+- commits — **11**
+- changed files — **10**
+- changed files are exactly the expected Part008 canonical scans119–128
+- one second commit corrects the scan125 direct source reading before Batch1 closure
+- frozen Parts001–007 canonical-page changes — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- scans129–134 canonical records created early — **0**
+- Part009 / scan135 files — **0**
+- source PDFs added to Git — **0**
+
+## Current Part008 Pass1 state
+
+- intake + incoming-boundary setup — **PASS / COMPLETE**
+- Batch1 — **COMPLETE / PASS / TEXT-COMPLETE — 10/10**
+- whole-Part Pass1 — **10/16**
+- Batch2 — **NOT STARTED**
+- unresolved Pass1 holds — **0**
+
+## Exact next activity
+
+**Part008 Pass1 Batch 2 — scans129–134 / local11–16 — final 6-page remainder.**
+
+Batch2 source-visible structure already known from intake:
+
+- scans129–131 — Chapter 8 continuation / printed127–129
+- scan132 — blank physical page
+- scan133 — illustrated Chapter 9 title **9 / பெருந்தேவியின் மருத்துவர்**
+- scan134 — Chapter 9 opening / no normal printed numeral/header
+
+Do not promote status or visual fidelity during Batch2.
