@@ -17,9 +17,9 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch1 
 
 ## Source transcription
 
-தொடங்கியது. மரம் சாய்கிற பயங்கரச் சத்தம் அந்தக் காடு முழுவதும் எதிரொலித்தது. முத்துநகை நடுங்கிவிட்டாள். வெட்டுண்ட மரம் அவளை நோக்கியா சாய்ந்து ‘வேண்டாம்’ மரம் தன் மேல் தான் விழப்போகிறது எனக்கண்ட முத்துநகை ‘ஓ’ வென்று அலறிக் கீழே விழுந்துவிட்டாள்.
+தொடங்கியது. மரம் சாய்கிற பயங்கரச் சத்தம் அந்தக் காடு முழுவதும் எதிரொலித்தது. முத்துநகை நடுங்கிவிட்டாள். வெட்டுண்ட மரமும் அவளை நோக்கியா சாய்ந்திட வேண்டும்? மரம் தன்மேல் தான் விழப்போகிறது எனக்கண்ட முத்துநகை ‘ஓ’ வென்று அலறிக் கீழே விழுந்து விட்டாள்.
 
-பெண் குரல் கேட்டு, மரம் வெட்டியவன் தீப்பந்தத்துடன் ஓடி வந்தான்; நல்ல வேளையாக மரம் அவளுக்கு மிக அருகிலேயே விழுந்திருந்தது! கொஞ்சம் தவறியிருந்தாலும் முத்துநகையின் உடல் நொறுங்கிப் போயிருக்கும். தீப்பந்தத்தைக் கீழே செருகிவிட்டு, அந்த மரம்வெட்டி அவளைத் தூக்கினான். அவளும் பயத்தோடு கண்களைத் திறந்து பார்த்தாள்.
+பெண் குரல் கேட்டு, மரம் வெட்டியவன் தீப்பந்தத்துடன் ஓடி வந்தான்; நல்ல வேளையாக மரம் அவளுக்கு மிக அருகிலேயே விழுந்திருந்தது. கொஞ்சம் தவறியிருந்தாலும் முத்துநகையின் உடல் நொறுங்கிப் போயிருக்கும். தீப்பந்தத்தைக் கீழே செருகிவிட்டு, அந்த மரம்வெட்டி அவளைத் தூக்கினான். அவளும் பயத்தோடு கண்களைத் திறந்து பார்த்தாள்.
 
 “முத்து! முத்து! இந்நேரத்தில் எங்கு வந்தாய்?” என்ற வார்த்தைகளைக் கேட்டதும் அவளுக்கு விஷயம் விளங்கி விட்டது. யாராயிருக்கும் என்று எதிர்பார்த்து வந்தாளோ அவனையே கண்டாள்.
 
@@ -47,3 +47,12 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch1 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 121; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 119; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part008 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **4**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
