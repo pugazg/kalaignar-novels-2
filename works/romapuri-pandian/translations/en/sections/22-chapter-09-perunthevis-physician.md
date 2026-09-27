@@ -19,7 +19,7 @@ Perunthevi's Physician
 
 <!-- source boundary: scan 133 → scan 134 -->
 
-The two parted unwillingly. In that emotional moment, Irungovel ran after Muthunagai, who was leaving without properly setting her male disguise in order, tied her head-cloth, checked that her clothes were in order, and sent her on her way. She too kept looking back as she went, stumbled over a stone and fell, then quickened her steps toward the waterfall bank. The horse, soaked in the rain all night, stood there exhausted. She went near and patted it. Someone tapped her on the back; she turned around; Thamarai stood there smiling!
+The two parted unwillingly. In that emotional moment, Irungovel ran after Muthunagai, who was leaving before putting her male disguise back in order, tied her head-cloth, checked that her clothes were in order, and sent her on her way. She too kept looking back as she went, stumbled over a stone and fell, then quickened her steps toward the waterfall bank. The horse, soaked in the rain all night, stood there exhausted. She went near and patted it. Someone tapped her on the back; she turned around; Thamarai stood there smiling!
 
 Muthunagai used the male voice she had learned with great difficulty through practice. "Come, Thamarai! Do you know how long I've been waiting for you?" she said.
 
