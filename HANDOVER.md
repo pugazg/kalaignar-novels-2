@@ -579,3 +579,8 @@ Part008 Pass2B is **COMPLETE / PASS — 16/16 REVIEWED**. Batch1 scans119–127 
 
 
 Part008 Pass3 is **COMPLETE / PASS — 16/16 REVIEWED**. Structural metadata, page types, section labels, printed-page mapping, running furniture, blank scan132 handling, chapter transitions and physical continuations all reconcile with the rendered source. Pass3 required 0 source-text corrections and 0 structural metadata corrections; unresolved visual/structural questions are 0. All 16 records remain needs-review / needs-review. Exact next activity: **Part008 Part audit**.
+
+- `PART_008_AUDIT.md`
+
+
+Part008 Part audit is **PASS / COMPLETE**. Canonical coverage is 16/16 across scans119–134 / local1–16, with 0 missing/duplicate records, 0 source-filename/pagination/page-type/section mismatches, all Pass1–Pass3 evidence reconciled, and 0 unresolved supplied-Part blockers. All 16 records deliberately remain needs-review / needs-review because promotion belongs to the separate next gate. Exact next activity: **Part008 final metadata/status synchronization**.
