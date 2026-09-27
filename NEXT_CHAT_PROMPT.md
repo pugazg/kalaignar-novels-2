@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 Pass2B Batch1 scans151–159
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 Tamil archival-ready checkpoint
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,46 +6,50 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–009 are **FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review/release records or final-closure controls merely to review Part010.
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to advance Part010.
 
-## Part010 source
+## Part010 closed Tamil verification state
+
+Source:
 
 `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf`
 
-- bytes — **49,942,707**
+- source size — **49,942,707 bytes**
 - SHA-256 — `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480`
-- local pages — **17**
-- global scans — **151–167**
-- rendered source pixels — **sole textual/structural authority**
+- scans — **151–167 / 17**
+- source intake / incoming boundary — **PASS / COMPLETE**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Pass1 — **COMPLETE / PASS — 17/17**
+- Pass2A — **COMPLETE / PASS — 17/17**
+- Pass2B — **COMPLETE / PASS — 17/17**
+- Pass3 — **COMPLETE / PASS — 17/17**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **PASS / COMPLETE**
+- canonical Tamil — **17/17 verified**
+- visual fidelity — **17/17 verified**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
 - outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
-
-## Durable review state
-
-- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
-- Pass2A source-supported corrections — **9 across scans155,159,160,162,166,167**
-- unresolved Pass2A textual questions — **0**
-- all 17 records — `needs-review / needs-review`
+- Part011 / scan168 leakage — **0**
 
 Durable controls:
 
-- `PART_010_PASS1_PROGRESS.md`
-- `PART_010_PASS2A_PROGRESS.md`
+- `PART_010_AUDIT.md`
+- `PART_010_FINAL_STATUS_SYNC.md`
+- `PART_010_DOCUMENTATION_SYNC.md`
 
 ## Exact next activity
 
-**Part010 Pass2B Batch1 — scans151–159 / local1–9.**
+**Part010 Tamil archival-ready checkpoint.**
 
 Requirements:
 
-- independently reread directly against rendered source pixels;
-- focus on lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
-- independently re-confirm any Pass2A corrections encountered;
-- Batch1 scope ends at scan159;
-- apply only direct source-supported corrections;
-- record historical-glyph/orthography correction count separately;
-- unresolved Pass2B questions must be explicit;
-- do not promote `status` or `visual_fidelity`;
-- do not infer scan168 / Part011;
-- after Batch1, proceed to scans160–167 / local10–17 as the final 8-page remainder.
+- verify documentation synchronization is **PASS / COMPLETE**;
+- verify all 17 Part010 canonical records remain `verified / verified`;
+- verify unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers are **0**;
+- verify incoming 150→151 remains audited and outgoing 167→168 remains an external deferred witness, not a supplied-Part blocker;
+- verify no Part010-specific assembled Tamil continuation / Chapter 11 section files or English continuation / Chapter 11 section-body files were introduced before this checkpoint;
+- verify Parts001–009 remain frozen;
+- create durable `PART_010_TAMIL_ARCHIVAL_READY.md`;
+- do not alter canonical page files, verified status fields, Tamil body, assembled Tamil or maintained English;
+- only after archival-ready closes **PASS / CLOSED** may Part010 assembled Tamil construction + audit begin.
