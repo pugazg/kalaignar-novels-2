@@ -118,3 +118,104 @@ Batch2 source-visible structure already known from intake:
 - scan134 — Chapter 9 opening / no normal printed numeral/header
 
 Do not promote status or visual fidelity during Batch2.
+
+
+## Batch 2 result
+
+**COMPLETE / PASS / TEXT-COMPLETE**
+
+Coverage:
+
+- global scans — **129–134**
+- local pages — **11–16**
+- canonical records created — **6**
+- text/display-bearing physical pages in Batch2 — **5/6**
+- blank physical pages in Batch2 — **1/6 — scan132**
+- illustrated chapter-title pages in Batch2 — **1 — scan133**
+- chapter-opening no-printed-number pages in Batch2 — **1 — scan134**
+- source-supported Pass1 corrections after initial write — **0**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- frozen Parts001–007 canonical/body mutations — **0**
+- Part009 / scan135 text inferred — **0**
+
+All 6 Batch2 records remain:
+
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
+
+## Batch2 canonical records
+
+11. `pages/0129-vedam-kalaindhathu.md` — scan129 / local11 / printed127
+12. `pages/0130-vedam-kalaindhathu.md` — scan130 / local12 / printed128
+13. `pages/0131-vedam-kalaindhathu.md` — scan131 / local13 / printed129 / Chapter 8 close
+14. `pages/0132-blank.md` — scan132 / local14 / blank physical separator
+15. `pages/0133-chapter-09-title.md` — scan133 / local15 / illustrated Chapter 9 title / no printed numeral
+16. `pages/0134-peruntheviyin-maruththuvar.md` — scan134 / local16 / Chapter 9 opening / no printed numeral
+
+## Batch2 structural observations retained
+
+- scans129–131 — Chapter 8 `வேடம் கலைந்தது!` continuation / printed127–129
+- scan131 — Chapter 8 closes with the dialogue `“தவறவேனா? அன்று இந்த இடத்தில் இரண்டு நிலாக்களைச் சந்திக்கப்போகிறேனே!”` followed by a large intentional blank lower field
+- scan132 — genuine blank physical separator page; faint reverse-side bleed-through excluded
+- scan133 — full-page illustrated Chapter 9 title **9 / பெருந்தேவியின் மருத்துவர்**
+- scan134 — Chapter 9 narrative opening after a large intentional blank upper field
+- scan134 ends mid-dialogue at `...யாருக்கும் ஜாடையாகக் கூடத் தெரியக்கூடாது;`
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- no scan135 / Part009 wording inferred or imported
+
+## Batch2 repository integrity
+
+Batch1 synchronized checkpoint:
+
+`05fa1448a8b3bffcf6fee0398c09978163bb2222`
+
+Batch2 page checkpoint:
+
+`b78423c7b245015347894fb7b9d5c866b855cdca`
+
+Direct comparison confirms:
+
+- commits — **6**
+- changed files — **6**
+- changed files are exactly the expected Part008 canonical scans129–134
+- frozen Parts001–007 canonical-page changes — **0**
+- Part008 scans119–128 canonical-page changes during Batch2 — **0**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- Part009 / scan135 files — **0**
+- source PDFs added to Git — **0**
+
+## Whole-Part Pass1 closure
+
+**PART008 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+
+- global scan coverage — **119–134 continuous**
+- local-page coverage — **1–16 continuous**
+- canonical records — **16/16**
+- text/display-bearing physical pages — **15/16**
+- blank physical pages — **1/16 — scan132**
+- illustrated chapter-title pages — **2 — scans119 and133**
+- chapter-opening no-printed-number pages — **2 — scans120 and134**
+- printed-page sequence — **119–129 continuous across scans121–131**
+- Chapter 8 — scans119–131
+- blank chapter separator — scan132
+- Chapter 9 — scans133–134
+- unresolved Pass1 source-reading holds — **0**
+- source-supported Pass1 corrections — **1 total — scan125**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- frozen Parts001–007 canonical/body mutations — **0**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 / scan135 text inferred or imported — **0**
+
+## Exact next activity
+
+**Part008 Pass2A — scans119–134 / local1–16.**
+
+Perform independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical-boundary comparison against the controlling source pixels.
+
+Do not promote final status or visual fidelity during Pass2A.
