@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 Pass1 Batch1 — scans119–128
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 Pass1 Batch2 — scans129–134
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,48 +18,57 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - file size — **47,320,955 bytes**
 - SHA-256 — `f8caf176e22589e4597ab1f5016ba3b04b86074e2732e87981baf69c90a8daa1`
 - source text layer — **no usable parsed text**
-- controlling representation — **rendered source page images**
+- controlling authority — **rendered source pixels**
 
 ## Intake / boundary state
 
 - source intake — **SUPPLIED / REGISTERED / AUTHORIZED**
-- intake + incoming-boundary setup — **PASS / COMPLETE**
 - incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
-- scan118 — **frozen blank Part007 terminal page**
-- scan119 — **illustrated Chapter 8 title: 8 / வேடம் கலைந்தது!**
-- canonical Part008 records — **0/16**
 - unresolved intake/boundary blockers — **0**
 - outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
 
-Durable controls:
+## Pass1 Batch1 closed state
 
-- `SOURCE_INTAKE_PART_008.md`
-- `PART_007_BOUNDARY_AUDIT_118_119.md`
-- `PART_008_INTAKE_BOUNDARY_SETUP.md`
+**COMPLETE / PASS / TEXT-COMPLETE**
 
-## Source-visible gross structure
+- scans — **119–128**
+- local pages — **1–10**
+- canonical records — **10/16**
+- scan119 — illustrated Chapter 8 title **8 / வேடம் கலைந்தது!**
+- scan120 — Chapter 8 opening / no normal printed numeral
+- scans121–128 — Chapter 8 body / printed119–126
+- source-supported Pass1 corrections — **1 — scan125**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 10 Batch1 records remain `needs-review / needs-review`
+- frozen Parts001–007 mutations — **0**
+- scans129–134 canonical records created early — **0**
 
-- scan119 / local1 — Chapter 8 title page: **8 / வேடம் கலைந்தது!**
-- scan120 / local2 — Chapter 8 opening; no normal printed numeral/header
-- scans121–131 / local3–13 — Chapter 8 narrative; printed **119–129**
-- scan132 / local14 — **blank physical page**
-- scan133 / local15 — Chapter 9 title page: **9 / பெருந்தேவியின் மருத்துவர்**
-- scan134 / local16 — Chapter 9 opening; no normal printed numeral/header
+Durable control:
+
+`PART_008_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-**Part008 Pass1 Batch 1 — global scans119–128 / local pages1–10.**
+**Part008 Pass1 Batch2 — global scans129–134 / local pages11–16 — final 6-page remainder.**
+
+Source-visible Batch2 structure:
+
+- scans129–131 / local11–13 — Chapter 8 continuation / printed127–129
+- scan132 / local14 — **blank physical page**
+- scan133 / local15 — illustrated Chapter 9 title **9 / பெருந்தேவியின் மருத்துவர்**
+- scan134 / local16 — Chapter 9 opening / no normal printed numeral/header
 
 Pass1 rules:
 
-- process exactly the supplied source pixels; no outside-source comparison;
+- transcribe directly from source pixels only; no outside-source comparison;
 - preserve historical Tamil spelling, spacing and punctuation;
-- create canonical page records only for scans119–128 in this batch;
-- use `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- scan119 is `chapter-title`;
-- scan120 opens Chapter 8;
-- scans121–128 continue Chapter 8;
-- do not import scan129 body into Batch1;
+- create canonical records only for scans129–134;
+- scan132 must be represented as a blank canonical physical-page record;
+- scan133 must be `chapter-title`;
+- scan134 must be Chapter 9 opening `novel-body`;
+- all Batch2 records stay `status: "needs-review"` / `visual_fidelity: "needs-review"`;
 - do not infer Part009 / scan135;
-- frozen Parts001–007 remain untouched;
-- no status promotion during Pass1.
+- do not promote final status during Pass1;
+- when Batch2 closes, reconcile whole-Part Pass1 as **16/16** and advance only to **Part008 Pass2A**.
