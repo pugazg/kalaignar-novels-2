@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch1 
 
 ## Source transcription
 
-சிரித்து மன்னனின் திறமையை மெச்சினார். திறமைமிக்க ஒருவன் மூலம் உடனே ஓலையைப் பாண்டியருக்கு அனுப்பத் தீர்மானிக்கப்பட்டது. நல்ல பலமிக்க வீரர்கள் வரிசையாக நிறுத்தப்பட்டனர். அமைச்சர் அவர்களைக் கூர்ந்து கவனித்து இறுதியில் ஒருவனைத் தேர்ந்தெடுத்தார். அவன் பெயர் கொடுங்கோல்! பாண்டியனிடம் பத்திரமாக ஓலையைச் சேர்க்க வேண்டிய பொறுப்பு அவனிடம் ஒப்படைக்கப்பட்டது.
+சிரித்து மன்னனின் திறமையை மெச்சினார். திறமைமிக்க ஒருவன் மூலம் உடனே ஓலையைப் பாண்டியருக்கு அனுப்பத் தீர்மானிக்கப்பட்டது. நல்ல பலமிக்க வீரர்கள் வரிசையாக நிறுத்தப்பட்டனர். அமைச்சர் அவர்களைக் கூர்ந்து கவனித்து இறுதியில் ஒருவனைத் தேர்ந்தெடுத்தார். அவன் பெயர் கொடுங்கோல்! பாண்டியனிடம் பத்திரமாக ஓலையைச் சேர்க்க வேண்டிய பொறுப்பு அவனிடம் ஒப்படைக்கப் பட்டது.
 
 பாண்டிய நாட்டுத் தலைநகரம் மிகவும் பரபரப்பாகக் காணப்பட்டது. புன்னகை பூத்த முகத்துடன் வீரர்கள் கூட்டம் கூட்டமாகச் சென்று கொண்டிருந்தனர். அவர்கள் செல்லும் அழகை வீதியோரங்களில் நின்று வயது முதிர்ந்தோர் கண்டு களித்தனர். வீதியிற் சென்று கொண்டிருக்கும் வீரர்களின் கூட்டம் மேலும் மேலும் பெருகி விடும் விதத்தில் ஒவ்வொரு வீட்டிலிருந்தும் வீரர்கள் வந்து கூட்டத்தில் நுழைந்து கொண்டனர். அவர்களை வழியனுப்பி வைத்து விட்டு - வைத்த விழி வாங்காது அவர்களையே பார்த்துக் கொண்டு அவர் தம் துணைவியர் வாயிற்படிகளில் நின்று கொண்டிருந்தனர்.
 
@@ -52,3 +52,17 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part010 Pass 2B review — Batch 1
+
+- independent source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / orthography corrections at Pass2B: **0**;
+- unresolved Pass2B lexical / spacing / punctuation questions: **0**;
+- unresolved Pass2B historical-glyph / orthography questions: **0**;
+- source-supported correction: `ஒப்படைக்கப்பட்டது` → source-visible `ஒப்படைக்கப் பட்டது`;
+- Pass2A correction `வீதியில்` → `வீதியிற்` was independently re-confirmed and retained;
+- printed-page / page-type / section / physical-boundary correction at Pass2B: **0 / 0 / 0 / 0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

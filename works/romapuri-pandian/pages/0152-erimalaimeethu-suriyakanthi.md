@@ -35,7 +35,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch1 
 
 “புரியவில்லை எனக்கு!”
 
-“புரியும்படி சொல்கிறேன். நீயே எழுத வேண்டும். பாண்டியனுக்கு ஓலையில் குறிப்பிடப்படவேண்டிய முக்கிய வரிகள் எவை தெரியுமா?”
+“புரியும்படி சொல்கிறேன். நீயே எழுத வேண்டும். பாண்டியனுக்கு ஓலையில் குறிப்பிடப்பட வேண்டிய முக்கிய வரிகள் எவை தெரியுமா?”
 
 “எவை?”
 
@@ -67,3 +67,16 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part010 Pass 2B review — Batch 1
+
+- independent source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / orthography corrections at Pass2B: **0**;
+- unresolved Pass2B lexical / spacing / punctuation questions: **0**;
+- unresolved Pass2B historical-glyph / orthography questions: **0**;
+- source-supported correction: `குறிப்பிடப்படவேண்டிய` → source-visible `குறிப்பிடப்பட வேண்டிய`;
+- printed-page / page-type / section / physical-boundary correction at Pass2B: **0 / 0 / 0 / 0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
