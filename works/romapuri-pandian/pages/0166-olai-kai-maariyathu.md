@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch2 
 
 ஆவேசம் படர்ந்திருந்த முகத்தில் அன்பு ஒளி!
 
-“கண்ணே!” என்று அவளை அணைத்துக் கொள்கிறான்; அவளிடம் உண்மையைச் சொல்லிவிட வேண்டும் போல் இருக்கிறது. நெஞ்சில் ஓங்கி ஓர் அடி விழுகிறது. ‘பைத்தியக்காரா! என்ன காரியம் செய்யத் துணிகிறாய்? உண்மையைச் சொன்னால், காதல் காற்றில் பறந்துவிடும். காதலி காலியாகி விடுவாள். எச்சரிக்கையாக இரு!’ என்ற உணர்வு அந்த அடி எழுப்புகிறது போலும்! பிறகுதான் தெரிகிறது அவனேதான் அவன் நெஞ்சில் அடித்துக் கொண்டிருக்கிறான். குழப்பத்திலும் மௌனமாக, இன்பத்திலும் சிறிது நேரம் கழிந்தது.
+“கண்ணே!” என்று அவளை அணைத்துக் கொள்கிறான்; அவளிடம் உண்மையைச் சொல்லிவிட வேண்டும் போல் இருக்கிறது. நெஞ்சில் ஓங்கி ஓர் அடி விழுகிறது. ‘பைத்தியக்காரா! என்ன காரியம் செய்யத் துணிகிறாய்? உண்மையைச் சொன்னால், காதல் காற்றில் பறந்துவிடும். காதலி காலியாகி விடுவாள். எச்சரிக்கையாக இரு!’ என்ற உணர்வை அந்த அடி எழுப்புகிறது போலும்! பிறகுதான் தெரிகிறது அவனேதான் அவன் நெஞ்சில் அடித்துக் கொண்டிருக்கிறான்! குழப்பத்திலும் மௌனமாக, இன்பத்திலும் சிறிது நேரம் கழிந்தது.
 
 “நேரமாகிறது அத்தான்! தாமரை தேட ஆரம்பித்து விடுவாள். பிறகு ஆபத்து-நான் போகட்டுமா?”
 
@@ -45,3 +45,17 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 166; பகுதி: 010; பகுதி உள்ளூர் பக்கம்: 16; அச்சுப் பக்கம்: 164; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part010 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling rendered source pixels;
+- source-text corrections at Pass2A: **2**;
+- source-supported correction: `என்ற உணர்வு` → source-visible `என்ற உணர்வை`;
+- source-supported correction: period after `கொண்டிருக்கிறான்` → source-visible exclamation mark;
+- unresolved textual questions after this review: **0**;
+- printed-page mapping correction at Pass2A: **0**;
+- page-type / section-label correction at Pass2A: **0 / 0**;
+- physical-boundary / continuation correction at Pass2A: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.

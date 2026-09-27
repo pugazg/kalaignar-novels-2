@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch2 
 
 “யார் நீ?” என்று காவலன் ஒருவன் ஈட்டியை நீட்டியவாறு ஓடிவந்தான்.
 
-மோதிரத்தை அவன் முகத்துக்கு நேரே காட்டினாள் முத்துநகை. குதிரையில் ஏறி வெகு வேகமாகப் புறப்பட்டாள். கொடுங்கோலின் குதிரை எந்தப் பக்கம் போயிருக்குமென்று அவளால் வெகுநேரம் வரையில் ஊகிக்க முடியவில்லை. ஒரு வாய்க்கால் ஓரத்தில் ஈரமண்ணில் பதிந்திருந்த குதிரையின் குளம்படிகள் கொடுங்கோல் சென்ற திசையை அவளுக்கு அறிவித்தன. வேறு வழியில் அவன் சென்றிருக்க முடியாது என்ற நம்பிக்கையில் குதிரையைத் தட்டிவிட்டாள். காற்றினும் கடும் வேகத்தில் குதிரை பறந்தது. அவள் முயற்சி வீண் போகவில்லை. அவளுக்கு முன்னே அவன் போய்க் கொண்டிருந்தான்.
+மோதிரத்தை அவன் முகத்துக்கு நேரே காட்டினாள் முத்துநகை. குதிரையில் ஏறி வெகு வேகமாகப் புறப்பட்டாள். கொடுங்கோலின் குதிரை எந்தப் பக்கம் போயிருக்குமென்று அவளால் வெகுநேரம் வரையில் ஊகிக்க முடியவில்லை. ஒரு வாய்க்கால் ஓரத்தில் ஈரமண்ணில் பதிந்திருந்த குதிரையின் குளம்படிகள் கொடுங்கோல் சென்ற திசையை அவளுக்கு அறிவித்தன. வேறு வழியில் அவன் சென்றிருக்க முடியாது என்ற நம்பிக்கையில் குதிரையைத் தட்டிவிட்டாள். காற்றினும் கடிய வேகத்தில் குதிரை பறந்தது. அவள் முயற்சி வீண் போகவில்லை. அவளுக்கு முன்னே அவன் போய்க் கொண்டிருந்தான்.
 
 அவள் முதல்நாள் உட்கார்ந்திருந்த அதே அருவியோரம், அங்கே குதிரையை விட்டிறங்கி, கொடுங்கோல் தண்ணீர் பருகிக் கொண்டிருந்தான். முத்துநகையும் குதிரையைக் கொண்டு வந்து அங்கே நிறுத்தினாள்.
 
@@ -47,3 +47,16 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 162; பகுதி: 010; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 160; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part010 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling rendered source pixels;
+- source-text corrections at Pass2A: **1**;
+- source-supported correction: `கடும்` → source-visible `கடிய`;
+- unresolved textual questions after this review: **0**;
+- printed-page mapping correction at Pass2A: **0**;
+- page-type / section-label correction at Pass2A: **0 / 0**;
+- physical-boundary / continuation correction at Pass2A: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.

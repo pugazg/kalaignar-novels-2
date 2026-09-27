@@ -41,7 +41,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch2 
 
 “போங்களத்தான்!”
 
--என்று அவன் மார்பில் முகத்தைப் புதைத்துக் கொண்டாள். அவனது அழகிய உச்சந்தலையில் ‘இச்’ சென்று முத்தமிட்டான் இருங்கோவேள். பகைவனின் வில்லுக்குக் கணையாகிவிட்ட அந்தப் பாவையை புன்னகையுடன் வழியனுப்பி வைத்தான்.
+- என்று அவன் மார்பில் முகத்தைப் புதைத்துக் கொண்டாள். அவனது அழகிய உச்சந்தலையில் ‘இச்’ சென்று முத்தமிட்டான் இருங்கோவேள். பகைவனின் வில்லுக்குக் கணையாகிவிட்ட அந்தப் பாவையை புன்னகையுடன் வழியனுப்பி வைத்தான்.
 
 ## Pass 1 notes
 
@@ -53,3 +53,16 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 167; பகுதி: 010; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 165; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part010 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling rendered source pixels;
+- source-text corrections at Pass2A: **1**;
+- source-supported correction: `-என்று` → source-visible `- என்று`;
+- unresolved textual questions after this review: **0**;
+- printed-page mapping correction at Pass2A: **0**;
+- page-type / section-label correction at Pass2A: **0 / 0**;
+- physical-boundary / continuation correction at Pass2A: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
