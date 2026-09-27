@@ -138,3 +138,29 @@ Current frontier:
 Current frontier:
 
 **Part009 Pass2A — scans135–150 / local1–16.**
+
+
+## Part009 Pass2A closure
+
+**PART009 PASS2A — COMPLETE / PASS — 16/16 REVIEWED**
+
+- reviewed — **16/16**
+- source-supported corrections — **5**
+- corrected pages — **5 — scans136, 138, 145, 146, 147**
+- clean pages — **11/16**
+- corrections — `எம்மா→ஏம்மா`; `சொரசொரப்பான→சொர சொரப்பான`; removed comma after `அவனையுமறியாமல்`; `பேசக் கொடுக்காமலே→பேசக்கொடுக்காமலே`; `என்னைப் பற்றி→என்னைப்பற்றி`
+- unresolved textual questions — **0**
+- printed-page mapping corrections — **0**
+- page-type / section corrections — **0**
+- page-boundary / continuation corrections — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–008 canonical/body mutations — **0**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 / scan151 leakage — **0**
+- durable control — `PART_009_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part009 Pass2B Batch 1 — scans135–143 / local1–9.**
