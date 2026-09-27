@@ -99,3 +99,28 @@ No final status promotion occurs during Pass1.
 ## Exact next activity
 
 **Part009 Pass1 Batch 1 — global scans135–144 / local pages1–10.**
+
+
+## Part009 Pass1 Batch1 closure
+
+**COMPLETE / PASS / TEXT-COMPLETE — scans135–144 / local1–10**
+
+- canonical Part009 records — **10/16**
+- whole-Part Pass1 — **10/16**
+- text/display-bearing pages — **9/10**
+- blank physical pages — **1/10 — scan142**
+- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- Chapter 9 continuation — **scans135–141 / printed133–139**
+- scan142 — **blank physical separator**
+- scan143 — **illustrated Chapter 10 title / 10 / எரிமலைமீது சூரியகாந்தி**
+- scan144 — **Chapter 10 opening / no visible printed numeral**
+- unresolved Pass1 source-reading holds — **0**
+- all Batch1 records — **needs-review / needs-review**
+- frozen Parts001–008 canonical / assembled / English body mutations — **0 / 0 / 0**
+- scans145–150 canonical records created early — **0**
+- Part010 / scan151 inferred — **0**
+- durable progress — `PART_009_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part009 Pass1 Batch2 — scans145–150 / local11–16 — final 6-page remainder.**

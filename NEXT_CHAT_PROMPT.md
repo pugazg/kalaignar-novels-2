@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Pass1 Batch1 scans135–144
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Pass1 Batch2 scans145–150
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -24,13 +24,8 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 
 **PASS / COMPLETE**
 
-The previously deferred split is resolved from direct adjacent evidence:
-
-- frozen scan134 ends inside Muthunagai's unclosed dialogue at `...யாருக்கும் ஜாடையாகக் கூடத் தெரியக்கூடாது;`
-- scan135 immediately continues the same utterance with `நெருங்கிப் பழகவே கூடாது!`
-- **134→135 — GENUINE CONTINUATION / AUDITED**
-- Part008 body backfill/mutation — **0**
-- Part009 canonical records at setup close — **0/16**
+- incoming **134→135 — GENUINE CONTINUATION / AUDITED**
+- frozen scan134 body mutation/backfill — **0**
 - unresolved intake/boundary blockers — **0**
 
 Durable controls:
@@ -39,34 +34,38 @@ Durable controls:
 - `PART_008_BOUNDARY_AUDIT_134_135.md`
 - `PART_009_INTAKE_BOUNDARY_SETUP.md`
 
-## Source-visible Part009 structure
+## Part009 Pass1 Batch1
 
-- scans135–141 / local1–7 — Chapter 9 continuation; printed **133–139**
-- scan142 / local8 — **blank physical page**
-- scan143 / local9 — illustrated Chapter 10 title: **10 / எரிமலைமீது சூரியகாந்தி**
-- scan144 / local10 — Chapter 10 opening; no normal printed numeral/header
-- scans145–150 / local11–16 — Chapter 10 narrative; printed **143–148**
-- outgoing **150→151 — PENDING Part010 adjacent witness / deferred external boundary evidence**
+**COMPLETE / PASS / TEXT-COMPLETE**
 
-## Pass1 cadence
-
-- fixed cadence — **10 physical pages per iteration**
-- Batch1 — **scans135–144 / local1–10**
-- Batch2 — **scans145–150 / local11–16 — final 6-page remainder**
-- no status or visual-fidelity promotion during Pass1
+- scans — **135–144 / local1–10**
+- canonical records — **10/16**
+- text/display-bearing physical pages — **9/10**
+- blank physical pages — **1 — scan142**
+- scan135–141 — Chapter 9 continuation / printed133–139
+- scan141 — Chapter 9 close
+- scan142 — blank separator
+- scan143 — illustrated Chapter 10 title **10 / எரிமலைமீது சூரியகாந்தி**
+- scan144 — Chapter 10 opening / no visible printed numeral
+- unresolved Pass1 holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 10 records remain `needs-review / needs-review`
+- frozen Parts001–008 canonical/body mutations — **0**
+- scans145–150 created early — **0**
+- durable progress — `PART_009_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-**Part009 Pass1 Batch1 — global scans135–144 / local pages1–10.**
+**Part009 Pass1 Batch2 — global scans145–150 / local pages11–16 — final 6-page remainder.**
 
 Requirements:
 
-- create canonical records only for scans135–144 in this iteration;
+- create canonical records only for scans145–150 in this iteration;
 - transcribe directly from rendered source pixels;
-- preserve page type, printed-page mapping, chapter/displayed-title evidence and blank-page handling exactly;
-- retain scan135 as Chapter 9 continuation without mutating frozen scan134;
-- treat scan142 as a genuine blank physical page if direct source inspection reconfirms it;
-- record scan143 as the illustrated Chapter 10 title page and scan144 as its opening page;
-- do not infer/import scan145–150 early;
-- do not infer scan151 or resolve 150→151 without the Part010 adjacent witness;
-- keep all newly created Part009 records `needs-review / needs-review` through Pass1.
+- preserve printed-page mapping **143–148** and Chapter 10 structure exactly;
+- inspect the scan144→145 physical join directly and retain any continuation without rewriting scan144;
+- do not promote status or visual fidelity during Pass1;
+- do not infer/import scan151;
+- outgoing **150→151 remains PENDING Part010 adjacent witness / deferred external boundary evidence**;
+- after scans145–150 are complete, close whole-Part Part009 Pass1 only if coverage is continuous **16/16** with unresolved source-reading holds **0**.
