@@ -1042,3 +1042,49 @@ Part008 remains **NOT SUPPLIED / NOT REGISTERED**.
 Current frontier:
 
 **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied.**
+
+
+## Part008 English planning/setup state
+
+Part008 English planning/setup is **COMPLETE / PASS**.
+
+Tamil prerequisites:
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil/documentation/assembly blockers — **0**
+
+### Reserved Part008 batches
+
+| Batch | Verified Tamil source | Planned English file | Scans | State |
+|---|---|---|---:|---|
+| E22 | `../../sections/21-chapter-08-vedam-kalaindhathu.md` | `sections/21-chapter-08-the-disguise-falls-away.md` | 119–132 | **RESERVED / NEXT** |
+| E23 | `../../sections/22-chapter-09-peruntheviyin-maruththuvar.md` | `sections/22-chapter-09-perunthevis-physician.md` | 133–134 | **RESERVED** |
+
+Planning accounting:
+
+- maintained Part008 English section files — **0/2**
+- source-checked Part008 English batches — **0/2**
+- E22/E23 draft files created in planning — **0**
+- E22/E23 source-check records created in planning — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- Parts001–007 English edits caused by planning — **0**
+- Part009 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `../../PART_008_ENGLISH_PLANNING_SETUP.md`
+
+Boundary locks:
+
+- incoming **118→119 — CHAPTER TRANSITION / AUDITED**
+- scan132 has no translatable body text
+- outgoing **134→135 — PENDING Part009 adjacent witness / deferred external boundary evidence**
+- E23 must not infer or import Part009 wording
+
+## Exact next activity — project
+
+**E22 — draft + source-check Part008 Chapter 8 `வேடம் கலைந்தது!` / scans119–132.**
+
+Do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**.
