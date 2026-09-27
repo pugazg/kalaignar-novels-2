@@ -1282,3 +1282,59 @@ Part008 remains **NOT SUPPLIED / NOT REGISTERED**.
 Current frontier:
 
 **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied.**
+
+
+## Part008 English planning/setup
+
+**PART008 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+Tamil prerequisites:
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- unresolved Tamil/documentation/assembly blockers — **0**
+
+### Reserved Part008 English units
+
+| Batch | Tamil input | Planned English file | Scans | Planning state |
+|---|---|---|---:|---|
+| **E22** | `../../sections/21-chapter-08-vedam-kalaindhathu.md` | `sections/21-chapter-08-the-disguise-falls-away.md` | 119–132 | **RESERVED / NEXT** |
+| **E23** | `../../sections/22-chapter-09-peruntheviyin-maruththuvar.md` | `sections/22-chapter-09-perunthevis-physician.md` | 133–134 | **RESERVED** |
+
+Batch discipline:
+
+**E22 closes draft + source-check before E23 begins.**
+
+Working titles:
+
+- `வேடம் கலைந்தது!` → **The Disguise Falls Away!**
+- `பெருந்தேவியின் மருத்துவர்` → **Perunthevi's Physician**
+
+Safeguards:
+
+- incoming **118→119 = CHAPTER TRANSITION / AUDITED**
+- frozen Part007 E21 must not be revised by E22
+- scan132 is blank and carries provenance only
+- scan134 ends mid-dialogue and must remain incomplete
+- outgoing **134→135 = PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 wording must not be inferred or imported
+- no English body draft or source-check record is created by planning
+
+Planning integrity:
+
+- canonical Tamil changes — **0**
+- assembled Tamil changes — **0**
+- Parts001–007 English changes — **0**
+- E22/E23 English draft files created in planning — **0**
+- E22/E23 source-check records created in planning — **0**
+- Part009 leakage — **0**
+- unresolved planning holds — **0**
+- durable planning control — `../../PART_008_ENGLISH_PLANNING_SETUP.md`
+
+## Current exact English activity
+
+**E22 — draft + source-check Part008 Chapter 8 `வேடம் கலைந்தது!` / scans119–132.**
+
+Do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**.
