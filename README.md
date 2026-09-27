@@ -370,3 +370,25 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 Pass1 Batch2 — scans129–134 / local11–16 — final 6-page remainder.**
+
+
+## Part008 whole-Part Pass1 closure
+
+**PART008 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+
+- canonical records — **16/16**
+- scan coverage — **119–134 continuous**
+- text/display-bearing pages — **15/16**
+- blank page — **scan132**
+- chapter-title pages — **scans119 and133**
+- source-supported Pass1 corrections — **1 total — scan125**
+- unresolved Pass1 holds — **0**
+- status / visual promotions — **0 / 0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–007 mutations — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness**
+- Part009 leakage — **0**
+
+## Current exact next activity
+
+**Part008 Pass2A — scans119–134 / local1–16.**
