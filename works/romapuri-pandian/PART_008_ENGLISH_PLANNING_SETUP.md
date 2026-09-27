@@ -298,3 +298,30 @@ Current Part008 English state:
 Current frontier:
 
 **Part008 whole-Part glossary reconciliation across E22–E23.**
+
+
+## Part008 glossary / editorial / bilingual closure
+
+- E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven body edits — **0**
+- English editorial review — **PASS / CLOSED**
+- editorial corrections — **9 total — E22 8 / E23 1**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **4 total — E22 4 / E23 0**
+- structural parity — **147/147 total; 134/134 rendered; 13/13 standalone provenance**
+- total provenance/comment occurrences — **16/16**
+- unresolved source-check holds — **0**
+- unresolved glossary holds — **0**
+- unresolved editorial holds — **0**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0**
+- frozen Parts001–007 English edits — **0**
+- Part009 / scan135 leakage — **0**
+- durable glossary record — `translations/en/PART_008_GLOSSARY_RECONCILIATION.md`
+- durable editorial record — `translations/en/PART_008_TRANSLATION_REVIEW.md`
+- durable bilingual record — `translations/en/PART_008_BILINGUAL_REVIEW.md`
+
+Current frontier:
+
+**Part008 release/readiness review and report.**
