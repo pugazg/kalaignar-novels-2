@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–008 FINAL CLOSED / FROZEN — PART009 BILINGUAL CLOSED — RELEASE REVIEW NEXT**
+**PART001–008 FINAL CLOSED / FROZEN — PART009 RELEASE/READINESS CLOSED — RELEASE SYNC NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -1349,3 +1349,20 @@ Current frontier:
 - frozen Parts001–008 English edits — **0**
 - Part010 leakage — **0**
 - next gate — **Part009 release/readiness review and report**
+
+
+## Part009 release/readiness closure
+
+**PART009 RELEASE/READINESS — PASS / CLOSED**
+
+- canonical Tamil / visual — **16/16 verified / 16/16 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E24–E25 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary — **RECONCILED / PASS — 2 edits**
+- editorial — **PASS / CLOSED — 9 corrections**
+- bilingual — **PASS / CLOSED — 2/2 PAIRS / 1 correction**
+- structural parity — **127/127 total; 110/110 rendered; 17/17 provenance**
+- unresolved blockers — **0**
+- active Git PDF paths — **0**
+- Part010 leakage — **0**
+- next gate — **Part009 release-ready synchronization**
