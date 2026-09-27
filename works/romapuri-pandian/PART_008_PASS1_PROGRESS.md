@@ -219,3 +219,46 @@ Direct comparison confirms:
 Perform independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical-boundary comparison against the controlling source pixels.
 
 Do not promote final status or visual fidelity during Pass2A.
+
+
+## Post-Batch2 / whole-Part Pass1 synchronization verification
+
+Batch1 synchronized checkpoint:
+
+`05fa1448a8b3bffcf6fee0398c09978163bb2222`
+
+Post-Batch2 synchronized checkpoint before this verification record:
+
+`bbe9ce3ed2a21962ccbf790d6c468644e35ae43a`
+
+Direct comparison covers **16 commits / 16 changed files**.
+
+Authorized canonical scope:
+
+- Batch2 canonical pages created — **6**
+- exact range — **scans129–134**
+- Part008 scans119–128 canonical-page changes during Batch2 — **0**
+- frozen Parts001–007 canonical-page changes — **0**
+
+Control synchronization:
+
+- lifecycle/navigation/control files changed — **10**
+- maintained assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+
+Live-tree verification:
+
+- Part008 canonical records — **16/16**
+- scan coverage — **119–134 continuous**
+- local-page coverage — **1–16 continuous**
+- all 16 records remain `needs-review / needs-review`
+- Part009 / scan135 repository paths — **0**
+- active Git PDF paths — **0**
+- `PART_008_PASS1_PROGRESS.md` — **present**
+- `PART_008_PASS2A_PROGRESS.md` — **not yet created**
+
+The synchronized live frontier is:
+
+**Part008 Pass2A — scans119–134 / local1–16.**
+
+Therefore Batch2 / whole-Part Pass1 repository drift outside the authorized canonical/control scope — **0**.
