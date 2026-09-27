@@ -68,3 +68,92 @@ Direct comparison with the intake/boundary checkpoint confirms exactly **10 newl
 **Part010 Pass1 Batch2 — scans161–167 / local11–17 — final 7-page remainder.**
 
 Do not promote status during Pass1.
+
+
+## Batch 2 — scans161–167 / local11–17
+
+**COMPLETE / PASS / TEXT-COMPLETE — 7/7 physical pages**
+
+| scan | local | printed | section / page type | Pass1 |
+|---:|---:|---:|---|---|
+| 161 | 11 | 159 | Chapter 11 body | TEXT-COMPLETE |
+| 162 | 12 | 160 | Chapter 11 body | TEXT-COMPLETE |
+| 163 | 13 | 161 | Chapter 11 body | TEXT-COMPLETE |
+| 164 | 14 | 162 | Chapter 11 body | TEXT-COMPLETE |
+| 165 | 15 | 163 | Chapter 11 body | TEXT-COMPLETE |
+| 166 | 16 | 164 | Chapter 11 body | TEXT-COMPLETE |
+| 167 | 17 | 165 | Chapter 11 body | TEXT-COMPLETE |
+
+### Batch2 source-boundary / structural checks
+
+- scan161 begins a new source paragraph/scene after scan160's complete sentence; no split sentence at 160→161
+- 162→163 — split physical sentence: `அரசின் முத்திரை` → `மோதிரத்தையே...`
+- scans163–167 remain within Chapter 11 `ஓலை கை மாறியது`
+- scan166 ends on the complete question `“என்ன வேலை?”`; scan167 begins the answer in the same dialogue
+- scan167 ends on a complete supplied-source sentence
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- Part011 / scan168 body inferred/imported — **0**
+
+### Batch2 post-write source-fidelity correction
+
+One direct source-spacing correction was applied after the initial Batch2 commit:
+
+- scan164 — `மரக்கிளை ஒன்றைப்` → source-visible `மரக்கிளை யொன்றைப்`
+
+Batch2 source-supported corrections after first write — **1**.
+
+### Batch2 accounting
+
+- canonical Part010 records created — **7**
+- whole-Part canonical records — **17/17**
+- physical pages processed in Batch2 — **7/7**
+- text/display-bearing Batch2 pages — **7/7**
+- unresolved Batch2 Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all seven Batch2 records — **needs-review / needs-review**
+- frozen Parts001–009 canonical/assembled/English body mutations — **0 / 0 / 0**
+- Part011 / scan168 inferred — **0**
+
+Batch2 canonical transcription commit:
+
+`c1a05ad3621acf20a8b9ce4574e5f66e120b4980`
+
+Source-spacing correction commit:
+
+`8c50faa714c30e03ad3efaa21014223b5f4136e0`
+
+Direct comparison from the Batch1 synchronized checkpoint to the corrected Batch2 head confirms exactly the **7 expected Part010 canonical page files** changed and no frozen page mutation.
+
+## Whole-Part Pass1 closure
+
+**PART010 PASS1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+
+Whole-Part accounting:
+
+- physical scans — **17/17 / scans151–167**
+- text/display-bearing physical pages — **16/17**
+- blank physical pages — **1/17 — scan156**
+- canonical Part010 records — **17/17**
+- Chapter 10 continuation — **scans151–155 / printed149–153**
+- blank separator — **scan156**
+- Chapter 11 title — **scan157 / 11 / ஓலை கை மாறியது**
+- Chapter 11 opening — **scan158 / no visible printed numeral**
+- Chapter 11 body — **scans159–167 / printed157–165**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- post-write source-supported Pass1 corrections — **1 — scan164 spacing**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 17 records remain **needs-review / needs-review**
+- frozen Parts001–009 canonical/assembled/English body mutations — **0 / 0 / 0**
+- Part011 / scan168 leakage — **0**
+
+## Exact next activity
+
+**Part010 Pass2A — scans151–167 / local1–17.**
+
+Independently compare all 17 canonical records against rendered source pixels for wording, punctuation, spacing, paragraph/dialogue structure, printed pagination, page type/section metadata and physical continuation state.
+
+Do not promote status or visual fidelity during Pass2A.

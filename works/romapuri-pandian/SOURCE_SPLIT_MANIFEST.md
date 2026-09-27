@@ -20,7 +20,7 @@
 | 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 008 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_008_pages_119-134.pdf` | 47,320,955 | `f8caf176e22589e4597ab1f5016ba3b04b86074e2732e87981baf69c90a8daa1` | 16 | 119–134 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 009 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf` | 47,618,126 | `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed` | 16 | 135–150 | REGISTERED | **PASS / CLOSED / FROZEN** |
-| 010 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf` | 49,942,707 | `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480` | 17 | 151–167 | REGISTERED | NOT STARTED |
+| 010 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf` | 49,942,707 | `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480` | 17 | 151–167 | REGISTERED | **PASS1 COMPLETE / 17/17 TEXT-COMPLETE** |
 | 011 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 012 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 013 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -1670,3 +1670,29 @@ Current frontier:
 Current frontier:
 
 **Part010 Pass1 Batch2 — scans161–167 / local11–17 — final 7-page remainder.**
+
+
+## Part010 Pass1 whole-Part closure
+
+**PART010 PASS1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+
+- canonical Part010 records — **17/17**
+- physical scans — **151–167 / 17**
+- text/display-bearing pages — **16/17**
+- blank physical page — **scan156**
+- Chapter 10 continuation — **scans151–155 / printed149–153**
+- Chapter 11 title — **scan157 / 11 / ஓலை கை மாறியது**
+- Chapter 11 opening — **scan158 / no visible printed numeral**
+- Chapter 11 body — **scans159–167 / printed157–165**
+- post-write source-supported Pass1 corrections — **1 — scan164 spacing**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- unresolved Pass1 source-reading holds — **0**
+- all 17 records remain **needs-review / needs-review**
+- frozen Parts001–009 canonical / assembled / English body mutations — **0 / 0 / 0**
+- Part011 / scan168 leakage — **0**
+- durable progress — `PART_010_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part010 Pass2A — scans151–167 / local1–17.**
