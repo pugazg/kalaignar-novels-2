@@ -449,3 +449,22 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 Pass3 — scans119–134 / local1–16.**
+
+
+## Part008 Pass3 closure
+
+**PART008 PASS3 — COMPLETE / PASS — 16/16 REVIEWED**
+
+- structural metadata corrections — **0**
+- source-text corrections — **0**
+- unresolved visual / structural questions — **0**
+- canonical coverage — **16/16 / scans119–134 / local1–16**
+- duplicate / missing records — **0 / 0**
+- status / visual promotions — **0 / 0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–007 mutations — **0**
+- Part009 leakage — **0**
+
+## Current exact next activity
+
+**Part008 Part audit.**
