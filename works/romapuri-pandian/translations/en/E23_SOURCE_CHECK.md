@@ -183,3 +183,36 @@ Part008 English batch state:
 **Part008 whole-Part glossary reconciliation across E22–E23.**
 
 Do not begin English editorial review until the Part008 glossary reconciliation gate closes.
+
+
+## Post-E23 synchronization verification
+
+Pre-E23 checkpoint:
+
+`6cea43b339a955b22e560df894c9daf2d58b55f9`
+
+Post-E23 synchronized checkpoint before this verification record:
+
+`2f803f60bf1638284568a264c30a1c604505083f`
+
+Direct repository comparison confirms:
+
+- total commits since pre-E23 checkpoint — **16**
+- changed files — **15**
+- canonical `pages/` changes — **0**
+- assembled Part008 Tamil changes — **0**
+- E23 English body file changed — **1 expected**
+- durable E23 source-check record — **present**
+- E22 English-body changes — **0**
+- frozen Parts001–007 English-body drift — **0**
+- Part009 / scan135 repository paths — **0**
+
+The synchronized controls agree on:
+
+- E22 — **SOURCE-CHECKED / COMPLETE**
+- E23 — **SOURCE-CHECKED / COMPLETE**
+- completed/source-checked — **2/2**
+- unresolved English source-check holds — **0**
+- exact next activity — **Part008 whole-Part glossary reconciliation across E22–E23**
+
+Therefore E23 introduced no canonical Tamil, assembled Tamil, frozen earlier-English, E22, or Part009 drift.
