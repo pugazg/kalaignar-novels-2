@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Part audit
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 final metadata/status synchronization
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,57 +8,42 @@ Parts001–008 are **FINAL CLOSED / FROZEN**.
 
 Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to advance Part009.
 
-## Part009 source
+## Part009 source / closed gates
+
+Source:
 
 `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf`
 
 - file size — **47,618,126 bytes**
 - SHA-256 — `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed`
-- physical PDF pages — **16**
-- global scans — **135–150**
-- local pages — **1–16**
-- source text layer — **no usable parsed text**
-- controlling witness — **rendered source page images**
-
-## Closed Part009 gates
-
-- intake + incoming-boundary setup — **PASS / COMPLETE**
-- incoming **134→135 — GENUINE CONTINUATION / AUDITED**
-- Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
-- Pass2A corrections — **5**
-- Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
-- Pass2B corrections — **5**
-- historical-glyph / orthography corrections — **0**
-- Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
-- Pass3 source-text corrections — **0**
-- Pass3 structural metadata corrections — **0**
-- unresolved visual / structural questions — **0**
-- canonical Part009 records — **16/16**
-- all records remain `needs-review / needs-review`
-- outgoing **150→151 — PENDING Part010 adjacent witness / deferred external boundary evidence**
+- scans — **135–150 / 16**
+- intake + 134→135 boundary setup — **PASS / COMPLETE**
+- Pass1 — **COMPLETE / PASS — 16/16**
+- Pass2A — **COMPLETE / PASS — 16/16**
+- Pass2B — **COMPLETE / PASS — 16/16**
+- Pass3 — **COMPLETE / PASS — 16/16**
+- Part audit — **PASS / COMPLETE**
+- unresolved Tamil / lexical / historical-glyph / visual / structural questions — **0**
+- canonical records — **16/16**
+- all canonical records currently — `needs-review / needs-review`
+- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
 - Part010 / scan151 leakage — **0**
-
-Durable controls:
-
-- `PART_009_PASS1_PROGRESS.md`
-- `PART_009_PASS2A_PROGRESS.md`
-- `PART_009_PASS2B_PROGRESS.md`
-- `PART_009_PASS3_PROGRESS.md`
+- durable audit — `PART_009_AUDIT.md`
 
 ## Exact next activity
 
-**Part009 Part audit.**
+**Part009 final metadata/status synchronization.**
 
 Requirements:
 
-- audit live canonical Part009 records against the closed source-intake, boundary, Pass1, Pass2A, Pass2B and Pass3 evidence;
-- confirm exactly 16 canonical records, continuous scans135–150 and local pages1–16, with no duplicates/missing records;
-- confirm `part: 9`, exact source filename, page-type / section labels and printed-page mapping;
-- reconcile Pass1/Pass2A/Pass2B correction ledgers against live canonical text;
-- confirm scan142 blank handling, scan143 Chapter 10 title, scan144 opening-page metadata and scan147 non-publication handwritten mark exclusion;
-- confirm incoming 134→135 remains audited without changing frozen scan134;
-- confirm 150→151 remains pending Part010 adjacent source evidence and scan151 has not been inferred/imported;
-- verify all 16 records still remain `needs-review / needs-review`;
-- do not promote status or visual fidelity during the Part audit;
-- only after Part audit closes **PASS / COMPLETE** may final metadata/status synchronization begin.
+- promote exactly the 16 Part009 canonical records scans135–150:
+  - `status: "needs-review"` → `status: "verified"`
+  - `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
+- make no Tamil body changes;
+- make no page-type, section-label, printed-page, source-filename or review-evidence changes;
+- do not touch frozen Parts001–008;
+- do not create Part010 / scan151 records;
+- directly compare the pre-sync audited checkpoint with the final page-status checkpoint and prove that only the two authorized status fields changed across exactly 16 canonical files;
+- create durable `PART_009_FINAL_STATUS_SYNC.md`;
+- after the status sync closes PASS, the next gate is **Part009 documentation synchronization**.
