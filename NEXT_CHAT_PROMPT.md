@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Pass3 scans135–150
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Part audit
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,44 +20,45 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - source text layer — **no usable parsed text**
 - controlling witness — **rendered source page images**
 
-## Durable Part009 state
+## Closed Part009 gates
 
 - intake + incoming-boundary setup — **PASS / COMPLETE**
-- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- incoming **134→135 — GENUINE CONTINUATION / AUDITED**
 - Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
-- Pass2A — **COMPLETE / PASS — 16/16 REVIEWED — 5 corrections / 0 unresolved**
+- Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
+- Pass2A corrections — **5**
 - Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
-- Pass2B corrections — **5 across scans137, 138, 146 and150**
-- Pass2B historical-glyph corrections — **0**
-- unresolved Pass2B questions — **0**
-- canonical records — **16/16**
+- Pass2B corrections — **5**
+- historical-glyph / orthography corrections — **0**
+- Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
+- Pass3 source-text corrections — **0**
+- Pass3 structural metadata corrections — **0**
+- unresolved visual / structural questions — **0**
+- canonical Part009 records — **16/16**
 - all records remain `needs-review / needs-review`
 - outgoing **150→151 — PENDING Part010 adjacent witness / deferred external boundary evidence**
 - Part010 / scan151 leakage — **0**
-- durable control — `PART_009_PASS2B_PROGRESS.md`
 
-Pass2B correction ledger:
+Durable controls:
 
-- scan137 — `ஏதோ எழுதினாள்` → `ஏதேதோ எழுதினாள்`
-- scan138 — `மரப்பலகைகளைத்தான்` → `மரப்பலகைகளைத் தான்`
-- scan146 — `ஒரு தடவை` → `ஒருதடவை`
-- scan146 — `சோழ மண்டலத்திலோ` → `சோழமண்டலத்திலோ`
-- scan150 — `கூறிவிட்டோமே` → `கூறி விட்டோமே`
+- `PART_009_PASS1_PROGRESS.md`
+- `PART_009_PASS2A_PROGRESS.md`
+- `PART_009_PASS2B_PROGRESS.md`
+- `PART_009_PASS3_PROGRESS.md`
 
 ## Exact next activity
 
-**Part009 Pass3 — global scans135–150 / local pages1–16.**
+**Part009 Part audit.**
 
 Requirements:
 
-- visually verify all 16 pages directly against rendered source images;
-- verify page type / section classification, title hierarchy, paragraph/dialogue layout, printed pagination and running furniture;
-- verify scan142 as blank physical separator;
-- verify scan143 as illustrated Chapter 10 title **10 / எரிமலைமீது சூரியகாந்தி**;
-- verify scan144 as Chapter 10 opening with no ordinary printed numeral/header;
-- verify physical continuation states at 134→135, 135→136, 136→137, 138→139, 140→141, 144→145, 146→147 and147→148;
-- verify scan147 handwritten copy mark remains excluded from canonical publication text;
-- apply only direct source-backed textual/structural corrections if discovered;
-- record source-text corrections, structural metadata corrections and unresolved visual/structural questions;
-- do not promote `status` or `visual_fidelity` during Pass3;
-- do not infer scan151 or resolve 150→151 without Part010 adjacent source evidence.
+- audit live canonical Part009 records against the closed source-intake, boundary, Pass1, Pass2A, Pass2B and Pass3 evidence;
+- confirm exactly 16 canonical records, continuous scans135–150 and local pages1–16, with no duplicates/missing records;
+- confirm `part: 9`, exact source filename, page-type / section labels and printed-page mapping;
+- reconcile Pass1/Pass2A/Pass2B correction ledgers against live canonical text;
+- confirm scan142 blank handling, scan143 Chapter 10 title, scan144 opening-page metadata and scan147 non-publication handwritten mark exclusion;
+- confirm incoming 134→135 remains audited without changing frozen scan134;
+- confirm 150→151 remains pending Part010 adjacent source evidence and scan151 has not been inferred/imported;
+- verify all 16 records still remain `needs-review / needs-review`;
+- do not promote status or visual fidelity during the Part audit;
+- only after Part audit closes **PASS / COMPLETE** may final metadata/status synchronization begin.

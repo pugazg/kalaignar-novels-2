@@ -283,3 +283,35 @@ Current frontier:
 Current frontier:
 
 **Part009 Pass3 — scans135–150 / local1–16.**
+
+
+## Part009 Pass3 closure
+
+**PART009 PASS3 — COMPLETE / PASS — 16/16 REVIEWED**
+
+- source-text corrections — **0**
+- structural metadata corrections — **0**
+- unresolved visual / structural questions — **0**
+- canonical records — **16/16**
+- scan coverage — **135–150 continuous**
+- local-page coverage — **1–16 continuous**
+- duplicate / missing canonical records — **0 / 0**
+- source-filename mismatches — **0**
+- printed-page mapping corrections — **0**
+- page-type / section-label corrections — **0 / 0**
+- scan142 blank handling — **PASS**
+- scan143 illustrated Chapter 10 title — **PASS**
+- scan144 Chapter 10 opening / null printed page — **PASS**
+- scan147 handwritten copy mark exclusion — **PASS**
+- physical continuations — **PASS**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–008 mutations — **0**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 / scan151 leakage — **0**
+- durable control — `PART_009_PASS3_PROGRESS.md`
+
+Current frontier:
+
+**Part009 Part audit.**
