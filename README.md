@@ -429,3 +429,23 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 Pass2B Batch2 — scans128–134 / local10–16 — final 7-page remainder.**
+
+
+## Part008 Pass2B closure
+
+**PART008 PASS2B — COMPLETE / PASS — 16/16 REVIEWED**
+
+- Batch1 — **9/9**
+- Batch2 — **7/7**
+- new Pass2B corrections — **4**
+- corrected pages — **scans128,129,130**
+- historical-glyph / orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- status / visual promotions — **0 / 0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–007 mutations — **0**
+- Part009 leakage — **0**
+
+## Current exact next activity
+
+**Part008 Pass3 — scans119–134 / local1–16.**
