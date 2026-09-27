@@ -614,3 +614,8 @@ Part008 English translation planning/setup is **COMPLETE / PASS**. E22–E23 are
 
 
 Part008 E22 is **SOURCE-CHECKED / COMPLETE**. Chapter 8 `வேடம் கலைந்தது!` / scans119–132 now has a source-checked English section at `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`. Structural parity is 135/135 total, 124/124 rendered, 11/11 standalone provenance, with 14 source-check corrections and 0 unresolved holds. Canonical/assembled Tamil edits are 0, Parts001–007 English remain frozen, E23 was not started during E22, and Part009 leakage is 0. Exact next activity: **E23 draft + source-check**.
+
+- `translations/en/E23_SOURCE_CHECK.md`
+
+
+Part008 E23 is **SOURCE-CHECKED / COMPLETE**. Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134 now has source-checked English at `translations/en/sections/22-chapter-09-perunthevis-physician.md`. Structural parity is 12/12 total, 10/10 rendered, 2/2 standalone provenance, with 2 source-check corrections and 0 unresolved holds. Part008 English is now 2/2 SOURCE-CHECKED / COMPLETE. Canonical/assembled Tamil edits are 0, Parts001–007 English remain frozen, E22 was not altered by E23, and Part009 leakage is 0. Exact next activity: **Part008 whole-Part glossary reconciliation across E22–E23**.
