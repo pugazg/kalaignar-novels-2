@@ -607,3 +607,28 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
+
+
+## Part008 E23 source-check closure
+
+**E23 — SOURCE-CHECKED / COMPLETE**
+
+- Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134
+- English file — `translations/en/sections/22-chapter-09-perunthevis-physician.md`
+- structural parity — **12/12 total; 10/10 rendered; 2/2 standalone provenance**
+- source-check corrections — **2**
+- unresolved E23 holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–007 English edits — **0**
+- E22 body edits — **0**
+- Part009 leakage — **0**
+
+Part008 English source-check state:
+
+- E22 — **SOURCE-CHECKED / COMPLETE**
+- E23 — **SOURCE-CHECKED / COMPLETE**
+- completed/source-checked — **2/2**
+
+## Current exact next activity
+
+**Part008 whole-Part glossary reconciliation across E22–E23.**
