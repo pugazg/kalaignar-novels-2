@@ -53,7 +53,7 @@ After looking Sezhiyan up and down once, Thamarai signalled to the warriors to g
 
 "Hm! What do you want to talk about? Speak quickly!" said Thamarai.
 
-"I am not going to be the only one giving a speech. You too must give me a few explanations," said Sezhiyan.
+"I am not going to be the only one giving a speech. You too must answer some of my questions," said Sezhiyan.
 
 "Very nice indeed! Are we supposed to give explanations about ourselves to a warrior from an enemy country and let ourselves be deceived?"
 
