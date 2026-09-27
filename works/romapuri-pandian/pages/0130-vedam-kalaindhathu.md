@@ -31,7 +31,7 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch2 
 
 “அப்புறமென்ன - அவளிடம் திறமையாக நடித்து, அவள் உதவியினாலேயே இருங்கோவேளின் மாளிகைக்குள் நுழைவதற்குத் திட்டம் தீட்டிவிட்டேன். இன்று காலையில் அவசியம் வந்து விடுவாள்!”
 
-“ஓகோ! நீ மிகவும் திறமைசாலிதான்; ம்... இயற்கை உனக்கு உதவி செய்கிறது! நீ ஆண் வேடம் போட்டால் நம்புவார்கள். நான் பெண் வேடம் போட்டால் யார் நம்பப் போகிறார்கள்?” எனக் கூறி அவன் சிரித்தான். அவளும் சேர்ந்து கொண்டு சிரித்தாள். சிரிப்பினூடே இருவரும் இதழ் பரிமாறி மெய்மறந்தனர்.
+“ஓகோ! நீ மிகவும் திறமைசாலிதான்; ம்...இயற்கை உனக்கு உதவி செய்கிறது! நீ ஆண் வேடம் போட்டால் நம்புவார்கள். நான் பெண் வேடம் போட்டால் யார் நம்பப் போகிறார்கள்?” எனக் கூறி அவன் சிரித்தான். அவளும் சேர்ந்து கொண்டு சிரித்தாள். சிரிப்பினூடே இருவரும் இதழ் பரிமாறி மெய்மறந்தனர்.
 
 “நேரமாகிறது; தாமரை வந்து விடுவாள்; நான் புறப்படுகிறேன்!” எனக் கிளம்பினாள் முத்துநகை.
 
@@ -65,3 +65,15 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch2 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part008 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical forms, historical spelling, glyph distinctions, word boundaries, punctuation, displayed text and source-sensitive colloquial forms;
+- source-visible spacing in `ம்...இயற்கை` restored exactly;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
