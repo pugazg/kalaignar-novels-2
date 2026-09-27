@@ -253,3 +253,47 @@ Pass2B is closed. **Pass3 has not been started.**
 Pass3 must verify structural metadata, page types, displayed titles, printed-page mapping, running furniture, blank-page handling, physical transitions and boundary state without polishing already source-verified Tamil.
 
 Do not perform final status promotion during Pass3.
+
+
+## Post-Batch2 / whole-Part Pass2B synchronization verification
+
+Pre-Batch2 checkpoint:
+
+`288a8878c60d26807c1fb04b0f9473295b59af9f`
+
+Post-Pass2B synchronized checkpoint before this verification record:
+
+`552a9cce2fa027d6c87e56a61ed42028f1a9fe76`
+
+Direct comparison covers **19 commits / 19 changed files**.
+
+Canonical scope:
+
+- Batch2 canonical records reread — **7/7**
+- exact range — **scans128–134**
+- source-supported corrections — **4**
+- corrected pages — **scans128,129,130**
+- unexpected page changes outside scans128–134 during Batch2 — **0**
+- frozen Parts001–007 canonical-page changes — **0**
+
+Control synchronization:
+
+- lifecycle/navigation/control files changed — **12**
+- durable `PART_008_PASS2B_PROGRESS.md` — **present**
+- `PART_008_PASS3_PROGRESS.md` — **not yet created**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+
+Live status verification confirms:
+
+- Part008 canonical records — **16/16**
+- `status: "needs-review"` / `visual_fidelity: "needs-review"` — **16/16**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part009 / scan135 leakage — **0**
+
+The synchronized live frontier is:
+
+**Part008 Pass3 — scans119–134 / local1–16.**
+
+Therefore Batch2 / whole-Part Pass2B repository drift outside the authorized canonical-review/control scope — **0**.
