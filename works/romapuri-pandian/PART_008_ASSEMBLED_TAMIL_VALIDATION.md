@@ -343,3 +343,28 @@ Current frontier:
 Current frontier:
 
 **Part008 release-ready synchronization.**
+
+
+## Part008 release-ready synchronization closure
+
+**PART008 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED — 9 corrections**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS / 4 corrections**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization blockers — **0**
+- canonical / assembled Tamil sync changes — **0 / 0**
+- maintained Part008 English body sync changes — **0**
+- frozen Parts001–007 English sync changes — **0**
+- Part009 / scan135 leakage — **0**
+- durable control — `PART_008_RELEASE_READY_SYNC.md`
+
+Current frontier:
+
+**Part008 final closure / freeze.**
