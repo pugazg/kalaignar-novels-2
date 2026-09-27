@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch1 
 
 “பார்த்தீர்களா அண்ணி! எவ்வளவு தீவிரமாகச் சிந்திக்கிறார்!” என்று கேட்டு அண்ணியின் புன்சிரிப்பைப் பதிலாகப் பெற்று ஆறுதலடைந்தாள் தாமரை.
 
-உலவிக் கொண்டிருந்த முத்துநகை ஓர் ஓலையை எடுத்து ஏதோ எழுதினாள். அதை அரசியிடம் கொடுத்தாள். அரசி பெருந்தேவி அதை வாங்கிப் படித்துப் பார்த்து விட்டுத் தாமரையிடம் தந்தாள்; “இந்த நோயை நிச்சயம் குணப்படுத்தி விடலாம். இதற்குச் சில முக்கியமான மூலிகைகள் வேண்டும். அதற்கிடையில் அரசரை நான் சந்தித்தால் பரவாயில்லை!” என்று அந்த ஓலையில் முத்துநகை எழுதியிருந்தாள்.
+உலவிக் கொண்டிருந்த முத்துநகை ஓர் ஓலையை எடுத்து ஏதேதோ எழுதினாள். அதை அரசியிடம் கொடுத்தாள். அரசி பெருந்தேவி அதை வாங்கிப் படித்துப் பார்த்து விட்டுத் தாமரையிடம் தந்தாள்; “இந்த நோயை நிச்சயம் குணப்படுத்தி விடலாம். இதற்குச் சில முக்கியமான மூலிகைகள் வேண்டும். அதற்கிடையில் அரசரை நான் சந்தித்தால் பரவாயில்லை!” என்று அந்த ஓலையில் முத்துநகை எழுதியிருந்தாள்.
 
 பெருந்தேவிக்கு இருங்கோவேள் மன்னன் முதலில் கூறிய மொழிகள் நினைவுக்கு வந்தன. “அரசர் மாளிகையில் இல்லை; எங்கேயோ போய்விட்டார் என்று மருத்துவரிடம் கூற வேண்டும்” என்று அவன் குறிப்பிட்டிருந்தான். அதனால் அரசி முத்துநகையிடம், “அரசரைப் பார்ப்பது என்பது இயலாத காரியம்; அவர் இங்கில்லை; எங்கே போனார் என்றும் தெரியாது; எப்போது வருவார் என்றும் சொல்ல முடியாது!” என்று உடனடியாகப் பதில் கூறி விட்டாள்.
 
@@ -55,3 +55,15 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part009 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- source-supported correction: ஏதோ → ஏதேதோ;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch1 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

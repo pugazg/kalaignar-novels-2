@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch1 
 
 அருமையான கொய்யாப் பழங்களை ஓர் அழகான தட்டில் எடுத்து வந்து தாமரை, முத்துநகைக்கு எதிரே வைத்துச் சாப்பிடுமாறு வற்புறுத்தினாள். அவளும் அதைச் சாப்பிட்டு முடித்து விட்டுத் தூக்கம் வருவதுபோல் பாவனை காட்டினாள். அங்கு கிடந்த நீண்ட மரப்பலகையொன்றின் மீது உறையில்லாத தலையணைகளை எடுத்துப் போட்டு, அதிலே கண்ணயர்ந்திடுமாறு கூறினாள் தாமரை. அரசாங்க மருத்துவனாகச் சென்றிருக்கும் தனக்குச் செய்யப்படும் உபசாரத்தைக் கண்டு முத்துநகை வியப்படையவில்லை. இளவரசியின் காதலனாகச் சென்ற தனக்குத் தரப்பட்ட படுக்கையின் பெருமையைக் குறித்தும் அவள் அதிர்ச்சியடையவில்லை.
 
-“அரண்மனை விருந்தாளிக்கு மரப் பலகையும் உறையில்லாத தலையணையும்தானா?” என்று முத்துநகை முகம் சுளிக்கவில்லை. காரணம், பட்டத்து அரசி பெருந்தேவி படுத்திருக்கும் கட்டிலே சொர சொரப்பான மரத்தால் அமைக்கப்பட்டிருந்ததுதான். அக்கட்டிலுக்குக் கடைசல் கால்கள் ஒன்றும் அமைக்கப்படவில்லை. யானைத் தந்தங்கள் ஏதும் அதில் பொருத்தப்படவில்லை. இலவம் பஞ்சு மஞ்சமொன்றும் அங்கேயில்லை. கரடுமுரடான மரப்பலகைகளைத்தான் அடுக்கி, அதிலே அரசி படுத்திருந்தாள். படுத்தபடியே சிந்தனையை அலையவிட்ட முத்துநகைக்கு இருங்கோவேள் குடும்பத்தார் மீது சற்று இரக்கம் ஏற்பட்டது.
+“அரண்மனை விருந்தாளிக்கு மரப் பலகையும் உறையில்லாத தலையணையும்தானா?” என்று முத்துநகை முகம் சுளிக்கவில்லை. காரணம், பட்டத்து அரசி பெருந்தேவி படுத்திருக்கும் கட்டிலே சொர சொரப்பான மரத்தால் அமைக்கப்பட்டிருந்ததுதான். அக்கட்டிலுக்குக் கடைசல் கால்கள் ஒன்றும் அமைக்கப்படவில்லை. யானைத் தந்தங்கள் ஏதும் அதில் பொருத்தப்படவில்லை. இலவம் பஞ்சு மஞ்சமொன்றும் அங்கேயில்லை. கரடுமுரடான மரப்பலகைகளைத் தான் அடுக்கி, அதிலே அரசி படுத்திருந்தாள். படுத்தபடியே சிந்தனையை அலையவிட்ட முத்துநகைக்கு இருங்கோவேள் குடும்பத்தார் மீது சற்று இரக்கம் ஏற்பட்டது.
 
 வேளிர் குடும்பத்து மன்னர்கள் அத்தனை பேரைக் காட்டிலும் அதிக ஆடம்பரமாக வாழ்ந்தவன் இருங்கோவேள்தான் என்று அவள் கேள்விப்பட்டிருக்கிறாள். அவனது சிம்மாசனத்தின் இருமருங்கிலும் நிறுத்தப்பட்டிருக்கும் சிங்கங்களின் திறந்த வாயிலே காணப்படும் பற்கள் அத்தனையும் வைரமாம்! சிங்கமே தங்கமாம்!
 
@@ -52,3 +52,17 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part009 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- source-supported correction: மரப்பலகைகளைத்தான் → மரப்பலகைகளைத் தான்;
+- Pass2A correction `சொர சொரப்பான` independently re-confirmed against source pixels;
+- copy blemish across `அரசாங்க மருத்துவனாகச்` rechecked; retained reading remains source-supported from visible glyphs/context, with no speculative restoration beyond the printed word;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch1 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
