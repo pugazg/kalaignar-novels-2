@@ -139,3 +139,37 @@ At the release/readiness checkpoint and through synchronization:
 ## Exact next activity
 
 Create and independently verify the durable **Part008 final closure / freeze** record.
+
+
+## Post-synchronization drift verification
+
+Release/readiness record commit:
+
+`ff86f73d26e0e4c438c57b53f3bbd18be7181c1d`
+
+Post-release-ready synchronized live head before this verification record:
+
+`8ed76a49781ed9e04988069922c3b0c677839aa5`
+
+Direct comparison covers **28 commits** and exactly **15 changed files**.
+
+No text-bearing authority/body drift occurred:
+
+- canonical `pages/` changes — **0**
+- assembled Tamil section-body changes — **0**
+- maintained Part008 English section-body changes — **0**
+- frozen Parts001–007 English section-body changes — **0**
+- Part009 / scan135 files — **0**
+- active Git PDF paths — **0**
+
+Live-tree verification also confirms:
+
+- `PART_008_RELEASE_READY_SYNC.md` — **present**
+- Part009 / scan135 repository paths — **0**
+- PDF paths in Git — **0**
+
+Therefore post-release synchronization drift — **0**.
+
+The synchronized live frontier remains:
+
+**Part008 final closure / freeze.**
