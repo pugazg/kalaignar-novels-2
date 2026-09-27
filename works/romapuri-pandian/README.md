@@ -604,3 +604,23 @@ Current frontier:
 Current frontier:
 
 **Part008 Pass2B Batch2 — scans128–134 / local10–16 — final 7-page remainder.**
+
+
+## Part008 Pass2B closure
+
+**COMPLETE / PASS — 16/16 REVIEWED**
+
+- scans119–127 — **9/9 PASS**
+- scans128–134 — **7/7 PASS**
+- new source-text / lexical / spacing / punctuation corrections — **4**
+- corrected pages — **scan128 (2), scan129 (1), scan130 (1)**
+- historical-glyph / orthography corrections — **0**
+- unresolved questions — **0**
+- all records remain `needs-review / needs-review`
+- frozen Parts001–007 mutations — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness**
+- durable progress — `PART_008_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part008 Pass3 — scans119–134 / local1–16.**
