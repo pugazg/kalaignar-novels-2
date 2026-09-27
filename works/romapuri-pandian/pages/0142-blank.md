@@ -1,0 +1,29 @@
+---
+scan_page: 142
+part: 9
+part_page: 8
+printed_page: null
+work: "romapuri-pandian"
+section: "blank physical page"
+page_type: "blank"
+status: "needs-review"
+visual_fidelity: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf"
+transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch1 scans135–144"
+---
+
+## Source transcription
+
+<!-- source-visible text: none; physical page is blank -->
+
+## Pass 1 notes
+
+- no visible printed page number, running header, body text, illustration, or intentional page furniture
+- faint reverse-side bleed-through and copy marks are not treated as source-visible text
+- blank physical separator after Chapter 9 close on scan141 and before Chapter 10 title on scan143
+- canonical record retained because Pass1 covers every physical scan
+- unresolved Pass1 source-reading holds: 0
+- status and visual fidelity remain needs-review
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 142; பகுதி: 009; பகுதி உள்ளூர் பக்கம்: 8; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
