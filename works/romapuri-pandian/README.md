@@ -553,26 +553,4 @@ Current frontier:
 
 Current frontier:
 
-**Part008 Pass1 Batch2 — scans129–134 / local11–16 — final 6-page remainder.**
-
-
-## Part008 whole-Part Pass1 closure
-
-**PART008 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
-
-- scans119–134 — **16/16 canonical**
-- local pages1–16 — **continuous**
-- Chapter 8 — **scans119–131**
-- blank separator — **scan132**
-- Chapter 9 — **scans133–134**
-- printed pages — **119–129 across scans121–131**
-- source-supported Pass1 corrections — **1 — scan125**
-- unresolved Pass1 holds — **0**
-- all pages remain `needs-review / needs-review`
-- frozen Parts001–007 mutations — **0**
-- outgoing 134→135 — **PENDING Part009 adjacent witness**
-- durable progress — `PART_008_PASS1_PROGRESS.md`
-
-Current frontier:
-
-**Part008 Pass2A — scans119–134 / local1–16.**
+**Part008 Pass2B Batch 1 — scans119–127 / local1–9.**
