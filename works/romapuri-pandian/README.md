@@ -853,3 +853,24 @@ Current frontier:
 Current frontier:
 
 **Part008 release-ready synchronization.**
+
+
+## Part008 release-ready synchronization closure
+
+**PASS / CLOSED**
+
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- assembled Tamil — **2/2 VERIFIED**
+- English E22–E23 — **2/2 SOURCE-CHECKED**
+- glossary / editorial / bilingual — **CLOSED / PASS**
+- unresolved final-preclosure blockers — **0**
+- canonical / assembled / English body sync drift — **0 / 0 / 0**
+- frozen Parts001–007 drift — **0**
+- Part009 leakage — **0**
+
+Current frontier:
+
+**Part008 final closure / freeze.**
