@@ -67,7 +67,7 @@ As Thamarai listened to him, her heart began to melt. She was amazed to see a li
 
 "What is it that you want to ask me about?" she asked in a voice softened by affection.
 
-"First let me tell you a story about myself," he began. "One day my king, Pandiyan Peruvazhuthi, called me and showed me a portrait of a beautiful woman. 'She is the woman who is going to become your wife,' he said. I looked at the portrait and raised no objection. He understood my consent. Later, because of the political circumstances that arose, the marriage did not take place. Ever since then I have kept searching for the beauty I saw in that portrait, but I have not found her."
+"First let me tell you a story about myself," he began. "One day my king, Peruvazhuthi Pandiyan, called me and showed me a portrait of a beautiful woman. 'She is the woman who is going to become your wife,' he said. I looked at the portrait and raised no objection. He understood my consent. Later, because of the political circumstances that arose, the marriage did not take place. Ever since then I have kept searching for the beauty I saw in that portrait, but I have not found her."
 
 "So what? Did you make me sit here just to hear this story?"
 

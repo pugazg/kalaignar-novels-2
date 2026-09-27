@@ -1404,3 +1404,50 @@ Part009 remains **NOT SUPPLIED / NOT REGISTERED**.
 Current frontier:
 
 **Part009 source intake + 134→135 adjacent-boundary witness inspection/setup when the Part009 source is supplied.**
+
+
+## Part009 English planning and reconciliation terminology
+
+Part009 maintained English batches: **E24–E25**.
+
+Locked or context-controlled forms:
+
+| Tamil/source form | English handling | Note |
+|---|---|---|
+| `பெருந்தேவியின் மருத்துவர்` | **Perunthevi's Physician** | Chapter 9 title; carries forward frozen Part008 choice |
+| `எரிமலைமீது சூரியகாந்தி` | **Sunflower on a Volcano** | Chapter 10 literary title / governing metaphor |
+| `முத்துநகை` / `முத்து` | **Muthunagai / Muthu** | personal name / assumed male name |
+| `தாமரை` | **Thamarai** | personal name |
+| `இருங்கோவேள்` | **Irungovel** | personal/ruler name |
+| `செழியன்` | **Sezhiyan** | personal name |
+| `பெருந்தேவி` | **Perunthevi** | personal name/title context |
+| `கரிகால் பெருவளத்தான்` | **Karikala Peruvalathan** | locked project form |
+| `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` | **Peruvazhuthi / Peruvazhuthi Pandiyan** | local syntax |
+| `வீரபாண்டி` | **Veerapandi** | source name |
+| `வேளிர்குடி` | **Velir clan / Velir people** | local syntax |
+| `மரமாளிகை` | **wooden palace** | established project rendering |
+| `மண்டபம்` | **mandapam** | established project term |
+| `ஓலை` | **palm leaf** | ordinary object/message |
+| `ஓலைச்சுவடி` | **palm-leaf manuscript** | manuscript context |
+| `மூலிகை` | **herb** | medical context |
+| `மருத்துவர்` / `வைத்தியர்` | **physician** | role context |
+| `கஞ்சி` | **gruel** | E25 prison-treatment context |
+| `நீலோற்பலம்` | **blue lotus** | E25 poetic image |
+| `நித்திலம்` | **pearl** | E25 poetic image |
+| `மறக்குலப் பண்பு` | **code of our warrior clan** | E25 local martial-ethics context |
+| `பள்ளியறை` | **sleeping chamber** | E25 contrast with prison |
+| `மகாராணி` | **Your Majesty** in direct address | avoids an isolated transliteration drift in E24 |
+
+Whole-Part Part009 reconciliation made two terminology/consistency edits:
+
+1. E24 — **"No, Maharani!"** → **"No, Your Majesty!"**
+2. E25 — **"my king, Pandiyan Peruvazhuthi"** → **"my king, Peruvazhuthi Pandiyan"**
+
+Part009 glossary reconciliation — **RECONCILED / PASS**.
+
+- maintained files checked — **2/2**
+- glossary-driven body edits — **2**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–008 English edits — **0**
+- Part010 leakage — **0**

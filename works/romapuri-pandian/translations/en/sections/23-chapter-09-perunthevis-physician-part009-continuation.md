@@ -117,7 +117,7 @@ The queen, somewhat relieved from her distress, lay exhausted against Thamarai's
 
 "Then let him die!" the queen said indifferently.
 
-"No, Maharani! It is better for us if he stays alive. The king plans to use him to recover the lands we lost!" the warrior replied.
+"No, Your Majesty! It is better for us if he stays alive. The king plans to use him to recover the lands we lost!" the warrior replied.
 
 By now, sweat had broken out all over Muthunagai's body.
 
