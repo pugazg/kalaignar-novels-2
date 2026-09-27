@@ -125,3 +125,124 @@ Direct comparison confirms:
 **Part009 Pass2B Batch2 — scans144–150 / local10–16 — final 7-page remainder.**
 
 Do not begin Pass3 until Batch2 closes and whole-Part Pass2B is **COMPLETE / PASS — 16/16**.
+
+
+## Batch 2 — scans144–150 / local10–16
+
+**Status: COMPLETE / PASS — 7/7 independently source-pixel reread**
+
+| scan | local | printed | result | source-text / lexical / spacing / punctuation corrections | historical-glyph / orthography corrections | unresolved |
+|---:|---:|---:|---|---:|---:|---:|
+| 144 | 10 | — | PASS | 0 | 0 | 0 |
+| 145 | 11 | 143 | PASS | 0 | 0 | 0 |
+| 146 | 12 | 144 | PASS | 2 | 0 | 0 |
+| 147 | 13 | 145 | PASS | 0 | 0 | 0 |
+| 148 | 14 | 146 | PASS | 0 | 0 | 0 |
+| 149 | 15 | 147 | PASS | 0 | 0 | 0 |
+| 150 | 16 | 148 | PASS | 1 | 0 | 0 |
+
+### Batch 2 correction ledger
+
+- source-text / lexical / spacing / punctuation corrections — **3**
+- corrected pages — **2 — scans146 and150**
+- historical-glyph / historical-orthography corrections — **0**
+- unresolved lexical / spacing / punctuation questions — **0**
+- unresolved historical-glyph / orthography questions — **0**
+
+Source-supported corrections:
+
+1. scan146 / printed144:
+   - `ஒரு தடவை` → source-visible `ஒருதடவை`
+2. scan146 / printed144:
+   - `சோழ மண்டலத்திலோ` → source-visible `சோழமண்டலத்திலோ`
+3. scan150 / printed148:
+   - `கூறிவிட்டோமே` → source-visible `கூறி விட்டோமே`
+
+### Pass2A correction re-confirmation
+
+The Pass2A changes inside Batch2 were independently rechecked and retained:
+
+- scan145 — no comma after `அவனையுமறியாமல்`
+- scan146 — `பேசக்கொடுக்காமலே`
+- scan147 — `என்னைப்பற்றி`
+
+No rollback was required.
+
+### Batch2 structural / boundary checks
+
+- scan144 — Chapter 10 opening / no visible printed numeral retained
+- 144→145 — same-scene continuation confirmed; not a split sentence
+- 146→147 — open quoted speech continues and closes on scan147
+- 147→148 — `‘இத்தனையும் என் காதலியைப்` → `பற்றிய காவியம்’`
+- scans145–150 printed-page mapping **143–148** confirmed
+- scan147 handwritten copy mark remains excluded from canonical publication text
+- scan150 terminal supplied-Part sentence is complete
+- outgoing 150→151 remains **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- no scan151 / Part010 wording inferred
+
+### Batch2 guard checks
+
+- all seven Batch2 records remain `status: "needs-review"` — **PASS**
+- all seven Batch2 records remain `visual_fidelity: "needs-review"` — **PASS**
+- frozen Parts001–008 canonical/body/English mutation — **0**
+- scans135–143 canonical mutations during Batch2 — **0**
+- Part010 / scan151 inference — **0**
+- Pass3 started — **NO**
+
+## Batch2 repository integrity
+
+Batch1 synchronized checkpoint:
+
+`9d5739a7ff3908c62740b60e9441555e4c6da8ed`
+
+Batch2 canonical-review checkpoint:
+
+`2dcbf4d1d94f54a03ebae2e6da350ffb5807efed`
+
+Direct comparison confirms:
+
+- commits — **1**
+- changed files — **7**
+- changed files are exactly Part009 scans144–150
+- frozen Parts001–008 canonical-page changes — **0**
+- Part009 scans135–143 canonical-page changes — **0**
+- maintained assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source PDFs added to Git — **0**
+
+## Whole-Part Pass2B closure
+
+**PART009 PASS2B — COMPLETE / PASS — 16/16 REVIEWED**
+
+- Batch1 scans135–143 — **9/9 PASS**
+- Batch2 scans144–150 — **7/7 PASS**
+- source-text / lexical / spacing / punctuation corrections — **5**
+- corrected pages — **4 — scans137, 138, 146, 150**
+- historical-glyph / historical-orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- page-type / section corrections — **0**
+- printed-page mapping corrections — **0**
+- physical-boundary / continuation corrections — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain `needs-review / needs-review`
+- frozen Parts001–008 canonical/body mutations — **0**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 / scan151 leakage — **0**
+
+## Exact next activity
+
+**Part009 Pass3 — scans135–150 / local1–16.**
+
+Perform direct full-page visual / structural verification against the rendered source images:
+
+- page type and section classification;
+- heading/title hierarchy;
+- paragraph and dialogue blocks;
+- printed pagination and running furniture;
+- chapter-title illustration and blank-page handling;
+- physical page boundaries and continuation state;
+- copy marks / non-publication artefacts;
+- final source-text catch only if a visual/structural pass exposes a direct source-backed defect.
+
+Do not promote final `status` or `visual_fidelity` during Pass3.

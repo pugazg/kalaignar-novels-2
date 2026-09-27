@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Pass2B Batch2 scans144–150
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Pass3 scans135–150
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,29 +26,38 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
 - Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 16/16 REVIEWED — 5 corrections / 0 unresolved**
-- Pass2B Batch1 — **COMPLETE / PASS — scans135–143 / local1–9**
-- Batch1 Pass2B corrections — **2 — scan137 `ஏதேதோ`; scan138 `மரப்பலகைகளைத் தான்`**
-- Batch1 historical-glyph corrections — **0**
-- Batch1 unresolved Pass2B questions — **0**
-- all canonical records remain `needs-review / needs-review`
-- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
+- Pass2B corrections — **5 across scans137, 138, 146 and150**
+- Pass2B historical-glyph corrections — **0**
+- unresolved Pass2B questions — **0**
+- canonical records — **16/16**
+- all records remain `needs-review / needs-review`
+- outgoing **150→151 — PENDING Part010 adjacent witness / deferred external boundary evidence**
 - Part010 / scan151 leakage — **0**
+- durable control — `PART_009_PASS2B_PROGRESS.md`
 
-Durable control:
+Pass2B correction ledger:
 
-`PART_009_PASS2B_PROGRESS.md`
+- scan137 — `ஏதோ எழுதினாள்` → `ஏதேதோ எழுதினாள்`
+- scan138 — `மரப்பலகைகளைத்தான்` → `மரப்பலகைகளைத் தான்`
+- scan146 — `ஒரு தடவை` → `ஒருதடவை`
+- scan146 — `சோழ மண்டலத்திலோ` → `சோழமண்டலத்திலோ`
+- scan150 — `கூறிவிட்டோமே` → `கூறி விட்டோமே`
 
 ## Exact next activity
 
-**Part009 Pass2B Batch2 — global scans144–150 / local pages10–16 — final 7-page remainder.**
+**Part009 Pass3 — global scans135–150 / local pages1–16.**
 
 Requirements:
 
-- independently reread scans144–150 directly from rendered source pixels;
-- focus on lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
-- re-confirm Pass2A corrections on scans145, 146 and147;
-- re-check the scan144→145 scene join, scan146→147 open quotation, scan147→148 quotation continuation, and supplied-Part terminal scan150;
-- do not mutate scans135–143 except for a separately discovered source-backed defect;
-- do not infer scan151 or resolve 150→151 without Part010 adjacent source evidence;
-- do not promote `status` or `visual_fidelity` during Pass2B;
-- after Batch2, close whole-Part Pass2B only if scans135–150 are **16/16 REVIEWED**, historical/source questions are resolved, and unresolved blockers are **0**.
+- visually verify all 16 pages directly against rendered source images;
+- verify page type / section classification, title hierarchy, paragraph/dialogue layout, printed pagination and running furniture;
+- verify scan142 as blank physical separator;
+- verify scan143 as illustrated Chapter 10 title **10 / எரிமலைமீது சூரியகாந்தி**;
+- verify scan144 as Chapter 10 opening with no ordinary printed numeral/header;
+- verify physical continuation states at 134→135, 135→136, 136→137, 138→139, 140→141, 144→145, 146→147 and147→148;
+- verify scan147 handwritten copy mark remains excluded from canonical publication text;
+- apply only direct source-backed textual/structural corrections if discovered;
+- record source-text corrections, structural metadata corrections and unresolved visual/structural questions;
+- do not promote `status` or `visual_fidelity` during Pass3;
+- do not infer scan151 or resolve 150→151 without Part010 adjacent source evidence.

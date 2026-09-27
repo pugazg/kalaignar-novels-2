@@ -856,3 +856,28 @@ Current frontier:
 Current frontier:
 
 **Part009 Pass2B Batch2 — scans144–150 / local10–16 — final 7-page remainder.**
+
+
+## Part009 Pass2B closure
+
+**PART009 PASS2B — COMPLETE / PASS — 16/16 REVIEWED**
+
+- Batch1 scans135–143 — **9/9 PASS**
+- Batch2 scans144–150 — **7/7 PASS**
+- new source-text / lexical / spacing / punctuation corrections — **5**
+- corrected pages — **4 — scans137, 138, 146, 150**
+- Batch1 corrections — scan137 `ஏதோ→ஏதேதோ`; scan138 `மரப்பலகைகளைத்தான்→மரப்பலகைகளைத் தான்`
+- Batch2 corrections — scan146 `ஒரு தடவை→ஒருதடவை`; scan146 `சோழ மண்டலத்திலோ→சோழமண்டலத்திலோ`; scan150 `கூறிவிட்டோமே→கூறி விட்டோமே`
+- historical-glyph / orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- printed-page / page-type / boundary corrections — **0 / 0 / 0**
+- status / visual-fidelity promotions — **0 / 0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–008 mutations — **0**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 / scan151 leakage — **0**
+- durable control — `PART_009_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part009 Pass3 — scans135–150 / local1–16.**
