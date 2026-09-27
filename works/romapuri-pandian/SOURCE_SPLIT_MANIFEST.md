@@ -1078,3 +1078,32 @@ Do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**.
 Current frontier:
 
 **E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
+
+
+## E23 source-check closure
+
+**E23 — SOURCE-CHECKED / COMPLETE**
+
+- Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134
+- English file — `translations/en/sections/22-chapter-09-perunthevis-physician.md`
+- structural parity — **12/12 total; 10/10 rendered; 2/2 standalone provenance**
+- source-boundary occurrence — **1/1**
+- outgoing 134→135 provenance — **1/1**
+- source-check corrections — **2**
+- unresolved E23 source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–007 English edits — **0**
+- E22 English-body edits — **0**
+- Part009 leakage — **0**
+- durable record — `translations/en/E23_SOURCE_CHECK.md`
+
+Part008 English source-check state:
+
+- E22 — **SOURCE-CHECKED / COMPLETE**
+- E23 — **SOURCE-CHECKED / COMPLETE**
+- completed/source-checked — **2/2**
+- unresolved English source-check holds — **0**
+
+Current frontier:
+
+**Part008 whole-Part glossary reconciliation across E22–E23.**
