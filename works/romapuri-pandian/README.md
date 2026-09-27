@@ -769,3 +769,23 @@ Current frontier:
 Current frontier:
 
 **E22 — draft + source-check Part008 Chapter 8 `வேடம் கலைந்தது!` / scans119–132.**
+
+
+## Part008 E22 source-check closure
+
+**SOURCE-CHECKED / COMPLETE**
+
+- E22 — Chapter 8 `வேடம் கலைந்தது!` / scans119–132
+- English file — `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`
+- Tamil / English parity — **135/135 total; 124/124 rendered**
+- standalone provenance — **11/11**
+- source-check corrections — **14**
+- unresolved holds — **0**
+- Tamil edits — **0**
+- frozen Parts001–007 English edits — **0**
+- Part009 leakage — **0**
+- durable source-check — `translations/en/E22_SOURCE_CHECK.md`
+
+Current frontier:
+
+**E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
