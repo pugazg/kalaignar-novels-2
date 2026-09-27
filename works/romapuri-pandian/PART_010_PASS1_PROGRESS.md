@@ -204,3 +204,30 @@ Current frontier:
 Current frontier:
 
 **Part010 Pass3 — scans151–167 / local1–17.**
+
+
+## Part010 Pass3 closure
+
+**PART010 PASS3 — COMPLETE / PASS — 17/17 REVIEWED**
+
+- full-page visual / structural verification — **17/17 PASS**
+- source-text corrections at Pass3 — **0**
+- structural metadata corrections — **0**
+- unresolved visual / structural questions — **0**
+- page-type / section / printed-page / running-furniture mapping — **PASS**
+- scan156 blank handling — **PASS**
+- scan157 illustrated Chapter 11 title — **PASS**
+- scan158 Chapter 11 opening / null printed-page mapping — **PASS**
+- physical continuations — **PASS**
+- Pass1 / Pass2A / Pass2B evidence reconciliation — **PASS**
+- status / visual-fidelity promotions — **0 / 0**
+- all 17 canonical records remain **needs-review / needs-review**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- frozen Parts001–009 mutations — **0**
+- Part011 / scan168 leakage — **0**
+- durable control — `PART_010_PASS3_PROGRESS.md`
+
+Current frontier:
+
+**Part010 Part audit.**
