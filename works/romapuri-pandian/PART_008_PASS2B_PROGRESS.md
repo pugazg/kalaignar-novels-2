@@ -95,3 +95,47 @@ No further correction is required.
 **Part008 Pass2B Batch 2 — scans128–134 / local10–16 — final 7-page remainder.**
 
 Do not begin Pass3 until Batch2 closes and whole-Part Pass2B is **COMPLETE / PASS — 16/16**.
+
+
+## Post-Batch1 synchronization verification
+
+Pre-Pass2B Batch1 checkpoint:
+
+`0ee7d361fc6bc8a33db1bde3539f535ce9fefbbf`
+
+Post-Batch1 synchronized checkpoint before this verification record:
+
+`5740db9348cb23665c4b961ff6b0c7d27cf974e1`
+
+Direct comparison covers **20 commits / 20 changed files**.
+
+Canonical scope:
+
+- Batch1 canonical records reread — **9/9**
+- exact range — **scans119–127**
+- source-text corrections — **0**
+- page-file deletions — **0**
+- page-file source-text substitutions — **0**
+- unexpected Part008 page changes outside scans119–127 — **0**
+- frozen Parts001–007 canonical-page changes — **0**
+
+Control synchronization:
+
+- lifecycle/navigation/control files changed — **11**
+- durable `PART_008_PASS2B_PROGRESS.md` — **present**
+- Batch2 canonical review evidence — **not yet added**
+- assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+
+Status discipline:
+
+- Batch1 records remain `status: "needs-review"`
+- Batch1 records remain `visual_fidelity: "needs-review"`
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+
+The synchronized live frontier is:
+
+**Part008 Pass2B Batch2 — scans128–134 / local10–16 — final 7-page remainder.**
+
+Therefore Batch1 repository drift outside the authorized canonical-review/control scope — **0**.
