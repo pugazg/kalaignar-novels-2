@@ -554,3 +554,34 @@ Current frontier:
 Current frontier:
 
 **Part008 Pass2B Batch 1 — scans119–127 / local1–9.**
+
+
+## Part008 whole-Part Pass1 closure
+
+**PART008 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+
+- canonical records — **16/16 / scans119–134**
+- Chapter 8 — **scans119–131**
+- blank separator — **scan132**
+- Chapter 9 — **scans133–134**
+- unresolved Pass1 holds — **0**
+- source-supported Pass1 corrections — **1 — scan125**
+- all records remain `needs-review / needs-review`
+
+## Part008 Pass2A closure
+
+**PART008 PASS2A — COMPLETE / PASS — 16/16 REVIEWED**
+
+- source-supported corrections — **4**
+- corrected page — **scan121**
+- clean pages — **15/16**
+- unresolved textual questions — **0**
+- pagination / page-type / boundary corrections — **0 / 0 / 0**
+- status / visual promotions — **0 / 0**
+- frozen Parts001–007 mutations — **0**
+- Part009 leakage — **0**
+- durable control — `PART_008_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part008 Pass2B Batch 1 — scans119–127 / local1–9.**
