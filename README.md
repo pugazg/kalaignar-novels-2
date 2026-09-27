@@ -587,3 +587,23 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **E22 — draft + source-check Part008 Chapter 8 `வேடம் கலைந்தது!` / scans119–132.**
+
+
+## Part008 E22 source-check closure
+
+**E22 — SOURCE-CHECKED / COMPLETE**
+
+- Chapter 8 `வேடம் கலைந்தது!` / scans119–132
+- English file — `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`
+- structural parity — **135/135 total; 124/124 rendered; 11/11 standalone provenance**
+- total provenance/comment parity — **14/14**
+- source-check corrections — **14**
+- unresolved E22 holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–007 English edits — **0**
+- E23 body created during E22 — **0**
+- Part009 leakage — **0**
+
+## Current exact next activity
+
+**E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
