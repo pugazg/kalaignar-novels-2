@@ -174,3 +174,48 @@ Part010 assembled Tamil is now **PASS / CLOSED — 2/2 VERIFIED**.
 **Part010 English translation planning/setup.**
 
 Do not begin English drafting in this validation activity.
+
+
+## Post-assembly control synchronization verification
+
+Pre-assembly checkpoint:
+
+`1d9170d9b60675aafcd20e63c8a44fce561f876e`
+
+Assembled content checkpoint:
+
+`f65339e01ff6dddca6b80ed1a7e4a01069aa8e3c`
+
+Post-assembly synchronized checkpoint before this verification record:
+
+`e1110418030981d7cf95b6c6dddbe31b46017aef`
+
+Direct repository comparison from the pre-assembly checkpoint confirms:
+
+- total commits — **2**
+- changed files — **14**
+- lifecycle/status/navigation/control files changed — **12**
+- canonical `pages/` files changed — **0**
+- assembled Part010 content files introduced — **2**
+- exact assembled inventory — **section25 + section26 only**
+- English section-body files changed — **0**
+- frozen Parts001–009 canonical/body changes — **0**
+- Part011 / scan168 repository paths — **0**
+- durable assembled-Tamil validation — **present**
+- lifecycle/control documentation advanced to the English-planning frontier — **PASS**
+
+The synchronized controls agree on:
+
+- Part010 Tamil archival-ready — **PASS / CLOSED**
+- Part010 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- represented physical scans — **17/17 / scans151–167**
+- publication-text / displayed-title pages — **16/16 + blank scan156 provenance**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical mutation caused by assembly — **0**
+- frozen Part009 body duplication — **0**
+- Part011 leakage — **0**
+- exact next gate — **Part010 English translation planning/setup**
+
+Therefore the assembled-Tamil gate introduced no canonical Tamil, English-body, frozen earlier-Part, or Part011 drift.
