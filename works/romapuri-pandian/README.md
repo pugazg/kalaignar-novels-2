@@ -706,3 +706,24 @@ Current frontier:
 Current frontier:
 
 **Part008 Tamil archival-ready checkpoint.**
+
+
+## Part008 Tamil archival-ready checkpoint
+
+**PASS / CLOSED**
+
+- canonical records — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- unresolved Tamil / lexical / structural / status / documentation blockers — **0**
+- assembled Part008 content files before closure — **0**
+- English Part008 files before closure — **0**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- outgoing 134→135 — **PENDING Part009 adjacent witness**
+- frozen Parts001–007 mutations — **0**
+- durable control — `PART_008_TAMIL_ARCHIVAL_READY.md`
+
+Expected next maintained Tamil section orders are **21–22**, derived only from verified canonical pages.
+
+Current frontier:
+
+**Part008 assembled Tamil construction + audit.**
