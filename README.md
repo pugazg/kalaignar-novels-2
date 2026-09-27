@@ -632,3 +632,24 @@ Part008 English source-check state:
 ## Current exact next activity
 
 **Part008 whole-Part glossary reconciliation across E22–E23.**
+
+
+## Part008 glossary / editorial / bilingual closure
+
+**English review chain — CLOSED / PASS**
+
+- E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven body edits — **0**
+- editorial review — **PASS / CLOSED — 9 corrections**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **4**
+- structural parity — **147/147 total; 134/134 rendered; 13/13 standalone provenance**
+- unresolved source-check / glossary / editorial / bilingual holds — **0 / 0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–007 English edits — **0**
+- Part009 leakage — **0**
+
+Current frontier:
+
+**Part008 release/readiness review and report.**
