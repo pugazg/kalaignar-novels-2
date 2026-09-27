@@ -27,3 +27,12 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 132; பகுதி: 008; பகுதி உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part008 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling source pixels;
+- source-text corrections at Pass2A: **0**;
+- unresolved textual questions after this review: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
