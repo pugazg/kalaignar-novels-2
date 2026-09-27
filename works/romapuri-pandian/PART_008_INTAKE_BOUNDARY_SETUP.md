@@ -159,3 +159,25 @@ Current frontier:
 Current frontier:
 
 **Part008 Pass2B Batch 1 — scans119–127 / local1–9.**
+
+
+## Part008 Pass2B Batch1 closure
+
+- Batch1 — **COMPLETE / PASS — 9/9 — scans119–127 / local1–9**
+- new source-text / lexical / spacing / punctuation corrections — **0**
+- new historical-glyph / historical-orthography corrections — **0**
+- canonical text mutations — **0**
+- unresolved Pass2B questions — **0**
+- scan121 Pass2A corrections independently re-confirmed — **PASS**
+- scan120→121 and scan124→125 joins — **RE-CONFIRMED**
+- scan127→128 outgoing Batch1 join — **RE-CONFIRMED; scan128 body not imported**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all Batch1 records remain `needs-review / needs-review`
+- frozen Parts001–007 mutations — **0**
+- Part009 / scan135 leakage — **0**
+- durable control — `PART_008_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part008 Pass2B Batch2 — scans128–134 / local10–16 — final 7-page remainder.**
