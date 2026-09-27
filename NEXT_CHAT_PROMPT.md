@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 Pass3 — scans119–134
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 Part audit
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -16,7 +16,7 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - global scans — **119–134**
 - local pages — **1–16**
 - controlling authority — **rendered source pixels**
-- no outside-source comparison
+- source text layer — **no usable parsed text**
 
 ## Boundary state
 
@@ -24,48 +24,57 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
 - Part009 / scan135 inferred/imported — **0**
 
-## Closed gates
+## Closed review gates
 
 - Pass1 — **COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 - Pass2A — **COMPLETE / PASS — 16/16 REVIEWED**
-  - corrections — **4, all scan121**
+  - source-supported corrections — **4 / scan121**
   - unresolved — **0**
 - Pass2B — **COMPLETE / PASS — 16/16 REVIEWED**
-  - Batch1 scans119–127 — **9/9 PASS**
-  - Batch2 scans128–134 — **7/7 PASS**
-  - new source-text / lexical / spacing / punctuation corrections — **4**
-  - corrected pages — **scan128 (2), scan129 (1), scan130 (1)**
+  - new source-supported corrections — **4 / scans128–130**
   - historical-glyph / orthography corrections — **0**
   - unresolved — **0**
-  - all 16 pages remain `needs-review / needs-review`
+- Pass3 — **COMPLETE / PASS — 16/16 REVIEWED**
+  - source-text corrections — **0**
+  - structural metadata corrections — **0**
+  - unresolved visual / structural questions — **0**
+  - status promotions — **0**
+  - visual-fidelity promotions — **0**
 
-Pass2B source-supported corrections:
+## Structural state
 
-1. scan128 — `நீர் குறிப்படும்` → `நீர் குறிப்பிடும்`
-2. scan128 — `கொண்டிருக்கின்றவே` → `கொண்டிருக்கின்றனவே`
-3. scan129 — normalized ellipsis → source punctuation `மீட்க வேண்டும்..`
-4. scan130 — `ம்... இயற்கை` → source spacing `ம்...இயற்கை`
+- canonical records — **16/16**
+- scan coverage — **119–134 continuous**
+- local-page coverage — **1–16 continuous**
+- duplicate / missing records — **0 / 0**
+- scans119–131 — Chapter 8 `வேடம் கலைந்தது!`
+- scan132 — blank physical separator
+- scans133–134 — Chapter 9 `பெருந்தேவியின் மருத்துவர்`
+- printed pages — **119–129 across scans121–131**
+- all 16 records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
 
 Durable controls:
 
 - `PART_008_PASS1_PROGRESS.md`
 - `PART_008_PASS2A_PROGRESS.md`
 - `PART_008_PASS2B_PROGRESS.md`
+- `PART_008_PASS3_PROGRESS.md`
 
 ## Exact next activity
 
-**Part008 Pass3 — scans119–134 / local1–16.**
+**Part008 Part audit.**
 
-Pass3 requirements:
+Audit requirements:
 
-- verify structural metadata and physical-page structure against the rendered source pixels;
-- confirm continuous scan/local coverage and canonical file uniqueness;
-- verify page types, section labels, printed-page mapping and running furniture;
-- verify scan119 Chapter 8 title, scan120 opening, scans121–131 body/printed119–129, scan132 blank page, scan133 Chapter 9 title, scan134 Chapter 9 opening;
-- reconfirm incoming 118→119 and outgoing 134→135 boundary states;
-- verify physical continuations 120→121, 124→125 and 127→128;
-- do not reopen already source-verified Tamil for stylistic polishing;
-- record any structural metadata correction in `PART_008_PASS3_PROGRESS.md`;
-- keep all records `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- no final status promotion during Pass3;
-- no outside-source comparison.
+- reconcile continuous scan/local-page coverage;
+- check duplicate/missing canonical records;
+- verify exact source-filename identity across all 16 records;
+- reconcile printed-page mapping, page types and section labels;
+- reconcile Pass1 / Pass2A / Pass2B / Pass3 evidence;
+- verify incoming 118→119 and outgoing 134→135 boundary states;
+- verify blank scan132 handling;
+- confirm unresolved supplied-Part blockers = 0;
+- confirm no frozen Parts001–007 mutation and no Part009 leakage;
+- create `PART_008_AUDIT.md`;
+- do not promote `status` or `visual_fidelity` during the audit;
+- if audit passes, advance only to **Part008 final metadata/status synchronization**.
