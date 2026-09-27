@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch2 
 
 செழியனுக்கோ அவளிடம் இன்னும் பேச வேண்டும் என்பது போன்ற உணர்ச்சி. “உன்னோடு சிறிது நேரம் நான் தனியாகப் பேச வேண்டும்! அனுமதி கிடைக்குமா?” என்று கொஞ்சம் தோரணையில் கேட்டான்.
 
-முதலில் ஒரு தடவை அவனிடம் பேசக்கொடுக்காமலே சமாளித்துக் கொண்டு போயிருக்கிறாள் அவள். ஆனாலும் இப்போது செழியனின் வேண்டுகோளை வெளிப்படையாக அவளால் புறக்கணிக்க முடியவில்லை.
+முதலில் ஒருதடவை அவனிடம் பேசக்கொடுக்காமலே சமாளித்துக் கொண்டு போயிருக்கிறாள் அவள். ஆனாலும் இப்போது செழியனின் வேண்டுகோளை வெளிப்படையாக அவளால் புறக்கணிக்க முடியவில்லை.
 
 செழியனை ஒருமுறை ஏற இறங்கப் பார்த்துவிட்டுத் தாமரை, வீரர்களைச் சைகை செய்து வாசலிலே போய் நிற்கச் சொன்னாள். அவர்களும் தீப்பந்தத்தை அங்கேயே சேற்றில் செருகி நிற்க வைத்துவிட்டு, வாயிற்பக்கம்போய் எச்சரிக்கையுடன் காவல் நின்று கொண்டார்கள்.
 
@@ -31,7 +31,7 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch2 
 
 “மிக நன்றாயிருக்கிறதே! எதிரி நாட்டு வீரருக்கு எங்களைப் பற்றிய விளக்கங்களைத் தந்து நாங்கள் ஏமாந்து போக வேண்டுமோ?”
 
-“அப்படிப்பட்ட செய்திகள் எனக்கொன்றும் தேவையில்லை. அது போன்ற உண்மைகள் எனக்குக் கிடைத்தாலும் எப்படி இங்கிருந்து வெளியே செல்ல முடியும்! நீங்கள்தான் என் பிணத்தைக்கூட வெளியே போடமாட்டீர்களே! ஒரு வேளை என் பிணத்தை வெளியே போட்டு, நாய், நரி, கழுகு ஏதாவது என் உடலைக் கீறி, இதயத்தை எடுத்துக் கொண்டு போய்ப் பாண்டிய மண்டலத்திலோ சோழ மண்டலத்திலோ போட்டுவிட்டால் என் இதயம் பாண்டிய-சோழ மண்டலங்களுக்குச் சொந்தம் என்ற உண்மை நிலை பெற்று விட்டால் என்ன செய்வது? தவறிப் போய் ஒரு காக்கை என் நாக்கைக் கொண்டு போய்ச் சோழர் எதிரில், பாண்டியர் எதிரில் போட்டு, உடனே என் நாக்கு, புராணத்தில் வரும் நாக்குப் போலப் பேச ஆரம்பித்து, உங்களைப் பற்றிய உண்மைகளைச் சொன்னாலும் சொல்லிவிடக்கூடும் இல்லையா?
+“அப்படிப்பட்ட செய்திகள் எனக்கொன்றும் தேவையில்லை. அது போன்ற உண்மைகள் எனக்குக் கிடைத்தாலும் எப்படி இங்கிருந்து வெளியே செல்ல முடியும்! நீங்கள்தான் என் பிணத்தைக்கூட வெளியே போடமாட்டீர்களே! ஒரு வேளை என் பிணத்தை வெளியே போட்டு, நாய், நரி, கழுகு ஏதாவது என் உடலைக் கீறி, இதயத்தை எடுத்துக் கொண்டு போய்ப் பாண்டிய மண்டலத்திலோ சோழமண்டலத்திலோ போட்டுவிட்டால் என் இதயம் பாண்டிய-சோழ மண்டலங்களுக்குச் சொந்தம் என்ற உண்மை நிலை பெற்று விட்டால் என்ன செய்வது? தவறிப் போய் ஒரு காக்கை என் நாக்கைக் கொண்டு போய்ச் சோழர் எதிரில், பாண்டியர் எதிரில் போட்டு, உடனே என் நாக்கு, புராணத்தில் வரும் நாக்குப் போலப் பேச ஆரம்பித்து, உங்களைப் பற்றிய உண்மைகளைச் சொன்னாலும் சொல்லிவிடக்கூடும் இல்லையா?
 
 ## Pass 1 notes
 
@@ -55,3 +55,17 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch2 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part009 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **2**;
+- source-supported correction: ஒரு தடவை → ஒருதடவை;
+- source-supported correction: சோழ மண்டலத்திலோ → சோழமண்டலத்திலோ;
+- Pass2A word-boundary correction `பேசக்கொடுக்காமலே` independently re-confirmed against source pixels;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

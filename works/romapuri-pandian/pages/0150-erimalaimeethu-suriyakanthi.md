@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch2 
 
 இதுவரையிலும் அமைதியாக இருந்த செழியன், இருங்கோவேளை மிக அலட்சியமாகப் பார்த்தவாறு, “நான் யாரையும் இங்கே கூப்பிடவில்லை. என்னைக் கொல்ல வேண்டுமென்று நீ விரும்பினால் அந்த வேலையை விரைவில் முடித்துவிடு. மாறாக என் கால் கைகளைக் கட்டிப் போட்டுவிட்டு என் நெஞ்சை மட்டும் உசுப்பி விடாதே!” என்று பதில் கூறவே, இருங்கோவேளுக்குச் சினம் பொங்கி எழுந்தது.
 
-“என்ன சொன்னாய்?” என்று செழியன் மீது பாய்ந்தான். ஆனால் அதற்குள் குறுக்கே தாமரை ஓடிநின்று அண்ணனைத் தடுத்து நிறுத்தி, “எதிரி நாட்டுக்காரராயிருந்தாலும் அவரும் ஒரு வீரர். அவரை இப்படி நடத்துவது நமது மறக்குலப் பண்புக்கே இழுக்குத் தரும் காரியம் அண்ணா!” என்று படபடவென்று வார்த்தைகளைக் கொட்டி விட்டாள். பேசி முடித்த பிறகே அவளுக்கு அச்சம் ஏற்பட்டது. அண்ணன் முன்னே ஏதேதோ கூறிவிட்டோமே என்று.
+“என்ன சொன்னாய்?” என்று செழியன் மீது பாய்ந்தான். ஆனால் அதற்குள் குறுக்கே தாமரை ஓடிநின்று அண்ணனைத் தடுத்து நிறுத்தி, “எதிரி நாட்டுக்காரராயிருந்தாலும் அவரும் ஒரு வீரர். அவரை இப்படி நடத்துவது நமது மறக்குலப் பண்புக்கே இழுக்குத் தரும் காரியம் அண்ணா!” என்று படபடவென்று வார்த்தைகளைக் கொட்டி விட்டாள். பேசி முடித்த பிறகே அவளுக்கு அச்சம் ஏற்பட்டது. அண்ணன் முன்னே ஏதேதோ கூறி விட்டோமே என்று.
 
 “தாமரை! பண்புக்கு விளக்கம் அளிக்க உன்னை யாரும் இங்கே அழைக்கவில்லை. போ வெளியே!” என்று கத்தினான் இருங்கோவேள்.
 
@@ -53,3 +53,16 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch2 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part009 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- source-supported correction: கூறிவிட்டோமே → கூறி விட்டோமே;
+- supplied-Part terminal sentence independently re-confirmed as complete; outgoing 150→151 remains deferred to Part010 adjacent evidence;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

@@ -50,3 +50,15 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch2 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part009 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **0**;
+- Pass2A punctuation correction removing the unsupported comma after `அவனையுமறியாமல்` independently re-confirmed against source pixels;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
