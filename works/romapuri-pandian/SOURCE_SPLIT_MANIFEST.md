@@ -20,7 +20,7 @@
 | 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 008 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_008_pages_119-134.pdf` | 47,320,955 | `f8caf176e22589e4597ab1f5016ba3b04b86074e2732e87981baf69c90a8daa1` | 16 | 119–134 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 009 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf` | 47,618,126 | `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed` | 16 | 135–150 | REGISTERED | **PASS / CLOSED / FROZEN** |
-| 010 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf` | 49,942,707 | `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480` | 17 | 151–167 | REGISTERED | **PASS1 COMPLETE / 17/17 TEXT-COMPLETE** |
+| 010 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf` | 49,942,707 | `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480` | 17 | 151–167 | REGISTERED | **PASS2A COMPLETE / 17/17 REVIEWED** |
 | 011 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 012 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 013 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -1696,3 +1696,25 @@ Current frontier:
 Current frontier:
 
 **Part010 Pass2A — scans151–167 / local1–17.**
+
+
+## Part010 Pass2A closure
+
+**PART010 PASS2A — COMPLETE / PASS — 17/17 REVIEWED**
+
+- source-supported corrections — **9**
+- corrected pages — **6 — scans155, 159, 160, 162, 166, 167**
+- clean pages — **11**
+- unresolved textual questions — **0**
+- printed-page / page-type / boundary corrections — **0 / 0 / 0**
+- status / visual-fidelity promotions — **0 / 0**
+- all 17 records remain **needs-review / needs-review**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- frozen Parts001–009 canonical / assembled / English body mutations — **0 / 0 / 0**
+- Part011 / scan168 leakage — **0**
+- durable control — `PART_010_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part010 Pass2B Batch1 — scans151–159 / local1–9.**

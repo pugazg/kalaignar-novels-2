@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 Pass2A scans151–167
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 Pass2B Batch1 scans151–159
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,42 +17,35 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - local pages — **17**
 - global scans — **151–167**
 - rendered source pixels — **sole textual/structural authority**
-- intake + incoming boundary — **PASS / COMPLETE**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
 
-## Durable Pass1 state
+## Durable review state
 
-**PART010 PASS1 — COMPLETE / PASS — 17/17 TEXT-COMPLETE**
-
-- canonical records — **17/17**
-- text/display-bearing pages — **16/17**
-- blank physical page — **scan156**
-- scans151–155 — Chapter 10 continuation / printed149–153
-- scan157 — illustrated Chapter 11 title **11 / ஓலை கை மாறியது**
-- scan158 — Chapter 11 opening / no visible printed numeral
-- scans159–167 — Chapter 11 body / printed157–165
-- post-write Pass1 source-supported corrections — **1 — scan164 spacing**
-- unresolved Pass1 source-reading holds — **0**
+- Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
+- Pass2A — **COMPLETE / PASS — 17/17 REVIEWED**
+- Pass2A source-supported corrections — **9 across scans155,159,160,162,166,167**
+- unresolved Pass2A textual questions — **0**
 - all 17 records — `needs-review / needs-review`
 
-Durable progress:
+Durable controls:
 
-`PART_010_PASS1_PROGRESS.md`
+- `PART_010_PASS1_PROGRESS.md`
+- `PART_010_PASS2A_PROGRESS.md`
 
 ## Exact next activity
 
-**Part010 Pass2A — global scans151–167 / local pages1–17.**
+**Part010 Pass2B Batch1 — scans151–159 / local1–9.**
 
 Requirements:
 
-- independently compare every canonical page against rendered source pixels;
-- check wording, punctuation, word boundaries, spacing-sensitive forms, paragraph/dialogue layout and proper names;
-- verify printed-page mapping and page-type/section metadata;
-- re-confirm incoming 150→151 without altering frozen scan150;
-- re-check scan156 blank handling, scan157 displayed Chapter 11 title and scan158 unnumbered opening-page structure;
-- verify meaningful internal physical continuations including 151→152, 154→155, 158→159 and 162→163;
+- independently reread directly against rendered source pixels;
+- focus on lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- independently re-confirm any Pass2A corrections encountered;
+- Batch1 scope ends at scan159;
 - apply only direct source-supported corrections;
-- record correction count and unresolved textual questions;
-- do not promote `status` or `visual_fidelity` during Pass2A;
-- do not infer scan168 / Part011.
+- record historical-glyph/orthography correction count separately;
+- unresolved Pass2B questions must be explicit;
+- do not promote `status` or `visual_fidelity`;
+- do not infer scan168 / Part011;
+- after Batch1, proceed to scans160–167 / local10–17 as the final 8-page remainder.

@@ -157,3 +157,25 @@ Whole-Part accounting:
 Independently compare all 17 canonical records against rendered source pixels for wording, punctuation, spacing, paragraph/dialogue structure, printed pagination, page type/section metadata and physical continuation state.
 
 Do not promote status or visual fidelity during Pass2A.
+
+
+## Part010 Pass2A closure
+
+**PART010 PASS2A — COMPLETE / PASS — 17/17 REVIEWED**
+
+- source-supported corrections — **9**
+- corrected pages — **6 — scans155, 159, 160, 162, 166, 167**
+- clean pages — **11**
+- unresolved textual questions — **0**
+- printed-page / page-type / boundary corrections — **0 / 0 / 0**
+- status / visual-fidelity promotions — **0 / 0**
+- all 17 records remain **needs-review / needs-review**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- frozen Parts001–009 canonical / assembled / English body mutations — **0 / 0 / 0**
+- Part011 / scan168 leakage — **0**
+- durable control — `PART_010_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part010 Pass2B Batch1 — scans151–159 / local1–9.**
