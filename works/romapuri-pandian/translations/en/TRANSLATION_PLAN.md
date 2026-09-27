@@ -1605,3 +1605,18 @@ Current frontier:
 - frozen Parts001–008 English edits — **0**
 - Part010 leakage — **0**
 - next gate — **Part009 whole-Part bilingual review**
+
+
+## Part009 bilingual review closure
+
+- E24–E25 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS — 2 edits**
+- editorial review — **PASS / CLOSED — 9 corrections**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **1 total — E24 0 / E25 1**
+- structural parity — **127/127 total; 110/110 rendered; 17/17 provenance**
+- unresolved source-check / glossary / editorial / bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–008 English edits — **0**
+- Part010 leakage — **0**
+- next gate — **Part009 release/readiness review and report**
