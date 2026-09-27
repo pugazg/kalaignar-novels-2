@@ -727,3 +727,24 @@ Expected next maintained Tamil section orders are **21–22**, derived only from
 Current frontier:
 
 **Part008 assembled Tamil construction + audit.**
+
+
+## Part008 assembled Tamil closure
+
+**PASS / CLOSED — 2/2 VERIFIED**
+
+- section21 — `sections/21-chapter-08-vedam-kalaindhathu.md` / scans119–132
+- section22 — `sections/22-chapter-09-peruntheviyin-maruththuvar.md` / scans133–134
+- physical coverage — **16/16**
+- publication-text / displayed-title coverage — **15/15 + blank scan132 provenance**
+- exact canonical reconstruction — **2/2 PASS**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- canonical mutation — **0**
+- Part007 duplication — **0**
+- Part009 leakage — **0**
+- durable validation — `PART_008_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part008 English translation planning/setup.**
