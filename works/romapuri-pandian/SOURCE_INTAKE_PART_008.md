@@ -272,3 +272,24 @@ Current frontier:
 Current frontier:
 
 **Part008 final metadata/status synchronization.**
+
+
+## Part008 final metadata/status synchronization closure
+
+**PART008 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED**
+
+- Tamil textual status — **16/16 verified / 0 needs-review**
+- visual fidelity — **16/16 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- metadata-only canonical changes — **16/16 expected Part008 page records**
+- per-file metadata delta — **2 additions / 2 deletions**
+- authorized fields changed — **status + visual_fidelity only**
+- canonical Tamil body drift — **0**
+- structural metadata drift beyond authorized status fields — **0**
+- frozen Parts001–007 changes — **0**
+- Part009 / scan135 leakage — **0**
+- durable control — `PART_008_FINAL_STATUS_SYNC.md`
+
+Current frontier:
+
+**Part008 documentation synchronization.**
