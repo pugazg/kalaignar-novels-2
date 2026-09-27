@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 E24 draft + source-check
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 whole-Part glossary reconciliation
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,52 +6,44 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–008 are **FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records.
+Do not reopen their Tamil or English layers merely to reconcile Part009 English.
 
-## Part009 English planning state
+## Part009 English source-check state
 
-- canonical Tamil — **16/16 verified**
+- Tamil canonical — **16/16 verified**
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
-- English planning/setup — **COMPLETE / PASS**
-- reserved sequence — **E24 → E25**
-- E24 — **RESERVED / NEXT**
-- E25 — **RESERVED**
-- unresolved planning holds — **0**
+- English planning — **COMPLETE / PASS**
+- E24 — **SOURCE-CHECKED / COMPLETE — scans135–142**
+- E25 — **SOURCE-CHECKED / COMPLETE — scans143–150**
+- completed/source-checked — **2/2**
+- structural parity — **127/127 total; 110/110 rendered; 17/17 standalone provenance**
+- unresolved English source-check holds — **0**
+- Chapter 9 title — **Perunthevi's Physician**
+- Chapter 10 title — **Sunflower on a Volcano**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 leakage — **0**
 
-E24 verified Tamil input:
+Maintained English files:
 
-`sections/23-chapter-09-peruntheviyin-maruththuvar-part009-continuation.md`
+- `translations/en/sections/23-chapter-09-perunthevis-physician-part009-continuation.md`
+- `translations/en/sections/24-chapter-10-sunflower-on-a-volcano.md`
 
-- scans — **135–142**
-- working title — **Perunthevi's Physician**
-- planned English file — `translations/en/sections/23-chapter-09-perunthevis-physician-part009-continuation.md`
-- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
-- frozen Part008 E23 must not be modified or backfilled
-- scan142 — genuine blank physical separator / provenance only
+Durable source-check records:
 
-E25 remains blocked until E24 is source-checked:
-
-- source — `sections/24-chapter-10-erimalaimeethu-suriyakanthi.md`
-- working title — **Sunflower on a Volcano**
-- scans — **143–150**
+- `translations/en/E24_SOURCE_CHECK.md`
+- `translations/en/E25_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-**E24 — draft + source-check Part009 Chapter 9 continuation / scans135–142.**
+**Part009 whole-Part glossary reconciliation across E24–E25.**
 
 Requirements:
 
-- translate only from the verified E24 assembled Tamil input;
-- create `translations/en/sections/23-chapter-09-perunthevis-physician-part009-continuation.md`;
-- preserve the established translation YAML structure, `section_order: 23`, `part: 9`, `batch: "E24"`, source-section link, source scans and canonical-source link;
-- preserve incoming 134→135 as non-rendering provenance only; do not copy/rewrite frozen E23 body;
-- preserve all E24 source-boundary comments structurally;
-- preserve scan142 as blank-page provenance with no English body;
-- source-check English against the verified Tamil input and correct the draft as needed;
-- verify Tamil/English block parity, provenance parity, no omitted/duplicated source blocks and no unsupported meaning;
-- create durable `translations/en/E24_SOURCE_CHECK.md`;
-- make no canonical Tamil or assembled Tamil changes;
-- make no frozen Parts001–008 English changes;
-- do not create or draft E25 during E24;
-- do not infer Part010 / scan151 content;
-- only after E24 becomes **SOURCE-CHECKED / COMPLETE** may E25 begin.
+- reconcile names, titles, kinship terms, political/geographic forms, material-culture terms and recurring metaphors across E24/E25 against frozen prior English conventions;
+- keep **Perunthevi's Physician** and **Sunflower on a Volcano** unless a source-backed consistency issue is found;
+- apply only glossary/consistency-driven English edits;
+- do not alter canonical or assembled Tamil;
+- do not modify frozen Parts001–008 English;
+- do not infer Part010 / scan151;
+- create durable `translations/en/PART_009_GLOSSARY_RECONCILIATION.md`;
+- after glossary reconciliation closes, proceed to Part009 English editorial review.

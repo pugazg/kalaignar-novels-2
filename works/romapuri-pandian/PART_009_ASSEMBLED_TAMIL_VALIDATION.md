@@ -257,3 +257,33 @@ Current frontier:
 **E24 — draft + source-check Part009 Chapter 9 continuation / scans135–142.**
 
 Do not begin E25 until E24 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part009 E24–E25 source-check closure
+
+**PART009 ENGLISH SOURCE-CHECK — COMPLETE / PASS — E24–E25 2/2**
+
+- E24 — **SOURCE-CHECKED / COMPLETE — Chapter 9 continuation / scans135–142**
+- E25 — **SOURCE-CHECKED / COMPLETE — Chapter 10 / scans143–150**
+- E24 file — `translations/en/sections/23-chapter-09-perunthevis-physician-part009-continuation.md`
+- E25 file — `translations/en/sections/24-chapter-10-sunflower-on-a-volcano.md`
+- Chapter 9 title — **Perunthevi's Physician**
+- Chapter 10 title — **Sunflower on a Volcano**
+- Tamil / English total block parity — **127 / 127**
+- Tamil / English rendered block parity — **110 / 110**
+- standalone provenance parity — **17 / 17**
+- provenance comment text/order parity — **EXACT / PASS**
+- scan142 blank provenance — **retained / no English body**
+- outgoing 150→151 provenance — **retained / no Part010 inference**
+- post-draft source-check corrections — **0 / 0**
+- omitted / duplicated source blocks — **0 / 0**
+- unsupported English insertion — **0**
+- unresolved source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–008 English edits — **0**
+- Part010 / scan151 leakage — **0**
+- durable source-checks — `translations/en/E24_SOURCE_CHECK.md`, `translations/en/E25_SOURCE_CHECK.md`
+
+Current frontier:
+
+**Part009 whole-Part glossary reconciliation across E24–E25.**
