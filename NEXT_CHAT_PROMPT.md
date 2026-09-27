@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 E22 draft + source-check
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 E23 draft + source-check
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,65 +21,62 @@ Verified assembled inputs:
 1. `sections/21-chapter-08-vedam-kalaindhathu.md` — scans119–132
 2. `sections/22-chapter-09-peruntheviyin-maruththuvar.md` — scans133–134
 
-## Part008 English planning state
+## Part008 English state
 
-**COMPLETE / PASS**
+Planning/setup — **COMPLETE / PASS**
 
-Reserved batches:
+Reserved sequence:
 
-| Batch | Tamil source | Scans | Planned English file | State |
-|---|---|---:|---|---|
-| E22 | `sections/21-chapter-08-vedam-kalaindhathu.md` | 119–132 | `translations/en/sections/21-chapter-08-the-disguise-falls-away.md` | **RESERVED / NEXT** |
-| E23 | `sections/22-chapter-09-peruntheviyin-maruththuvar.md` | 133–134 | `translations/en/sections/22-chapter-09-perunthevis-physician.md` | **RESERVED** |
+- E22 — **SOURCE-CHECKED / COMPLETE**
+- E23 — **RESERVED / NEXT**
 
-Working title locks:
+E22 durable state:
 
-- `வேடம் கலைந்தது!` → **The Disguise Falls Away!**
-- `பெருந்தேவியின் மருத்துவர்` → **Perunthevi's Physician**
+- English file — `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`
+- scans — **119–132**
+- structural parity — **135/135 total; 124/124 rendered; 11/11 standalone provenance**
+- total provenance/comment occurrences — **14/14**
+- source-check corrections — **14**
+- unresolved E22 source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–007 English edits — **0**
+- E23 body created during E22 — **0**
 
-Recurring forms include:
+E23 reservation:
 
-- Muthunagai / Muthu
-- Irungovel
-- Thamarai
-- Sezhiyan
-- Karikalan / Karikala Cholan
-- Peruvazhuthi / Peruvazhuthi Pandiyan
-- Perunthevi
-- Veerapandi
-- palm-leaf / palm-leaf scroll
-- spy / intelligence agent
-- medicinal leaf
-- physician / doctor by local syntax
+- Tamil source — `sections/22-chapter-09-peruntheviyin-maruththuvar.md`
+- scans — **133–134**
+- planned English file — `translations/en/sections/22-chapter-09-perunthevis-physician.md`
+- working title — **Perunthevi's Physician**
 
 Boundary locks:
 
-- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
-- scan132 — blank physical separator / provenance only
+- scan133 — illustrated Chapter 9 title
+- scan134 — Chapter 9 narrative opening
+- supplied Part ends mid-dialogue at `...யாருக்கும் ஜாடையாகக் கூடத் தெரியக்கூடாது;`
 - outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
 - no Part009 wording may be inferred or imported
 
-Durable planning control:
+Durable E22 source-check:
 
-`PART_008_ENGLISH_PLANNING_SETUP.md`
+`translations/en/E22_SOURCE_CHECK.md`
 
 ## Exact next activity
 
-**E22 — draft + source-check Part008 Chapter 8 `வேடம் கலைந்தது!` / scans119–132.**
+**E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
 
 Requirements:
 
-- translate only from verified `sections/21-chapter-08-vedam-kalaindhathu.md`;
-- create `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`;
-- preserve title/display order, dialogue paragraphing and embedded palm-leaf-letter structure;
-- preserve all source-boundary provenance comments;
-- preserve scan132 as provenance only with no English body text;
+- translate only from verified `sections/22-chapter-09-peruntheviyin-maruththuvar.md`;
+- create `translations/en/sections/22-chapter-09-perunthevis-physician.md`;
+- preserve displayed Chapter 9 title, dialogue paragraphing, scan133→134 provenance, and outgoing 134→135 provenance;
+- preserve the source-faithful incomplete terminal dialogue; do not complete or infer scan135;
 - do not use published/web English versions;
-- source-check the complete E22 draft against verified Tamil authority;
-- record all source-check corrections and parity counts in `translations/en/E22_SOURCE_CHECK.md`;
-- canonical Tamil edits caused by E22 = **0**;
-- assembled Tamil edits caused by E22 = **0**;
+- source-check the complete E23 draft against verified Tamil authority;
+- record all source-check corrections and parity counts in `translations/en/E23_SOURCE_CHECK.md`;
+- canonical Tamil edits caused by E23 = **0**;
+- assembled Tamil edits caused by E23 = **0**;
 - frozen Parts001–007 English edits = **0**;
-- E23 English body created during E22 = **0**;
+- E22 English-body edits caused by E23 = **0**;
 - Part009 leakage = **0**;
-- do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**.
+- after E23 closes, advance only to **Part008 whole-Part glossary reconciliation across E22–E23**.
