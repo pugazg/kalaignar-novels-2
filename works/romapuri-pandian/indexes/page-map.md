@@ -1206,3 +1206,32 @@ Canonical `pages/` remains authoritative. Do not begin English until assembled T
 Current frontier:
 
 **Part008 English translation planning/setup.**
+
+
+## Part008 English planning closure
+
+- Part008 English translation planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E22–E23**
+- E22 — **RESERVED / NEXT — Chapter 8 `வேடம் கலைந்தது!` / scans119–132**
+- E23 — **RESERVED — Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134**
+- planned E22 file — `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`
+- planned E23 file — `translations/en/sections/22-chapter-09-perunthevis-physician.md`
+- working Chapter 8 title — **The Disguise Falls Away!**
+- working Chapter 9 title — **Perunthevi's Physician**
+- English drafted/source-checked — **0/2**
+- E22/E23 English draft files created in planning — **0**
+- E22/E23 source-check records created in planning — **0**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–007 English edits caused by planning — **0**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `PART_008_ENGLISH_PLANNING_SETUP.md`
+
+Current frontier:
+
+**E22 — draft + source-check Part008 Chapter 8 `வேடம் கலைந்தது!` / scans119–132.**
+
+Do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**.
