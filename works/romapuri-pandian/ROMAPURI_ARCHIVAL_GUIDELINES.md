@@ -1361,3 +1361,29 @@ Current frontier:
 Current frontier:
 
 **Part008 release/readiness review and report.**
+
+
+## Part008 release/readiness closure
+
+- Part008 release/readiness — **PASS / CLOSED**
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- English E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED — 9 corrections**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **4**
+- structural parity — **147/147 total; 134/134 rendered; 13/13 standalone provenance**
+- unresolved release/readiness blockers — **0**
+- canonical Tamil edits caused by English/release review — **0**
+- assembled Tamil edits caused by English/release review — **0**
+- frozen Parts001–007 English edits — **0**
+- active Git PDF paths — **0**
+- Part009 / scan135 leakage — **0**
+- durable release report — `translations/en/PART_008_RELEASE_REPORT.md`
+
+Current frontier:
+
+**Part008 release-ready synchronization.**
