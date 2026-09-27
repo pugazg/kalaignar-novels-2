@@ -1569,3 +1569,30 @@ Current frontier:
 Current frontier:
 
 **Part010 Pass1 Batch 1 — scans151–160 / local1–10.**
+
+
+## Part010 Pass1 Batch1 closure
+
+**COMPLETE / PASS / TEXT-COMPLETE — scans151–160 / local1–10**
+
+- canonical Part010 records — **10/17**
+- whole-Part Pass1 — **10/17**
+- text/display-bearing pages — **9/10**
+- blank physical page — **scan156**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Chapter 10 continuation — **scans151–155 / printed149–153**
+- scan156 — **blank physical separator**
+- scan157 — **illustrated Chapter 11 title / 11 / ஓலை கை மாறியது**
+- scan158 — **Chapter 11 opening / no visible printed numeral**
+- Chapter 11 continuation in Batch1 — **scans159–160 / printed157–158**
+- meaningful physical joins — **151→152, 154→155, 158→159 PASS**
+- unresolved Pass1 source-reading holds — **0**
+- all Batch1 records — **needs-review / needs-review**
+- frozen Parts001–009 canonical / assembled / English body mutations — **0 / 0 / 0**
+- scans161–167 canonical records created early — **0**
+- Part011 / scan168 inferred — **0**
+- durable progress — `PART_010_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part010 Pass1 Batch2 — scans161–167 / local11–17 — final 7-page remainder.**

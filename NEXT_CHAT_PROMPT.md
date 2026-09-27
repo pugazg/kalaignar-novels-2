@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 Pass1 Batch1 scans151–160
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 Pass1 Batch2 scans161–167
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,40 +17,32 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - local pages — **17**
 - global scans — **151–167**
 - rendered source pixels — **sole textual/structural authority**
-- source text layer — **no usable parsed text**
-- source intake — **SUPPLIED / REGISTERED / PASS**
+- intake + incoming boundary — **PASS / COMPLETE**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- canonical Part010 records — **0/17**
-- unresolved intake/boundary blockers — **0**
-
-Gross structure:
-
-- scans151–155 — Chapter 10 continuation / printed149–153
-- scan156 — blank physical page
-- scan157 — illustrated Chapter 11 title **11 / ஓலை கை மாறியது**
-- scan158 — Chapter 11 opening / no visible printed numeral
-- scans159–167 — Chapter 11 narrative / printed157–165
 - outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
 
-Durable controls:
+## Durable Pass1 state
 
-- `SOURCE_INTAKE_PART_010.md`
-- `PART_010_INTAKE_BOUNDARY_SETUP.md`
-- `PART_009_BOUNDARY_AUDIT_150_151.md`
+- Batch1 scans151–160 / local1–10 — **COMPLETE / PASS / TEXT-COMPLETE**
+- canonical Part010 records — **10/17**
+- text/display-bearing Batch1 pages — **9/10**
+- blank scan156 — **retained**
+- Chapter 11 title scan157 — **11 / ஓலை கை மாறியது**
+- unresolved Pass1 holds — **0**
+- all existing Part010 records — `needs-review / needs-review`
+- durable progress — `PART_010_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-**Part010 Pass1 Batch1 — global scans151–160 / local pages1–10.**
+**Part010 Pass1 Batch2 — global scans161–167 / local pages11–17 — final 7-page remainder.**
 
 Requirements:
 
 - transcribe directly from rendered source pixels only;
-- create canonical Part010 page records for scans151–160;
-- preserve printed page numbers only where visibly present;
-- classify scan156 as blank physical page;
-- classify scan157 as Chapter 11 illustrated title page;
-- classify scan158 as Chapter 11 opening page with no inferred printed numeral;
-- preserve incoming 150→151 provenance without altering frozen scan150;
+- create canonical Part010 page records for scans161–167;
+- these are Chapter 11 narrative pages with source-visible printed pages **159–165**;
+- preserve paragraph/dialogue layout and printed pagination exactly;
+- inspect internal physical joins directly from the source;
 - do not infer scan168 / Part011;
-- records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- Pass1 cadence — **10 pages** for Batch1, then **7-page remainder scans161–167**.
+- keep all new records `status: "needs-review"` / `visual_fidelity: "needs-review"`;
+- after Batch2, close whole-Part Pass1 only if scans151–167 are **17/17 TEXT-COMPLETE** and unresolved Pass1 source-reading holds are **0**.
