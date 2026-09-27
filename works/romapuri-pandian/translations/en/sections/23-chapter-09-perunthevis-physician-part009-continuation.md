@@ -29,7 +29,7 @@ When rain and wind had competed to do their work in the ruined mandapam and her 
 
 <!-- source boundary: scan 135 → scan 136 -->
 
-respect due a king, she concluded; nor, in her view, could he possess Tamil culture. Because Karikala Peruvalathan had become nothing less than a deity to her, she would not hesitate to take revenge on anyone opposed to that deity. She decided with inward joy that meeting Veerapandi had helped her plan, that the meeting had brought a new flavor into her life, and that it was a reward granted to her for service to the country.
+respect due a king, she concluded; nor, in her view, could he be a man of Tamil culture. Because Karikala Peruvalathan had become nothing less than a deity to her, she would not hesitate to take revenge on anyone opposed to that deity. She decided with inward joy that meeting Veerapandi had helped her plan, that the meeting had brought a new flavor into her life, and that it was a reward granted to her for service to the country.
 
 As they drew nearer and nearer to the front of the palace, Thamarai kept looking at Muthunagai and smiling. The two horses were moving side by side.
 
@@ -97,7 +97,7 @@ The cough tormented the queen for a long time before subsiding a little.
 
 "Do not say such things, sister-in-law! You will not die; you must not die; we will not let you die," Thamarai said, her voice trembling.
 
-Listening closely to this sorrowful scene, Muthunagai wiped away the tears that had welled in her eyes. Women cannot bear to see women weep. But should she lose heart at the tears of women in an enemy's household? A great struggle raged between the thoughts that rose to harden and strengthen Muthunagai's heart and her compassionate nature. For one moment duty would win; the next, her compassionate heart would win. She lay there torn between the two. Again the queen began to cough violently. The coughing was so severe that it seemed her breathing might stop.
+Listening closely to this sorrowful scene, Muthunagai wiped away the tears that had welled in her eyes. Women cannot bear to see women weep. But should she lose heart at the tears of women in an enemy's household? A fierce struggle arose between the thoughts urging Muthunagai to harden and strengthen her heart and her compassionate nature. For one moment duty would win; the next, her compassionate heart would win. She lay there torn between the two. Again the queen began to cough violently. The coughing was so severe that it seemed her breathing might stop.
 
 Muthunagai rose from her bed and peered into the queen's room. No one noticed her looking. Seeing the queen writhe and collapse in unbearable distress, and Thamarai droop and falter along with her, Muthunagai was moved by the depth of family affection.
 
@@ -121,7 +121,7 @@ The queen, somewhat relieved from her distress, lay exhausted against Thamarai's
 
 By now, sweat had broken out all over Muthunagai's body.
 
-"What do you say we should do now?" the queen asked.
+"What do you say we should do?" the queen asked.
 
 "We need permission to open that cage once and look inside. And if you also have the key to the cage..." The warrior let his words trail off.
 

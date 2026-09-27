@@ -23,7 +23,7 @@ Sunflower on a Volcano
 
 Thamarai hurried to the place where Sezhiyan was imprisoned. She knocked on the door. There was no reply from inside. After telling the warriors to stay alert, she opened the door; it was pitch-dark within. Was this a royal prison? No. The very place where the king lived looked like a prison. What, then, must the prison be like!
 
-Thamarai had a torch brought, took it in her hand and went inside step by step, looking all around. That cruel prison, dug into the earth, was full of mud and slush. In that cave-like structure, one had to walk some distance before reaching the place where the prisoner was kept. How much worse might that place be? Something scurried across her foot. She lowered the torch and looked. A large rat darted toward the door. After that, she was afraid even to walk on.
+Thamarai had a torch brought, took it in her hand and went inside step by step, looking all around. That cruel prison, dug into the earth, was full of mud and slush. In that cave-like structure, one had to walk some distance before reaching the place where the prisoner was kept. How much worse might that place be? Something scurried across her foot. She lowered the torch and looked. A large rat darted toward the door. After that, she was afraid to take another step.
 
 She also grew angry with her brother Irungovel. Whatever the circumstances, enemies should not be treated with such cruelty, she muttered to herself. To lock up a good warrior in a place unfit even for buffaloes was utterly inhuman, she thought bitterly.
 
@@ -31,9 +31,9 @@ She stopped for a moment, calmed herself and held the light forward. Sezhiyan wa
 
 <!-- source boundary: scan 144 → scan 145 -->
 
-She sat beside him and gently moved his face, trying to rouse him. Apart from the fact that he was not dead, the sight of him lying there was like that of a corpse laid out. Thinking of how his parents would suffer if they saw this cruelty, she shed tears.
+She sat beside him and gently moved his face, trying to rouse him. Apart from the fact that he was not dead, he looked like a corpse laid out there. Thinking of how his parents would suffer if they saw this cruelty, she shed tears.
 
-A warrior brought water and gruel. She sprinkled water on his face, lifted his head and slowly propped him against the wall. She took the gruel and held it near his mouth. He could not even open his mouth. She pressed the bowl to his lips and insisted, "Drink a little! Just a little, a little!" until she made him drink. Without being conscious of it, Sezhiyan drank. She could hear the sound of the gruel falling into his stomach.
+A warrior brought water and gruel. She sprinkled water on his face, lifted his head and slowly propped him against the wall. She took the gruel and held it near his mouth. He could not even open his mouth. She pressed the bowl to his lips and insisted, "Drink a little! Just a little, a little!" until she made him drink. Without being conscious of it, Sezhiyan drank. She could hear the gruel going down into his stomach.
 
 After a long time Sezhiyan opened his eyes. At the sight of light in the dark cave, his eyes lit up; without realizing it he cried, "Light! Light! Light!" He came fully awake with a start. Opening his eyes wide, he looked all around. Was what he was seeing a dream?—the question leapt up. He rubbed his eyes and looked again. He had not gone anywhere. He was still here, in the enemy's heavily guarded prison-fortress. There was no confusion about it. No doubt. It was certain truth! A clear reality! With a deep sigh he looked at Thamarai. So many meanings lay hidden in his gaze. She understood only one: it seemed as though he were looking at her and asking, 'You are torturing me like this; is it right?'
 
@@ -53,7 +53,7 @@ After looking Sezhiyan up and down once, Thamarai signalled to the warriors to g
 
 "Hm! What do you want to talk about? Speak quickly!" said Thamarai.
 
-"I am not going to be the only one giving a speech. You too must give me a few explanations in answer to my questions," said Sezhiyan.
+"I am not going to be the only one giving a speech. You too must give me a few explanations," said Sezhiyan.
 
 "Very nice indeed! Are we supposed to give explanations about ourselves to a warrior from an enemy country and let ourselves be deceived?"
 
@@ -103,7 +103,7 @@ A thought like this made Thamarai feel sympathy for him. Before hostility arose 
 
 At that time Irungovel might have sent her portrait to the Pandiyan king, and Sezhiyan might have fallen in love with her on seeing it. From the way he spoke, that love seemed pure. At the same time, fear arose too. Could Sezhiyan not have planned to deceive her with a love story and escape?
 
-Having decided not to speak in a way that would cut him down, she said, "If you learn who I am, you will change your mind."
+Having decided not to rebuff him harshly, she said, "If you learn who I am, you will change your mind."
 
 Sezhiyan did not reply. He waited eagerly to hear what she was going to say.
 
@@ -111,7 +111,7 @@ Sezhiyan did not reply. He waited eagerly to hear what she was going to say.
 
 "How can a sunflower bloom on a volcano?" he asked himself.
 
-If he had replied, "What does it matter who you are? Love does not look at enmity!"
+If he had replied, "What does it matter who you are? Love takes no account of enmity!"
 
 Thamarai would have concluded that he had devised this plan and was acting out a love drama only to deceive her.
 
