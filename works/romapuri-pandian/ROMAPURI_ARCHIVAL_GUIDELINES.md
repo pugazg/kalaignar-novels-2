@@ -1233,3 +1233,24 @@ Current frontier:
 **Part008 assembled Tamil construction + audit.**
 
 Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+
+
+## Part008 assembled Tamil closure
+
+- Part008 Tamil archival-ready — **PASS / CLOSED**
+- Part008 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- section21 — **Chapter 8 `வேடம் கலைந்தது!` / scans119–132**
+- section22 — **Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134**
+- physical coverage — **16/16**
+- publication-text / displayed-title coverage — **15/15 + blank scan132 provenance**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part007 body duplication — **0**
+- Part009 leakage — **0**
+- durable control — `PART_008_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part008 English translation planning/setup.**
