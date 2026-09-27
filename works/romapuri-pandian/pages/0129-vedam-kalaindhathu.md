@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch2 
 
 இந்தக் காதல் வாசகத்திற்குப் பெறவேண்டிய பரிசை அட்டியின்றி அவன் பெற்றுக் கொண்ட பிறகு, மறுபடியும் கேட்டான்: “உன் இலட்சியம் என்ன?” என்று.
 
-“உங்கள் இலட்சியம் எதுவோ, அதுவே என் இலட்சியமும்! இருங்கோவேளின் கொட்டத்தை அடக்க வேண்டும்; அவனுக்கு அனுசரணையாகச் சோழ நாட்டில் உலவுகிற துரோகிகள் சிலருக்கு நல்லறிவு புகட்ட வேண்டும்; செழியனின் உயிருக்கு ஆபத்து எதுவுமின்றி மீட்க வேண்டும்...”
+“உங்கள் இலட்சியம் எதுவோ, அதுவே என் இலட்சியமும்! இருங்கோவேளின் கொட்டத்தை அடக்க வேண்டும்; அவனுக்கு அனுசரணையாகச் சோழ நாட்டில் உலவுகிற துரோகிகள் சிலருக்கு நல்லறிவு புகட்ட வேண்டும்; செழியனின் உயிருக்கு ஆபத்து எதுவுமின்றி மீட்க வேண்டும்..”
 
 இருங்கோவேள் ஒரு வெற்றுச் சிரிப்பை வெளிப்படுத்தி விட்டு, அவள் பேசுவதைக் கவனமாகக் கேட்டான்.
 
@@ -56,3 +56,15 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch2 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part008 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical forms, historical spelling, glyph distinctions, word boundaries, punctuation, displayed text and source-sensitive colloquial forms;
+- source-visible terminal punctuation `மீட்க வேண்டும்..”` restored exactly instead of a normalized ellipsis glyph;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
