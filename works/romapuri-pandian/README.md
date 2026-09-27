@@ -1508,3 +1508,28 @@ Current frontier:
 Current frontier:
 
 **Part010 Pass2B Batch1 — scans151–159 / local1–9.**
+
+
+## Part010 Pass2B closure
+
+**PART010 PASS2B — COMPLETE / PASS — 17/17 REVIEWED**
+
+- Batch1 scans151–159 — **9/9 PASS**
+- Batch2 scans160–167 — **8/8 PASS**
+- source-text / lexical / spacing / punctuation corrections — **3**
+- corrected pages — **3 — scans152, 159, 164**
+- historical-glyph / historical-orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- Pass2A corrections independently re-confirmed — **9/9 / no rollback**
+- printed-page / page-type / section / physical-boundary corrections — **0 / 0 / 0 / 0**
+- status / visual-fidelity promotions — **0 / 0**
+- all 17 records remain **needs-review / needs-review**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- frozen Parts001–009 canonical / assembled / English body mutations — **0 / 0 / 0**
+- Part011 / scan168 leakage — **0**
+- durable control — `PART_010_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part010 Pass3 — scans151–167 / local1–17.**
