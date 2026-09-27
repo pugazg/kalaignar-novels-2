@@ -113,3 +113,34 @@ At the synchronized pre-control checkpoint:
 **Part008 Tamil archival-ready checkpoint.**
 
 Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
+
+
+## Post-synchronization verification
+
+Starting documentation-sync checkpoint:
+
+`b363c1ab83157d800f6291351211b1d10fece12b`
+
+Documentation-sync record commit:
+
+`605018a22c77659294ad23e15f82682774f1b738`
+
+Direct live comparison confirms:
+
+- commits — **16**
+- changed files — **16**
+- lifecycle/status/navigation/control files modified — **15**
+- durable `PART_008_DOCUMENTATION_SYNC.md` added — **1**
+- canonical `pages/` changes — **0**
+- Part008 canonical Tamil body changes — **0**
+- Part008 canonical page-metadata changes — **0**
+- frozen Parts001–007 canonical/body changes — **0**
+- Part009 / scan135 repository paths — **0**
+- active Git PDF paths — **0**
+- documentation-sync durable record — **present**
+
+Therefore documentation synchronization drift outside the authorized control-document scope — **0**.
+
+The synchronized live frontier remains:
+
+**Part008 Tamil archival-ready checkpoint.**
