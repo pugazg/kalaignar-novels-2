@@ -274,3 +274,32 @@ Promotion is now authorized only for the two final canonical status fields:
 - `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
 
 The synchronization must alter no Tamil body text, page-type/section metadata, printed-page mapping, source identity, review evidence or frozen earlier-Part content.
+
+
+## Part010 final metadata/status synchronization closure
+
+**PART010 FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED**
+
+- Part audit — **PASS / COMPLETE**
+- canonical Part010 records — **17/17**
+- Tamil textual status — **17/17 verified / 0 needs-review**
+- visual fidelity — **17/17 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- pre-status audited checkpoint — `03afb5291baef184e0734a891b26294f4c2aa414`
+- final page-status checkpoint — `a622f3130b7774c876ca462ec228ff4116d99e2e`
+- status-sync commits — **1**
+- changed canonical files — **17/17 expected Part010 page records**
+- per-file metadata delta — **2 additions / 2 deletions**
+- authorized fields changed — **status + visual_fidelity only**
+- canonical Tamil body drift — **0**
+- structural metadata drift beyond authorized status fields — **0**
+- Pass/review evidence drift — **0**
+- frozen Parts001–009 changes — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- Part011 / scan168 leakage — **0**
+- durable control — `PART_010_FINAL_STATUS_SYNC.md`
+
+Current frontier:
+
+**Part010 documentation synchronization.**
