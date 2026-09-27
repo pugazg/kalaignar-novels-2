@@ -1551,3 +1551,26 @@ Current frontier:
 Current frontier:
 
 **Part009 Pass2B Batch 1 — scans135–143 / local1–9.**
+
+
+## Part009 Pass2B Batch1 closure
+
+**COMPLETE / PASS — scans135–143 / local1–9 — 9/9 independently source-pixel reread**
+
+- source-text / lexical / spacing / punctuation corrections — **2**
+- corrected pages — **scans137 and138**
+- scan137 — `ஏதோ எழுதினாள்` → `ஏதேதோ எழுதினாள்`
+- scan138 — `மரப்பலகைகளைத்தான்` → `மரப்பலகைகளைத் தான்`
+- Pass2A corrections on scans136 and138 — **independently re-confirmed**
+- historical-glyph / orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- status / visual-fidelity promotions — **0 / 0**
+- all nine Batch1 records remain **needs-review / needs-review**
+- frozen Parts001–008 mutations — **0**
+- scans144–150 canonical mutations during Batch1 — **0**
+- Part010 / scan151 leakage — **0**
+- durable control — `PART_009_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part009 Pass2B Batch2 — scans144–150 / local10–16 — final 7-page remainder.**
