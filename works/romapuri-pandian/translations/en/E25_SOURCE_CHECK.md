@@ -141,3 +141,32 @@ Part009 English source-check state:
 **Part009 whole-Part glossary reconciliation across E24–E25.**
 
 Do not begin English editorial review until glossary reconciliation closes.
+
+
+## Post-E24/E25 synchronization verification
+
+Pre-E24 checkpoint:
+
+`1440a201311abe4f78d4af80a14e3a4fe4a57d59`
+
+Post-E24/E25 synchronized checkpoint:
+
+`9850ce74f9647848b6790dd1b22b480d9e536ed7`
+
+Direct repository comparison confirms:
+
+- total commits — **3**
+- changed files — **14**
+- English body files introduced — **2 expected: E24 + E25**
+- durable source-check records introduced — **2 expected: E24 + E25**
+- canonical `pages/` changes — **0**
+- assembled Tamil section-body changes — **0**
+- frozen Parts001–008 English-body changes — **0**
+- Part010 / scan151 content introduced — **0**
+- E24 — **SOURCE-CHECKED / COMPLETE**
+- E25 — **SOURCE-CHECKED / COMPLETE**
+- combined parity — **127/127 total; 110/110 rendered; 17/17 provenance**
+- unresolved English source-check holds — **0**
+- next-chat frontier — **Part009 whole-Part glossary reconciliation across E24–E25**
+
+Therefore processing through scan150 introduced no Tamil, frozen earlier-English, or Part010 drift outside the authorized Part009 English layer.
