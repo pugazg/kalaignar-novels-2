@@ -624,3 +624,24 @@ Current frontier:
 Current frontier:
 
 **Part008 Pass3 — scans119–134 / local1–16.**
+
+
+## Part008 Pass3 closure
+
+**COMPLETE / PASS — 16/16 REVIEWED**
+
+- scans119–134 / local1–16 — **structurally verified**
+- source-text corrections — **0**
+- structural metadata corrections — **0**
+- unresolved visual / structural questions — **0**
+- printed-page mapping corrections — **0**
+- page-type / section-label corrections — **0 / 0**
+- blank scan132 handling — **PASS**
+- status / visual promotions — **0 / 0**
+- all records remain `needs-review / needs-review`
+- frozen Parts001–007 mutations — **0**
+- durable progress — `PART_008_PASS3_PROGRESS.md`
+
+Current frontier:
+
+**Part008 Part audit.**
