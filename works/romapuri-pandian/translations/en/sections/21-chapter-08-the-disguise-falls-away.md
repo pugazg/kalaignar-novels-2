@@ -5,7 +5,7 @@ layer: "translation"
 section_order: 21
 section_title: "8. The Disguise Falls Away!"
 language: "en"
-translation_status: "draft"
+translation_status: "source-checked"
 batch: "E22"
 source_section: "../../../sections/21-chapter-08-vedam-kalaindhathu.md"
 source_scans: "119-132"
@@ -23,7 +23,7 @@ The Disguise Falls Away!
 
 Tch! Tch! What foolishness! Until now it had not been a man's arm embracing her shoulder, but the arm of a tree! The base of a fallen branch from the tree against which she had been leaning had struck her shoulder, given her a moment's bliss of love, and deceived her.
 
-Muthunagai covered her face as though someone in the darkness were watching her from in front. The thought of the woodcutter would not leave her alone. She decided that if she met him, she must tell him, "Cut any tree in this forest you like—but do not cut this one."
+Muthunagai covered her face as though someone in the darkness before her were watching. The thought of the woodcutter would not leave her alone. She decided that if she met him, she must tell him, "Cut any tree in this forest you like—but do not cut this one."
 
 "Tak! Tak!" A sound came at intervals. She walked slowly toward it. It was the sound of wood being chopped! Who would come to cut a tree at this hour in the pitch-dark forest? Could it perhaps be him? Suspicious and curious, she went forward.
 
@@ -63,7 +63,7 @@ Irungovel did not want to probe further. Concluding that Thamarai would in any c
 
 After remaining silent for a little while, Muthunagai said, "I was sleeping in that pavilion over there. I heard someone cutting wood. I thought perhaps it might be you, so I came. Tell me—do you practise your trade only at night? Are you stealing timber?"
 
-Enjoying the clever way she spoke in a man's voice, Irungovel nodded and said, "Yes!" How could she know that he had come only because he longed to see her again? If Thamarai took her home, he had feared that he might not get another chance to meet her, and so he had rushed there to see her once before that happened. He knew very well that she had been sitting by the waterfall. Yet he pretended to believe her lie that she had been sleeping in the pavilion! He had come to the place where he was cutting wood while watching her at the waterfall. He had even pretended to chop the tree merely to attract her attention. The tree fell. She came—and fell into his trap. Irungovel had not come that night intending to leave without speaking to her. He had come trembling with eagerness to reveal that he knew she was a woman and to pass the night in sweet conversation and pleasure. Yet when she stood before him, he could not summon that courage.
+Enjoying the clever way she spoke in a man's voice, Irungovel nodded and said, "Yes!" How could she know that he had come only because he longed to see her again? If Thamarai took her home, he had feared that he might not get another chance to meet her, and so he had rushed there to see her once before that happened. He knew very well that she had been sitting by the waterfall. Yet he pretended to believe her lie that she had been sleeping in the pavilion! He had come to the place where he was cutting wood while watching her at the waterfall. He had even pretended to chop the tree merely to attract her attention. The tree fell. She came—and fell into his trap. Irungovel had not come that night intending to leave without speaking to her. He had come trembling with eagerness to show her that he had realized she was a woman and to pass the night in sweet conversation and pleasure. Yet when she stood before him, he could not summon that courage.
 
 "I'll split the tree into firewood tomorrow. Let us sleep for a while. Come, man, let's go to the pavilion!" he called to Muthunagai.
 
@@ -91,7 +91,7 @@ Keeping the torch burning brightly, he replied, "Do you think one can fill one's
 
 She had asked the question too hastily. Before she had even finished it, her body began to tremble.
 
-"Not yet. What marriage is there for a lump like me, man? But tell me—are you married? How many children? Is your wife as beautiful as you?" Irungovel rattled off the questions one after another.
+"Not yet. What marriage is there for a log like me, man? But tell me—are you married? How many children? Is your wife as beautiful as you?" Irungovel rattled off the questions one after another.
 
 "Uh-uh... I'm not married," Muthunagai said.
 
@@ -133,7 +133,7 @@ Catching the hand that had touched her head-cloth, she demanded, "What's this?"
 
 "Oh, it's terribly cold, man! Give me that head-cloth. I'll wrap it around my body," Irungovel said, and despite her efforts to stop him, he began untying her head-cloth.
 
-Muthunagai could prevent him no longer. Had she utterly hated him, such a situation would never have arisen. She would have turned her face away and spoken sharply at their very first meeting before leaving. But now she was caught between two sides. The loosened head-cloth was in his hand. Thick hair, curling in waves, hung from her head. Though he had known this already, he stood motionless staring at her and let out an astonished "Ah?" as though he had discovered it only now.
+Muthunagai could prevent him no longer. Had she utterly hated him, such a situation would never have arisen. She would have turned her face away and spoken sharply at their very first meeting before leaving. But now she was caught in a no-win predicament. The loosened head-cloth was in his hand. Thick hair, curling in waves, hung from her head. Though he had known this already, he stood motionless staring at her and let out an astonished "Ah?" as though he had discovered it only now.
 
 She too understood that she could no longer continue the pretence. However firmly a creeper is trained up an iron rod, will it not droop, twist and spread rather than stand stiffly displaying manly strength?
 
