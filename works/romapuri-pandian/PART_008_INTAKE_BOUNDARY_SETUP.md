@@ -86,3 +86,24 @@ Mandatory Part lock — **SATISFIED**.
 ## Exact next activity
 
 **Part008 Pass1 Batch 1 — scans119–128 / local1–10.**
+
+
+## Part008 Pass1 Batch1 closure
+
+- Batch1 — **COMPLETE / PASS / TEXT-COMPLETE — scans119–128 / local1–10**
+- canonical Part008 records — **10/16**
+- whole-Part Pass1 — **10/16**
+- source-supported Pass1 corrections — **1 — scan125**
+- unresolved Pass1 source-reading holds — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all Batch1 records remain `needs-review / needs-review`
+- frozen Parts001–007 canonical/body mutations — **0**
+- scans129–134 canonical records created early — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 / scan135 text inferred — **0**
+- durable progress — `PART_008_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part008 Pass1 Batch2 — scans129–134 / local11–16 — final 6-page remainder.**
