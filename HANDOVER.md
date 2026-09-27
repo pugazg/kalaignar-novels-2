@@ -566,3 +566,8 @@ Part008 Pass1 is **COMPLETE / PASS — 16/16 TEXT-COMPLETE**. Canonical scan cov
 
 
 Part008 Pass2A is **COMPLETE / PASS — 16/16 REVIEWED**. Four source-supported corrections were applied, all on scan121; the remaining 15 pages are clean. Unresolved textual questions are 0. Printed-page mapping, page type/section and physical-boundary corrections are all 0. All 16 records remain needs-review / needs-review with no status promotion, no frozen Parts001–007 mutation and no Part009 leakage. Exact next activity: **Part008 Pass2B Batch 1 — scans119–127 / local1–9**.
+
+- `PART_008_PASS2B_PROGRESS.md`
+
+
+Part008 Pass2B Batch1 is **COMPLETE / PASS — 9/9** for scans119–127 / local1–9. The independent source-pixel reread found **0 new source-text/lexical/spacing/punctuation corrections**, **0 historical-glyph/orthography corrections**, and **0 unresolved questions**. The four Pass2A corrections on scan121 were independently re-confirmed. All pages remain needs-review / needs-review; frozen Parts001–007 are untouched; no Part009 text was inferred. Exact next activity: **Part008 Pass2B Batch2 — scans128–134 / local10–16 — final 7-page remainder**.
