@@ -997,3 +997,34 @@ Current frontier:
 Current frontier:
 
 **Part008 final closure / freeze.**
+
+
+## Part008 final closure
+
+**PART008 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- canonical Part008 Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- English editorial review — **PASS / CLOSED — 9 corrections**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual-review corrections — **4**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved final blockers — **0**
+- canonical / assembled Tamil post-release drift — **0**
+- maintained Part008 English post-release drift — **0**
+- frozen Parts001–007 mutation — **0**
+- active Git PDF paths — **0**
+- Part009 / scan135 leakage — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- durable closure — `PART_008_FINAL_CLOSURE.md`
+
+Part009 remains **NOT SUPPLIED / NOT REGISTERED**.
+
+Current frontier:
+
+**Part009 source intake + 134→135 adjacent-boundary witness inspection/setup when the Part009 source is supplied.**
