@@ -1225,3 +1225,39 @@ Planning safeguards:
 Exact next glossary-bearing activity:
 
 **E22 draft + source-check.**
+
+
+## E22 source-check closure
+
+- E22 — **SOURCE-CHECKED / COMPLETE**
+- verified Tamil input — `sections/21-chapter-08-vedam-kalaindhathu.md`
+- English file — `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`
+- scans — **119–132**
+- working title — **The Disguise Falls Away!**
+- Tamil / English total blocks — **135 / 135**
+- Tamil / English rendered blocks — **124 / 124**
+- standalone provenance comments — **11 / 11**
+- total provenance/comment occurrences — **14 / 14**
+- source-boundary occurrences retained — **13 / 13**
+- incoming-boundary comment retained — **1 / 1**
+- blank scan132 provenance retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **14**
+- unresolved E22 source-check holds — **0**
+- canonical Tamil edits caused by E22 — **0**
+- assembled Tamil edits caused by E22 — **0**
+- frozen Parts001–007 English edits — **0**
+- E23 English draft created during E22 — **0**
+- E23 source-check record created during E22 — **0**
+- Part009 leakage — **0**
+- durable source-check — `translations/en/E22_SOURCE_CHECK.md`
+
+Current Part008 English state:
+
+- E22 — **SOURCE-CHECKED / COMPLETE**
+- E23 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+
+Current frontier:
+
+**E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
