@@ -1183,3 +1183,45 @@ Part008 remains **NOT SUPPLIED / NOT REGISTERED**.
 Current frontier:
 
 **Part008 source intake + 118→119 adjacent-boundary witness inspection/setup when the Part008 source is supplied.**
+
+
+## Part008 English planning terminology
+
+Part008 English planning reserves E22–E23 and carries forward the locked project terminology.
+
+Working Part008 chapter titles:
+
+- `வேடம் கலைந்தது!` → **The Disguise Falls Away!**
+- `பெருந்தேவியின் மருத்துவர்` → **Perunthevi's Physician**
+
+Recurring names/terms carried forward:
+
+- `முத்துநகை` → **Muthunagai**
+- `முத்து` → **Muthu** when used as Muthunagai's assumed name
+- `இருங்கோவேள்` → **Irungovel**
+- `தாமரை` → **Thamarai**
+- `செழியன்` → **Sezhiyan**
+- `கரிகாலன்` → **Karikalan**
+- `கரிகாற் சோழன்` / `கரிகால் சோழன்` → **Karikala Cholan**
+- `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` / `பெருவழுதிப் பாண்டியர்` → **Peruvazhuthi / Peruvazhuthi Pandiyan**, by local syntax
+- `பெருந்தேவி` → **Perunthevi**
+- `வேளிர்குடி` → **Velir clan / Velir people**, by local syntax
+- `விறகு வெட்டி` / common-noun `விறகுவெட்டி` → **woodcutter**
+- `பச்சிலை` → **medicinal leaf** in medical/plant context
+- `ஓலை` / `ஓலைச்சுருள்` → **palm-leaf / palm-leaf scroll**
+- `ஒற்றர்` → **spy / intelligence agent**, chosen by local narrative syntax
+- `வீரபாண்டி` → **Veerapandi**
+- `மருத்துவர்` → **physician / doctor**, by local syntax; Chapter 9 title uses **Physician**
+
+Planning safeguards:
+
+- title choices are project English working forms and may be reviewed during the relevant source-check without changing verified Tamil;
+- preserve embedded palm-leaf-letter structure and dialogue paragraphing;
+- preserve blank scan132 as provenance only;
+- preserve the supplied scan134 mid-dialogue ending without completion;
+- no outside published/web English version may be used to fill or normalize the text;
+- unresolved Part008 planning glossary holds — **0**.
+
+Exact next glossary-bearing activity:
+
+**E22 draft + source-check.**
