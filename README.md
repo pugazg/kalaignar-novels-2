@@ -488,3 +488,22 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 final metadata/status synchronization.**
+
+
+## Part008 final metadata/status synchronization
+
+**PASS / CLOSED**
+
+- Tamil textual status — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- needs-review remaining — **0 / 0**
+- unresolved status exceptions — **0**
+- metadata-only page changes — **16/16**
+- canonical Tamil body drift — **0**
+- frozen Parts001–007 mutations — **0**
+- Part009 leakage — **0**
+- durable control — `works/romapuri-pandian/PART_008_FINAL_STATUS_SYNC.md`
+
+## Current exact next activity
+
+**Part008 documentation synchronization.**
