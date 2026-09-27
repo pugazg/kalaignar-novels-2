@@ -584,3 +584,8 @@ Part008 Pass3 is **COMPLETE / PASS — 16/16 REVIEWED**. Structural metadata, pa
 
 
 Part008 Part audit is **PASS / COMPLETE**. Canonical coverage is 16/16 across scans119–134 / local1–16, with 0 missing/duplicate records, 0 source-filename/pagination/page-type/section mismatches, all Pass1–Pass3 evidence reconciled, and 0 unresolved supplied-Part blockers. All 16 records deliberately remain needs-review / needs-review because promotion belongs to the separate next gate. Exact next activity: **Part008 final metadata/status synchronization**.
+
+- `PART_008_FINAL_STATUS_SYNC.md`
+
+
+Part008 final metadata/status synchronization is **PASS / CLOSED**. All 16 Part008 canonical records are now `status: "verified"` and `visual_fidelity: "verified"`; needs-review remaining is 0/0 and unresolved status exceptions are 0. The promotion was metadata-only on exactly scans119–134, with 0 Tamil-body drift, 0 frozen Parts001–007 mutation and 0 Part009 leakage. Exact next activity: **Part008 documentation synchronization**.
