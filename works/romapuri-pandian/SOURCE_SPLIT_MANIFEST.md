@@ -17,9 +17,9 @@
 | 004 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_004_pages_53-68.pdf` | 47,813,374 | `40e5311b829a247004a1397d822672ed09e5a1aea28b7a0fce701735929cd1a5` | 16 | 53–68 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 005 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_005_pages_69-85.pdf` | 47,433,786 | `4b9570ed1e376fd20d1fc9c7722d93eced8ebc1b8a62c6b7d8781a4027acc13b` | 17 | 69–85 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 006 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf` | 48,077,888 | `df9f8994dc08da0c01e34a91204a29f17d9425ed7e6ebbc5806f4461a5bfb1c2` | 17 | 86–102 | REGISTERED | **FINAL CLOSED / FROZEN** |
-| 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | **PASS2A COMPLETE / PASS** |
-| 008 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
-| 009 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | **FINAL CLOSED / FROZEN** |
+| 008 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_008_pages_119-134.pdf` | 47,320,955 | `f8caf176e22589e4597ab1f5016ba3b04b86074e2732e87981baf69c90a8daa1` | 16 | 119–134 | REGISTERED | **FINAL CLOSED / FROZEN** |
+| 009 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf` | 47,618,126 | `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed` | 16 | 135–150 | REGISTERED | NOT STARTED |
 | 010 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 011 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 012 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -53,7 +53,7 @@
 
 ## Current frontier
 
-- supplied / registered Parts — **7/39**
+- supplied / registered Parts — **9/39**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
@@ -1216,3 +1216,33 @@ Part009 remains **NOT SUPPLIED / NOT REGISTERED**.
 Current frontier:
 
 **Part009 source intake + 134→135 adjacent-boundary witness inspection/setup when the Part009 source is supplied.**
+
+
+## Part009 source intake + incoming-boundary closure
+
+**PART009 INTAKE + INCOMING BOUNDARY — PASS / COMPLETE**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Part009 source — **SUPPLIED / REGISTERED / AUTHORIZED**
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf`
+- file size — **47,618,126 bytes**
+- SHA-256 — `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed`
+- physical/source coverage — **16 pages / scans135–150**
+- source text layer — **no usable parsed text**
+- controlling witness — **rendered source page images**
+- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- boundary evidence — scan134 ends inside an unclosed Muthunagai dialogue; scan135 continues the same utterance with `நெருங்கிப் பழகவே கூடாது!`
+- scan142 — **blank physical page**
+- scan143 — illustrated Chapter 10 title **10 / எரிமலைமீது சூரியகாந்தி**
+- canonical Part009 records — **0/16**
+- frozen Part001–008 canonical / assembled / English body mutations — **0 / 0 / 0**
+- frozen Part008 review/release/final-closure rewrites — **0**
+- unresolved intake/boundary blockers — **0**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- durable source intake — `SOURCE_INTAKE_PART_009.md`
+- durable setup — `PART_009_INTAKE_BOUNDARY_SETUP.md`
+- durable incoming-boundary audit — `PART_008_BOUNDARY_AUDIT_134_135.md`
+
+Current frontier:
+
+**Part009 Pass1 Batch 1 — scans135–144 / local1–10.**

@@ -2,12 +2,12 @@
 
 ## Archive state
 
-**PART001–006 FINAL CLOSED / FROZEN — PART007 BILINGUAL REVIEW CLOSED — RELEASE REVIEW NEXT**
+**PART001–008 FINAL CLOSED / FROZEN — PART009 INTAKE/BOUNDARY PASS — PASS1 NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
 - supplied design — **39 size-based split PDFs**
-- supplied / registered Parts — **7/39**
+- supplied / registered Parts — **9/39**
 - Part001 — **17 pages / global scans1–17**
 - Part002 — **17 pages / global scans18–34 / FINAL CLOSED / FROZEN**
 - Part001 canonical records — **17/17**
@@ -905,3 +905,33 @@ Part009 remains **NOT SUPPLIED / NOT REGISTERED**.
 Current frontier:
 
 **Part009 source intake + 134→135 adjacent-boundary witness inspection/setup when the Part009 source is supplied.**
+
+
+## Part009 source intake + incoming-boundary closure
+
+**PART009 INTAKE + INCOMING BOUNDARY — PASS / COMPLETE**
+
+- Parts001–008 — **FINAL CLOSED / FROZEN**
+- Part009 source — **SUPPLIED / REGISTERED / AUTHORIZED**
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf`
+- file size — **47,618,126 bytes**
+- SHA-256 — `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed`
+- physical/source coverage — **16 pages / scans135–150**
+- source text layer — **no usable parsed text**
+- controlling witness — **rendered source page images**
+- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- boundary evidence — scan134 ends inside an unclosed Muthunagai dialogue; scan135 continues the same utterance with `நெருங்கிப் பழகவே கூடாது!`
+- scan142 — **blank physical page**
+- scan143 — illustrated Chapter 10 title **10 / எரிமலைமீது சூரியகாந்தி**
+- canonical Part009 records — **0/16**
+- frozen Part001–008 canonical / assembled / English body mutations — **0 / 0 / 0**
+- frozen Part008 review/release/final-closure rewrites — **0**
+- unresolved intake/boundary blockers — **0**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- durable source intake — `SOURCE_INTAKE_PART_009.md`
+- durable setup — `PART_009_INTAKE_BOUNDARY_SETUP.md`
+- durable incoming-boundary audit — `PART_008_BOUNDARY_AUDIT_134_135.md`
+
+Current frontier:
+
+**Part009 Pass1 Batch 1 — scans135–144 / local1–10.**

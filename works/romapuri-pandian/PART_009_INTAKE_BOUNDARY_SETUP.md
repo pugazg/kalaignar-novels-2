@@ -1,0 +1,88 @@
+# ரோமாபுரிப் பாண்டியன் — Part009 Intake + Incoming Boundary Setup
+
+## Result
+
+**PART009 INTAKE + INCOMING BOUNDARY — PASS / COMPLETE**
+
+## Source
+
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf`
+
+- physical PDF pages — **16**
+- global scans — **135–150**
+- local pages — **1–16**
+- file size — **47,618,126 bytes**
+- SHA-256 — `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed`
+- source text layer — **no usable parsed text**
+- controlling witness — **rendered source page images**
+
+## Gross structural map
+
+- scans135–141 / local1–7 — Chapter 9 continuation; printed **133–139**
+- scan142 / local8 — **blank physical page**
+- scan143 / local9 — Chapter 10 illustrated title: **10 / எரிமலைமீது சூரியகாந்தி**
+- scan144 / local10 — Chapter 10 opening; no normal printed numeral/header
+- scans145–150 / local11–16 — Chapter 10 narrative; printed **143–148**
+
+No canonical Part009 page record is created by this setup gate.
+
+## Incoming boundary
+
+Frozen Part008 terminal state:
+
+- scan134 — Chapter 9 narrative opening and supplied-Part terminal dialogue fragment
+- terminal punctuation — **semicolon inside an unclosed quotation**
+
+Part009 starts:
+
+- scan135 — printed page **133**
+- same Chapter 9 dialogue continues immediately with `நெருங்கிப் பழகவே கூடாது!`
+
+Boundary decision:
+
+**134→135 — GENUINE CONTINUATION / AUDITED**
+
+Durable boundary record:
+
+`PART_008_BOUNDARY_AUDIT_134_135.md`
+
+No Part008 text is reconstructed, rewritten or backfilled from scan135.
+
+## Frozen-Part integrity
+
+Parts001–008 remain **FINAL CLOSED / FROZEN**.
+
+This setup caused:
+
+- frozen canonical Tamil changes — **0**
+- frozen assembled Tamil changes — **0**
+- frozen English-body changes — **0**
+- frozen glossary/review/release/final-closure changes — **0**
+- scan135 text imported backward into Part008 — **0**
+
+## Part009 authorization
+
+Mandatory Part lock — **SATISFIED**.
+
+- Part008 final closure — **PASS / CLOSED / FROZEN**
+- Part009 source — **SUPPLIED / REGISTERED**
+- incoming boundary — **AUDITED**
+- unresolved intake/boundary blockers — **0**
+- Part009 canonical transcription — **AUTHORIZED**
+- canonical Part009 records — **0/16 at setup close**
+
+## Outgoing boundary
+
+- scan150 is the final supplied Part009 physical page
+- **150→151 — PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 / scan151 text inferred — **0**
+
+## Pass1 cadence
+
+- Batch1 — **scans135–144 / local1–10**
+- Batch2 — **scans145–150 / local11–16 — final 6-page remainder**
+- status promotion during Pass1 — **not allowed**
+
+## Exact next activity
+
+**Part009 Pass1 Batch 1 — scans135–144 / local1–10.**

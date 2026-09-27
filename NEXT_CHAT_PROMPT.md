@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 source intake + 134→135 boundary witness
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Pass1 Batch1 scans135–144
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,55 +6,67 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–008 are **FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to begin Part009.
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to advance Part009.
 
-## Part008 final closure
+## Part009 source
 
-**PASS / CLOSED / FROZEN**
+`TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf`
 
-Part008 summary:
+- file size — **47,618,126 bytes**
+- SHA-256 — `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed`
+- physical PDF pages — **16**
+- global scans — **135–150**
+- local pages — **1–16**
+- source text layer — **no usable parsed text**
+- controlling witness — **rendered source page images**
 
-- scans — **119–134 / 16**
-- canonical Tamil — **16/16 verified**
-- visual fidelity — **16/16 verified**
-- Tamil archival-ready — **PASS / CLOSED**
-- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
-- E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
-- glossary reconciliation — **RECONCILED / PASS**
-- editorial review — **PASS / CLOSED — 9 corrections**
-- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
-- bilingual corrections — **4**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- unresolved final blockers — **0**
-- post-release Tamil/assembled/English drift — **0**
-- Part009 leakage — **0**
+## Intake + incoming boundary
 
-Durable closure:
+**PASS / COMPLETE**
 
-`PART_008_FINAL_CLOSURE.md`
+The previously deferred split is resolved from direct adjacent evidence:
 
-## Outgoing boundary
+- frozen scan134 ends inside Muthunagai's unclosed dialogue at `...யாருக்கும் ஜாடையாகக் கூடத் தெரியக்கூடாது;`
+- scan135 immediately continues the same utterance with `நெருங்கிப் பழகவே கூடாது!`
+- **134→135 — GENUINE CONTINUATION / AUDITED**
+- Part008 body backfill/mutation — **0**
+- Part009 canonical records at setup close — **0/16**
+- unresolved intake/boundary blockers — **0**
 
-Part008 scan134 ends mid-dialogue exactly at the supplied source boundary.
+Durable controls:
 
-- **134→135 — PENDING Part009 adjacent witness / deferred external boundary evidence**
-- Part009 source — **NOT SUPPLIED / NOT REGISTERED**
-- Part009 canonical records — **0**
-- scan135 Tamil/English inferred/imported — **0**
+- `SOURCE_INTAKE_PART_009.md`
+- `PART_008_BOUNDARY_AUDIT_134_135.md`
+- `PART_009_INTAKE_BOUNDARY_SETUP.md`
+
+## Source-visible Part009 structure
+
+- scans135–141 / local1–7 — Chapter 9 continuation; printed **133–139**
+- scan142 / local8 — **blank physical page**
+- scan143 / local9 — illustrated Chapter 10 title: **10 / எரிமலைமீது சூரியகாந்தி**
+- scan144 / local10 — Chapter 10 opening; no normal printed numeral/header
+- scans145–150 / local11–16 — Chapter 10 narrative; printed **143–148**
+- outgoing **150→151 — PENDING Part010 adjacent witness / deferred external boundary evidence**
+
+## Pass1 cadence
+
+- fixed cadence — **10 physical pages per iteration**
+- Batch1 — **scans135–144 / local1–10**
+- Batch2 — **scans145–150 / local11–16 — final 6-page remainder**
+- no status or visual-fidelity promotion during Pass1
 
 ## Exact next activity
 
-When the Part009 source is supplied:
-
-**Part009 source intake + 134→135 adjacent-boundary witness inspection/setup.**
+**Part009 Pass1 Batch1 — global scans135–144 / local pages1–10.**
 
 Requirements:
 
-- register the supplied Part009 source before any canonical transcription;
-- verify file size, page count, SHA-256 and scan range from the actual source;
-- inspect scan135 as the adjacent witness against frozen scan134;
-- classify 134→135 only from direct source evidence;
-- do not infer scan135 before source supply;
-- do not mutate Parts001–008 merely to activate Part009;
-- only after intake/boundary setup passes may Part009 canonical transcription begin.
+- create canonical records only for scans135–144 in this iteration;
+- transcribe directly from rendered source pixels;
+- preserve page type, printed-page mapping, chapter/displayed-title evidence and blank-page handling exactly;
+- retain scan135 as Chapter 9 continuation without mutating frozen scan134;
+- treat scan142 as a genuine blank physical page if direct source inspection reconfirms it;
+- record scan143 as the illustrated Chapter 10 title page and scan144 as its opening page;
+- do not infer/import scan145–150 early;
+- do not infer scan151 or resolve 150→151 without the Part010 adjacent witness;
+- keep all newly created Part009 records `needs-review / needs-review` through Pass1.
