@@ -527,3 +527,23 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 Tamil archival-ready checkpoint.**
+
+
+## Part008 Tamil archival-ready checkpoint
+
+**PART008 TAMIL ARCHIVAL-READY — PASS / CLOSED**
+
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- needs-review remaining — **0 / 0**
+- documentation synchronization — **PASS / COMPLETE**
+- unresolved archival-ready blockers — **0**
+- assembled Part008 files before closure — **0**
+- English Part008 files before closure — **0**
+- frozen Parts001–007 mutations — **0**
+- Part009 leakage — **0**
+- durable control — `works/romapuri-pandian/PART_008_TAMIL_ARCHIVAL_READY.md`
+
+## Current exact next activity
+
+**Part008 assembled Tamil construction + audit.**
