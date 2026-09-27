@@ -25,7 +25,7 @@ Tch! Tch! What foolishness! Until now it had not been a man's arm embracing her 
 
 Muthunagai covered her face as though someone in the darkness before her were watching. The thought of the woodcutter would not leave her alone. She decided that if she met him, she must tell him, "Cut any tree in this forest you like—but do not cut this one."
 
-"Tak! Tak!" A sound came at intervals. She walked slowly toward it. It was the sound of wood being chopped! Who would come to cut a tree at this hour in the pitch-dark forest? Could it perhaps be him? Suspicious and curious, she went forward.
+"Tak! Tak!" A sound came at intervals. She walked slowly toward it. It was the sound of wood being chopped! Who would come to cut a tree at this hour in the pitch-dark forest? Could it perhaps be him? With growing suspicion, she went forward.
 
 As she went on, the sound drew nearer. She could also see the glow of a lamp in the direction from which it came.
 
@@ -63,7 +63,7 @@ Irungovel did not want to probe further. Concluding that Thamarai would in any c
 
 After remaining silent for a little while, Muthunagai said, "I was sleeping in that mandapam over there. I heard someone cutting wood. I thought perhaps it might be you, so I came. Tell me—do you practise your trade only at night? Are you stealing timber?"
 
-Enjoying the clever way she spoke in a man's voice, Irungovel nodded and said, "Yes!" How could she know that he had come only because he longed to see her again? If Thamarai took her home, he had feared that he might not get another chance to meet her, and so he had rushed there to see her once before that happened. He knew very well that she had been sitting by the waterfall. Yet he pretended to believe her lie that she had been sleeping in the mandapam! He had come to the place where he was cutting wood while watching her at the waterfall. He had even pretended to chop the tree merely to attract her attention. The tree fell. She came—and fell into his trap. Irungovel had not come that night intending to leave without speaking to her. He had come trembling with eagerness to show her that he had realized she was a woman and to pass the night in sweet conversation and pleasure. Yet when she stood before him, he could not summon that courage.
+Enjoying the clever way she spoke in a man's voice, Irungovel nodded and said, "Yes!" How could she know that he had come only because he longed to see her again? If Thamarai took her home, he had feared that he might not get another chance to meet her, and so he had rushed there to see her once before that happened. He knew very well that she had been sitting by the waterfall. Yet he pretended to believe her lie that she had been sleeping in the mandapam! He had come to the place where he was cutting wood while watching her at the waterfall. He had even pretended to chop the tree merely to attract her attention. The tree fell. She came—and fell into his trap. Irungovel had not come that night intending to leave without speaking to her. He had come in a fever of eagerness to show her that he had realized she was a woman and to pass the night in sweet conversation and pleasure. Yet when she stood before him, he could not summon that courage.
 
 "I'll split the tree into firewood tomorrow. Let us sleep for a while. Come, man, let's go to the mandapam!" he called to Muthunagai.
 
@@ -133,9 +133,9 @@ Catching the hand that had touched her head-cloth, she demanded, "What's this?"
 
 "Oh, it's terribly cold, man! Give me that head-cloth. I'll wrap it around my body," Irungovel said, and despite her efforts to stop him, he began untying her head-cloth.
 
-Muthunagai could prevent him no longer. Had she utterly hated him, such a situation would never have arisen. She would have turned her face away and spoken sharply at their very first meeting before leaving. But now she was caught in a no-win predicament. The loosened head-cloth was in his hand. Thick hair, curling in waves, hung from her head. Though he had known this already, he stood motionless staring at her and let out an astonished "Ah?" as though he had discovered it only now.
+Muthunagai could prevent him no longer. Had she utterly hated him, such a situation would never have arisen. She would have turned her face away and spoken sharply at their very first meeting before leaving. But now she was trapped either way. The loosened head-cloth was in his hand. Thick hair, curling in waves, hung from her head. Though he had known this already, he stood motionless staring at her and let out an astonished "Ah?" as though he had discovered it only now.
 
-She too understood that she could no longer continue the pretence. However firmly a creeper is trained up an iron rod, will it not droop, twist and spread rather than stand stiffly displaying manly strength?
+She too understood that she could no longer continue the pretence. Even if a creeper is trained up an iron rod, will it not droop, twist and spread rather than stand stiffly displaying manly strength?
 
 <!-- source boundary: scan 125 → scan 126 -->
 
@@ -143,13 +143,13 @@ Irungovel carried his acting to its climax. "What a wonder! Am I dreaming? Or is
 
 Muthunagai did not speak. She lowered her head.
 
-Irungovel went near, took her cheeks between his hands, and turned her face toward his. Their faces drew close together. Two pairs of eyes locked onto each other. The tips of their noses were only three fingers apart! The nearby torchlight fell on her face, making it gleam like polished gold. Holding her cheeks in his hands as though he were lifting a blooming lotus in both palms and drinking in its beauty with his eyes, Irungovel kept gazing at her face.
+Irungovel went near, took her cheeks between his hands, and turned her face toward his. Their faces drew close together. Two pairs of eyes locked on each other. The tips of their noses were only three fingers apart! The nearby torchlight fell on her face, making it gleam like polished gold. Holding her cheeks in his hands as though he were lifting a blooming lotus in both palms and drinking in its beauty with his eyes, Irungovel kept gazing at her face.
 
-Muthunagai forgot the whole world. Freeing her face from his hands, she leaned against his broad chest. The thunder and rain grew many times fiercer than before. A sudden great gust whirled through and extinguished the torch. Both of them silently blessed nature!
+Muthunagai forgot the whole world. Freeing her face from his hands, she leaned against his broad chest. The thunder and rain grew many times fiercer than before. A sudden great gust whirled through and extinguished the torch. Both blessed nature in their hearts!
 
 Dawn began to break without caring in the least about those blessings. The rain had stopped completely. A gentle breeze was blowing. The two sat silently watching the sky grow pale.
 
-Irungovel was the one who began to speak. Trying to speak after a long while, he felt some emotion press heavily on his heart. He looked intently at her. Her eyes were moist.
+Irungovel was the one who began to speak. When he tried to speak after a long silence, some emotion weighed on his heart. He looked intently at her. Her eyes were moist.
 
 "Why do you look so troubled?" he asked, moving closer. There was no answer.
 
@@ -179,7 +179,7 @@ Irungovel was the one who began to speak. Trying to speak after a long while, he
 
 "Won't you tell me in detail what that goal is?"
 
-"Why not tell you after I understand who you are? I am certainly going to tell you."
+"Why not after I know who you are? I am certainly going to tell you."
 
 "I'm just an ordinary woodcutter! That's all!"
 
