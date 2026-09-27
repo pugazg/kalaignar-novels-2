@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–008 FINAL CLOSED / FROZEN — PART009 E24–E25 SOURCE-CHECK COMPLETE — GLOSSARY NEXT**
+**PART001–008 FINAL CLOSED / FROZEN — PART009 GLOSSARY RECONCILED — EDITORIAL NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -1309,3 +1309,15 @@ Do not begin E25 until E24 is **SOURCE-CHECKED / COMPLETE**.
 Current frontier:
 
 **Part009 whole-Part glossary reconciliation across E24–E25.**
+
+
+## Part009 glossary reconciliation closure
+
+- E24–E25 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven body edits — **2**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–008 English edits — **0**
+- Part010 leakage — **0**
+- next gate — **Part009 English editorial review across E24–E25**

@@ -127,3 +127,15 @@ Current Part009 English state:
 - completed/source-checked — **2/2**
 
 E25 was subsequently completed through scan150 in the same user-directed work sequence.
+
+
+## Part009 glossary reconciliation closure
+
+- E24–E25 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- glossary-driven body edits — **2**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–008 English edits — **0**
+- Part010 leakage — **0**
+- next gate — **Part009 English editorial review across E24–E25**
