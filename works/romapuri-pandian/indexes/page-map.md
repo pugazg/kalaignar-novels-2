@@ -1158,3 +1158,29 @@ Current frontier:
 **Part008 Tamil archival-ready checkpoint.**
 
 Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
+
+
+## Part008 Tamil archival-ready closure
+
+**PART008 TAMIL ARCHIVAL-READY — PASS / CLOSED**
+
+- documentation synchronization — **PASS / COMPLETE**
+- canonical Part008 records — **16/16 verified**
+- Tamil textual status — **16/16 verified / 0 needs-review**
+- visual fidelity — **16/16 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+- unresolved supplied-Part boundary blockers — **0**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 / scan135 leakage — **0**
+- assembled Part008 section files introduced before archival-ready closure — **0**
+- English Part008 section files introduced before archival-ready closure — **0**
+- frozen Parts001–007 canonical/body mutations — **0**
+- durable control — `PART_008_TAMIL_ARCHIVAL_READY.md`
+
+Current frontier:
+
+**Part008 assembled Tamil construction + audit.**
+
+Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
