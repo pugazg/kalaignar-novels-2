@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 release-readiness review
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 release-ready synchronization
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,33 +6,26 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–007 are **FINAL CLOSED / FROZEN**.
 
-## Part008 closed state
+## Part008 closed workflow
 
 Tamil:
 
 - canonical Tamil — **16/16 verified**
 - visual fidelity — **16/16 verified**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status sync — **PASS / CLOSED**
-- documentation sync — **PASS / COMPLETE**
-- Tamil archival-ready — **PASS / CLOSED**
+- audit / final status / documentation / archival-ready — **ALL CLOSED / PASS**
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 
 English:
 
-- E22 — **SOURCE-CHECKED / COMPLETE**
-- E23 — **SOURCE-CHECKED / COMPLETE**
+- E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
 - glossary reconciliation — **RECONCILED / PASS**
-- glossary-driven body edits — **0**
-- English editorial review — **PASS / CLOSED**
-- editorial corrections — **9 total — E22 8 / E23 1**
-- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
-- bilingual corrections — **4 total — E22 4 / E23 0**
+- editorial review — **PASS / CLOSED — 9 corrections**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS / 4 corrections**
+- release/readiness — **PASS / CLOSED**
 - structural parity — **147/147 total; 134/134 rendered; 13/13 standalone provenance**
-- total provenance/comment occurrences — **16/16**
-- unresolved English review holds — **0**
+- unresolved source-check / glossary / editorial / bilingual / release blockers — **0**
 
-Boundary state:
+Boundary:
 
 - incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
 - outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
@@ -40,16 +33,14 @@ Boundary state:
 
 ## Exact next activity
 
-**Part008 release/readiness review and report.**
+**Part008 release-ready synchronization.**
 
 Requirements:
 
-- verify complete Tamil and English workflow closure on live main;
-- verify canonical Part008 pages 16/16 and visual fidelity 16/16;
-- verify assembled Tamil 2/2 and English sections E22–E23 2/2;
-- reconcile source-check, glossary, editorial and bilingual correction ledgers;
-- verify structural parity and provenance parity;
-- verify boundary locks;
-- verify no canonical/assembled Tamil drift, no frozen Parts001–007 English drift, no Part009 leakage, and no active Git PDFs;
-- create `translations/en/PART_008_RELEASE_REPORT.md`;
-- if PASS / CLOSED, advance only to **Part008 release-ready synchronization**.
+- synchronize lifecycle/status/navigation controls to the closed release/readiness state;
+- do not alter canonical Tamil, assembled Tamil or maintained E22/E23 English bodies;
+- confirm frozen Parts001–007 remain unchanged;
+- confirm no Part009/scan135 content and no active Git PDF paths;
+- create `PART_008_RELEASE_READY_SYNC.md`;
+- verify post-sync drift is control-only;
+- if PASS / CLOSED, advance immediately to **Part008 final closure / freeze**.
