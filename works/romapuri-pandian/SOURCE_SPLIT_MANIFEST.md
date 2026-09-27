@@ -19,8 +19,8 @@
 | 006 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_006_pages_86-102.pdf` | 48,077,888 | `df9f8994dc08da0c01e34a91204a29f17d9425ed7e6ebbc5806f4461a5bfb1c2` | 17 | 86–102 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 007 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_007_pages_103-118.pdf` | 45,974,175 | `6f6168983831c710ba3a9221ef504e7076aefd13e355efae6058384a2e5a25ae` | 16 | 103–118 | REGISTERED | **FINAL CLOSED / FROZEN** |
 | 008 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_008_pages_119-134.pdf` | 47,320,955 | `f8caf176e22589e4597ab1f5016ba3b04b86074e2732e87981baf69c90a8daa1` | 16 | 119–134 | REGISTERED | **FINAL CLOSED / FROZEN** |
-| 009 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf` | 47,618,126 | `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed` | 16 | 135–150 | REGISTERED | NOT STARTED |
-| 010 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 009 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_009_pages_135-150.pdf` | 47,618,126 | `a7f63613476ee895b342ad0cf3cb38c184fa3adfbf05109d8c4d80872eda0aed` | 16 | 135–150 | REGISTERED | **PASS / CLOSED / FROZEN** |
+| 010 | yes | `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf` | 49,942,707 | `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480` | 17 | 151–167 | REGISTERED | NOT STARTED |
 | 011 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 012 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 013 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -53,7 +53,7 @@
 
 ## Current frontier
 
-- supplied / registered Parts — **9/39**
+- supplied / registered Parts — **10/39**
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
 - Pass2B corrections — **7 source-text/lexical/spacing/punctuation; 0 historical-glyph; 0 unresolved**
@@ -1615,3 +1615,31 @@ Do not begin E25 until E24 is **SOURCE-CHECKED / COMPLETE**.
 Current frontier:
 
 **Part010 source intake + 150→151 adjacent-boundary witness inspection/setup when the Part010 source is supplied.**
+
+
+## Part010 source intake + incoming-boundary setup
+
+**PART010 INTAKE + INCOMING BOUNDARY — PASS / COMPLETE**
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf`
+- size — **49,942,707 bytes**
+- SHA-256 — `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480`
+- physical pages — **17**
+- global scans — **151–167**
+- source pixels — **controlling authority**
+- source text layer — **no usable parsed text**
+- scans151–155 — **Chapter 10 continuation / printed149–153**
+- scan156 — **blank physical page**
+- scan157 — **illustrated Chapter 11 title / 11 / ஓலை கை மாறியது**
+- scan158 — **Chapter 11 opening / no visible printed numeral**
+- scans159–167 — **Chapter 11 narrative / printed157–165**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Part009 frozen body mutations — **0**
+- canonical Part010 records created by intake — **0/17**
+- unresolved intake/boundary blockers — **0**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- durable controls — `SOURCE_INTAKE_PART_010.md`, `PART_010_INTAKE_BOUNDARY_SETUP.md`, `PART_009_BOUNDARY_AUDIT_150_151.md`
+
+Current frontier:
+
+**Part010 Pass1 Batch 1 — scans151–160 / local1–10.**

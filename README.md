@@ -9,8 +9,8 @@
 - source family — **TVA_BOK_0065553**
 - original source size — approximately **1.85 GB** (user-reported)
 - source design — **39 size-based split PDFs**, each <=50 MB
-- supplied / registered — **Part001–Part009 / 9 of 39**
-- mapped source extent so far — **global scans1–150**
+- supplied / registered — **Part001–Part010 / 10 of 39**
+- mapped source extent so far — **global scans1–167**
 - Part001 canonical records — **17/17**
 - Part001 Pass1 — **COMPLETE / PASS — 17/17 TEXT-COMPLETE**
 - Part001 Pass2A — **COMPLETE / PASS — 17/17 REVIEWED — 19 corrections / 0 unresolved**
@@ -1225,3 +1225,31 @@ Current frontier:
 Current frontier:
 
 **Part010 source intake + 150→151 adjacent-boundary witness inspection/setup when the Part010 source is supplied.**
+
+
+## Part010 source intake + incoming-boundary setup
+
+**PART010 INTAKE + INCOMING BOUNDARY — PASS / COMPLETE**
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf`
+- size — **49,942,707 bytes**
+- SHA-256 — `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480`
+- physical pages — **17**
+- global scans — **151–167**
+- source pixels — **controlling authority**
+- source text layer — **no usable parsed text**
+- scans151–155 — **Chapter 10 continuation / printed149–153**
+- scan156 — **blank physical page**
+- scan157 — **illustrated Chapter 11 title / 11 / ஓலை கை மாறியது**
+- scan158 — **Chapter 11 opening / no visible printed numeral**
+- scans159–167 — **Chapter 11 narrative / printed157–165**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- Part009 frozen body mutations — **0**
+- canonical Part010 records created by intake — **0/17**
+- unresolved intake/boundary blockers — **0**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- durable controls — `SOURCE_INTAKE_PART_010.md`, `PART_010_INTAKE_BOUNDARY_SETUP.md`, `PART_009_BOUNDARY_AUDIT_150_151.md`
+
+Current frontier:
+
+**Part010 Pass1 Batch 1 — scans151–160 / local1–10.**
