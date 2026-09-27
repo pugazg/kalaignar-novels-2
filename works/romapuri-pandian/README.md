@@ -748,3 +748,24 @@ Current frontier:
 Current frontier:
 
 **Part008 English translation planning/setup.**
+
+
+## Part008 English translation planning/setup
+
+**COMPLETE / PASS**
+
+- reserved sequence — **E22 → E23**
+- E22 — `sections/21-chapter-08-vedam-kalaindhathu.md` → `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`
+- E23 — `sections/22-chapter-09-peruntheviyin-maruththuvar.md` → `translations/en/sections/22-chapter-09-perunthevis-physician.md`
+- working titles — **The Disguise Falls Away! / Perunthevi's Physician**
+- drafted/source-checked — **0/2**
+- planning-created draft files — **0**
+- planning-created source-check records — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–007 English edits — **0**
+- Part009 leakage — **0**
+- durable planning — `PART_008_ENGLISH_PLANNING_SETUP.md`
+
+Current frontier:
+
+**E22 — draft + source-check Part008 Chapter 8 `வேடம் கலைந்தது!` / scans119–132.**
