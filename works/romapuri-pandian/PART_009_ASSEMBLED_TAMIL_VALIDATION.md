@@ -198,7 +198,8 @@ Post-assembly synchronized checkpoint before this verification record:
 Direct repository comparison from the pre-assembly checkpoint confirms:
 
 - total commits — **2**
-- changed files — **12**
+- changed files — **14**
+- lifecycle/status/navigation/control files changed — **12**
 - canonical `pages/` files changed — **0**
 - assembled Part009 content files introduced — **2**
 - exact assembled inventory — **section23 + section24 only**
