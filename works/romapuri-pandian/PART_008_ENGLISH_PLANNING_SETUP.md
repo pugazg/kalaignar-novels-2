@@ -192,3 +192,39 @@ Part008 planning glossary holds — **0**.
 Create the E22 English section only from the verified assembled Tamil input, preserve chapter-title/displayed-text structure, source-boundary provenance and blank scan132 provenance, source-check it against the verified Tamil authority, and create the durable E22 source-check record.
 
 Do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-planning synchronization verification
+
+Pre-planning checkpoint:
+
+`3de88c47e44b9615784b10986bf76c179bbf51cf`
+
+Post-planning synchronized checkpoint before this verification record:
+
+`8a86af23fa024b00f2ca80e3e59e934c5ccc1d82`
+
+Direct repository comparison confirms:
+
+- total commits — **15**
+- changed files — **15**
+- canonical `pages/` changes — **0**
+- assembled Part008 Tamil section changes — **0**
+- Part008 English body files created — **0**
+- E22 / E23 source-check records created — **0**
+- frozen Parts001–007 English-body changes — **0**
+- Part009 / scan135 repository paths — **0**
+- durable Part008 English planning control — **present**
+
+The synchronized controls agree on:
+
+- Part008 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- reserved English sequence — **E22 → E23**
+- E22 — **RESERVED / NEXT**
+- E23 — **RESERVED**
+- planned English drafts — **0/2**
+- source-checked English batches — **0/2**
+- unresolved planning holds — **0**
+- exact next activity — **E22 draft + source-check**
+
+Therefore English planning introduced no canonical Tamil, assembled Tamil, frozen English-body, Part009, or premature E22/E23 draft drift.
