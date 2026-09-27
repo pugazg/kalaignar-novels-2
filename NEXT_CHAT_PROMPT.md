@@ -1,53 +1,60 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 final closure / freeze
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 source intake + 134→135 boundary witness
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable frozen state
 
-Parts001–007 are **FINAL CLOSED / FROZEN**.
+Parts001–008 are **FINAL CLOSED / FROZEN**.
 
-## Part008 fully closed prerequisites
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to begin Part009.
 
-Tamil:
+## Part008 final closure
 
+**PASS / CLOSED / FROZEN**
+
+Part008 summary:
+
+- scans — **119–134 / 16**
 - canonical Tamil — **16/16 verified**
 - visual fidelity — **16/16 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **ALL CLOSED / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
-
-English:
-
 - E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
 - glossary reconciliation — **RECONCILED / PASS**
 - editorial review — **PASS / CLOSED — 9 corrections**
-- bilingual review — **PASS / CLOSED — 2/2 PAIRS — 4 corrections**
+- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
+- bilingual corrections — **4**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
-- structural parity — **147/147 total; 134/134 rendered; 13/13 standalone provenance**
-- unresolved source-check / glossary / editorial / bilingual / release / sync blockers — **0**
-
-Boundary state:
-
-- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
-- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- unresolved final blockers — **0**
+- post-release Tamil/assembled/English drift — **0**
 - Part009 leakage — **0**
+
+Durable closure:
+
+`PART_008_FINAL_CLOSURE.md`
+
+## Outgoing boundary
+
+Part008 scan134 ends mid-dialogue exactly at the supplied source boundary.
+
+- **134→135 — PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 source — **NOT SUPPLIED / NOT REGISTERED**
+- Part009 canonical records — **0**
+- scan135 Tamil/English inferred/imported — **0**
 
 ## Exact next activity
 
-**Create and independently verify Part008 final closure / freeze.**
+When the Part009 source is supplied:
+
+**Part009 source intake + 134→135 adjacent-boundary witness inspection/setup.**
 
 Requirements:
 
-- create `PART_008_FINAL_CLOSURE.md`;
-- independently reconcile the complete Tamil, assembled Tamil, English, bilingual, release/readiness and release-ready synchronization chain;
-- verify no post-release text-bearing drift;
-- confirm canonical Tamil / assembled Tamil / E22–E23 English remain unchanged after release/readiness;
-- confirm frozen Parts001–007 remain unchanged;
-- confirm no active Git PDFs and no Part009/scan135 content;
-- if PASS, declare **PART008 FINAL CLOSED / FROZEN**;
-- synchronize controls to show Parts001–008 FINAL CLOSED / FROZEN;
-- next frontier becomes **Part009 source intake + 134→135 adjacent-boundary witness inspection/setup when Part009 is supplied**.
+- register the supplied Part009 source before any canonical transcription;
+- verify file size, page count, SHA-256 and scan range from the actual source;
+- inspect scan135 as the adjacent witness against frozen scan134;
+- classify 134→135 only from direct source evidence;
+- do not infer scan135 before source supply;
+- do not mutate Parts001–008 merely to activate Part009;
+- only after intake/boundary setup passes may Part009 canonical transcription begin.
