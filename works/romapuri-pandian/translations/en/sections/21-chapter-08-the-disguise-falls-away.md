@@ -59,9 +59,9 @@ Irungovel did not want to probe further. Concluding that Thamarai would in any c
 
 <!-- source boundary: scan 121 → scan 122 -->
 
-"Good thing the broken tree did not fall on you. What brought you here, man?"
+"Good thing the broken tree did not fall on you. Why did you come here, man?"
 
-After remaining silent for a little while, Muthunagai said, "I was sleeping in that mandapam over there. I heard someone cutting wood. I thought perhaps it might be you, so I came. Tell me—do you practise your trade only at night? Are you stealing timber?"
+After remaining silent for a little while, Muthunagai said, "I was sleeping in that mandapam over there. I heard someone cutting wood. I thought perhaps it might be you, so I came. Tell me—do you practise your trade only at night? Are you cutting wood on the sly?"
 
 Enjoying the clever way she spoke in a man's voice, Irungovel nodded and said, "Yes!" How could she know that he had come only because he longed to see her again? If Thamarai took her home, he had feared that he might not get another chance to meet her, and so he had rushed there to see her once before that happened. He knew very well that she had been sitting by the waterfall. Yet he pretended to believe her lie that she had been sleeping in the mandapam! He had come to the place where he was cutting wood while watching her at the waterfall. He had even pretended to chop the tree merely to attract her attention. The tree fell. She came—and fell into his trap. Irungovel had not come that night intending to leave without speaking to her. He had come in a fever of eagerness to show her that he had realized she was a woman and to pass the night in sweet conversation and pleasure. Yet when she stood before him, he could not summon that courage.
 
@@ -199,7 +199,7 @@ Recipient: Veerapandi, spy of Pandiyan country.
 
 Spy!
 
-We have read your palm-leaf and understood its explanation. If it is true that Irungovel is in the forest you mention, collect every detail about it. Find out his location—his circumstances—the number of soldiers he has—and return with all of it. May the effort succeed!
+We have read your palm-leaf and understood the details. If it is true that Irungovel is in the forest you mention, collect every detail about it. Find out his location—his circumstances—the number of soldiers he has—and return with all of it. May the effort succeed!
 
 — Peruvazhuthi Pandiyan"
 
@@ -235,7 +235,7 @@ Irungovel let out a hollow laugh and listened carefully as she spoke.
 
 "Muthunagai! Why are you so concerned about Sezhiyan?" he asked, waiting for her answer.
 
-"After he fought Irungovel's commander and won, we treated the wounds on his body at our house. Isn't it a great responsibility to protect people like him who are devoted to their country? Sezhiyan is a very good man, a true Tamil. If not for him, Karikalan would have lost his life exactly as that wretch Irungovel intended!" Muthunagai replied.
+"After he fought Irungovel's commander and won, we treated the wounds on his body at our house. Isn't it a great responsibility to protect people like him who are devoted to their country? Sezhiyan is a very good man, a noble Tamil man. If not for him, Karikalan would have lost his life exactly as that wretch Irungovel intended!" Muthunagai replied.
 
 Her words burned with zeal for her cause. Irungovel enjoyed it. Yet he found it somewhat difficult to bear being abused to his own face.
 
