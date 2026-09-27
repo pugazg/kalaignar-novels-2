@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 Tamil archival-ready checkpoint
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 assembled Tamil construction + audit
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,50 +6,59 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–009 are **FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to advance Part010.
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to assemble Part010.
 
-## Part010 closed Tamil verification state
+## Part010 Tamil authority
 
 Source:
 
 `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_010_pages_151-167.pdf`
 
-- source size — **49,942,707 bytes**
-- SHA-256 — `36d8092574cd34b9c07734a9ff6b44be7a0e006832712a51f94c4e4b43e9e480`
 - scans — **151–167 / 17**
-- source intake / incoming boundary — **PASS / COMPLETE**
-- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- Pass1 — **COMPLETE / PASS — 17/17**
-- Pass2A — **COMPLETE / PASS — 17/17**
-- Pass2B — **COMPLETE / PASS — 17/17**
-- Pass3 — **COMPLETE / PASS — 17/17**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
 - canonical Tamil — **17/17 verified**
 - visual fidelity — **17/17 verified**
-- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+- documentation synchronization — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / CLOSED**
+- unresolved archival blockers — **0**
+- canonical `pages/` remains authoritative
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
 - Part011 / scan168 leakage — **0**
 
-Durable controls:
+Durable control:
 
-- `PART_010_AUDIT.md`
-- `PART_010_FINAL_STATUS_SYNC.md`
-- `PART_010_DOCUMENTATION_SYNC.md`
+`PART_010_TAMIL_ARCHIVAL_READY.md`
 
 ## Exact next activity
 
-**Part010 Tamil archival-ready checkpoint.**
+**Part010 assembled Tamil construction + audit.**
+
+Expected assembled inventory:
+
+1. `sections/25-chapter-10-erimalaimeethu-suriyakanthi-part010-continuation.md`
+   - Part010 Chapter 10 continuation;
+   - source scans **151–156**;
+   - rendered publication text from scans151–155;
+   - scan156 represented by non-rendering blank-page provenance only;
+   - incoming audited continuation 150→151 represented by provenance only; do not import frozen scan150 body.
+2. `sections/26-chapter-11-olai-kai-maariyathu.md`
+   - source scans **157–167**;
+   - scan157 displayed Chapter 11 title included from canonical source transcription;
+   - scans158–167 narrative included exactly from verified canonical source-transcription blocks;
+   - outgoing 167→168 pending evidence represented only as non-rendering provenance; do not infer/import scan168.
 
 Requirements:
 
-- verify documentation synchronization is **PASS / COMPLETE**;
-- verify all 17 Part010 canonical records remain `verified / verified`;
-- verify unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers are **0**;
-- verify incoming 150→151 remains audited and outgoing 167→168 remains an external deferred witness, not a supplied-Part blocker;
-- verify no Part010-specific assembled Tamil continuation / Chapter 11 section files or English continuation / Chapter 11 section-body files were introduced before this checkpoint;
-- verify Parts001–009 remain frozen;
-- create durable `PART_010_TAMIL_ARCHIVAL_READY.md`;
-- do not alter canonical page files, verified status fields, Tamil body, assembled Tamil or maintained English;
-- only after archival-ready closes **PASS / CLOSED** may Part010 assembled Tamil construction + audit begin.
+- deterministically assemble only from verified canonical Part010 `## Source transcription` blocks;
+- preserve canonical Tamil wording and punctuation exactly;
+- use established assembled-reading YAML/provenance conventions;
+- represent physical page boundaries with non-rendering comments;
+- represent scan156 blank page by provenance only;
+- verify physical coverage **17/17** and publication-text/displayed-title coverage with no omission or duplication;
+- verify no audit/workflow-note leakage into rendered Tamil;
+- verify no unsupported Tamil insertion;
+- make no canonical `pages/` changes;
+- make no English changes;
+- keep Parts001–009 frozen;
+- create durable `PART_010_ASSEMBLED_TAMIL_VALIDATION.md`;
+- do not begin English translation planning until assembled Tamil closes **PASS / CLOSED**.
