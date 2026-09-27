@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch2 
 
 “நீங்கள் என்னிடம் எதைப் பற்றிக் கேட்க வேண்டுமென்று விரும்புகிறீர்கள்?” என்று அன்பு குழைந்த தொனியில் கேட்டாள்.
 
-“என்னைப் பற்றி ஒரு கதை சொல்கிறேன். கேள் முதலில்” என்று ஆரம்பித்தான். “ஒரு நாள் என் மன்னவர் பாண்டியன் பெருவழுதி என்னையழைத்து ஓர் அழகிய பெண்ணின் படத்தைக் காட்டி, ‘இவள்தான் உனக்கு மனைவியாக வரப்போகிறவள்’ என்று கூறினார். படத்தைப் பார்த்த நான் எந்த மறுப்பும் கூறவில்லை. என் சம்மதத்தைப் புரிந்து கொண்டார். பிறகு ஏற்பட்ட அரசியல் சூழ்நிலைகளால் திருமணம் நடைபெறாமல் போய்விட்டது. அந்தப் படத்தில் நான் கண்ட அழகியை இதுநாள் வரையில் தேடிக் கொண்டேயிருந்தேன்; கிடைக்கவில்லை.”
+“என்னைப்பற்றி ஒரு கதை சொல்கிறேன். கேள் முதலில்” என்று ஆரம்பித்தான். “ஒரு நாள் என் மன்னவர் பாண்டியன் பெருவழுதி என்னையழைத்து ஓர் அழகிய பெண்ணின் படத்தைக் காட்டி, ‘இவள்தான் உனக்கு மனைவியாக வரப்போகிறவள்’ என்று கூறினார். படத்தைப் பார்த்த நான் எந்த மறுப்பும் கூறவில்லை. என் சம்மதத்தைப் புரிந்து கொண்டார். பிறகு ஏற்பட்ட அரசியல் சூழ்நிலைகளால் திருமணம் நடைபெறாமல் போய்விட்டது. அந்தப் படத்தில் நான் கண்ட அழகியை இதுநாள் வரையில் தேடிக் கொண்டேயிருந்தேன்; கிடைக்கவில்லை.”
 
 “அதற்கென்ன? இந்தக் கதை கேட்கவா என்னை உட்கார வைத்தீர்கள்?”
 
@@ -46,3 +46,16 @@ transcription_method: "direct source-pixel transcription; Part009 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 147; பகுதி: 009; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 145; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part009 Pass 2A review
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling rendered source pixels;
+- source-text corrections at Pass2A: **1**;
+- source-supported correction: என்னைப் பற்றி → என்னைப்பற்றி;
+- unresolved textual questions after this review: **0**;
+- printed-page mapping correction at Pass2A: **0**;
+- page-type / section-label correction at Pass2A: **0 / 0**;
+- physical-boundary / continuation correction at Pass2A: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
