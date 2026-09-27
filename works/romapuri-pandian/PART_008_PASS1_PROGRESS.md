@@ -286,3 +286,29 @@ Therefore Batch2 / whole-Part Pass1 repository drift outside the authorized cano
 Current frontier:
 
 **Part008 Pass2B Batch 1 — scans119–127 / local1–9.**
+
+
+## Part008 Pass2B closure
+
+**PART008 PASS2B — COMPLETE / PASS — 16/16 REVIEWED**
+
+- Batch1 scans119–127 — **9/9 PASS**
+- Batch2 scans128–134 — **7/7 PASS**
+- new source-text / lexical / spacing / punctuation corrections — **4**
+- corrected pages — **3 — scans128, 129, 130**
+- historical-glyph / historical-orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- scan128 corrections — `குறிப்பிடும்`; `கொண்டிருக்கின்றனவே`
+- scan129 correction — source punctuation `மீட்க வேண்டும்..`
+- scan130 correction — source spacing `ம்...இயற்கை`
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain `needs-review / needs-review`
+- frozen Parts001–007 mutations — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 / scan135 leakage — **0**
+- durable control — `PART_008_PASS2B_PROGRESS.md`
+
+Current frontier:
+
+**Part008 Pass3 — scans119–134 / local1–16.**
