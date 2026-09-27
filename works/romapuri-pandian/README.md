@@ -533,3 +533,24 @@ Current frontier:
 Current frontier:
 
 **Part008 Pass1 Batch 1 — scans119–128 / local1–10.**
+
+
+## Part008 Pass1 Batch1 closure
+
+**COMPLETE / PASS / TEXT-COMPLETE**
+
+- Batch1 — **scans119–128 / local1–10**
+- canonical records — **10/16**
+- scan119 — **Chapter 8 title / வேடம் கலைந்தது!**
+- scan120 — **Chapter 8 opening**
+- scans121–128 — **printed119–126**
+- source-supported Pass1 corrections — **1 — scan125**
+- unresolved Pass1 holds — **0**
+- all Batch1 pages — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- frozen Parts001–007 mutations — **0**
+- Batch2 early canonical records — **0**
+- durable progress — `PART_008_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part008 Pass1 Batch2 — scans129–134 / local11–16 — final 6-page remainder.**
