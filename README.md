@@ -468,3 +468,23 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 Part audit.**
+
+
+## Part008 Part audit closure
+
+**PART008 PART AUDIT — PASS / COMPLETE**
+
+- canonical records — **16/16**
+- scan/local coverage — **119–134 / 1–16 continuous**
+- missing / duplicate records — **0 / 0**
+- source-filename / pagination / page-type / section-label mismatches — **0 / 0 / 0 / 0**
+- Pass1 / Pass2A / Pass2B / Pass3 evidence — **reconciled**
+- unresolved supplied-Part blockers — **0**
+- status / visual promotions during audit — **0 / 0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–007 mutations — **0**
+- Part009 leakage — **0**
+
+## Current exact next activity
+
+**Part008 final metadata/status synchronization.**
