@@ -142,3 +142,38 @@ This checkpoint causes:
 **Part008 assembled Tamil construction + audit.**
 
 Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+
+
+## Post-checkpoint control synchronization verification
+
+Pre-checkpoint live head:
+
+`a88ccea0d65376c5a2f800b8a6a1031507be25af`
+
+Post-checkpoint synchronized head before this verification record:
+
+`e94096d453a93f3be019934f37bac0f3d35bc548`
+
+Direct repository comparison confirms:
+
+- total commits since pre-checkpoint head — **18**
+- changed files — **18**
+- canonical `pages/` changes — **0**
+- Part008 assembled Tamil content files introduced — **0**
+- Part008 English section-body files introduced — **0**
+- frozen Parts001–007 canonical/body changes — **0**
+- Part009 / scan135 repository paths — **0**
+- active Git PDF paths — **0**
+- durable archival-ready control — **present**
+
+The synchronized controls agree on:
+
+- Part008 final metadata/status synchronization — **PASS / CLOSED**
+- Part008 documentation synchronization — **PASS / COMPLETE**
+- Part008 Tamil archival-ready — **PASS / CLOSED**
+- canonical Tamil — **16/16 verified**
+- visual fidelity — **16/16 verified**
+- unresolved archival-ready blockers — **0**
+- exact next gate — **Part008 assembled Tamil construction + audit**
+
+Therefore the archival-ready checkpoint introduced no canonical Tamil, assembled Tamil, English-body, frozen earlier-Part, or Part009 drift.
