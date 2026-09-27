@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 Pass2A — scans119–134
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part008 Pass2B Batch1 — scans119–127
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,42 +26,60 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 - outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
 - Part009 / scan135 inferred/imported — **0**
 
-## Part008 Pass1 closed state
+## Part008 Pass1
 
-**PART008 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+**COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 
-- scans119–134 — **continuous**
-- local pages1–16 — **continuous**
 - canonical records — **16/16**
-- text/display-bearing physical pages — **15/16**
-- blank physical pages — **1 — scan132**
-- illustrated chapter-title pages — **2 — scan119 Chapter 8 / scan133 Chapter 9**
-- chapter-opening no-printed-number pages — **2 — scans120 and134**
-- printed-page sequence — **119–129 across scans121–131**
-- Chapter 8 — **scans119–131 / வேடம் கலைந்தது!**
-- Chapter 9 — **scans133–134 / பெருந்தேவியின் மருத்துவர்**
-- source-supported Pass1 corrections — **1 total — scan125**
-- unresolved Pass1 source-reading holds — **0**
-- all 16 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- source-supported Pass1 corrections — **1 — scan125**
+- unresolved Pass1 holds — **0**
+
+## Part008 Pass2A
+
+**COMPLETE / PASS — 16/16 REVIEWED**
+
+- source-supported corrections — **4**
+- corrected pages — **1 — scan121**
+- clean pages — **15/16**
+- unresolved textual questions — **0**
+- printed-page mapping corrections — **0**
+- page-type / section corrections — **0**
+- page-boundary / continuation corrections — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain `needs-review / needs-review`
 - frozen Parts001–007 mutations — **0**
 
-Durable control:
+Pass2A scan121 corrections:
 
-`PART_008_PASS1_PROGRESS.md`
+1. `வெட்டுண்ட மரம் அவளை நோக்கியா சாய்ந்து ‘வேண்டாம்’` → `வெட்டுண்ட மரமும் அவளை நோக்கியா சாய்ந்திட வேண்டும்?`
+2. `மரம் தன் மேல் தான்` → `மரம் தன்மேல் தான்`
+3. `விழுந்துவிட்டாள்.` → `விழுந்து விட்டாள்.`
+4. `விழுந்திருந்தது!` → `விழுந்திருந்தது.`
+
+Durable controls:
+
+- `PART_008_PASS1_PROGRESS.md`
+- `PART_008_PASS2A_PROGRESS.md`
 
 ## Exact next activity
 
-**Part008 Pass2A — scans119–134 / local1–16.**
+**Part008 Pass2B Batch 1 — global scans119–127 / local pages1–9.**
 
-Requirements:
+Pass2B requirements:
 
-- independently compare every canonical record against the rendered source pixels;
-- check word-by-word Tamil, punctuation, spacing, paragraph/dialogue boundaries, displayed titles, printed-page mapping, page type and physical continuation boundaries;
-- preserve historical/source spelling and punctuation; do not normalize;
-- explicitly verify scan120→121, scan124→125 and scan127→128 joins;
-- verify scan131 Chapter 8 close, scan132 blank separator, scan133 Chapter 9 title, scan134 Chapter 9 opening;
-- preserve outgoing scan134 terminal fragment `...யாருக்கும் ஜாடையாகக் கூடத் தெரியக்கூடாது;` without inferring scan135;
-- record every source-supported correction in `PART_008_PASS2A_PROGRESS.md`;
-- all records must remain `needs-review / needs-review`;
-- no final status or visual-fidelity promotion during Pass2A;
-- no outside-source comparison.
+- perform an independent source-fidelity reread from rendered source pixels;
+- focus on lexical forms, historical spelling, glyph distinctions, word boundaries, punctuation and source-sensitive colloquial forms;
+- review scans119–127 only in Batch1;
+- do not normalize Tamil;
+- explicitly re-confirm the Pass2A-corrected scan121 wording;
+- preserve scan120→121 and scan124→125 physical joins;
+- keep all records `status: "needs-review"` / `visual_fidelity: "needs-review"`;
+- no final status promotion during Pass2B;
+- no outside-source comparison;
+- do not begin Batch2 until Batch1 closes.
+
+Fixed Pass2B cadence:
+
+- Batch1 — **scans119–127 / local1–9**
+- Batch2 — **scans128–134 / local10–16 — final 7-page remainder**
