@@ -224,3 +224,39 @@ Audit the live Part010 repository state against the closed intake / Pass1 / Pass
 - no status promotion during the audit.
 
 Do not begin final metadata/status synchronization until the Part audit closes **PASS / COMPLETE**.
+
+
+## Part010 Part audit closure
+
+**PART010 PART AUDIT — PASS / COMPLETE**
+
+- source intake / incoming-boundary setup — **PASS / COMPLETE**
+- Pass1 — **COMPLETE / PASS — 17/17**
+- Pass2A — **COMPLETE / PASS — 17/17**
+- Pass2B — **COMPLETE / PASS — 17/17**
+- Pass3 — **COMPLETE / PASS — 17/17**
+- canonical records — **17/17**
+- scans / local pages — **151–167 / 1–17 continuous**
+- duplicate / missing records — **0 / 0**
+- source filename identity — **17/17 exact**
+- printed-page mapping — **PASS**
+- page-type / section mapping — **PASS**
+- Pass1 correction reconciled — **1/1**
+- Pass2A corrections reconciled — **9/9**
+- Pass2B corrections reconciled — **3/3**
+- unresolved textual / lexical / historical-glyph / visual / structural questions — **0**
+- scan156 blank handling — **PASS**
+- scan157 Chapter 11 title — **PASS**
+- scan158 opening-page metadata — **PASS**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- Part011 / scan168 leakage — **0**
+- premature Part010 assembled / English section-body leakage — **0 / 0**
+- all 17 records remain **needs-review / needs-review**
+- audit status / visual-fidelity promotions — **0 / 0**
+- frozen Parts001–009 mutations — **0**
+- durable control — `PART_010_AUDIT.md`
+
+Current frontier:
+
+**Part010 final metadata/status synchronization.**
