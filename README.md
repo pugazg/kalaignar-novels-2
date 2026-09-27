@@ -653,3 +653,23 @@ Part008 English source-check state:
 Current frontier:
 
 **Part008 release/readiness review and report.**
+
+
+## Part008 release/readiness closure
+
+**PART008 RELEASE/READINESS — PASS / CLOSED**
+
+- canonical Tamil / visual fidelity — **16/16 / 16/16 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- English E22–E23 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED — 9 corrections**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS / 4 corrections**
+- structural parity — **147/147 total; 134/134 rendered; 13/13 provenance**
+- unresolved release/readiness blockers — **0**
+- frozen Parts001–007 drift — **0**
+- Part009 leakage — **0**
+
+Current frontier:
+
+**Part008 release-ready synchronization.**
