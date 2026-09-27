@@ -352,3 +352,21 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 Pass1 Batch 1 — scans119–128 / local pages1–10.**
+
+
+## Part008 Pass1 Batch1 closure
+
+- Part008 source — **REGISTERED / AUTHORIZED — scans119–134 / 16**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- Pass1 Batch1 — **COMPLETE / PASS / TEXT-COMPLETE — scans119–128 / local1–10**
+- canonical Part008 records — **10/16**
+- source-supported Pass1 corrections — **1 — scan125**
+- unresolved Pass1 holds — **0**
+- status / visual promotions — **0 / 0**
+- frozen Parts001–007 mutations — **0**
+- scans129–134 created early — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness**
+
+## Current exact next activity
+
+**Part008 Pass1 Batch2 — scans129–134 / local11–16 — final 6-page remainder.**
