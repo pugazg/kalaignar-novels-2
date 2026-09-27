@@ -218,3 +218,32 @@ On the next explicit continuation with the Part010 source:
 **Part010 source intake + 150→151 adjacent-boundary witness inspection/setup.**
 
 Do not infer scan151 or begin Part010 canonical transcription without the supplied source.
+
+
+## 12. Post-closure synchronization verification
+
+Final text-bearing review checkpoint:
+
+`406503d641c7c991051f3623f6cff2f2f79e6c25`
+
+Post-final-closure synchronized head before this verification record:
+
+`1adc568e4d97884e0a4b53dbb89ebe723f2d2d47`
+
+Direct comparison confirms the complete release/final-closure synchronization phase spans **4 commits / 16 changed files** and contains **no text-bearing authority/body drift**:
+
+- canonical `pages/` changes — **0**
+- assembled Part009 Tamil section-body changes — **0**
+- maintained Part009 English section-body changes — **0**
+- frozen Parts001–008 English section-body changes — **0**
+- active Git PDF paths — **0**
+- Part010 / scan151 repository paths — **0**
+
+Live-tree verification confirms:
+
+- `PART_009_FINAL_CLOSURE.md` — **present**
+- Parts001–009 control frontier — **FINAL CLOSED / FROZEN**
+- Part010 — **NOT SUPPLIED / NOT REGISTERED**
+- next activity — **Part010 source intake + 150→151 adjacent-boundary witness inspection/setup when source is supplied**
+
+Unauthorized textual drift after the final bilingual body checkpoint — **0**.
