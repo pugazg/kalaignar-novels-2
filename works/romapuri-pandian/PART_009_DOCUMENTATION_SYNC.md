@@ -144,3 +144,40 @@ Documentation synchronization causes:
 **Part009 Tamil archival-ready checkpoint.**
 
 Do not construct Part009 assembled Tamil until the Tamil archival-ready checkpoint closes.
+
+
+## Post-synchronization verification
+
+Starting documentation-sync checkpoint:
+
+`7d26e61b874fabf15eae10e57c381ef9bb068908`
+
+Documentation synchronization commit:
+
+`70b0b824a075b91c6989f1af84668aaff1b7540e`
+
+Direct live comparison confirms:
+
+- commits — **1**
+- changed files — **16**
+- lifecycle/status/navigation/control files updated — **15**
+- durable `PART_009_DOCUMENTATION_SYNC.md` added — **1**
+- canonical `pages/` changes — **0**
+- Part009 canonical Tamil body changes — **0**
+- Part009 verified status-field changes — **0**
+- assembled Tamil `sections/` changes — **0**
+- maintained English `translations/` changes — **0**
+- frozen Parts001–008 changes — **0**
+- Part010 / scan151 repository paths — **0**
+- documentation-sync durable record — **present**
+- next-chat frontier — **Part009 Tamil archival-ready checkpoint**
+- Tamil assembled section frontier — **section22 / Part008**
+- English section-body frontier — **section22 / Part008**
+
+Therefore documentation synchronization drift outside the authorized control-document scope — **0**.
+
+The synchronized live frontier remains:
+
+**Part009 Tamil archival-ready checkpoint.**
+
+Do not construct Part009 assembled Tamil until the archival-ready checkpoint closes.
