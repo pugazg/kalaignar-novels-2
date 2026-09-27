@@ -599,3 +599,8 @@ Part008 documentation synchronization is **PASS / COMPLETE**. All Part008 lifecy
 
 
 Part008 Tamil archival-ready checkpoint is **PASS / CLOSED**. Canonical Tamil and visual fidelity are both 16/16 verified; unresolved archival-ready blockers are 0. No Part008 assembled Tamil or English files existed before closure, Parts001–007 remain frozen, and Part009 is not introduced. Exact next activity: **Part008 assembled Tamil construction + audit**, expected maintained section orders 21–22.
+
+- `PART_008_ASSEMBLED_TAMIL_VALIDATION.md`
+
+
+Part008 assembled Tamil is **PASS / CLOSED — 2/2 VERIFIED**. Section21 covers Chapter 8 `வேடம் கலைந்தது!` across scans119–132 including blank scan132 provenance; section22 covers Chapter 9 `பெருந்தேவியின் மருத்துவர்` across scans133–134. Physical coverage is 16/16, publication-text/displayed-title coverage is 15/15 plus blank provenance, exact canonical reconstruction is 2/2 PASS, and missing/duplicate/unsupported insertion/canonical mutation/Part009 leakage are all 0. Exact next activity: **Part008 English translation planning/setup**.
