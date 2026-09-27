@@ -152,3 +152,34 @@ This checkpoint causes:
 **Part009 assembled Tamil construction + audit.**
 
 Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+
+
+## Post-checkpoint control synchronization verification
+
+Pre-checkpoint live head:
+
+`65752db519e7e76fe6a35a42c9cc0876742afdc7`
+
+Archival-ready synchronized checkpoint:
+
+`2d74ad589301aaba952f1a92559dd8a576b2f743`
+
+Direct repository comparison confirms:
+
+- commits — **1**
+- changed files — **17**
+- canonical `pages/` changes — **0**
+- Part009 canonical Tamil body changes — **0**
+- Part009 verified status-field changes — **0**
+- assembled Tamil `sections/` changes — **0**
+- maintained English `translations/` changes — **0**
+- frozen Parts001–008 changes — **0**
+- Part010 / scan151 repository paths — **0**
+- Part009 assembled Tamil files introduced — **0**
+- Part009 English section-body files introduced — **0**
+- durable archival-ready control — **present**
+- next-chat frontier — **Part009 assembled Tamil construction + audit**
+
+Therefore archival-ready synchronization drift outside the authorized control-document scope — **0**.
+
+The archival-ready checkpoint is closed, and assembled Tamil may now begin from verified canonical `pages/` only.
