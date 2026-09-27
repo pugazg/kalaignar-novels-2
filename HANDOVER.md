@@ -571,3 +571,6 @@ Part008 Pass2A is **COMPLETE / PASS — 16/16 REVIEWED**. Four source-supported 
 
 
 Part008 Pass2B Batch1 is **COMPLETE / PASS — 9/9** for scans119–127 / local1–9. The independent source-pixel reread found **0 new source-text/lexical/spacing/punctuation corrections**, **0 historical-glyph/orthography corrections**, and **0 unresolved questions**. The four Pass2A corrections on scan121 were independently re-confirmed. All pages remain needs-review / needs-review; frozen Parts001–007 are untouched; no Part009 text was inferred. Exact next activity: **Part008 Pass2B Batch2 — scans128–134 / local10–16 — final 7-page remainder**.
+
+
+Part008 Pass2B is **COMPLETE / PASS — 16/16 REVIEWED**. Batch1 scans119–127 is 9/9 PASS; Batch2 scans128–134 is 7/7 PASS. Pass2B added 4 source-supported corrections across scans128–130: `குறிப்பிடும்`, `கொண்டிருக்கின்றனவே`, source punctuation `மீட்க வேண்டும்..`, and source spacing `ம்...இயற்கை`. Historical-glyph/orthography corrections are 0; unresolved Pass2B questions are 0. All 16 records remain needs-review / needs-review; Parts001–007 remain frozen; Part009 is not inferred. Exact next activity: **Part008 Pass3 — scans119–134 / local1–16**.
