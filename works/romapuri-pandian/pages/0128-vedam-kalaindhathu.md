@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch1 
 
 ஒற்றரே!
 
-உமது ஓலை கண்டு விளக்கமறிந்தோம். நீர் குறிப்படும் காட்டில்தான் இருங்கோவேள் இருக்கிறான் என்பது சரியானால் அதுபற்றிய எல்லா விவரங்களையும் சேகரித்து வரவும். அவன் இருப்பிடம் - சூழ்நிலை - அவனிடமுள்ள படைவீரர் கணக்கு - இத்தனையும் தெரிந்து கொண்டு வந்து சேரவும். வெல்க முயற்சி!
+உமது ஓலை கண்டு விளக்கமறிந்தோம். நீர் குறிப்பிடும் காட்டில்தான் இருங்கோவேள் இருக்கிறான் என்பது சரியானால் அதுபற்றிய எல்லா விவரங்களையும் சேகரித்து வரவும். அவன் இருப்பிடம் - சூழ்நிலை - அவனிடமுள்ள படைவீரர் கணக்கு - இத்தனையும் தெரிந்து கொண்டு வந்து சேரவும். வெல்க முயற்சி!
 
 - பெருவழுதிப் பாண்டியன்”
 
@@ -43,7 +43,7 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch1 
 
 “இல்லை! என்னை அடிமையாக்கி விட்டீர்கள்!”
 
-“பாண்டிய நாடும் சோழ நாடும் நட்புக் கொண்டிருக்கின்றவே தவிர ஒன்றையொன்று அடிமைப்படுத்தவில்லையே - அது போலத்தான் நாமும்!”
+“பாண்டிய நாடும் சோழ நாடும் நட்புக் கொண்டிருக்கின்றனவே தவிர ஒன்றையொன்று அடிமைப்படுத்தவில்லையே - அது போலத்தான் நாமும்!”
 
 ## Pass 1 notes
 
@@ -65,3 +65,15 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch1 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part008 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical forms, historical spelling, glyph distinctions, word boundaries, punctuation, displayed text and source-sensitive colloquial forms;
+- source-visible `நீர் குறிப்பிடும்` and `நட்புக் கொண்டிருக்கின்றனவே` restored exactly;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **2**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
