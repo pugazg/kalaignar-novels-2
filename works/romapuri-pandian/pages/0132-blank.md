@@ -36,3 +36,15 @@ transcription_method: "direct source-pixel transcription; Part008 Pass 1 Batch2 
 - unresolved textual questions after this review: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part008 Pass 2B review
+
+- independent source-fidelity reread completed directly from the rendered source pixels;
+- focus: lexical forms, historical spelling, glyph distinctions, word boundaries, punctuation, displayed text and source-sensitive colloquial forms;
+- blank physical separator independently re-confirmed; reverse-side bleed-through remains excluded from source text;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **0**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / historical-glyph / spacing / punctuation questions after this review: **0**;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
