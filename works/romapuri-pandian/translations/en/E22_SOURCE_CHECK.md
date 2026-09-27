@@ -219,3 +219,37 @@ Part008 English batch state:
 **E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
 
 Do not begin whole-Part glossary reconciliation until E23 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-E22 synchronization verification
+
+Pre-E22 planning checkpoint:
+
+`b52f19c6e11b05d95312e0b49c39e3ab0d8360ab`
+
+Post-E22 synchronized checkpoint before this verification record:
+
+`be444d7c44bd05fdf91ce7d32b0684aad80bde41`
+
+Direct repository comparison confirms:
+
+- total commits since pre-E22 checkpoint — **17**
+- changed files — **15**
+- canonical `pages/` changes — **0**
+- assembled Part008 Tamil changes — **0**
+- E22 English body file changed — **1 expected**
+- durable E22 source-check record — **present**
+- E23 English body files — **0**
+- E23 source-check records — **0**
+- Part009 / scan135 repository paths — **0**
+- frozen Parts001–007 English-body drift — **0**
+
+The synchronized controls agree on:
+
+- E22 — **SOURCE-CHECKED / COMPLETE**
+- E23 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+- unresolved English source-check holds — **0**
+- exact next activity — **E23 draft + source-check**
+
+Therefore E22 introduced no canonical Tamil, assembled Tamil, frozen earlier-English, E23-premature, or Part009 drift.
