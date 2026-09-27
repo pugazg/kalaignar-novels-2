@@ -35,7 +35,7 @@ A torch was burning. Someone was chopping at a tree beside it.
 
 The man doing the cutting had his back turned, so she could not identify him.
 
-His build looked very much like that of the man she had met at the pavilion. But she could not be certain from that examination. Muthunagai stood bewildered, not knowing whether to go closer or remain there and watch.
+His build looked very much like that of the man she had met at the mandapam. But she could not be certain from that examination. Muthunagai stood bewildered, not knowing whether to go closer or remain there and watch.
 
 "Who could it be?" The thought was still running through her mind when, with a cracking rush, the tree broke and began to fall <!-- source boundary: scan 120 → scan 121 -->down. The terrifying crash of the falling tree echoed through the entire forest. Muthunagai shuddered. Did the felled tree too have to fall toward her? Seeing that it was going to fall on her, Muthunagai cried, "Oh!" and collapsed to the ground.
 
@@ -61,11 +61,11 @@ Irungovel did not want to probe further. Concluding that Thamarai would in any c
 
 "Good thing the broken tree did not fall on you. What brought you here, man?"
 
-After remaining silent for a little while, Muthunagai said, "I was sleeping in that pavilion over there. I heard someone cutting wood. I thought perhaps it might be you, so I came. Tell me—do you practise your trade only at night? Are you stealing timber?"
+After remaining silent for a little while, Muthunagai said, "I was sleeping in that mandapam over there. I heard someone cutting wood. I thought perhaps it might be you, so I came. Tell me—do you practise your trade only at night? Are you stealing timber?"
 
-Enjoying the clever way she spoke in a man's voice, Irungovel nodded and said, "Yes!" How could she know that he had come only because he longed to see her again? If Thamarai took her home, he had feared that he might not get another chance to meet her, and so he had rushed there to see her once before that happened. He knew very well that she had been sitting by the waterfall. Yet he pretended to believe her lie that she had been sleeping in the pavilion! He had come to the place where he was cutting wood while watching her at the waterfall. He had even pretended to chop the tree merely to attract her attention. The tree fell. She came—and fell into his trap. Irungovel had not come that night intending to leave without speaking to her. He had come trembling with eagerness to show her that he had realized she was a woman and to pass the night in sweet conversation and pleasure. Yet when she stood before him, he could not summon that courage.
+Enjoying the clever way she spoke in a man's voice, Irungovel nodded and said, "Yes!" How could she know that he had come only because he longed to see her again? If Thamarai took her home, he had feared that he might not get another chance to meet her, and so he had rushed there to see her once before that happened. He knew very well that she had been sitting by the waterfall. Yet he pretended to believe her lie that she had been sleeping in the mandapam! He had come to the place where he was cutting wood while watching her at the waterfall. He had even pretended to chop the tree merely to attract her attention. The tree fell. She came—and fell into his trap. Irungovel had not come that night intending to leave without speaking to her. He had come trembling with eagerness to show her that he had realized she was a woman and to pass the night in sweet conversation and pleasure. Yet when she stood before him, he could not summon that courage.
 
-"I'll split the tree into firewood tomorrow. Let us sleep for a while. Come, man, let's go to the pavilion!" he called to Muthunagai.
+"I'll split the tree into firewood tomorrow. Let us sleep for a while. Come, man, let's go to the mandapam!" he called to Muthunagai.
 
 "No, I'm not coming!" she said.
 
@@ -79,7 +79,7 @@ Enjoying the clever way she spoke in a man's voice, Irungovel nodded and said, "
 
 and, as though to prove him right, a drizzle began to fall. The thunder too grew loud.
 
-"See? The rain's already here! Come on, man!" he urged, picking up the torch and pulling her along. Unable to say anything, she went with him. What else could she do? She wanted to go, yet she was afraid of what might happen if she did. Still, she went with him. They entered the pavilion just as the rain began to pour heavily. She grew worried about the horse tied near the waterfall.
+"See? The rain's already here! Come on, man!" he urged, picking up the torch and pulling her along. Unable to say anything, she went with him. What else could she do? She wanted to go, yet she was afraid of what might happen if she did. Still, she went with him. They entered the mandapam just as the rain began to pour heavily. She grew worried about the horse tied near the waterfall.
 
 "What are you thinking about, man?" Irungovel asked, giving her a pat on the back.
 
@@ -107,9 +107,9 @@ Muthunagai laughed.
 
 "All right, let's sleep!" Irungovel told her.
 
-Thinking that it would be dangerous to keep talking, Muthunagai agreed that they should sleep and lay down on one side of the pavilion. The feelings rising within her frightened her greatly. She trembled at the thought that something untoward might happen. She planned to pretend to sleep and run away once he fell asleep. But if she was so afraid, why had she come at all? Does desire know shame? He too lay down very near her. How could she stop him? If she did, she would have to reveal the truth that she was a woman. Holding her breath, saying nothing, she began pretending to sleep. And would Irungovel be able to sleep?
+Thinking that it would be dangerous to keep talking, Muthunagai agreed that they should sleep and lay down on one side of the mandapam. The feelings rising within her frightened her greatly. She trembled at the thought that something untoward might happen. She planned to pretend to sleep and run away once he fell asleep. But if she was so afraid, why had she come at all? Does desire know shame? He too lay down very near her. How could she stop him? If she did, she would have to reveal the truth that she was a woman. Holding her breath, saying nothing, she began pretending to sleep. And would Irungovel be able to sleep?
 
-"...Tch, tch, tch! This light is ruining my sleep!" he muttered. He got up and, without putting out the torch, carried it behind a broken wall in the pavilion. Then he came back and was about to lie down near her.
+"...Tch, tch, tch! This light is ruining my sleep!" he muttered. He got up and, without putting out the torch, carried it behind a broken wall in the mandapam. Then he came back and was about to lie down near her.
 
 "Lie a little farther away! Otherwise I won't be able to sleep!" she said.
 
@@ -119,7 +119,7 @@ Both of them lay pretending to sleep. A little time passed this way. Muthunagai 
 
 "Ayyo! Snake! Snake!" she screamed, rushing to Irungovel and clinging tightly to him.
 
-"Where? Where?" he kept asking, but the thought of running to fetch the torch did not occur to him at all. How could it, when she was embracing him? Only after she released him did he take the torch and look all around. The very snake that he had brought there with the medicinal plant <!-- source boundary: scan 124 → scan 125 -->was crawling away. He ran quickly, caught it by the tail, whirled it around and around, and struck it against a pillar of the pavilion. The snake fell dead.
+"Where? Where?" he kept asking, but the thought of running to fetch the torch did not occur to him at all. How could it, when she was embracing him? Only after she released him did he take the torch and look all around. The very snake that he had brought there with the medicinal plant <!-- source boundary: scan 124 → scan 125 -->was crawling away. He ran quickly, caught it by the tail, whirled it around and around, and struck it against a pillar of the mandapam. The snake fell dead.
 
 "Hm! Great hero of heroes! Lie down without fear, man!" he said, patting her.
 
@@ -165,7 +165,7 @@ Irungovel was the one who began to speak. Trying to speak after a long while, he
 
 "How did you know?"
 
-"When you were bathing in the pavilion pool..."
+"When you were bathing in the mandapam pool..."
 
 — He did not finish. She covered her face in shame.
 
@@ -187,7 +187,7 @@ Irungovel was the one who began to speak. Trying to speak after a long while, he
 
 "Proof?" Irungovel asked with a start.
 
-"Here! You went to bring a medicinal leaf for the swelling on my finger. At that time, you accidentally left this palm-leaf behind in the pavilion!" she said, taking out a palm-leaf scroll and holding it out to him.
+"Here! You went to bring a medicinal leaf for the swelling on my finger. At that time, you accidentally left this palm-leaf behind in the mandapam!" she said, taking out a palm-leaf scroll and holding it out to him.
 
 Irungovel looked at it in surprise, recovered himself, and asked as though he knew nothing, "What does this palm-leaf have to do with me?"
 
