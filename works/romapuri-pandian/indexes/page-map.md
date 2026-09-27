@@ -980,3 +980,27 @@ Current frontier:
 Current frontier:
 
 **Part008 Pass2A — scans119–134 / local1–16.**
+
+
+## Part008 Pass2A closure
+
+**PART008 PASS2A — COMPLETE / PASS — 16/16 REVIEWED**
+
+- source-supported corrections — **4**
+- corrected pages — **1 — scan121**
+- clean pages — **15/16**
+- unresolved textual questions — **0**
+- printed-page mapping corrections — **0**
+- page-type / section corrections — **0**
+- page-boundary / continuation corrections — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain `needs-review / needs-review`
+- frozen Parts001–007 canonical/body mutations — **0**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 / scan135 leakage — **0**
+- durable control — `PART_008_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part008 Pass2B Batch 1 — scans119–127 / local1–9.**
