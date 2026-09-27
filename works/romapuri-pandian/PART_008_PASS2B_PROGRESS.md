@@ -139,3 +139,117 @@ The synchronized live frontier is:
 **Part008 Pass2B Batch2 — scans128–134 / local10–16 — final 7-page remainder.**
 
 Therefore Batch1 repository drift outside the authorized canonical-review/control scope — **0**.
+
+
+## Batch 2 — scans128–134 / local10–16
+
+**Status: COMPLETE / PASS — 7/7 independently source-pixel reread**
+
+The live post-Pass2A canonical records were reread directly against the controlling rendered source pixels for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, displayed text, blank-page handling and retained source variants.
+
+| scan | local | printed | result | source-text / lexical / spacing / punctuation corrections | historical-glyph / orthography corrections | unresolved |
+|---:|---:|---:|---|---:|---:|---:|
+| 128 | 10 | 126 | PASS | 2 | 0 | 0 |
+| 129 | 11 | 127 | PASS | 1 | 0 | 0 |
+| 130 | 12 | 128 | PASS | 1 | 0 | 0 |
+| 131 | 13 | 129 | PASS | 0 | 0 | 0 |
+| 132 | 14 | — | PASS / BLANK | 0 | 0 | 0 |
+| 133 | 15 | — | PASS / TITLE | 0 | 0 | 0 |
+| 134 | 16 | — | PASS | 0 | 0 | 0 |
+
+### Batch 2 source-supported corrections
+
+#### scan128 / local10 / printed126 — 2 corrections
+
+1. lexical form:
+   - `நீர் குறிப்படும் காட்டில்தான்`
+   - → `நீர் குறிப்பிடும் காட்டில்தான்`
+
+2. verb form:
+   - `நட்புக் கொண்டிருக்கின்றவே தவிர`
+   - → `நட்புக் கொண்டிருக்கின்றனவே தவிர`
+
+Both forms are clearly source-visible in the rendered page.
+
+#### scan129 / local11 / printed127 — 1 correction
+
+Source punctuation was restored exactly:
+
+- `மீட்க வேண்டும்…”`
+- → `மீட்க வேண்டும்..”`
+
+The source uses two full stops; the normalized ellipsis glyph is not retained.
+
+#### scan130 / local12 / printed128 — 1 correction
+
+Source spacing was restored exactly:
+
+- `ம்... இயற்கை உனக்கு உதவி செய்கிறது!`
+- → `ம்...இயற்கை உனக்கு உதவி செய்கிறது!`
+
+No other scan130 lexical or punctuation correction was required.
+
+### Batch 2 clean-page findings
+
+Clean scans — **131–134**.
+
+- scan131: Chapter 8 close re-confirmed exactly; large intentional blank lower field retained
+- scan132: genuine blank physical separator re-confirmed; reverse-side bleed-through excluded
+- scan133: displayed title **9 / பெருந்தேவியின் மருத்துவர்** re-confirmed
+- scan134: Chapter 9 opening re-confirmed; terminal supplied-source fragment `...யாருக்கும் ஜாடையாகக் கூடத் தெரியக்கூடாது;` retained exactly; no scan135 wording inferred
+
+### Batch 2 source-sensitive forms retained without normalization
+
+- scan128: `விளக்கமறிந்தோம்`, `பாண்டியநாட்டு ஒற்றர் வீரபாண்டி`, `நீர் குறிப்பிடும்`, `நல்லவேளை`, `இதயபூர்வமாக`, `தெண்டனிட்டேன்`, `கொண்டிருக்கின்றனவே`
+- scan129: `அட்டியின்றி`, `இலட்சியவெறி`, `உத்தமத் தமிழர்`, `மீட்க வேண்டும்..`
+- scan130: `அய்யய்யோ`, `கோட்டைக் குள்ளேயே`, `அப்புறமென்ன`, `ம்...இயற்கை`, `சிரிப்பினூடே`, `மெய்மறந்தனர்`, `ஜாக்கிரதை`
+- scan131: `தவறவேனா?`, `இரண்டு நிலாக்களைச் சந்திக்கப்போகிறேனே!`
+- scan132: blank physical page only
+- scan133: displayed title `பெருந்தேவியின் மருத்துவர்`
+- scan134: `உணர்ச்சிமயமான`, `ஆண் வேடத்தைச்`, `பாக்கி`, `ஆபத்தில்லாப் பச்சிலை`, terminal semicolon retained
+
+### Batch 2 structural / boundary checks
+
+- scan127→128 physical quotation/sentence continuation retained
+- scan128 embedded palm-leaf letter structure retained
+- scans129–131 Chapter 8 closing sequence retained
+- scan131→132 chapter-close / blank separator transition retained
+- scan132→133 blank separator / Chapter 9 title transition retained
+- scan133→134 Chapter 9 title / opening transition retained
+- incoming 118→119 remains **CHAPTER TRANSITION / AUDITED**
+- outgoing 134→135 remains **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- no scan135 / Part009 wording inferred or imported
+
+### Batch 2 guard checks
+
+- all seven records remain `status: "needs-review"`: **PASS**
+- all seven records remain `visual_fidelity: "needs-review"`: **PASS**
+- frozen Parts001–007 mutations: **0**
+- Part009 / scan135 inference: **0**
+- Pass3 started: **NO**
+
+## Part008 Pass2B closure
+
+**PART008 PASS2B — COMPLETE / PASS — 16/16 REVIEWED**
+
+- Batch1 scans119–127 — **9/9 PASS**
+- Batch2 scans128–134 — **7/7 PASS**
+- new Pass2B source-text / lexical / spacing / punctuation corrections — **4**
+- pages with new Pass2B corrections — **3 — scans128, 129, 130**
+- new Pass2B historical-glyph / historical-orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 records remain `needs-review / needs-review`
+- frozen Parts001–007 mutations — **0**
+- Part009 / scan135 text inferred — **0**
+
+Pass2B is closed. **Pass3 has not been started.**
+
+## Exact next activity
+
+**Part008 Pass3 — scans119–134 / local1–16.**
+
+Pass3 must verify structural metadata, page types, displayed titles, printed-page mapping, running furniture, blank-page handling, physical transitions and boundary state without polishing already source-verified Tamil.
+
+Do not perform final status promotion during Pass3.
