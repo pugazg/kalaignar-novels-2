@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001–008 FINAL CLOSED / FROZEN — PART009 FINAL STATUS SYNC CLOSED — DOCUMENTATION SYNC NEXT**
+**PART001–008 FINAL CLOSED / FROZEN — PART009 DOCUMENTATION SYNC COMPLETE — ARCHIVAL-READY NEXT**
 
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065553**
@@ -1158,3 +1158,36 @@ Current frontier:
 Current frontier:
 
 **Part009 documentation synchronization.**
+
+
+## Part009 documentation synchronization closure
+
+**PART009 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE**
+
+- source intake / incoming-boundary setup — **PASS / COMPLETE**
+- Pass1 — **COMPLETE / PASS — 16/16**
+- Pass2A — **COMPLETE / PASS — 16/16**
+- Pass2B — **COMPLETE / PASS — 16/16**
+- Pass3 — **COMPLETE / PASS — 16/16**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- canonical Part009 records — **16/16 verified**
+- Tamil textual status — **16/16 verified / 0 needs-review**
+- visual fidelity — **16/16 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+- documentation-sync canonical page changes — **0**
+- verified status-field changes during documentation sync — **0**
+- Part009 assembled Tamil introduced early — **0**
+- Part009 English section-body introduced early — **0**
+- frozen Parts001–008 mutations — **0**
+- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 / scan151 leakage — **0**
+- durable control — `PART_009_DOCUMENTATION_SYNC.md`
+
+Current frontier:
+
+**Part009 Tamil archival-ready checkpoint.**
+
+Do not construct Part009 assembled Tamil until the Tamil archival-ready checkpoint closes.
