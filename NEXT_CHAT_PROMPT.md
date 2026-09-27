@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Pass1 Batch2 scans145–150
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 Pass2A scans135–150
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,47 +25,41 @@ Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossa
 **PASS / COMPLETE**
 
 - incoming **134→135 — GENUINE CONTINUATION / AUDITED**
-- frozen scan134 body mutation/backfill — **0**
+- frozen Part008 mutation/backfill — **0**
 - unresolved intake/boundary blockers — **0**
 
-Durable controls:
+## Part009 Pass1 closure
 
-- `SOURCE_INTAKE_PART_009.md`
-- `PART_008_BOUNDARY_AUDIT_134_135.md`
-- `PART_009_INTAKE_BOUNDARY_SETUP.md`
+**COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 
-## Part009 Pass1 Batch1
-
-**COMPLETE / PASS / TEXT-COMPLETE**
-
-- scans — **135–144 / local1–10**
-- canonical records — **10/16**
-- text/display-bearing physical pages — **9/10**
-- blank physical pages — **1 — scan142**
-- scan135–141 — Chapter 9 continuation / printed133–139
-- scan141 — Chapter 9 close
-- scan142 — blank separator
+- canonical records — **16/16**
+- scans135–141 — Chapter 9 `பெருந்தேவியின் மருத்துவர்` / printed133–139
+- scan142 — genuine blank physical separator
 - scan143 — illustrated Chapter 10 title **10 / எரிமலைமீது சூரியகாந்தி**
 - scan144 — Chapter 10 opening / no visible printed numeral
-- unresolved Pass1 holds — **0**
+- scans145–150 — Chapter 10 continuation / printed143–148
+- source-supported Pass1 corrections — **0**
+- unresolved Pass1 source-reading holds — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
-- all 10 records remain `needs-review / needs-review`
+- all 16 records remain `needs-review / needs-review`
 - frozen Parts001–008 canonical/body mutations — **0**
-- scans145–150 created early — **0**
-- durable progress — `PART_009_PASS1_PROGRESS.md`
+- outgoing **150→151 — PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 / scan151 leakage — **0**
+- durable control — `PART_009_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-**Part009 Pass1 Batch2 — global scans145–150 / local pages11–16 — final 6-page remainder.**
+**Part009 Pass2A — global scans135–150 / local pages1–16.**
 
 Requirements:
 
-- create canonical records only for scans145–150 in this iteration;
-- transcribe directly from rendered source pixels;
-- preserve printed-page mapping **143–148** and Chapter 10 structure exactly;
-- inspect the scan144→145 physical join directly and retain any continuation without rewriting scan144;
-- do not promote status or visual fidelity during Pass1;
-- do not infer/import scan151;
-- outgoing **150→151 remains PENDING Part010 adjacent witness / deferred external boundary evidence**;
-- after scans145–150 are complete, close whole-Part Part009 Pass1 only if coverage is continuous **16/16** with unresolved source-reading holds **0**.
+- independently compare all 16 canonical records directly against the rendered source pixels;
+- review word-by-word Tamil text, punctuation, spacing, paragraph/dialogue boundaries and source-sensitive forms;
+- re-check printed-page mapping, page types, chapter labels, scan142 blank handling, scan143 displayed title and scan144 chapter opening;
+- re-check physical joins 134→135, 135→136, 136→137, 138→139, 140→141, 144→145, 146→147 and 147→148;
+- apply only source-supported corrections;
+- record a complete correction ledger and unresolved textual questions;
+- do not promote `status` or `visual_fidelity` during Pass2A;
+- do not infer scan151 or resolve 150→151 without the Part010 adjacent witness;
+- Parts001–008 remain frozen throughout.

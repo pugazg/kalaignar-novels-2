@@ -767,3 +767,30 @@ Current frontier:
 Current frontier:
 
 **Part009 Pass1 Batch2 — scans145–150 / local11–16 — final 6-page remainder.**
+
+
+## Part009 whole-Part Pass1 closure
+
+**PART009 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+
+- canonical Part009 records — **16/16**
+- scan coverage — **135–150 continuous**
+- local-page coverage — **1–16 continuous**
+- text/display-bearing pages — **15/16**
+- blank page — **scan142**
+- Chapter 9 continuation — **scans135–141 / printed133–139**
+- scan143 — **illustrated Chapter 10 title / 10 / எரிமலைமீது சூரியகாந்தி**
+- scan144 — **Chapter 10 opening / no visible printed numeral**
+- Chapter 10 continuation — **scans145–150 / printed143–148**
+- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- unresolved Pass1 source-reading holds — **0**
+- source-supported Pass1 corrections — **0**
+- all 16 records remain **needs-review / needs-review**
+- frozen Parts001–008 canonical / assembled / English body mutations — **0 / 0 / 0**
+- Part010 / scan151 inferred — **0**
+- durable progress — `PART_009_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part009 Pass2A — scans135–150 / local1–16.**
