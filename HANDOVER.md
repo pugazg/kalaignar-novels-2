@@ -604,3 +604,8 @@ Part008 Tamil archival-ready checkpoint is **PASS / CLOSED**. Canonical Tamil an
 
 
 Part008 assembled Tamil is **PASS / CLOSED — 2/2 VERIFIED**. Section21 covers Chapter 8 `வேடம் கலைந்தது!` across scans119–132 including blank scan132 provenance; section22 covers Chapter 9 `பெருந்தேவியின் மருத்துவர்` across scans133–134. Physical coverage is 16/16, publication-text/displayed-title coverage is 15/15 plus blank provenance, exact canonical reconstruction is 2/2 PASS, and missing/duplicate/unsupported insertion/canonical mutation/Part009 leakage are all 0. Exact next activity: **Part008 English translation planning/setup**.
+
+- `PART_008_ENGLISH_PLANNING_SETUP.md`
+
+
+Part008 English translation planning/setup is **COMPLETE / PASS**. E22–E23 are reserved in sequence. E22 maps Chapter 8 `வேடம் கலைந்தது!` / scans119–132 to `translations/en/sections/21-chapter-08-the-disguise-falls-away.md`; E23 maps Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134 to `translations/en/sections/22-chapter-09-perunthevis-physician.md`. No English body drafts or source-check records were created in planning, canonical/assembled Tamil edits are 0, Parts001–007 remain frozen and Part009 leakage is 0. Exact next activity: **E22 draft + source-check**.
