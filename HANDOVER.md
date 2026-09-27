@@ -553,3 +553,8 @@ Parts001–007 are **FINAL CLOSED / FROZEN**. Part007 final closure is PASS / CL
 - `PART_008_INTAKE_BOUNDARY_SETUP.md`
 
 Parts001–007 remain **FINAL CLOSED / FROZEN**. Part008 source is supplied and registered for scans119–134 / 16 pages. The formerly deferred 118→119 boundary is resolved as **CHAPTER TRANSITION / AUDITED**: scan118 is blank and scan119 is the illustrated Chapter 8 title `வேடம் கலைந்தது!`. Part008 intake + incoming-boundary setup is PASS / COMPLETE with 0 unresolved blockers and 0 frozen-Part mutations. Exact next activity: **Part008 Pass1 Batch 1 — scans119–128 / local1–10**.
+
+- `PART_008_PASS1_PROGRESS.md`
+
+
+Part008 Pass1 Batch1 is **COMPLETE / PASS / TEXT-COMPLETE** for scans119–128 / local1–10. Canonical coverage is 10/16. One source-pixel correction was applied on scan125 (`இருப்புக் கம்பியைநட்டு` → `இரும்புக் கம்பியைநட்டு`). Unresolved Pass1 holds are 0; all 10 records remain needs-review / needs-review; frozen Parts001–007 are untouched; scans129–134 were not created early. Exact next activity: **Part008 Pass1 Batch2 — scans129–134 / local11–16 — final 6-page remainder**.
