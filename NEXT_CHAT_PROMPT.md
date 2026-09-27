@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 assembled Tamil construction + audit
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 English translation planning/setup
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,9 +6,9 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–009 are **FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to assemble Part010.
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review records, release records, release-ready synchronization records or final-closure records merely to plan Part010 English.
 
-## Part010 Tamil authority
+## Part010 closed Tamil state
 
 Source:
 
@@ -17,48 +17,36 @@ Source:
 - scans — **151–167 / 17**
 - canonical Tamil — **17/17 verified**
 - visual fidelity — **17/17 verified**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- unresolved archival blockers — **0**
-- canonical `pages/` remains authoritative
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- assembled section25 — `25-chapter-10-erimalaimeethu-suriyakanthi-part010-continuation.md` / scans151–156
+- assembled section26 — `26-chapter-11-olai-kai-maariyathu.md` / scans157–167
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
 - Part011 / scan168 leakage — **0**
 
-Durable control:
+Durable controls:
 
-`PART_010_TAMIL_ARCHIVAL_READY.md`
+- `PART_010_TAMIL_ARCHIVAL_READY.md`
+- `PART_010_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Maintained English before Part010 is closed through **E25 / section24 / Part009**.
 
 ## Exact next activity
 
-**Part010 assembled Tamil construction + audit.**
-
-Expected assembled inventory:
-
-1. `sections/25-chapter-10-erimalaimeethu-suriyakanthi-part010-continuation.md`
-   - Part010 Chapter 10 continuation;
-   - source scans **151–156**;
-   - rendered publication text from scans151–155;
-   - scan156 represented by non-rendering blank-page provenance only;
-   - incoming audited continuation 150→151 represented by provenance only; do not import frozen scan150 body.
-2. `sections/26-chapter-11-olai-kai-maariyathu.md`
-   - source scans **157–167**;
-   - scan157 displayed Chapter 11 title included from canonical source transcription;
-   - scans158–167 narrative included exactly from verified canonical source-transcription blocks;
-   - outgoing 167→168 pending evidence represented only as non-rendering provenance; do not infer/import scan168.
+**Part010 English translation planning/setup.**
 
 Requirements:
 
-- deterministically assemble only from verified canonical Part010 `## Source transcription` blocks;
-- preserve canonical Tamil wording and punctuation exactly;
-- use established assembled-reading YAML/provenance conventions;
-- represent physical page boundaries with non-rendering comments;
-- represent scan156 blank page by provenance only;
-- verify physical coverage **17/17** and publication-text/displayed-title coverage with no omission or duplication;
-- verify no audit/workflow-note leakage into rendered Tamil;
-- verify no unsupported Tamil insertion;
-- make no canonical `pages/` changes;
-- make no English changes;
+- verify Tamil prerequisites remain closed and assembled Tamil remains **2/2 VERIFIED**;
+- reserve the next two English batches **E26 → E27** for Part010;
+- map E26 to Chapter 10 continuation / scans151–156 and E27 to Chapter 11 / scans157–167;
+- establish the maintained English filenames and working English title for Chapter 11 using the existing translation/title conventions;
+- preserve the established Chapter 10 English title **Sunflower on a Volcano** for the continuation section unless a source-backed project control requires otherwise;
+- lock scan156 as blank-page provenance only;
+- carry incoming 150→151 audited continuation and outgoing 167→168 pending external witness as provenance only;
+- create durable `PART_010_ENGLISH_PLANNING_SETUP.md`;
+- do not draft E26 or E27 English bodies during planning;
+- do not alter canonical Tamil or assembled Tamil;
 - keep Parts001–009 frozen;
-- create durable `PART_010_ASSEMBLED_TAMIL_VALIDATION.md`;
-- do not begin English translation planning until assembled Tamil closes **PASS / CLOSED**.
+- after planning closes, the next gate is **E26 draft + source-check**.

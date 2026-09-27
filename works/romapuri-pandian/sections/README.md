@@ -834,3 +834,62 @@ Do not begin E25 until E24 is **SOURCE-CHECKED / COMPLETE**.
 Current frontier:
 
 **Part010 source intake + 150→151 adjacent-boundary witness inspection/setup when the Part010 source is supplied.**
+
+
+## Part010 assembled Tamil closure
+
+**PART010 ASSEMBLED TAMIL — PASS / CLOSED — 2/2 VERIFIED**
+
+- Tamil archival-ready — **PASS / CLOSED**
+- section25 — **Chapter 10 `எரிமலைமீது சூரியகாந்தி` Part010 continuation / scans151–156**
+- section26 — **Chapter 11 `ஓலை கை மாறியது` / scans157–167**
+- physical coverage — **17/17**
+- publication-text / displayed-title coverage — **16/16 + blank scan156 provenance**
+- blank physical scan156 rendered Tamil — **0**
+- missing / duplicate coverage — **0 / 0**
+- deterministic canonical reconstruction — **2/2 EXACT / PASS**
+- unsupported Tamil insertion — **0**
+- audit/workflow-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- English section-body changes caused by assembly — **0**
+- frozen Part009 body duplication — **0**
+- Part011 / scan168 leakage — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- durable control — `PART_010_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part010 English translation planning/setup.**
+
+Do not begin English drafting until planning/setup closes.
+
+
+## Part010 assembled Tamil state
+
+Part010 Tamil archival-ready — **PASS / CLOSED**.
+
+Part010 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**.
+
+Part010 maintained section inventory:
+
+1. `25-chapter-10-erimalaimeethu-suriyakanthi-part010-continuation.md` — scans151–156
+2. `26-chapter-11-olai-kai-maariyathu.md` — scans157–167
+
+Coverage:
+
+- physical scans — **17/17 / scans151–167**
+- publication-text / displayed-title pages — **16/16**
+- blank physical scan156 — **provenance only**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part009 body duplication — **0**
+- Part011 leakage — **0**
+
+Validation control — `../PART_010_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+Current frontier:
+
+**Part010 English translation planning/setup.**
