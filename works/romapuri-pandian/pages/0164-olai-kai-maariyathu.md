@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch2 
 
 ## Source transcription
 
-கொடுங்கோலை கொலை செய்த பரபரப்பு அவளுக்கு அடங்கவில்லை. உடம்பெல்லாம் வியர்த்துக் கொட்டியது. இனி என்ன செய்வதென்று புரியவில்லை. போய்க் கொண்டே இருந்தாள் அவள். திடீரென்று மகிழ்ச்சியடையக் கூடிய காட்சியொன்று எதிரே கண்டாள். மரக்கிளை யொன்றைப் பிடித்தவாறு அவளது அன்புக்குரிய வீரபாண்டி நின்று கொண்டிருந்தான். அவள் பயமத்தனையும் நீங்கிற்று. “அப்பாடா,” என்று பெருமூச்சு விட்டுக் கொண்டே குதிரையிலிருந்து குதித்தாள். அவள் குதிப்பதற்கு முன் அவளைத் தாங்கிப் பிடித்துக் கொண்டான் இருங்கோவேள்.
+கொடுங்கோலை கொலை செய்த பரபரப்பு அவளுக்கு அடங்கவில்லை. உடம்பெல்லாம் வியர்த்துக் கொட்டியது. இனி என்ன செய்வதென்று புரியவில்லை. போய்க் கொண்டே இருந்தாள் அவள். திடீரென்று மகிழ்ச்சியடையக் கூடிய காட்சியொன்றை எதிரே கண்டாள். மரக்கிளை யொன்றைப் பிடித்தவாறு அவளது அன்புக்குரிய வீரபாண்டி நின்று கொண்டிருந்தான். அவள் பயமத்தனையும் நீங்கிற்று. “அப்பாடா,” என்று பெருமூச்சு விட்டுக் கொண்டே குதிரையிலிருந்து குதித்தாள். அவள் குதிப்பதற்கு முன் அவளைத் தாங்கிப் பிடித்துக் கொண்டான் இருங்கோவேள்.
 
 “கேட்டீர்களா செய்தி?” என்றாள் துடிதுடிப்புடன்.
 
@@ -67,3 +67,17 @@ transcription_method: "direct source-pixel transcription; Part010 Pass 1 Batch2 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part010 Pass 2B review — Batch 2
+
+- independent source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / orthography corrections at Pass2B: **0**;
+- unresolved Pass2B lexical / spacing / punctuation questions: **0**;
+- unresolved Pass2B historical-glyph / orthography questions: **0**;
+- source-supported correction: `காட்சியொன்று` → source-visible `காட்சியொன்றை`;
+- source-spaced `மரக்கிளை யொன்றைப்` was independently re-confirmed and retained;
+- printed-page / page-type / section / physical-boundary correction at Pass2B: **0 / 0 / 0 / 0**;
+- Pass2B result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
