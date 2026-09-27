@@ -303,3 +303,32 @@ That gate may promote `status` and `visual_fidelity` to `verified` only from thi
 Current frontier:
 
 **Part008 documentation synchronization.**
+
+
+## Part008 documentation synchronization closure
+
+**PART008 DOCUMENTATION SYNCHRONIZATION — PASS / COMPLETE**
+
+- source intake / incoming-boundary setup — **PASS / COMPLETE**
+- Pass1 — **COMPLETE / PASS — 16/16**
+- Pass2A — **COMPLETE / PASS — 16/16**
+- Pass2B — **COMPLETE / PASS — 16/16**
+- Pass3 — **COMPLETE / PASS — 16/16**
+- Part audit — **PASS / COMPLETE**
+- final metadata/status synchronization — **PASS / CLOSED**
+- Tamil textual status — **16/16 verified / 0 needs-review**
+- visual fidelity — **16/16 verified / 0 needs-review**
+- unresolved status exceptions — **0**
+- unresolved Tamil / lexical / historical-glyph / visual / structural / documentation blockers — **0**
+- documentation-sync canonical page changes — **0**
+- incoming 118→119 — **CHAPTER TRANSITION / AUDITED**
+- outgoing 134→135 — **PENDING Part009 adjacent witness / deferred external boundary evidence**
+- Part009 / scan135 leakage — **0**
+- frozen Parts001–007 canonical/body mutations — **0**
+- durable control — `PART_008_DOCUMENTATION_SYNC.md`
+
+Current frontier:
+
+**Part008 Tamil archival-ready checkpoint.**
+
+Do not construct assembled Tamil until the Tamil archival-ready checkpoint closes.
