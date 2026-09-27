@@ -128,3 +128,136 @@ Direct comparison confirms:
 **Part010 Pass2B Batch2 — scans160–167 / local10–17 — final 8-page remainder.**
 
 Do not begin Pass3 until Batch2 closes and whole-Part Pass2B is **COMPLETE / PASS — 17/17**.
+
+
+## Batch 2 — scans160–167 / local10–17
+
+**Status: COMPLETE / PASS — 8/8 independently source-pixel reread**
+
+| scan | local | printed | result | source-text / lexical / spacing / punctuation corrections | historical-glyph / orthography corrections | unresolved |
+|---:|---:|---:|---|---:|---:|---:|
+| 160 | 10 | 158 | PASS | 0 | 0 | 0 |
+| 161 | 11 | 159 | PASS | 0 | 0 | 0 |
+| 162 | 12 | 160 | PASS | 0 | 0 | 0 |
+| 163 | 13 | 161 | PASS | 0 | 0 | 0 |
+| 164 | 14 | 162 | PASS | 1 | 0 | 0 |
+| 165 | 15 | 163 | PASS | 0 | 0 | 0 |
+| 166 | 16 | 164 | PASS | 0 | 0 | 0 |
+| 167 | 17 | 165 | PASS | 0 | 0 | 0 |
+
+### Batch 2 correction ledger
+
+- source-text / lexical / spacing / punctuation corrections — **1**
+- corrected pages — **1 — scan164**
+- historical-glyph / historical-orthography corrections — **0**
+- unresolved lexical / spacing / punctuation questions — **0**
+- unresolved historical-glyph / orthography questions — **0**
+
+Source-supported correction:
+
+1. scan164 / printed162:
+   - `காட்சியொன்று` → source-visible `காட்சியொன்றை`
+
+### Pass2A correction re-confirmation
+
+The Pass2A changes inside Batch2 were independently rechecked and retained:
+
+- scan160 — `பெரும்படை யொன்றையும்`
+- scan160 — `சோழனுக் கெதிராக`
+- scan160 — `விளக்க மனைத்தும்`
+- scan162 — `கடிய`
+- scan166 — `என்ற உணர்வை`
+- scan166 — source-visible exclamation mark after `கொண்டிருக்கிறான்!`
+- scan167 — `- என்று`
+
+No rollback or further change was required to those forms.
+
+### Source-sensitive forms explicitly retained without normalization
+
+- scan160 — source spacing in `பெரும்படை யொன்றையும்`, `சோழனுக் கெதிராக`, `விளக்க மனைத்தும்`
+- scan161 — proper name `கொடுங்கோல்`, colloquial dialogue and source-leading `- எனச்`
+- scan162 — `கடிய`, `காச்சித்தவாறு`, `பரவாயில்லை-பத்திரமாக`
+- scan163 — `ஆமாம் ஆமாம்`, `கொடுத்தால்.. அந்தப்பாண்டியர்கள்.`, `இல்லையே!”...`
+- scan164 — source-spaced `மரக்கிளை யொன்றைப்` and source-visible `காட்சியொன்றை`
+- scan165 — `தலையெடுக்க வொட்டாமல்`, `ஒண்டிக்`, retained dialogue punctuation
+- scan166 — `என்ற உணர்வை`, source-visible exclamation after `கொண்டிருக்கிறான்!`
+- scan167 — source-spaced `- என்று`
+
+### Batch2 structural / boundary checks
+
+- scan160 ends on a complete sentence; scan161 begins a new paragraph/scene
+- 162→163 split `அரசின் முத்திரை` → `மோதிரத்தையே...` retained
+- scans163–167 remain within Chapter 11 `ஓலை கை மாறியது`
+- 166→167 same-dialogue continuation retained: `“என்ன வேலை?”` → answer on scan167
+- scan167 terminal supplied-Part sentence is complete
+- outgoing 167→168 remains **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- no scan168 / Part011 wording inferred
+
+### Batch2 guard checks
+
+- all eight Batch2 records remain `status: "needs-review"` — **PASS**
+- all eight Batch2 records remain `visual_fidelity: "needs-review"` — **PASS**
+- frozen Parts001–009 canonical/body/English mutation — **0**
+- scans151–159 canonical mutations during Batch2 — **0**
+- Part011 / scan168 inference — **0**
+- Pass3 started — **NO**
+
+## Batch2 repository integrity
+
+Batch1 synchronized checkpoint:
+
+`328e1b7f9053adbf637edcc35217010c5dbb58de`
+
+Batch2 canonical-review checkpoint:
+
+`555facccb721bc344bacc3276ca638f56612296d`
+
+Direct comparison confirms:
+
+- commits — **1**
+- changed files — **8**
+- changed files are exactly Part010 scans160–167
+- frozen Parts001–009 canonical-page changes — **0**
+- Part010 scans151–159 canonical-page changes — **0**
+- maintained assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- source PDFs added to Git — **0**
+
+## Whole-Part Pass2B closure
+
+**PART010 PASS2B — COMPLETE / PASS — 17/17 REVIEWED**
+
+- Batch1 scans151–159 — **9/9 PASS**
+- Batch2 scans160–167 — **8/8 PASS**
+- source-text / lexical / spacing / punctuation corrections — **3**
+- corrected pages — **3 — scans152, 159, 164**
+- historical-glyph / historical-orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- page-type / section corrections — **0**
+- printed-page mapping corrections — **0**
+- physical-boundary / continuation corrections — **0**
+- all **9** Pass2A source-supported corrections independently re-confirmed — **PASS / no rollback**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 17 records remain `needs-review / needs-review`
+- frozen Parts001–009 canonical/body mutations — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- Part011 / scan168 leakage — **0**
+
+## Exact next activity
+
+**Part010 Pass3 — scans151–167 / local1–17.**
+
+Perform direct full-page visual / structural verification against the rendered source images:
+
+- page type and section classification;
+- heading/title hierarchy;
+- paragraph and dialogue blocks;
+- printed pagination and running furniture;
+- Chapter 11 title illustration and blank-page handling;
+- physical page boundaries and continuation state;
+- copy marks / non-publication artefacts;
+- final source-text catch only if a visual/structural pass exposes a direct source-backed defect.
+
+Do not promote final `status` or `visual_fidelity` during Pass3.
