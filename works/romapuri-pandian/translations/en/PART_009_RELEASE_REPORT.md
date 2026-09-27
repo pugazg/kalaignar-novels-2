@@ -97,3 +97,16 @@ Verified at this gate:
 **Part009 release-ready synchronization.**
 
 Do not declare final Part009 closure until release-ready synchronization and post-sync drift verification pass.
+
+
+## Part009 release-ready synchronization closure
+
+**PART009 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**
+
+- release/readiness — **PASS / CLOSED**
+- canonical / assembled Tamil sync changes — **0 / 0**
+- maintained Part009 English body sync changes — **0**
+- frozen Parts001–008 English sync changes — **0**
+- Part010 / scan151 leakage — **0**
+- release-ready synchronization blockers — **0**
+- next gate — **Part009 final closure / freeze**
