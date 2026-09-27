@@ -1066,3 +1066,36 @@ Current frontier:
 **Part009 English translation planning/setup.**
 
 Do not begin English drafting until planning/setup closes.
+
+
+## Part009 English planning closure
+
+**PART009 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+- Tamil prerequisites — **CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- maintained English sequence before Part009 — **closed through E23**
+- reserved Part009 batches — **E24 → E25**
+- E24 — **RESERVED / NEXT — Chapter 9 continuation / scans135–142**
+- E25 — **RESERVED — Chapter 10 / scans143–150**
+- planned E24 file — `translations/en/sections/23-chapter-09-perunthevis-physician-part009-continuation.md`
+- planned E25 file — `translations/en/sections/24-chapter-10-sunflower-on-a-volcano.md`
+- Chapter 9 working title — **Perunthevi's Physician**
+- Chapter 10 working title — **Sunflower on a Volcano**
+- English draft files created in planning — **0/2**
+- source-check records created in planning — **0/2**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–008 English edits caused by planning — **0**
+- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- scan142 blank-page provenance — **LOCKED**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `PART_009_ENGLISH_PLANNING_SETUP.md`
+
+Current frontier:
+
+**E24 — draft + source-check Part009 Chapter 9 continuation / scans135–142.**
+
+Do not begin E25 until E24 is **SOURCE-CHECKED / COMPLETE**.
