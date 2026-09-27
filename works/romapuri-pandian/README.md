@@ -789,3 +789,26 @@ Current frontier:
 Current frontier:
 
 **E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
+
+
+## Part008 E23 source-check closure
+
+**SOURCE-CHECKED / COMPLETE**
+
+- E23 — Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134
+- English file — `translations/en/sections/22-chapter-09-perunthevis-physician.md`
+- Tamil / English parity — **12/12 total; 10/10 rendered**
+- standalone provenance — **2/2**
+- source-check corrections — **2**
+- unresolved holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–007 English edits — **0**
+- E22 English-body edits — **0**
+- Part009 leakage — **0**
+- durable source-check — `translations/en/E23_SOURCE_CHECK.md`
+
+Part008 English is now **2/2 SOURCE-CHECKED / COMPLETE**.
+
+Current frontier:
+
+**Part008 whole-Part glossary reconciliation across E22–E23.**
