@@ -643,3 +643,46 @@ Current frontier:
 **Part008 assembled Tamil construction + audit.**
 
 Canonical `pages/` remains authoritative. Do not begin English until assembled Tamil closes.
+
+
+## Part008 assembled Tamil state
+
+Part008 Tamil archival-ready — **PASS / CLOSED**.
+
+Part008 assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**.
+
+Part008 maintained section inventory:
+
+1. `21-chapter-08-vedam-kalaindhathu.md` — scans119–132
+2. `22-chapter-09-peruntheviyin-maruththuvar.md` — scans133–134
+
+Coverage:
+
+- physical scans — **16/16 / scans119–134**
+- publication-text / displayed-title pages — **15/15**
+- blank physical scan132 — **provenance only**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- Part007 body duplication — **0**
+- Part009 leakage — **0**
+
+Part008 special cases:
+
+- scan119 is the illustrated Chapter 8 title `8 / வேடம் கலைந்தது!`.
+- scan120 opens Chapter 8 narrative after the title page.
+- scan120→121 is preserved inline with a non-rendering source-boundary comment.
+- scan124→125 is preserved inline with a non-rendering source-boundary comment.
+- scan127→128 is preserved inline with a non-rendering source-boundary comment.
+- scan131 closes Chapter 8 with a large intentional lower blank field.
+- scan132 is a genuine blank physical separator and contributes provenance only.
+- scan133 is the illustrated Chapter 9 title `9 / பெருந்தேவியின் மருத்துவர்`.
+- scan134 opens Chapter 9 and remains terminal at `...யாருக்கும் ஜாடையாகக் கூடத் தெரியக்கூடாது;`.
+- outgoing 134→135 remains pending Part009 adjacent witness; no Part009 text is imported.
+
+Validation control — `../PART_008_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+Current frontier:
+
+**Part008 English translation planning/setup.**
