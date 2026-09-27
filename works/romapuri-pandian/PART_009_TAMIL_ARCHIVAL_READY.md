@@ -183,3 +183,32 @@ Direct repository comparison confirms:
 Therefore archival-ready synchronization drift outside the authorized control-document scope — **0**.
 
 The archival-ready checkpoint is closed, and assembled Tamil may now begin from verified canonical `pages/` only.
+
+
+## Part009 assembled Tamil closure
+
+**PART009 ASSEMBLED TAMIL — PASS / CLOSED — 2/2 VERIFIED**
+
+- Tamil archival-ready — **PASS / CLOSED**
+- section23 — **Chapter 9 `பெருந்தேவியின் மருத்துவர்` Part009 continuation / scans135–142**
+- section24 — **Chapter 10 `எரிமலைமீது சூரியகாந்தி` / scans143–150**
+- physical coverage — **16/16**
+- publication-text / displayed-title coverage — **15/15 + blank scan142 provenance**
+- blank physical scan142 rendered Tamil — **0**
+- missing / duplicate coverage — **0 / 0**
+- deterministic canonical reconstruction — **2/2 EXACT / PASS**
+- unsupported Tamil insertion — **0**
+- audit/workflow-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- English section-body changes caused by assembly — **0**
+- frozen Part008 body duplication — **0**
+- Part010 / scan151 leakage — **0**
+- incoming 134→135 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- durable control — `PART_009_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part009 English translation planning/setup.**
+
+Do not begin English drafting until planning/setup closes.
