@@ -1199,3 +1199,29 @@ Current frontier:
 - Part010 / scan151 leakage — **0**
 - release-ready synchronization blockers — **0**
 - next gate — **Part009 final closure / freeze**
+
+
+## Part009 final closure
+
+**PART009 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- Parts001–009 — **FINAL CLOSED / FROZEN**
+- canonical Part009 Tamil / visual — **16/16 verified / 16/16 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E24–E25 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary — **RECONCILED / PASS — 2 edits**
+- editorial — **PASS / CLOSED — 9 corrections**
+- bilingual — **PASS / CLOSED — 2/2 PAIRS / 1 correction**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved final blockers — **0**
+- canonical / assembled / English post-release drift — **0 / 0 / 0**
+- active Git PDF paths — **0**
+- outgoing 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- Part010 — **NOT SUPPLIED / NOT REGISTERED**
+- Part010 leakage — **0**
+- durable closure — `PART_009_FINAL_CLOSURE.md`
+
+Current frontier:
+
+**Part010 source intake + 150→151 adjacent-boundary witness inspection/setup when the Part010 source is supplied.**

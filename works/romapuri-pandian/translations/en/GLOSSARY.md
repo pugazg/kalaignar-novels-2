@@ -1451,3 +1451,20 @@ Part009 glossary reconciliation — **RECONCILED / PASS**.
 - canonical / assembled Tamil edits — **0 / 0**
 - frozen Parts001–008 English edits — **0**
 - Part010 leakage — **0**
+
+
+## Part009 final closure lock
+
+Part009 is **FINAL CLOSED / FROZEN**.
+
+- E24–E25 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved Part009 glossary/final holds — **0**
+- Part010 leakage — **0**
+
+The Part009 glossary/title decisions above are frozen unless a separate explicit source-fidelity reopening is approved.

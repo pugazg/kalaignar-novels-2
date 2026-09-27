@@ -1,21 +1,26 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part009 final closure
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 source intake
 
-Continue directly in `pugazg/kalaignar-novels-2`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Parts001–008 are **FINAL CLOSED / FROZEN**.
+## Durable frozen state
 
-Part009 prerequisites are all closed:
+Parts001–009 are **FINAL CLOSED / FROZEN**.
 
-- Tamil canonical / visual — **16/16 verified**
-- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
-- E24–E25 — **SOURCE-CHECKED / COMPLETE — 2/2**
-- glossary / editorial / bilingual — **CLOSED**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- unresolved blockers — **0**
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, review/release records or final-closure controls merely to begin Part010.
+
+## Part010 current state
+
+- source file — **NOT SUPPLIED / NOT REGISTERED**
+- source intake — **NOT REGISTERED**
+- canonical records — **0**
+- incoming 150→151 — **PENDING Part010 adjacent witness / deferred external boundary evidence**
+- scan151 witness — **NOT AVAILABLE**
+- Part010 transcription — **NOT AUTHORIZED**
 
 ## Exact next activity
 
-**Part009 final closure / freeze.**
+When the Part010 source is supplied:
 
-Independently verify the entire Tamil/English/release chain, no post-release text-bearing drift, source-PDF exclusion, incoming/outgoing boundary locks and zero Part010 leakage. Create `PART_009_FINAL_CLOSURE.md`, synchronize controls to **Parts001–009 FINAL CLOSED / FROZEN**, and set the next frontier to Part010 source intake + 150→151 adjacent-boundary witness setup when the Part010 source is supplied.
+**Part010 source intake + 150→151 adjacent-boundary witness inspection/setup.**
+
+Register the source identity, confirm physical/global scan mapping, inspect scan151 against frozen scan150 only for the boundary relationship, and do not begin canonical transcription until intake/boundary setup passes.
