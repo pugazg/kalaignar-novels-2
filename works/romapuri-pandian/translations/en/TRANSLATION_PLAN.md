@@ -1374,3 +1374,37 @@ Current Part008 English state:
 Current frontier:
 
 **E23 — draft + source-check Part008 Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134.**
+
+
+## E23 source-check closure
+
+- E23 — **SOURCE-CHECKED / COMPLETE**
+- verified Tamil input — `sections/22-chapter-09-peruntheviyin-maruththuvar.md`
+- English file — `translations/en/sections/22-chapter-09-perunthevis-physician.md`
+- scans — **133–134**
+- working title — **Perunthevi's Physician**
+- Tamil / English total blocks — **12 / 12**
+- Tamil / English rendered blocks — **10 / 10**
+- standalone provenance comments — **2 / 2**
+- source-boundary occurrence retained — **1 / 1**
+- outgoing 134→135 provenance retained — **1 / 1**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **2**
+- unresolved E23 source-check holds — **0**
+- canonical Tamil edits caused by E23 — **0**
+- assembled Tamil edits caused by E23 — **0**
+- frozen Parts001–007 English edits — **0**
+- E22 English-body edits caused by E23 — **0**
+- Part009 leakage — **0**
+- durable source-check — `translations/en/E23_SOURCE_CHECK.md`
+
+Current Part008 English state:
+
+- E22 — **SOURCE-CHECKED / COMPLETE**
+- E23 — **SOURCE-CHECKED / COMPLETE**
+- completed/source-checked — **2/2**
+- unresolved English source-check holds — **0**
+
+Current frontier:
+
+**Part008 whole-Part glossary reconciliation across E22–E23.**
