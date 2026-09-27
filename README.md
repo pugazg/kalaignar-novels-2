@@ -567,3 +567,23 @@ Source intake → Pass1 → Pass2A → Pass2B → Pass3 → Part audit → metad
 ## Current exact next activity
 
 **Part008 English translation planning/setup.**
+
+
+## Part008 English translation planning/setup
+
+**COMPLETE / PASS**
+
+- reserved batches — **E22–E23**
+- E22 — **RESERVED / NEXT — Chapter 8 `வேடம் கலைந்தது!` / scans119–132**
+- E23 — **RESERVED — Chapter 9 `பெருந்தேவியின் மருத்துவர்` / scans133–134**
+- planned English titles — **The Disguise Falls Away! / Perunthevi's Physician**
+- English drafts created during planning — **0**
+- source-check records created during planning — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–007 English edits — **0**
+- Part009 leakage — **0**
+- unresolved planning holds — **0**
+
+## Current exact next activity
+
+**E22 — draft + source-check Part008 Chapter 8 `வேடம் கலைந்தது!` / scans119–132.**
