@@ -558,3 +558,6 @@ Parts001–007 remain **FINAL CLOSED / FROZEN**. Part008 source is supplied and 
 
 
 Part008 Pass1 Batch1 is **COMPLETE / PASS / TEXT-COMPLETE** for scans119–128 / local1–10. Canonical coverage is 10/16. One source-pixel correction was applied on scan125 (`இருப்புக் கம்பியைநட்டு` → `இரும்புக் கம்பியைநட்டு`). Unresolved Pass1 holds are 0; all 10 records remain needs-review / needs-review; frozen Parts001–007 are untouched; scans129–134 were not created early. Exact next activity: **Part008 Pass1 Batch2 — scans129–134 / local11–16 — final 6-page remainder**.
+
+
+Part008 Pass1 is **COMPLETE / PASS — 16/16 TEXT-COMPLETE**. Canonical scan coverage is 119–134 / local1–16. Chapter 8 occupies scans119–131; scan132 is a blank physical separator; scan133 is the illustrated Chapter 9 title `பெருந்தேவியின் மருத்துவர்`; scan134 opens Chapter 9 and ends mid-dialogue. One Pass1 source-pixel correction was made on scan125; unresolved Pass1 holds are 0. All 16 records remain needs-review / needs-review, with 0 frozen Parts001–007 mutations and 0 Part009 leakage. Exact next activity: **Part008 Pass2A — scans119–134 / local1–16**.
