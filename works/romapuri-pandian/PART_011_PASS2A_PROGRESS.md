@@ -128,3 +128,46 @@ Remaining Batch2:
 **Part011 Pass2A Batch2 — scans178–183 / local11–16 — final 6-page remainder.**
 
 Independently reread the controlling rendered source pixels word-by-word, punctuation-by-punctuation and structure-by-structure. Keep all reviewed records `needs-review / needs-review`; no status promotion is permitted during Pass2A.
+
+
+## Post-Batch1 synchronization verification
+
+Pre-Pass2A Batch1 checkpoint:
+
+`90db976e6732d04d3e4509c6235a0c1fcc579c2f`
+
+Batch1 canonical review checkpoint:
+
+`25d44efa299e42f5a4dee06c62ea5245ccb1695e`
+
+Batch1 synchronized head before this verification record:
+
+`8b45569a4c999dfc2d9cb58beb6b0787aa86c625`
+
+Direct comparison from the pre-Batch1 checkpoint confirms:
+
+- commits — **2**
+- changed files — **18**
+- canonical Part011 page changes — **10 expected / scans168–177 only**
+- source-text body corrections — **1 expected / scan177 only**
+- review-evidence-only page changes — **9**
+- frozen Parts001–010 canonical page changes — **0**
+- frozen assembled Tamil body changes — **0**
+- frozen maintained English body changes — **0**
+- Part012 / scan184 files — **0**
+
+Independent live-main recheck confirms scans168–177:
+
+- formal Part011 Pass2A Batch1 review record present — **10/10**
+- `status: "needs-review"` — **10/10**
+- `visual_fidelity: "needs-review"` — **10/10**
+- scan177 source-supported correction `வைத்து` → `வைத்தது` — **present**
+- status promotions — **0**
+
+Therefore:
+
+**PART011 PASS2A BATCH1 — COMPLETE / PASS — 10/10 REVIEWED**
+
+Exact next activity:
+
+**Part011 Pass2A Batch2 — scans178–183 / local11–16 — final 6-page remainder.**
