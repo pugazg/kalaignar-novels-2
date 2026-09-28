@@ -31,7 +31,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch2 
 
 “ஆமாம்! அவளைக் கேட்டுப் பாருங்கள்! செழியனை மீட்பதற்கு நான் எவ்வாறெல்லாம் சிந்தித்துக் கொண்டிருக்கிறேன் என்று. முத்துநகை மட்டும் குறுக்கிடாதிருந்தால் இருங்கோவேளின் தலை எப்போதோ கீழே விழுந்திருக்கும். உங்கள் மகள் அளித்த உறுதியின் பேரில்தான் செழியனை எப்படியும் தந்திரமாக மீட்டுவிடலாம் என்று திட்டம் தீட்டிக் கொண்டிருக்கிறேன். அதற்குள் அவசரப்பட்டு விட்டார் பாண்டியர்!”
 
-“மன்னவா! எனக்கு ஒன்றுமே புரியவில்லை. என் மகள் எப்படி இங்கு வந்தாள்? காணாமற் போன என் கண்மணி இங்குதான் இருக்கிறாளா! நான் எவ்வளவு பேரு பெற்றவன்! ஆகா! என்னைப் போன்ற புகழுடையவன் யாருமே இருக்க மாட்டார்கள். இப்படியொரு நாட்டுப் பற்றுள்ள செல்வத்தையா நான் மகளாகப் பெற்றிருக்கிறேன்? அடடா! இந்த வார்த்தைகள் என் செவிகளில் செந்தேனாகப் பாய்கின்றனவே! அரசே! என்னை மன்னித்து விடுங்கள்! அவசரப்பட்டு, ஆத்திரத்தில் ஏதோ கூறிவிட்டேன்” என்று ஆனந்தக் கண்ணீர் பொங்க நின்றார் காரிக்கண்ணனார்.
+“மன்னவா! எனக்கு ஒன்றுமே புரியவில்லை. என் மகள் எப்படி இங்கு வந்தாள்? காணாமற் போன என் கண்மணி இங்குதான் இருக்கிறாளா! நான் எவ்வளவு பேறு பெற்றவன்! ஆகா! என்னைப் போன்ற புகழுடையவன் யாருமே இருக்க மாட்டார்கள். இப்படியொரு நாட்டுப் பற்றுள்ள செல்வத்தையா நான் மகளாகப் பெற்றிருக்கிறேன்? அடடா! இந்த வார்த்தைகள் என் செவிகளில் செந்தேனாகப் பாய்கின்றனவே! அரசே! என்னை மன்னித்து விடுங்கள்! அவசரப்பட்டு, ஆத்திரத்தில் ஏதோ கூறிவிட்டேன்” என்று ஆனந்தக் கண்ணீர் பொங்க நின்றார் காரிக்கண்ணனார்.
 
 “பரவாயில்லை புலவர் பெருமானே! தாங்கள் ஒன்றும் தவறு செய்து விடவில்லையே! மன்னரின் கடமையை எடுத்துரைத்தீர்கள்; அவ்வளவு தானே! எனக்கிருக்கும் வருத்தமெல்லாம் என் நண்பர் பாண்டியர் என்னைக் கலந்து கொள்ளாமல் இருங்கோவேள் மீது படையெடுத்து விட்டாரே என்பதுதான்!” என மிகக் கவலையுடன் கூறினான் கரிகாலன்.
 
@@ -47,3 +47,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 179; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 12; அச்சுப் பக்கம்: 177; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part011 Pass 2A review — Batch 2
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling rendered source pixels;
+- source-text corrections at Pass2A: **1**;
+- source-supported correction: `பேரு` → source-visible `பேறு` in `நான் எவ்வளவு பேறு பெற்றவன்!`;
+- printed page 177 retained; Chapter 12 dialogue and paragraph structure re-confirmed;
+- unresolved textual questions after this review: **0**;
+- printed-page mapping correction at Pass2A: **0**;
+- page-type / section-label correction at Pass2A: **0 / 0**;
+- physical-boundary / continuation correction at Pass2A: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.

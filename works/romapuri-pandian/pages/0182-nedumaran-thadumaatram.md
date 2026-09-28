@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch2 
 
 முரசுபோல் காணப்படும் பாத்திரங்களில் ஊற்றி வைக்கப்பட்டிருந்த கள்ளை ஒரு வீரன் எல்லா வீரர்களுக்கும் அளவோடு வழங்கிக் கொண்டிருந்தான். அதை அருந்தியவர்கள் புது ஊக்கமும் - அருந்தாதவர்கள் அருந்தப் போகிறோம் என்ற புது உற்சாகமும் பெற்றுக் காட்சி தந்தார்கள்.
 
-போராட்டக் களிப்பில் மூழ்கியிருந்த அவர்கள் எல்லோரும் திடுக்கிட்டுத் திரும்பும் அளவுக்குக் குதிரையொன்றின் குளம்படி ஓசை பாசறையை நோக்கி வந்து கொண்டிருப்பதை உணர்ந்தனர். வீரர்களின் கரங்கள் அவர்களை அறியாமலேயே வாட்களை ஏந்திக் கொண்டன. ஒரே அமைதி! ஒலி வரும் திக்கிலேயே படை வீரர்களின் பார்வை நின்றது. தளபதி நெடுமாறன் தனது கூடாரத்தை விட்டு எழுந்து வெளியே வந்து நின்றான். தங்கள் வாளுக்கு ஏதோ ஓர் இரை வருகிறது என ஒவ்வொரு வீரரும் எண்ணிக் கொண்டு காத்திருந்தனர்.
+போராட்டக் களிப்பில் மூழ்கியிருந்த அவர்கள் எல்லாரும் திடுக்கிட்டுத் திரும்பும் அளவுக்குக் குதிரையொன்றின் குளம்படி ஓசை பாசறையை நோக்கி வந்து கொண்டிருப்பதை உணர்ந்தனர். வீரர்களின் கரங்கள் அவர்களை அறியாமலேயே வாட்களை ஏந்திக் கொண்டன. ஒரே அமைதி! ஒலி வரும் திக்கிலேயே படை வீரர்களின் பார்வை நின்றது. தளபதி நெடுமாறன் தனது கூடாரத்தை விட்டு எழுந்து வெளியே வந்து நின்றான். தங்கள் வாளுக்கு ஏதோ ஓர் இரை வருகிறது என ஒவ்வொரு வீரரும் எண்ணிக் கொண்டு காத்திருந்தனர்.
 
 ஓசை மிக அருகே வந்துவிட்டது. மேலும் கூர்மையாக அனைவரும் கவனித்தனர். குதிரை, தளபதி நெடுமாறனை நோக்கி வந்து கொண்டிருந்தது. சந்தேகமில்லை. அதன் மீது அமர்ந்திருப்பவன் வேளிர்குடியைச் சேர்ந்த வீரன்தான். அவனைக் கண்ட பாண்டிய நாட்டார் வாளுருவிப் பாய்ந்தனர். வீரன், குதிரையை விட்டுக் கீழே
 
@@ -36,3 +36,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch2 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 182; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part011 Pass 2A review — Batch 2
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling rendered source pixels;
+- source-text corrections at Pass2A: **1**;
+- source-supported correction: `எல்லோரும்` → source-visible `எல்லாரும்` in the Pandiyan-camp paragraph;
+- Chapter 13 opening-page structure re-confirmed; `printed_page: null`; outgoing 182→183 split-sentence continuation re-confirmed;
+- unresolved textual questions after this review: **0**;
+- printed-page mapping correction at Pass2A: **0**;
+- page-type / section-label correction at Pass2A: **0 / 0**;
+- physical-boundary / continuation correction at Pass2A: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
