@@ -125,3 +125,33 @@ Direct comparison confirms:
 - exact next activity — **Part011 Pass1 Batch1 / scans168–177 / local1–10**
 
 Therefore Part011 is registered and authorized for Pass1 without reopening any frozen Part.
+
+
+## Part011 Pass1 Batch1 closure
+
+**COMPLETE / PASS / TEXT-COMPLETE — scans168–177 / local1–10**
+
+- Part011 canonical records — **10/16**
+- whole-Part Pass1 — **10/16**
+- text/display-bearing pages — **10/10**
+- blank physical pages — **0**
+- incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
+- scan168 — **Chapter 11 terminal continuation / printed166**
+- scan169 — **illustrated Chapter 12 title / 12 / மண்ணாசை**
+- scan170 — **Chapter 12 opening / no visible printed numeral**
+- scans171–177 — **Chapter 12 body / printed169–175**
+- meaningful physical joins — **172→173, 173→174, 175→176, 176→177, 177→178 PASS**
+- 177→178 — **split-word / split-sentence continuation audited; scan178 reserved for Batch2**
+- unresolved Pass1 source-reading holds — **0**
+- source-supported post-write corrections — **0**
+- all Batch1 records — **needs-review / needs-review**
+- status / visual-fidelity promotions — **0 / 0**
+- scans178–183 canonical records created early — **0**
+- outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
+- Part012 / scan184 inferred/imported — **0**
+- frozen Parts001–010 canonical / assembled / English body mutations — **0 / 0 / 0**
+- durable progress — `PART_011_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part011 Pass1 Batch2 — scans178–183 / local11–16 — final 6-page remainder.**
