@@ -179,3 +179,36 @@ Current frontier:
 **Part010 English translation planning/setup.**
 
 Do not begin English drafting until planning/setup closes.
+
+
+## Part010 English planning closure
+
+**PART010 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+- Tamil prerequisites — **CLOSED**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- maintained English sequence before Part010 — **closed through E25**
+- reserved Part010 batches — **E26 → E27**
+- E26 — **RESERVED / NEXT — Chapter 10 continuation / scans151–156**
+- E27 — **RESERVED — Chapter 11 / scans157–167**
+- planned E26 file — `translations/en/sections/25-chapter-10-sunflower-on-a-volcano-part010-continuation.md`
+- planned E27 file — `translations/en/sections/26-chapter-11-the-palm-leaf-changes-hands.md`
+- Chapter 10 title — **Sunflower on a Volcano**
+- Chapter 11 working title — **The Palm Leaf Changes Hands**
+- English draft files created in planning — **0/2**
+- source-check records created in planning — **0/2**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–009 English edits caused by planning — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- scan156 blank-page provenance — **LOCKED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- Part011 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `PART_010_ENGLISH_PLANNING_SETUP.md`
+
+Current frontier:
+
+**E26 — draft + source-check Part010 Chapter 10 continuation / scans151–156.**
+
+Do not begin E27 until E26 is **SOURCE-CHECKED / COMPLETE**.
