@@ -181,3 +181,40 @@ Current frontier:
 **Part010 whole-Part glossary reconciliation across E26–E27.**
 
 Do not begin English editorial review until glossary reconciliation closes.
+
+
+## Post-E27 synchronization verification
+
+Pre-E27 checkpoint:
+
+`b39248ffd0e53ed88070d8dfaa688d06a6cb1b27`
+
+Post-E27 synchronized checkpoint before this verification record:
+
+`ad1949f8621be5a90dd36a0c625194611dc2eb2a`
+
+Direct repository comparison confirms:
+
+- total commits since pre-E27 checkpoint — **3**
+- changed files — **14**
+- canonical `pages/` changes — **0**
+- assembled Part010 Tamil section-body changes — **0**
+- E27 English body file changed — **1 expected**
+- durable E27 source-check record — **present**
+- E26 English body changes caused by E27 — **0**
+- frozen Parts001–009 English-body drift — **0**
+- Part011 / scan168 repository paths — **0**
+
+The synchronized controls agree on:
+
+- E26 — **SOURCE-CHECKED / COMPLETE**
+- E27 — **SOURCE-CHECKED / COMPLETE**
+- completed/source-checked — **2/2**
+- combined structural parity — **156/156 total**
+- combined rendered parity — **138/138**
+- combined standalone provenance parity — **18/18**
+- provenance comment text/order parity — **EXACT / PASS**
+- unresolved English source-check holds — **0**
+- exact next activity — **Part010 whole-Part glossary reconciliation across E26–E27**
+
+Therefore E27 introduced no canonical Tamil, assembled Tamil, frozen earlier-English, or Part011 drift.
