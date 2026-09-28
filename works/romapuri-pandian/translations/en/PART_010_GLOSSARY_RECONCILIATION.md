@@ -147,3 +147,37 @@ Outgoing:
 **Part010 English editorial review across E26–E27.**
 
 Editorial review may improve English grammar, clarity and flow only where source meaning, source voice, structural parity and locked terminology are preserved.
+
+
+## Post-reconciliation synchronization verification
+
+Pre-reconciliation checkpoint:
+
+`5d2a5997509be6f7540c910c1a1ffcb0be6b9d70`
+
+Glossary-reconciled body/control checkpoint:
+
+`376341298c8ed1ad4f4c35cb98383fd0994bf424`
+
+Post-reconciliation synchronized checkpoint before this verification record:
+
+`91c50a8b3504d447d227941de7fa4988983d93ae`
+
+Direct repository comparison from the pre-reconciliation checkpoint confirms:
+
+- total commits — **3**
+- changed files — **16**
+- canonical `pages/` changes — **0**
+- assembled Part010 Tamil section-body changes — **0**
+- maintained Part010 English body files changed — **2 expected**
+- glossary control changed — **1 expected**
+- durable Part010 glossary-reconciliation control — **present**
+- frozen Parts001–009 English-body drift — **0**
+- Part011 / scan168 repository paths — **0**
+- glossary-driven body edits — **3 total — E26 1 / E27 2**
+- structural parity after edits — **156/156 total; 138/138 rendered; 18/18 provenance**
+- provenance comment text/order parity — **EXACT / PASS**
+- unresolved glossary holds — **0**
+- next-chat frontier — **Part010 English editorial review across E26–E27**
+
+Therefore glossary reconciliation introduced no canonical Tamil, assembled Tamil, frozen earlier-English, provenance, or Part011 drift outside the authorized Part010 English terminology layer.
