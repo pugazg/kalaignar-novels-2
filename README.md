@@ -1567,3 +1567,30 @@ Current frontier:
 Current frontier:
 
 **Part010 whole-Part bilingual review across E26–E27.**
+
+
+## Part010 bilingual review closure
+
+**PART010 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED — 2/2 PAIRS**
+
+- E26–E27 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS — 3 edits**
+- English editorial review — **PASS / CLOSED — 18 corrections**
+- bilingual-review corrections — **6 total — E26 2 / E27 4**
+- structural parity — **156/156 total; 138/138 rendered; 18/18 provenance**
+- provenance comment text/order parity — **EXACT / PASS**
+- omitted / duplicated source blocks — **0 / 0**
+- unsupported explanatory insertion — **0**
+- source agency / chronology drift — **0 / 0**
+- unresolved source-check / glossary / editorial / bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–009 English edits — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- scan156 blank provenance — **retained**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- Part011 / scan168 leakage — **0**
+- durable control — `translations/en/PART_010_BILINGUAL_REVIEW.md`
+
+Current frontier:
+
+**Part010 release/readiness review and report.**
