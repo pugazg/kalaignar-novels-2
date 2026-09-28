@@ -40,7 +40,7 @@ laugh and praised the king's skill. It was decided that the palm leaf should be 
 
 The capital of the Pandiyan country looked extremely busy. Warriors moved along in groups, smiles blooming on their faces. Elderly people standing along the streets watched with delight as they went. From every house, warriors came out and joined the procession, making the crowd moving along the street grow larger and larger. Their wives, having sent them off, stood in the doorways watching them without taking their eyes away.
 
-All the warriors could say at home was, "I am going to war and will return," but they could not explain which war, where it would be, or whom they were going to fight. The reason was that even they had not been told those details. For those warriors, it was enough that work had come for shoulders itching for battle! And for the lovers who had embraced them with joy, there was an unquenchable desire to kiss and soothe the honourable wounds they would bring back upon their chests!
+All the warriors could say at home was, "I am going to war and will return," but they could not explain which war, where it would be, or whom they were going to fight. The reason was that even they had not been told those details. For those warriors, it was enough that work had come for shoulders itching for battle! And for the lovers who had embraced them with joy, there was an unquenchable desire to kiss and soothe the honourable battle wounds they would bring back upon their chests!
 
 The old women were eager to boast, "Do you know where my son was wounded? Right in the hollow of his chest!"
 
@@ -198,7 +198,7 @@ Love shone on the face that had been spread with fury!
 
 "My dear!" he said and embraced her; he felt as though he should tell her the truth. A heavy blow landed on his chest. Perhaps that blow awakened the feeling: 'Madman! What are you daring to do? If you tell the truth, love will fly away on the wind. Your beloved will be lost to you. Be careful!' Only afterward does it become clear that he himself had struck his own chest! Some time passed in silence amid confusion, and some time in pleasure.
 
-"It is getting late, aththan! Thamarai will begin looking for me. Then there will be danger—shall I go?"
+"It is getting late, Aththan! Thamarai will begin looking for me. Then there will be danger—shall I go?"
 
 "Go? You cannot go now. There is an important task for you."
 

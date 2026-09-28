@@ -89,7 +89,7 @@ Irungovel answered his bold question at once.
 
 Receiving the palm leaf and the stylus, Sezhiyan began to write. He wrote down what Irungovel had said in very brief form and handed it to him.
 
-"To Pandiyan Peruvazhuthi, greetings from Sezhiyan. I have heard that you are trying to rescue me from Irungovel. There is no need—I have understood who the bride you kept hidden from me
+"To Peruvazhuthi Pandiyan, greetings from Sezhiyan. I have heard that you are trying to rescue me from Irungovel. There is no need—I have understood who the bride you kept hidden from me
 
 <!-- source boundary: scan 154 → scan 155 -->
 
