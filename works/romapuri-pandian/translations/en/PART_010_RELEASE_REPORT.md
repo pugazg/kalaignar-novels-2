@@ -144,3 +144,20 @@ The release layer preserves without normalization:
 **Part010 release-ready synchronization.**
 
 Do not declare final Part010 closure until release-ready synchronization and post-sync drift verification pass.
+
+
+## Part010 release-ready synchronization closure
+
+**PART010 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**
+
+- release/readiness — **PASS / CLOSED**
+- canonical / assembled Tamil sync changes — **0 / 0**
+- maintained Part010 English body sync changes — **0**
+- frozen Parts001–009 English sync changes — **0**
+- Part011 / scan168 leakage — **0**
+- release-ready synchronization blockers — **0**
+- durable control — `PART_010_RELEASE_READY_SYNC.md`
+
+Current frontier:
+
+**Part010 final closure / freeze.**
