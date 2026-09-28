@@ -284,3 +284,54 @@ Pass2A corrections:
 Perform an independent source-fidelity reread for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants.
 
 Do not promote final status or visual fidelity during Pass2B.
+
+
+## Post-Pass2A synchronization verification
+
+Pre-Pass2A checkpoint:
+
+`90db976e6732d04d3e4509c6235a0c1fcc579c2f`
+
+Batch1 canonical review checkpoint:
+
+`25d44efa299e42f5a4dee06c62ea5245ccb1695e`
+
+Batch1 synchronized/verified checkpoint:
+
+`03134629cce72d63aa2b4fe8419d7d950e54c413`
+
+Batch2 canonical review checkpoint:
+
+`58d5cac49bafb3739f3bd17ac54604dc8288d980`
+
+Whole-Pass2A synchronized head before this verification record:
+
+`3cbbeb8dbd77c08a2d7c91425c404d4719901932`
+
+Independent live-main recheck confirms all **16/16** Part011 records:
+
+- formal Part011 Pass2A review evidence present — **16/16**
+- `status: "needs-review"` — **16/16**
+- `visual_fidelity: "needs-review"` — **16/16**
+- scan177 correction `வைத்து` → `வைத்தது` — **present**
+- scan179 correction `பேரு` → `பேறு` — **present**
+- scan182 correction `எல்லோரும்` → `எல்லாரும்` — **present**
+- status promotions — **0**
+
+Repository comparison for Batch2 confirms:
+
+- commits from pre-Batch2 checkpoint to synchronized head — **2**
+- canonical Batch2 page changes — **6 expected / scans178–183**
+- source-text body corrections — **2 expected / scans179, 182**
+- frozen Parts001–010 canonical-page changes — **0**
+- frozen assembled Tamil body changes — **0**
+- frozen maintained English body changes — **0**
+- Part012 / scan184 files — **0**
+
+Therefore:
+
+**PART011 PASS2A — COMPLETE / PASS — 16/16 REVIEWED**
+
+Exact next activity:
+
+**Part011 Pass2B Batch1 — scans168–177 / local1–10.**
