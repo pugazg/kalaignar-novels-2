@@ -35,7 +35,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 
 “இன்றோ, நாளையோ - முத்துவுடன் இன்னொரு ஆள் வருவார். என்னிடம் அழைத்து வர வேண்டும்” என்று அவனுக்கு உத்தரவிட்டு விட்டு முத்துநகையைப் பார்த்து “உன்னை எப்படிப் புகழ்வது என்றே தெரியவில்லை. திறமையும் பயிற்சியும் பெற்ற தலைசிறந்த ஒற்றர்களுக்குக் கூட உன் ஆற்றல் வருமா என்பது சந்தேகம்” என்று பாராட்டினான் பூம்புகார் மன்னன். அரசின் புன்னகையைப் பரிசாகப் பெற்று பெருமிதங் கொண்ட முத்துநகை, விடை பெற்றுக் கொண்டு புறப்பட்டாள்.
 
-வீரபாண்டியை அழைத்துவந்து கரிகாலனிடம் சந்திக்க வைப்பதற்காக உற்சாகத்துடன் கிளம்பினாள், தன்னை அறியாமல் ஒரு பெரும் சதிக்குத்தான் உடந்தையாகி விட்டோம் என்பது அவளுக்குத் தெரியவில்லை. அவள் மாளிகைத் தாழ்வாரத்தைக் கடந்து வெளியேறும்போது எதிரே புலவர் காரிக்கண்ணனார் வேகமாக வந்து கொண்டிருந்தார். சென்றவள் தந்தையையே பார்த்துக் கொண்டிருந்தாள். அவள் கண்களில் நீர் கலங்கிற்று.
+வீரபாண்டியை அழைத்துவந்து கரிகாலனிடம் சந்திக்க வைப்பதற்காக உற்சாகத்துடன் கிளம்பினாள். தன்னை அறியாமல் ஒரு பெரும் சதிக்குத் தான் உடந்தையாகி விட்டோம் என்பது அவளுக்குத் தெரியவில்லை. அவள் மாளிகைத் தாழ்வாரத்தைக் கடந்து வெளியேறும்போது எதிரே புலவர் காரிக்கண்ணனார் வேகமாக வந்து கொண்டிருந்தார். சென்றவள் தந்தையையே பார்த்துக் கொண்டிருந்தாள். அவள் கண்களில் நீர் கலங்கிற்று.
 
 “அப்பா!” என்று கூவிட இருந்தாள். சிரமப்பட்டுத் தன்னை அடக்கிக் கொண்டாள். புலவருக்குத் தன்னைக் கடந்து செல்வது தன் மகள்தான் என்று தெரிந்திருந்தால், “அம்மா! முத்துநகை! என் கண்ணே!” என்று ஓலமிட்டுப் புலம்பி அழுது துடித்திருப்பார்; துவண்டிருப்பார். சற்று நேரம்
 
@@ -64,3 +64,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part011 Pass 2B review — Batch 1
+
+- independent direct source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **2**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / spacing / punctuation / historical-glyph questions after this review: **0**;
+- source-supported punctuation correction: `கிளம்பினாள்,` → source-visible `கிளம்பினாள்.`;
+- source-supported spacing/word-boundary correction: `சதிக்குத்தான்` → source-visible `சதிக்குத் தான்`;
+- source-visible `நாளைக்கு....?` retained;
+- incoming 175→176 and outgoing 176→177 split-sentence continuation `சற்று நேரம்` → `அவரையே பார்த்துக்கொண்டே...` independently re-confirmed;
+- Pass2B Batch1 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

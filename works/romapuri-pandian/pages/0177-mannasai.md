@@ -72,3 +72,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part011 Pass 2B review — Batch 1
+
+- independent direct source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **0**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / spacing / punctuation / historical-glyph questions after this review: **0**;
+- Pass2A correction `மதிப்பு வைத்து` → source-visible `மதிப்பு வைத்தது` independently re-confirmed with **no rollback**;
+- printed page 175 retained;
+- incoming 176→177 continuation retained; outgoing 177→178 split-word / split-sentence continuation `உறுதியளித்` → `திருந்தேன்...` independently re-confirmed against supplied scan178;
+- scans179 and182 Pass2A corrections are outside Batch1 scope and were not touched; they remain for independent Batch2 recheck;
+- Pass2B Batch1 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

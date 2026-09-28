@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 
 “அது பாண்டிய நாட்டு ஒற்றர் வீரபாண்டியிடம் இருக்கிறது அரசே! சொல்ல மறந்து விட்டேனே, அந்த வீரபாண்டியைப் பற்றி! மிகவும் நல்லவர். ஒப்பற்ற வீரர். பாண்டிய நாட்டுக்காகத் தன் உயிரையும் பொருட்படுத்தாமல் இருங்கோவேளைச் சுற்றிக் கொண்டு திரிகிறார். பாவம், ஒரு சாதாரண விறகு வெட்டியைப் போலக் காடுமேடெல்லாம் அலைகிறார்; கஷ்டப்படுகிறார்!”
 
-“அப்படியா? மிக்க மகிழ்ச்சி! ஆனால் சோழ மண்ணில் களங்கம் இருக்கலாகாது - களை முளைத்தலாகாது - என்று கங்கணம் கட்டிக் கொண்டு திரியும் சோழர்குடித் திலகமாம் உன்னை விட உயர்ந்தவனோ அந்த வீரபாண்டி? இருக்க முடியாது. உன் கடமையுணர்வும் தியாக உள்ளமும் யாருக்கும் இருக்க முடியாது!”
+“அப்படியா? மிக்க மகிழ்ச்சி! ஆனால் சோழ மண்ணில் களங்கம் இருக்கலாகாது -களை முளைத்தலாகாது - என்று கங்கணம் கட்டிக் கொண்டு திரியும் சோழர்குடித் திலகமாம் உன்னை விட உயர்ந்தவனோ அந்த வீரபாண்டி? இருக்க முடியாது. உன் கடமையுணர்வும் தியாக உள்ளமும் யாருக்கும் இருக்க முடியாது!”
 
 “தங்கள் பாராட்டுதலுக்கு நன்றி வேந்தே! இந்த ஊக்கம் நிறைந்த மொழிகள் மேலும் மேலும் என்னை உற்சாகப்படுத்தட்டும். எனக்கு நம்பிக்கையிருக்கிறது, எப்படியும் செழியனை மீட்டு வந்து விடலாம் என்று! அந்த வகையில் வீரபாண்டியின் துணையும் நிரம்ப இருக்கிறது.”
 
@@ -59,3 +59,15 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part011 Pass 2B review — Batch 1
+
+- independent direct source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / spacing / punctuation / historical-glyph questions after this review: **0**;
+- source-supported spacing correction: `இருக்கலாகாது - களை` → source-visible `இருக்கலாகாது -களை`;
+- outgoing 175→176 split-sentence continuation `பாண்டிய மண்டலத்து ஒற்றர் வீரபாண்டி மிக` → `அவசரமாகத்...` independently re-confirmed;
+- Pass2B Batch1 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

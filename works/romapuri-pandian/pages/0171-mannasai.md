@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 
 தாமரை மயக்கமடைந்து விழுந்துவிட்டாள். இருங்கோவேள் ஓடிச்சென்று அவளுக்குச் சிகிச்சைகள் செய்து மயக்கம் தெளிவித்து உட்கார வைத்தான். தாமரையின் கண்களில் தாரை தாரையாக நீர் கொட்டியது.
 
-“எப்படியண்ணா அந்தக் கொடுமை நடந்தது?” - அவளுக்குத் துக்கம் நெஞ்சையடைத்தது.
+“எப்படியண்ணா அந்தக் கொடுமை நடந்தது?” -அவளுக்குத் துக்கம் நெஞ்சையடைத்தது.
 
 “என் கண் முன்னாலேயே அவன் கொல்லப்பட்டான். அவன் உடலைக் கூடக் கீழே எறியாமல் புலி தூக்கிக் கொண்டு ஓடி விட்டது”
 
@@ -37,7 +37,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 
 தாமரை, தலையைச் சுவரில் முட்டிக்கொண்டு கோவெனக் கதறி அழத் தொடங்கினாள்.
 
-“தாமரை! என்ன இது? எத்தனையோ வீரர்களை - தளகர்த்தர்களைப் போரிலே இழந்துவிட்டு இங்கே உட்கார்ந்திருக்கிறோம். அப்போதெல்லாம் உன்னை இப்படி அழ வைக்காத நிகழ்ச்சி இப்போது மட்டும் நடந்துவிட்டதா என்ன? ஒரு சாதாரண ஊமை மருத்துவனுக்காகவா இப்படி அழுகிறாய்?”
+“தாமரை! என்ன இது? எத்தனையோ வீரர்களை -தளகர்த்தர்களைப் போரிலே இழந்துவிட்டு இங்கே உட்கார்ந்திருக்கிறோம். அப்போதெல்லாம் உன்னை இப்படி அழ வைக்காத நிகழ்ச்சி இப்போது மட்டும் நடந்துவிட்டதா என்ன? ஒரு சாதாரண ஊமை மருத்துவனுக்காகவா இப்படி அழுகிறாய்?”
 
 “அண்ணா! அண்ணா!” -தாமரையின் கதறல் அதிகமாயிற்று.
 
@@ -71,3 +71,15 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part011 Pass 2B review — Batch 1
+
+- independent direct source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **2**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / spacing / punctuation / historical-glyph questions after this review: **0**;
+- source-supported spacing corrections retained exactly at the source hyphen joins: `?” - அவளுக்குத்` → `?” -அவளுக்குத்`; `வீரர்களை - தளகர்த்தர்களைப்` → `வீரர்களை -தளகர்த்தர்களைப்`;
+- printed page 169 and dialogue/paragraph structure retained;
+- Pass2B Batch1 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

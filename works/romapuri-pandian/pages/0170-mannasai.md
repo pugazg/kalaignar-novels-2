@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 
 மரமாளிகையின் வாயிற்புறத்தில் காத்திருந்த தாமரை, அண்ணனையும், அவன் தூக்கி வரும் பிணத்தையும் கண்டதும் எதிரே ஓடி, “அண்ணா! என்ன நடந்தது?” என்று கேட்டாள்.
 
-இருங்கோவேள், பதில் எதுவும் கூறவில்லை. எதிரே நின்ற வீரனைக் கூப்பிட்டு உடனே அமைச்சரை அழைத்துவருமாறு உத்தரவிட்டான். அமைச்சரும் வந்து சேர்ந்தார்.
+இருங்கோவேள், பதில் எதும் கூறவில்லை. எதிரே நின்ற வீரனைக் கூப்பிட்டு உடனே அமைச்சரை அழைத்துவருமாறு உத்தரவிட்டான். அமைச்சரும் வந்து சேர்ந்தார்.
 
 “கொடுங்கோல் வழியில் கொல்லப்பட்டான். இதோ இருக்கிறது செழியனின் ஓலை! வெகு விரைவில் இதைப் பாண்டியநாட்டுப் படைத் தளபதியிடம் சேர்த்தாக வேண்டும்! மதுரையை விட்டுப் படை புறப்பட்டு நம்மை நோக்கி வருவதாகச் செய்தி கிடைத்திருக்கிறது. உம்! உடனே ஓலையை அனுப்புங்கள்; அத்துடன் நமது இருப்பிடத்தைச் சுற்றிக் காட்டுக்காவல் பலமாகட்டும். எதிரிப் படை வருகிறதா என்பதை அறிய நாலா பக்கங்களிலும் ஆட்கள் செல்லட்டும்” என்று உத்தரவு பிறப்பித்துவிட்டுத் தங்கையைப் பார்த்து “தாமரை! என்னோடு வா!” என்று அழைத்துக் கொண்டு உள்ளே சென்றான்.
 
@@ -57,3 +57,15 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part011 Pass 2B review — Batch 1
+
+- independent direct source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / spacing / punctuation / historical-glyph questions after this review: **0**;
+- source-supported lexical correction: `பதில் எதுவும் கூறவில்லை` → source-visible `பதில் எதும் கூறவில்லை`;
+- `printed_page: null` and the intentional large upper blank field retained;
+- Pass2B Batch1 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
