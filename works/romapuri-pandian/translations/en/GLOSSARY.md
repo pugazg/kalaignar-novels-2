@@ -1525,7 +1525,7 @@ Source-facing decisions confirmed:
 - `முத்திரை மோதிரம்` → **seal ring**
 - `ஒற்றன்` → **spy**
 - `தளபதி` → **commander**
-- `விழுப்புண்` → **honourable wounds**
+- `விழுப்புண்` → **honourable battle wounds**
 - `முரசம்` → **war drum / drums**, chosen by local syntax
 - `மீன் கொடி` → **fish flag**
 - `மண்டபம்` → **mandapam**
@@ -1545,3 +1545,73 @@ Part010 E26–E27 source-check state — **COMPLETE / PASS — 2/2**.
 Exact next glossary-bearing activity:
 
 **Part010 whole-Part glossary reconciliation across E26–E27.**
+
+
+## Part010 whole-Part glossary reconciliation
+
+**PART010 GLOSSARY RECONCILIATION — RECONCILED / PASS**
+
+Scope — E26–E27 / scans151–167.
+
+Locked or context-controlled Part010 forms after reconciliation:
+
+| Tamil/source form | English handling | Note |
+|---|---|---|
+| `எரிமலைமீது சூரியகாந்தி` | **Sunflower on a Volcano** | frozen Chapter 10 title carried from Part009 |
+| `ஓலை கை மாறியது` | **The Palm Leaf Changes Hands** | Chapter 11 title |
+| `தாமரை` | **Thamarai** | personal name |
+| `இருங்கோவேள்` | **Irungovel** | personal/ruler name |
+| `செழியன்` | **Sezhiyan** | personal name |
+| `முத்துநகை` | **Muthunagai** | personal name |
+| `வீரபாண்டி` | **Veerapandi** | assumed/source-facing name |
+| `பெருவழுதி` / `பெருவழுதிப் பாண்டியன்` / local ruler order | **Peruvazhuthi / Peruvazhuthi Pandiyan** | established project name order |
+| `கரிகாலன்` | **Karikalan** | contextual source form |
+| `கரிகாற் சோழன்` / `கரிகால் சோழன்` | **Karikala Cholan** | contextual source form |
+| `வேளிர்குடி` / `வேளிர் குலம்` | **Velir clan / Velir people** | local syntax |
+| `ஓலை` | **palm leaf / palm-leaf message** | local object/message syntax |
+| `திருமண ஓலை` | **marriage message** | E26 local context |
+| `முத்திரை மோதிரம்` | **seal ring** | E27 |
+| `ஒற்றன்` | **spy** | E27 |
+| `தளபதி` | **commander** | E27 |
+| `விழுப்புண்` | **honourable battle wounds** | carried forward from earlier locked English |
+| `முரசம்` | **war drum / drums** | local syntax |
+| `மீன் கொடி` | **fish flag** | E27 |
+| `மண்டபம்` | **mandapam** | established project term |
+| `கல்` in the distance expression | **kal** | source unit retained without outside conversion |
+| `அத்தான்` | **Aththan** | retained source-facing intimate address |
+| `பூம்புகார்` | **Poompuhar** | established place-name form |
+| `சோழ- பாண்டிய மண்டலம்` | **Chola-Pandiyan realm** | E26 local context |
+
+Context-sensitive distinctions remain deliberate and are not flattened.
+
+Glossary-driven English-body edits — **3**:
+
+1. E26 ruler-name order:
+   - **"To Pandiyan Peruvazhuthi, greetings from Sezhiyan."**
+   - → **"To Peruvazhuthi Pandiyan, greetings from Sezhiyan."**
+   - aligns with the frozen Part009 project handling of the ruler name.
+
+2. E27 martial term:
+   - **"honourable wounds"**
+   - → **"honourable battle wounds"**
+   - restores the earlier locked rendering of `விழுப்புண்`.
+
+3. E27 intimate-address casing:
+   - **"aththan!"**
+   - → **"Aththan!"**
+   - aligns both E27 occurrences with the retained source-facing address form.
+
+Reconciliation result:
+
+- maintained Part010 English files checked — **2/2**
+- glossary-driven body edits — **3 total — E26 1 / E27 2**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–009 English edits — **0**
+- Part011 / scan168 leakage — **0**
+- structural parity retained — **156/156 total; 138/138 rendered; 18/18 provenance**
+- provenance comment text/order parity — **EXACT / PASS**
+
+Exact next gate:
+
+**Part010 English editorial review across E26–E27.**
