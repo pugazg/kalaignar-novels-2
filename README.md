@@ -1641,3 +1641,43 @@ Current frontier:
 **Part011 source intake + 167→168 adjacent-boundary witness inspection/setup when the Part011 source is supplied.**
 
 Do not infer scan168 or begin Part011 canonical transcription without the supplied source.
+
+
+## Part011 source intake + incoming boundary setup
+
+**PART011 SOURCE INTAKE / 167→168 BOUNDARY SETUP — PASS / COMPLETE**
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_011_pages_168-183.pdf`
+- source family — **TVA_BOK_0065553**
+- local PDF pages — **16**
+- global scans — **168–183**
+- file size — **48,165,093 bytes**
+- SHA-256 — `42a8c5bbbaca1d027b93ff17c47971f201b0359a794dc9c6789209ca05f733d3`
+- source text layer — **no usable parsed text**
+- controlling witness — **rendered source page images**
+- incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
+- scan168 — **Chapter 11 terminal continuation / printed166**
+- scan169 — **illustrated Chapter 12 title / 12 / மண்ணாசை**
+- scan170 — **Chapter 12 opening / no visible printed numeral**
+- scans171–180 — **Chapter 12 body / printed169–178**
+- scan181 — **illustrated Chapter 13 title / 13 / நெடுமாறன் தடுமாற்றம்**
+- scan182 — **Chapter 13 opening / no visible printed numeral**
+- scan183 — **Chapter 13 body / printed181**
+- Part011 canonical records — **0/16**
+- Part011 Pass1 — **NOT STARTED**
+- unresolved intake/boundary blockers — **0**
+- outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
+- frozen Parts001–010 canonical / assembled / English body mutations — **0 / 0 / 0**
+- frozen Part010 final-closure record rewrites — **0**
+- Part011 PDF added to active Git tree — **0**
+- durable intake — `works/romapuri-pandian/SOURCE_INTAKE_PART_011.md`
+- durable incoming-boundary audit — `works/romapuri-pandian/PART_010_BOUNDARY_AUDIT_167_168.md`
+
+Pass1 cadence:
+
+- Batch 1 — **scans168–177 / local1–10**
+- Batch 2 — **scans178–183 / local11–16 — final 6-page remainder**
+
+Current frontier:
+
+**Part011 Pass1 Batch 1 — scans168–177 / local1–10.**
