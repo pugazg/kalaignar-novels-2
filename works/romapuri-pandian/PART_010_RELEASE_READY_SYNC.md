@@ -111,3 +111,27 @@ The pending witness does not block final Part010 closure.
 ## Exact next activity
 
 Create and independently verify the durable **Part010 final closure / freeze** record.
+
+
+## Post-synchronization drift verification
+
+Release/readiness record commit:
+
+`90c209c9f228c6af8b59b197aa002a0401859690`
+
+Release-ready synchronized head:
+
+`960c36932e58327b61d7bb87f17d70f40db9761d`
+
+Direct comparison covers **1 commit / 7 changed files** and confirms:
+
+- canonical `pages/` changes — **0**
+- assembled Part010 Tamil section-body changes — **0**
+- maintained Part010 English section-body changes — **0**
+- frozen Parts001–009 English section-body changes — **0**
+- Part011 / scan168 files — **0**
+- active Git PDF paths introduced — **0**
+
+Therefore post-release synchronization drift — **0**.
+
+The synchronized frontier is **Part010 final closure / freeze**.
