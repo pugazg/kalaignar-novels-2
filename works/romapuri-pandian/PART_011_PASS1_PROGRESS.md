@@ -91,3 +91,41 @@ Batch 2 remains:
 ## Exact next activity
 
 **Part011 Pass1 Batch 2 — global scans178–183 / local pages11–16 — final 6-page remainder.**
+
+
+## Post-Batch1 synchronization verification
+
+Pre-Batch1 intake head:
+
+`ed90afa2dfe17273509b89e24f86db05404264bb`
+
+Batch1 canonical-page checkpoint:
+
+`6ecc3f23397df0c0aad27db0abecdb91394cdd06`
+
+Batch1 synchronized head before this verification record:
+
+`304cce4ff6cd5317195d5f8589a2ea091a8067fd`
+
+Direct repository comparison from the pre-Batch1 head confirms:
+
+- commits — **2**
+- changed files — **18**
+- canonical Part011 page files added — **10 expected / scans168–177 only**
+- canonical scans178–183 files — **0**
+- frozen Parts001–010 canonical page changes — **0**
+- frozen assembled Tamil body changes — **0**
+- frozen maintained English body changes — **0**
+- active Git PDF paths — **0**
+- durable Batch1 progress control — **present**
+
+All 10 Batch1 records independently rechecked on live main:
+
+- `part: 11` — **10/10**
+- local pages — **1–10 continuous**
+- exact Part011 source filename — **10/10**
+- `status: "needs-review"` — **10/10**
+- `visual_fidelity: "needs-review"` — **10/10**
+- status promotions — **0**
+
+Batch1 therefore remains **COMPLETE / PASS / TEXT-COMPLETE — 10/16**, with the next exact gate **Part011 Pass1 Batch2 — scans178–183 / local11–16**.
