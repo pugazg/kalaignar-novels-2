@@ -1,48 +1,53 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 final closure / freeze
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part011 source intake + 167→168 adjacent-boundary witness inspection/setup
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Parts001–009 are **FINAL CLOSED / FROZEN**.
+## Durable frozen state
 
-Part010 current state:
+Parts001–010 are **FINAL CLOSED / FROZEN**.
 
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, editorial decisions, bilingual decisions, release records, release-ready synchronization records or final-closure records merely to begin Part011.
+
+## Part010 closed authority
+
+- scans — **151–167 / 17**
 - canonical Tamil — **17/17 verified**
 - visual fidelity — **17/17 verified**
-- Tamil archival-ready — **PASS / CLOSED**
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - E26–E27 — **SOURCE-CHECKED / COMPLETE — 2/2**
 - glossary reconciliation — **RECONCILED / PASS — 3 edits**
 - English editorial review — **PASS / CLOSED — 18 corrections**
-- whole-Part bilingual review — **PASS / CLOSED — 2/2 PAIRS**
-- bilingual-review corrections — **6**
+- bilingual review — **PASS / CLOSED — 2/2 PAIRS / 6 corrections**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
 - unresolved final blockers — **0**
 - active Git PDF paths — **0**
-- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
-- scan156 — **blank physical separator / provenance only**
 - outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
-- Part011 / scan168 leakage — **0**
 
-Durable release controls:
+Durable final control:
 
-- `translations/en/PART_010_RELEASE_REPORT.md`
-- `PART_010_RELEASE_READY_SYNC.md`
+`works/romapuri-pandian/PART_010_FINAL_CLOSURE.md`
+
+## Part011 current state
+
+- source — **NOT SUPPLIED / NOT REGISTERED**
+- source intake — **NOT REGISTERED**
+- canonical records — **0**
+- scan168 adjacent witness — **NOT AVAILABLE**
+- inferred/imported Part011 text — **0**
 
 ## Exact next activity
 
-**Part010 final closure / freeze.**
+When the Part011 source is supplied:
+
+**Part011 source intake + 167→168 adjacent-boundary witness inspection/setup.**
 
 Requirements:
 
-- independently verify the complete Tamil, assembled-Tamil, English, bilingual, release/readiness and release-ready synchronization chain;
-- verify structural parity remains **156/156 total; 138/138 rendered; 18/18 provenance**;
-- verify post-release synchronization causes **0** canonical, assembled-Tamil and maintained-English body drift;
-- verify Parts001–009 remain frozen;
-- verify active Git PDF paths — **0**;
-- verify Part011 / scan168 paths/content — **0**;
-- treat outgoing 167→168 pending adjacent witness as external and not a Part010 blocker;
-- create durable `PART_010_FINAL_CLOSURE.md`;
-- mark **Parts001–010 FINAL CLOSED / FROZEN**;
-- advance the frontier to **Part011 source intake + 167→168 adjacent-boundary witness inspection/setup when the Part011 source is supplied**;
+- register the supplied Part011 source exactly, including filename, size, page count and SHA-256;
+- inspect scan168 directly from the supplied source;
+- audit the 167→168 boundary against frozen Part010 scan167;
+- do not alter frozen Part010;
+- establish Part011 scan range, local-page mapping and source identity before transcription;
 - do not infer scan168 or begin Part011 canonical transcription without the supplied source.

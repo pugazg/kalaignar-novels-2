@@ -1615,3 +1615,33 @@ Reconciliation result:
 Exact next gate:
 
 **Part010 English editorial review across E26–E27.**
+
+
+## Part010 final closure
+
+**PART010 FINAL CLOSURE — PASS / CLOSED / FROZEN**
+
+- Parts001–010 — **FINAL CLOSED / FROZEN**
+- canonical Part010 Tamil / visual — **17/17 verified / 17/17 verified**
+- assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
+- E26–E27 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary — **RECONCILED / PASS — 3 edits**
+- editorial — **PASS / CLOSED — 18 corrections**
+- bilingual — **PASS / CLOSED — 2/2 PAIRS / 6 corrections**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- structural parity — **156/156 total; 138/138 rendered; 18/18 provenance**
+- unresolved final blockers — **0**
+- canonical / assembled / English post-release drift — **0 / 0 / 0**
+- active Git PDF paths — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- Part011 — **NOT SUPPLIED / NOT REGISTERED**
+- Part011 / scan168 leakage — **0**
+- durable closure — `PART_010_FINAL_CLOSURE.md`
+
+Current frontier:
+
+**Part011 source intake + 167→168 adjacent-boundary witness inspection/setup when the Part011 source is supplied.**
+
+Do not infer scan168 or begin Part011 canonical transcription without the supplied source.
