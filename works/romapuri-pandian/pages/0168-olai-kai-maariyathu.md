@@ -29,3 +29,17 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch1 
 - status and visual fidelity remain needs-review
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 168; பகுதி: 011; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 166; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part011 Pass 2A review — Batch 1
+
+- independent direct word-by-word, punctuation, spacing, paragraph/dialogue, displayed-text, printed-pagination and physical page-boundary comparison completed against the controlling rendered source pixels;
+- source-text corrections at Pass2A: **0**;
+- source-supported corrections at Pass2A: **0**;
+- incoming 167→168 **GENUINE CONTINUATION / AUDITED** re-confirmed; terminal Chapter 11 body and printed page 166 retained;
+- unresolved textual questions after this review: **0**;
+- printed-page mapping correction at Pass2A: **0**;
+- page-type / section-label correction at Pass2A: **0 / 0**;
+- physical-boundary / continuation correction at Pass2A: **0**;
+- Pass2A result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
