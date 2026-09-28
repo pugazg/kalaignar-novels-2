@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part011 Pass2A Batch2 — scans178–183
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part011 Pass2B Batch1 — scans168–177
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,49 +27,44 @@ Source:
 
 **PART011 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 
-All 16 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+## Closed Pass2A state
 
-## Closed Pass2A Batch1 state
+**PART011 PASS2A — COMPLETE / PASS — 16/16 REVIEWED**
 
-**COMPLETE / PASS — scans168–177 / local1–10 — 10/10 REVIEWED**
-
-- source-supported corrections — **1**
-- corrected page — **scan177**
-- correction — `மதிப்பு வைத்து குற்றம் இல்லையா?` → source-visible `மதிப்பு வைத்தது குற்றம் இல்லையா?`
-- clean pages — **9 — scans168–176**
+- Batch1 scans168–177 — **10/10 PASS**
+- Batch2 scans178–183 — **6/6 PASS**
+- source-supported corrections — **3**
+- corrected pages — **3 — scans177, 179, 182**
+- scan177 — `வைத்து` → source-visible `வைத்தது`
+- scan179 — `பேரு` → source-visible `பேறு`
+- scan182 — `எல்லோரும்` → source-visible `எல்லாரும்`
 - unresolved textual questions — **0**
 - printed-page / page-type / section / physical-boundary corrections — **0 / 0 / 0 / 0**
-- status / visual-fidelity promotions — **0 / 0**
-- 172→173, 173→174, 175→176, 176→177 and 177→178 joins — **re-confirmed**
+- all 16 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- status promotions — **0**
 
 Durable control:
 
 `works/romapuri-pandian/PART_011_PASS2A_PROGRESS.md`
 
-## Remaining Batch2 structure
-
-- scan178 / local11 / printed176 — Chapter 12 `மண்ணாசை` continuation
-- scan179 / local12 / printed177 — Chapter 12 continuation
-- scan180 / local13 / printed178 — Chapter 12 terminal body page
-- scan181 / local14 — illustrated Chapter 13 title **13 / நெடுமாறன் தடுமாற்றம்**
-- scan182 / local15 — Chapter 13 opening / no visible printed numeral
-- scan183 / local16 / printed181 — Chapter 13 body
-- outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
-
 ## Exact next activity
 
-**Part011 Pass2A Batch2 — global scans178–183 / local pages11–16 — final 6-page remainder.**
+**Part011 Pass2B Batch1 — global scans168–177 / local pages1–10.**
+
+Fixed cadence — **10 physical pages per iteration**.
 
 Requirements:
 
-- independently reread rendered source pixels word-by-word and punctuation-by-punctuation;
-- compare canonical text, exact spacing-sensitive forms, paragraph/dialogue boundaries, displayed title structure, printed-page mapping, page type, section label and physical continuations;
-- correct only source-supported defects in scans178–183;
-- recheck 177→178, 178→179, 180→181, 181→182 and 182→183;
-- preserve scan181 as illustrated Chapter 13 title with `printed_page: null`;
-- preserve scan182 as Chapter 13 opening with `printed_page: null`;
-- preserve outgoing 183→184 as pending external witness; do not infer/import scan184 wording;
-- keep all records `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- make no status or visual-fidelity promotions at Pass2A;
+- independently reread the rendered source pixels for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- independently re-confirm all Pass2A corrections with no rollback unless source pixels require it;
+- inspect scans168–177 only in Batch1;
+- preserve incoming 167→168 audited boundary;
+- recheck 172→173, 173→174, 175→176, 176→177 and 177→178 continuations;
+- preserve null printed-page mappings on scans169–170;
+- make only source-supported canonical Tamil corrections;
+- create/update durable `PART_011_PASS2B_PROGRESS.md`;
+- keep every Part011 record `status: "needs-review"` / `visual_fidelity: "needs-review"`;
+- make no status or visual-fidelity promotions during Pass2B;
 - make no changes to frozen Parts001–010;
-- after Batch2, close **PART011 PASS2A — COMPLETE / PASS — 16/16 REVIEWED** and advance to **Part011 Pass2B Batch1 — scans168–177 / local1–10**.
+- do not infer/import Part012 / scan184 content;
+- after Batch1, continue to **Part011 Pass2B Batch2 — scans178–183 / local11–16**.

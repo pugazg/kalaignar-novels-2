@@ -298,3 +298,29 @@ Current Part011 Pass2A state:
 Current frontier:
 
 **Part011 Pass2A Batch2 — scans178–183 / local11–16 — final 6-page remainder.**
+
+
+## Part011 Pass2A closure
+
+**PART011 PASS2A — COMPLETE / PASS — 16/16 REVIEWED**
+
+- Batch1 scans168–177 — **10/10 PASS**
+- Batch2 scans178–183 — **6/6 PASS**
+- source-supported corrections — **3**
+- corrected pages — **3 — scans177, 179, 182**
+- scan177 — `வைத்து` → source-visible `வைத்தது`
+- scan179 — `பேரு` → source-visible `பேறு`
+- scan182 — `எல்லோரும்` → source-visible `எல்லாரும்`
+- unresolved textual questions — **0**
+- printed-page / page-type / section / physical-boundary corrections — **0 / 0 / 0 / 0**
+- incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
+- all 16 Part011 records — **needs-review / needs-review**
+- status / visual-fidelity promotions — **0 / 0**
+- frozen Parts001–010 canonical / assembled / English body mutations — **0 / 0 / 0**
+- Part012 / scan184 inferred/imported — **0**
+- durable control — `PART_011_PASS2A_PROGRESS.md`
+
+Current frontier:
+
+**Part011 Pass2B Batch1 — scans168–177 / local1–10.**
