@@ -1473,3 +1473,36 @@ Current Part010 English state:
 Current frontier:
 
 **E27 — draft + source-check Part010 Chapter 11 `ஓலை கை மாறியது` / scans157–167.**
+
+
+## Part010 E26–E27 source-check closure
+
+**PART010 ENGLISH SOURCE-CHECK — COMPLETE / PASS — E26–E27 2/2**
+
+- E26 — **SOURCE-CHECKED / COMPLETE — Chapter 10 continuation / scans151–156**
+- E27 — **SOURCE-CHECKED / COMPLETE — Chapter 11 / scans157–167**
+- E26 file — `translations/en/sections/25-chapter-10-sunflower-on-a-volcano-part010-continuation.md`
+- E27 file — `translations/en/sections/26-chapter-11-the-palm-leaf-changes-hands.md`
+- Chapter 10 title — **Sunflower on a Volcano**
+- Chapter 11 title — **The Palm Leaf Changes Hands**
+- Tamil / English total block parity — **156 / 156**
+- Tamil / English rendered block parity — **138 / 138**
+- standalone provenance parity — **18 / 18**
+- provenance comment text/order parity — **EXACT / PASS**
+- scan156 blank provenance — **retained / no English body**
+- incoming 150→151 provenance — **retained / no frozen Part009 backfill**
+- outgoing 167→168 provenance — **retained / no Part011 inference**
+- post-draft source-check corrections — **0 / 0**
+- omitted / duplicated source blocks — **0 / 0**
+- unsupported English insertion — **0**
+- unresolved source-check holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–009 English edits — **0**
+- Part011 / scan168 leakage — **0**
+- durable source-checks — `translations/en/E26_SOURCE_CHECK.md`, `translations/en/E27_SOURCE_CHECK.md`
+
+Current frontier:
+
+**Part010 whole-Part glossary reconciliation across E26–E27.**
+
+Do not begin English editorial review until glossary reconciliation closes.

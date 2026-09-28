@@ -1502,3 +1502,46 @@ E26 source-check state — **SOURCE-CHECKED / COMPLETE**.
 Exact next glossary-bearing activity:
 
 **E27 draft + source-check Part010 Chapter 11 `ஓலை கை மாறியது` / scans157–167.**
+
+
+## E27 source-check decisions
+
+E27 covers Part010 Chapter 11 `ஓலை கை மாறியது` / scans157–167.
+
+Source-facing decisions confirmed:
+
+- `ஓலை கை மாறியது` → **The Palm Leaf Changes Hands**
+- `ஓலை` → **palm leaf / palm-leaf message**, chosen by local syntax
+- `முத்துநகை` → **Muthunagai**
+- `தாமரை` → **Thamarai**
+- `இருங்கோவேள்` → **Irungovel**
+- `செழியன்` → **Sezhiyan**
+- `பெருவழுதிப் பாண்டியர்` → **Peruvazhuthi Pandiyan**
+- `கரிகாலன்` → **Karikalan**
+- `கரிகால் சோழன்` → **Karikala Cholan**
+- `வீரபாண்டி` → **Veerapandi**
+- `கொடுங்கோல்` → **Kodungol**
+- `நெடுமாறன்` → **Nedumaran**
+- `முத்திரை மோதிரம்` → **seal ring**
+- `ஒற்றன்` → **spy**
+- `தளபதி` → **commander**
+- `விழுப்புண்` → **honourable wounds**
+- `முரசம்` → **war drum / drums**, chosen by local syntax
+- `மீன் கொடி` → **fish flag**
+- `மண்டபம்` → **mandapam**
+- `கல்` in the distance expression → **kal**, retained as the source unit without outside conversion
+- `அத்தான்` → **Aththan**, retained as a source-facing intimate address
+- `சபாஷ்` → **Bravo!**
+
+E27 source-check state — **SOURCE-CHECKED / COMPLETE**.
+
+- source-check corrections — **0**
+- unresolved E27 glossary/source-check holds — **0**
+- frozen Parts001–009 English edits caused by E27 — **0**
+- Part011 / scan168 leakage — **0**
+
+Part010 E26–E27 source-check state — **COMPLETE / PASS — 2/2**.
+
+Exact next glossary-bearing activity:
+
+**Part010 whole-Part glossary reconciliation across E26–E27.**
