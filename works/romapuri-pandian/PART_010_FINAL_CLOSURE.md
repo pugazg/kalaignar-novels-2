@@ -247,3 +247,33 @@ On the next explicit continuation with the Part011 source:
 **Part011 source intake + 167→168 adjacent-boundary witness inspection/setup.**
 
 Do not infer scan168 or begin Part011 canonical transcription without the supplied source.
+
+
+## 13. Post-closure synchronization verification
+
+Final-closure record commit:
+
+`41c97ba2b3eade9b83dedf3630f462e61fdf3674`
+
+Post-final-closure synchronized head before this verification record:
+
+`d122cf3bc0dadb23a71308ec09c5164b0fa80e0f`
+
+Direct comparison confirms the final-closure synchronization phase spans **1 commit / 18 changed files** and contains **no text-bearing authority/body drift**:
+
+- canonical `pages/` changes — **0**
+- assembled Part010 Tamil section-body changes — **0**
+- maintained Part010 English section-body changes — **0**
+- frozen Parts001–009 English section-body changes — **0**
+- active Git PDF paths — **0**
+- Part011 / scan168 repository paths — **0**
+
+Live-tree verification confirms:
+
+- `PART_010_FINAL_CLOSURE.md` — **present**
+- Parts001–010 control frontier — **FINAL CLOSED / FROZEN**
+- Part011 — **NOT SUPPLIED / NOT REGISTERED**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- next activity — **Part011 source intake + 167→168 adjacent-boundary witness inspection/setup when source is supplied**
+
+Unauthorized textual drift after the final bilingual body checkpoint — **0**.
