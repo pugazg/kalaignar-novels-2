@@ -96,3 +96,32 @@ Part011 canonical transcription is now authorized.
 ## Exact next activity
 
 **Part011 Pass1 Batch 1 — global scans168–177 / local pages1–10.**
+
+
+## Post-intake synchronization verification
+
+Pre-Part011 intake head:
+
+`32b9c930703eb97b11953cf25f5507305f0e61f7`
+
+Part011 intake/boundary synchronized head:
+
+`bcb0d5d9ebc24ff74b098055831432bbd06fd428`
+
+Direct comparison confirms:
+
+- commits — **1**
+- changed files — **7**
+- canonical `pages/` changes — **0**
+- assembled Tamil section-body changes — **0**
+- maintained English section-body changes — **0**
+- active Git PDF paths — **0**
+- Part011 canonical page records created — **0**
+- frozen Parts001–010 body mutations — **0**
+- `SOURCE_INTAKE_PART_011.md` — **present**
+- `PART_010_BOUNDARY_AUDIT_167_168.md` — **present**
+- incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
+- unresolved intake/boundary blockers — **0**
+- exact next activity — **Part011 Pass1 Batch1 / scans168–177 / local1–10**
+
+Therefore Part011 is registered and authorized for Pass1 without reopening any frozen Part.
