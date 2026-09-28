@@ -1748,3 +1748,28 @@ Current frontier:
 **Part010 whole-Part glossary reconciliation across E26–E27.**
 
 Do not begin English editorial review until glossary reconciliation closes.
+
+
+## Part010 glossary reconciliation closure
+
+**PART010 GLOSSARY RECONCILIATION — RECONCILED / PASS**
+
+- E26–E27 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- maintained English files reconciled — **2/2**
+- glossary-driven English-body edits — **3 total — E26 1 / E27 2**
+- E26 ruler-name order — **Pandiyan Peruvazhuthi → Peruvazhuthi Pandiyan**
+- E27 `விழுப்புண்` — **honourable wounds → honourable battle wounds**
+- E27 `அத்தான்` casing — **aththan → Aththan**
+- Chapter 10 title — **Sunflower on a Volcano**
+- Chapter 11 title — **The Palm Leaf Changes Hands**
+- structural parity — **156/156 total; 138/138 rendered; 18/18 provenance**
+- provenance comment text/order parity — **EXACT / PASS**
+- unresolved glossary holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–009 English edits — **0**
+- Part011 / scan168 leakage — **0**
+- durable control — `translations/en/PART_010_GLOSSARY_RECONCILIATION.md`
+
+Current frontier:
+
+**Part010 English editorial review across E26–E27.**
