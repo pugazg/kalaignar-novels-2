@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part011 Pass1 Batch2 — scans178–183
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part011 Pass2A Batch1 — scans168–177
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–010 are **FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, editorial decisions, bilingual decisions, release records, release-ready synchronization records or final-closure records merely to advance Part011.
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, editorial decisions, bilingual decisions, release records, release-ready synchronization records or final-closure records merely to review Part011.
 
 ## Part011 source authority
 
@@ -20,62 +20,52 @@ Source:
 - global scans — **168–183**
 - source text layer — **no usable parsed text**
 - controlling authority — **rendered source page images**
-- source intake — **SUPPLIED / REGISTERED / AUTHORIZED**
 - incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
 
-Durable controls:
+## Closed Pass1 state
 
-- `works/romapuri-pandian/SOURCE_INTAKE_PART_011.md`
-- `works/romapuri-pandian/PART_010_BOUNDARY_AUDIT_167_168.md`
-- `works/romapuri-pandian/PART_011_PASS1_PROGRESS.md`
+**PART011 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
 
-## Closed Batch1 state
-
-**Part011 Pass1 Batch1 — COMPLETE / PASS / TEXT-COMPLETE — scans168–177 / local1–10**
-
-- canonical Part011 records — **10/16**
-- whole-Part Pass1 — **10/16**
+- canonical Part011 records — **16/16**
+- local pages — **1–16 continuous**
+- global scans — **168–183 continuous**
+- all records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - unresolved Pass1 source-reading holds — **0**
-- all Batch1 records — **needs-review / needs-review**
+- Pass1 corrections — **0**
 - status promotions — **0**
-- scan168 — Chapter 11 terminal continuation / printed166
-- scan169 — Chapter 12 title **12 / மண்ணாசை**
+
+Structural inventory:
+
+- scan168 — Chapter 11 `ஓலை கை மாறியது` terminal continuation / printed166
+- scan169 — illustrated Chapter 12 title **12 / மண்ணாசை**
 - scan170 — Chapter 12 opening / no visible printed numeral
-- scans171–177 — Chapter 12 body / printed169–175
-- 172→173, 173→174, 175→176, 176→177 — **split-sentence continuations**
-- 177→178 — **split-word / split-sentence continuation**
-  - scan177 closes at `உறுதியளித்`
-  - supplied scan178 begins `திருந்தேன்...`
-- scans178–183 records created early — **0**
+- scans171–180 — Chapter 12 body / printed169–178
+- scan181 — illustrated Chapter 13 title **13 / நெடுமாறன் தடுமாற்றம்**
+- scan182 — Chapter 13 opening / no visible printed numeral
+- scan183 — Chapter 13 body / printed181
 
-## Intake-level remaining structure
+Durable progress:
 
-- scans178–180 / local11–13 — Chapter 12 continuation / printed176–178
-- scan181 / local14 — illustrated Chapter 13 title **13 / நெடுமாறன் தடுமாற்றம்**
-- scan182 / local15 — Chapter 13 opening / no visible printed numeral
-- scan183 / local16 — Chapter 13 body / printed181
-
-Do not infer hidden printed numerals on title/opening pages.
+`works/romapuri-pandian/PART_011_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-**Part011 Pass1 Batch2 — global scans178–183 / local pages11–16 — final 6-page remainder.**
+**Part011 Pass2A Batch1 — global scans168–177 / local pages1–10.**
+
+Fixed review cadence — **10 physical pages per iteration**.
 
 Requirements:
 
-- directly transcribe from rendered source pixels only;
-- create canonical page records for scans178–183 only;
-- preserve exact source wording, punctuation, spacing-sensitive forms, dialogue boundaries and displayed-title structure;
-- retain source-visible printed numerals only;
-- scan178 must complete the physical split from scan177 without altering frozen Batch1 text;
-- scans178–180 continue Chapter 12;
-- scan181 is the illustrated Chapter 13 title page;
-- scan182 is the Chapter 13 opening page;
-- scan183 continues Chapter 13;
-- record meaningful physical joins;
-- all new Part011 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- make no status promotions during Pass1;
+- independently reread the controlling rendered source pixels word-by-word and punctuation-by-punctuation;
+- compare canonical text, paragraph/dialogue boundaries, spacing-sensitive forms, displayed text, printed-page mapping, page type, section label and physical continuations;
+- correct only source-supported defects in scans168–177;
+- record every correction durably in `PART_011_PASS2A_PROGRESS.md`;
+- preserve incoming 167→168 audited boundary;
+- preserve source-visible null printed-page mappings for scans169–170;
+- recheck meaningful joins including 172→173, 173→174, 175→176, 176→177 and 177→178;
+- keep all reviewed records `status: "needs-review"` / `visual_fidelity: "needs-review"`;
+- make no status or visual-fidelity promotions at Pass2A;
 - make no changes to frozen Parts001–010;
-- do not infer/import Part012 / scan184 wording;
-- after Batch2, close Part011 Pass1 **COMPLETE / PASS — 16/16 TEXT-COMPLETE** and advance to **Part011 Pass2A — scans168–183 / local1–16**.
+- do not create or modify Part012 / scan184 content;
+- after Batch1, continue to **Part011 Pass2A Batch2 — scans178–183 / local11–16**.

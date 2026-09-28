@@ -155,3 +155,36 @@ Therefore Part011 is registered and authorized for Pass1 without reopening any f
 Current frontier:
 
 **Part011 Pass1 Batch2 — scans178–183 / local11–16 — final 6-page remainder.**
+
+
+## Part011 Pass1 closure
+
+**PART011 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+
+- source — `TVA_BOK_0065553_ரோமாபுரிப்_பாண்டியன்_part_011_pages_168-183.pdf`
+- canonical Part011 records — **16/16**
+- global scans — **168–183 continuous**
+- local pages — **1–16 continuous**
+- text/display-bearing pages — **16/16**
+- blank physical pages — **0**
+- scan168 — **Chapter 11 terminal continuation / printed166**
+- scan169 — **illustrated Chapter 12 title / 12 / மண்ணாசை**
+- scan170 — **Chapter 12 opening / no visible printed numeral**
+- scans171–180 — **Chapter 12 body / printed169–178**
+- scan181 — **illustrated Chapter 13 title / 13 / நெடுமாறன் தடுமாற்றம்**
+- scan182 — **Chapter 13 opening / no visible printed numeral**
+- scan183 — **Chapter 13 body / printed181**
+- meaningful Batch2 joins — **177→178, 178→179, 182→183 PASS**
+- incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
+- unresolved Pass1 source-reading holds — **0**
+- source-supported post-write Pass1 corrections — **0**
+- all Part011 records — **needs-review / needs-review**
+- status / visual-fidelity promotions — **0 / 0**
+- Part012 / scan184 inferred/imported — **0**
+- frozen Parts001–010 canonical / assembled / English body mutations — **0 / 0 / 0**
+- durable progress — `PART_011_PASS1_PROGRESS.md`
+
+Current frontier:
+
+**Part011 Pass2A Batch1 — scans168–177 / local1–10.**
