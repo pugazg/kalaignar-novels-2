@@ -22,11 +22,11 @@ Changes Hands
 
 <!-- source boundary: scan 157 → scan 158 -->
 
-Coming outside, Irungovel looked at Thamarai and asked, "What news? How is sister-in-law? Has that mute physician you spoke of arrived?"
+When he came outside, Irungovel looked at Thamarai and asked, "What news? How is sister-in-law? Has that mute physician you spoke of arrived?"
 
 "He has arrived; he is about to begin the treatment," she replied.
 
-"Let none of our guards stop or trouble him. Let him go outside as he wishes to prepare and bring herbs. Here! Put this seal ring on his finger. Only then will the guards leave him alone. I too have heard about that physician. They say he is young and handsome; though mute, he is highly skilled in medicine. I have heard people speak of him. I think the man you brought must be the same one I heard about. Somehow, it is enough if the queen's illness is cured. Give that physician every facility he needs for it. How many facilities we have in our palace! What can be done here? Never mind. Let things go on as long as they can. You go, Thamarai!" he said. She began to leave.
+"Let none of our guards stop or trouble him. Let him go outside as he wishes to prepare and bring herbs. Here! Put this seal ring on his finger. Only then will the guards leave him alone. I too have heard about that physician. They say he is young and handsome; though mute, he is highly skilled in medicine. I have heard people speak of him. I think the man you brought must be the same one I heard about. All that matters is that the queen's illness is cured. Give that physician every facility he needs for it. How many facilities we have in our palace! What can be done here? Never mind. Let things go on as long as they can. You go, Thamarai!" he said. She began to leave.
 
 "I forgot to tell you one thing. When I come to speak with the queen or when I come to see you, it would be better if he were not there. Because if by chance he were a spy...!" he said, letting the words trail off.
 
@@ -50,15 +50,15 @@ Like a pack of tigers starved for many days suddenly setting out toward a herd o
 
 <!-- source boundary: scan 159 → scan 160 -->
 
-Then the instrument announcing the king's arrival sounded; following it, Peruvazhuthi Pandiyan came among the formations seated on an elephant. The commander and the warriors bowed their heads in salute to the king. Peruvazhuthi Pandiyan looked at the soldiers.
+Then the instrument announcing the king's arrival sounded; following it, Peruvazhuthi Pandiyan rode into the midst of the formations on an elephant. The commander and the warriors bowed their heads in salute to the king. Peruvazhuthi Pandiyan looked at the soldiers.
 
-"Noble, valiant warriors of the Pandiyan land! I greet you all. I called you to war. Without even asking where or against whom, you came running and gathered here. I kept the news hidden only so that it would not spread before we set out. You know that our Sezhiyan has fallen into the hands of enemies. But you do not know who that enemy is. It is Irungovel, the king of the Velir clan, who has imprisoned Sezhiyan. The place where that dispossessed ruler is hiding is a forest a few kal from Poompuhar in the Chola realm; in that forest he is also preparing a large army against Karikala Cholan. In these circumstances, we do not know what fate has befallen Sezhiyan. All my hope rests on the belief that no danger has come to his life. If our army suddenly surrounds Irungovel and his warriors, all of them will be rendered powerless. Sezhiyan's life too will be saved. So this campaign must be conducted with great strategy. Even if we gain victory, if Sezhiyan is not found alive, it will be a great defeat. Therefore enter this struggle without excessive display. I have informed Commander Nedumaran of all the details of the battle plan. Obey him and return victorious! Long live the Pandiyan realm!"
+"Noble, valiant warriors of the Pandiyan land! I greet you all. I called you to war. Without even asking where or against whom, you came running and gathered here. I kept the news hidden only so that it would not spread before we set out. You know that our Sezhiyan has fallen into the hands of enemies. But you do not know who that enemy is. It is Irungovel, the king of the Velir clan, who has imprisoned Sezhiyan. The place where that dispossessed ruler is hiding is a forest a few kal from Poompuhar in the Chola realm; in that forest he is also preparing a large army against Karikala Cholan. In these circumstances, we do not know what fate has befallen Sezhiyan. My only hope is that his life is not in danger. If our army suddenly surrounds Irungovel and his warriors, all of them will be rendered powerless. Sezhiyan's life too will be saved. So this campaign must be conducted with great strategy. Even if we gain victory, if Sezhiyan is not found alive, it will be a great defeat. Therefore enter this struggle without excessive display. I have informed Commander Nedumaran of all the details of the battle plan. Obey him and return victorious! Long live the Pandiyan realm!"
 
 The warriors listening to Peruvazhuthi Pandiyan's speech cried, "Long live the king!"
 
 Commander Nedumaran took leave of the king and set out. The warriors followed their commander, setting forth to the beat of drums. Driven by battle fury, they soon passed beyond the capital and entered the road leading toward Poompuhar.
 
-The king had instructed the commander to go around the Chola realm without entering it and reach the forest where Irungovel lived. Following those instructions, Commander Nedumaran was choosing his route and proceeding.
+The king had instructed the commander to go around the Chola realm without entering it and reach the forest where Irungovel lived. Following those instructions, Commander Nedumaran proceeded along the route he had planned.
 
 <!-- source boundary: scan 160 → scan 161 -->
 
@@ -66,7 +66,7 @@ Bearing Irungovel's order that he should meet that army on the road itself and h
 
 From where she stood, Muthunagai watched eagerly as he mounted his horse and departed. "Who is he? Where is he leaving in such a hurry?" The questions arose in her mind.
 
-As the horse began to move, Muthunagai also heard another warrior come near him and call, "Hey, Kodungol! Return victorious," while sending him off. She could understand only that some new and confusing plot was under way. She turned. Thamarai was coming toward her happily.
+As the horse began to move, Muthunagai also heard another warrior approach him and call, "Hey, Kodungol! Return victorious," while sending him off. She could understand only that some new and confusing plot was under way. She turned. Thamarai was coming toward her happily.
 
 "Where did you go, leaving me alone?" Muthunagai asked with affectionate annoyance.
 
@@ -78,7 +78,7 @@ As the horse began to move, Muthunagai also heard another warrior come near him 
 
 —As she spoke, Thamarai slipped the ring onto Muthunagai's finger. A companion who arrived there at that moment saw the sight and turned her face away, but without forgetting why she had come, she called out, "Princess! The queen is asking for you."
 
-Thamarai took leave of Muthunagai with her eyes and went to see the queen. Silently blessing both the queen and that companion, Muthunagai stroked the ring and came out by another way. She hurried to the place where the horses were tethered. She untied a horse.
+Thamarai bade Muthunagai farewell with a glance and went to see the queen. Silently blessing both the queen and that companion, Muthunagai stroked the ring and came out by another way. She hurried to the place where the horses were tethered. She untied a horse.
 
 <!-- source boundary: scan 161 → scan 162 -->
 
@@ -86,7 +86,7 @@ Thamarai took leave of Muthunagai with her eyes and went to see the queen. Silen
 
 Muthunagai held the ring directly before his face. She mounted the horse and sped away. For a long time she could not guess which direction Kodungol's horse had taken. Hoofprints pressed into wet earth beside a canal showed her the direction in which Kodungol had gone. Certain that he could not have taken another way, she urged the horse onward. It flew faster than the wind. Her effort was not wasted. He was riding ahead of her.
 
-At the same waterfall where she had sat on the first day, Kodungol had dismounted and was drinking water. Muthunagai brought her horse there and stopped.
+At the same waterfall where she had sat on the first day, Kodungol had dismounted and was drinking water. Muthunagai rode up and stopped there.
 
 Startled, Kodungol shouted, "Who is it?" drew his sword and sprang forward.
 
@@ -96,7 +96,7 @@ Startled, Kodungol shouted, "Who is it?" drew his sword and sprang forward.
 
 The fool blurted out, "Yes, yes. He has given me a palm leaf to deliver to the Pandiyan. A palm leaf written by Sezhiyan himself under compulsion!"
 
-"Never mind—keep it safe!" she replied, but questions like, "What sort of palm leaf could it be? He says Sezhiyan himself wrote it!" began to bore into her mind.
+"Never mind—keep it safe!" she replied, but questions like, "What sort of palm leaf could it be? He says Sezhiyan himself wrote it!" began to gnaw at her mind.
 
 "All right... it is getting late... let us leave!" she said.
 
@@ -134,7 +134,7 @@ Kodungol drew his sword and respectfully handed it to Muthunagai; as she walked,
 
 <!-- source boundary: scan 163 → scan 164 -->
 
-The agitation from killing Kodungol had not subsided. Sweat poured all over her body. She did not know what to do next. She kept riding. Suddenly she saw ahead a sight that filled her with joy. Her beloved Veerapandi stood holding a tree branch. All her fear vanished. "Ah!" she sighed in relief and jumped down from the horse. Before she could land, Irungovel caught and supported her.
+Her agitation after killing Kodungol had not subsided. Sweat poured all over her body. She did not know what to do next. She kept riding. Suddenly she saw ahead a sight that filled her with joy. Her beloved Veerapandi stood holding a tree branch. All her fear vanished. "Ah!" she sighed in relief and jumped down from the horse. Before she could land, Irungovel caught and supported her.
 
 "Have you heard the news?" she asked breathlessly.
 
@@ -176,11 +176,11 @@ He stood looking at Muthunagai's face. The shadow of fear that had arisen after 
 
 "Aththan!" she uttered, closed her eyes and embraced him tightly.
 
-"Whatever else may be so, you should not have become bold enough to kill an enemy," he said, pressing his cheek to hers.
+"Even so, you should not have become bold enough to kill an enemy," he said, pressing his cheek to hers.
 
 Stroking his face with loving fingers, Muthunagai asked, "Are you saying that to me? When duty must be fulfilled, should cowardice be allowed to interfere in the heart of a Tamil woman?"
 
-"I am not belittling your courage. I am not speaking without appreciating what you did. If some danger had come to your life, what would have become of me afterward?" he asked, looking at her. As he spoke, his eyes filled with tears. Yes, that was proof that he had given himself over to her.
+"I am not belittling your courage. I am not failing to appreciate what you did. If some danger had come to your life, what would have become of me afterward?" he asked, looking at her. As he spoke, his eyes filled with tears. Yes, that was proof that he had given himself over to her.
 
 Seeing the tears in his eyes, joy surged within Muthunagai. That joy too turned her eyes into pools.
 
