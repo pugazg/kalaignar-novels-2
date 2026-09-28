@@ -1468,3 +1468,37 @@ Part009 is **FINAL CLOSED / FROZEN**.
 - Part010 leakage — **0**
 
 The Part009 glossary/title decisions above are frozen unless a separate explicit source-fidelity reopening is approved.
+
+
+## E26 source-check decisions
+
+E26 covers Part010 Chapter 10 continuation / scans151–156.
+
+Source-facing decisions confirmed:
+
+- `எரிமலைமீது சூரியகாந்தி` → **Sunflower on a Volcano**
+- `தாமரை` → **Thamarai**
+- `இருங்கோவேள்` → **Irungovel**
+- `செழியன்` → **Sezhiyan**
+- `கரிகாற் சோழன்` → **Karikala Cholan**
+- `கரிகாலன்` → **Karikalan**
+- `பெருவழுதிப் பாண்டியன்` → **Peruvazhuthi Pandiyan**
+- `வேளிர்குடி / வேளிர் குலம்` → **Velir clan**
+- `ஓலை` → **palm leaf / palm-leaf message**, chosen by local syntax
+- `திருமண ஓலை` → **marriage message**
+- `எழுதுகோல்` → **stylus**
+- `ராஜதந்திரம்` → **statecraft**
+- `பூம்புகார்` → **Poompuhar**
+- `சோழ- பாண்டிய மண்டலம்` → **Chola-Pandiyan realm**
+
+E26 source-check state — **SOURCE-CHECKED / COMPLETE**.
+
+- source-check corrections — **0**
+- unresolved E26 glossary/source-check holds — **0**
+- frozen Parts001–009 English edits caused by E26 — **0**
+- E27 leakage — **0**
+- Part011 / scan168 leakage — **0**
+
+Exact next glossary-bearing activity:
+
+**E27 draft + source-check Part010 Chapter 11 `ஓலை கை மாறியது` / scans157–167.**

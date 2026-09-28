@@ -1765,3 +1765,40 @@ Current frontier:
 **E26 — draft + source-check Part010 Chapter 10 continuation / scans151–156.**
 
 Do not begin E27 until E26 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part010 E26 source-check closure
+
+**E26 — SOURCE-CHECKED / COMPLETE**
+
+- verified Tamil input — `sections/25-chapter-10-erimalaimeethu-suriyakanthi-part010-continuation.md`
+- English file — `translations/en/sections/25-chapter-10-sunflower-on-a-volcano-part010-continuation.md`
+- scans — **151–156**
+- title — **Sunflower on a Volcano**
+- Tamil / English total blocks — **46 / 46**
+- Tamil / English rendered blocks — **40 / 40**
+- standalone provenance comments — **6 / 6**
+- provenance comment text/order parity — **EXACT / PASS**
+- incoming 150→151 provenance — **retained / no frozen E25 backfill**
+- scan156 blank-page provenance — **retained / no English body**
+- omitted / duplicated source blocks — **0 / 0**
+- source-check corrections — **0**
+- unsupported English insertion — **0**
+- unresolved E26 source-check holds — **0**
+- canonical Tamil edits caused by E26 — **0**
+- assembled Tamil edits caused by E26 — **0**
+- frozen Parts001–009 English edits — **0**
+- E27 English body created during E26 — **0**
+- E27 source-check record created during E26 — **0**
+- Part011 / scan168 leakage — **0**
+- durable source-check — `translations/en/E26_SOURCE_CHECK.md`
+
+Current Part010 English state:
+
+- E26 — **SOURCE-CHECKED / COMPLETE**
+- E27 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+
+Current frontier:
+
+**E27 — draft + source-check Part010 Chapter 11 `ஓலை கை மாறியது` / scans157–167.**
