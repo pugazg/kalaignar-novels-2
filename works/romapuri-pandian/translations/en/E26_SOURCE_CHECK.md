@@ -135,3 +135,38 @@ Part010 English batch state:
 **E27 — draft + source-check Part010 Chapter 11 `ஓலை கை மாறியது` / scans157–167.**
 
 Do not begin whole-Part glossary reconciliation until E27 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-E26 synchronization verification
+
+Pre-E26 planning checkpoint:
+
+`17b85d6e0df88e2de3ecfa60d7fd98a2aa1b240f`
+
+Post-E26 synchronized checkpoint before this verification record:
+
+`8516e78a1c55656db2a43a98885bed441bda7db9`
+
+Direct repository comparison confirms:
+
+- total commits since pre-E26 checkpoint — **3**
+- changed files — **15**
+- canonical `pages/` changes — **0**
+- assembled Part010 Tamil section-body changes — **0**
+- E26 English body file changed — **1 expected**
+- durable E26 source-check record — **present**
+- E27 English body files — **0**
+- E27 source-check records — **0**
+- frozen Parts001–009 English-body drift — **0**
+- Part011 / scan168 repository paths — **0**
+
+The synchronized controls agree on:
+
+- E26 — **SOURCE-CHECKED / COMPLETE**
+- E27 — **RESERVED / NEXT**
+- completed/source-checked — **1/2**
+- structural parity — **46/46 total; 40/40 rendered; 6/6 provenance**
+- unresolved English source-check holds — **0**
+- exact next activity — **E27 draft + source-check**
+
+Therefore E26 introduced no canonical Tamil, assembled Tamil, frozen earlier-English, E27-premature, or Part011 drift.
