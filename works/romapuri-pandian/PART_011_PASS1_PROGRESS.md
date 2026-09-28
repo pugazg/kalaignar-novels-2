@@ -227,3 +227,44 @@ Direct compare against the pre-Batch2 head confirms exactly **6 changed files**,
 **Part011 Pass2A Batch1 — scans168–177 / local1–10.**
 
 Pass2A must independently re-read the controlling rendered source pixels word-by-word, punctuation-by-punctuation and structure-by-structure. No status or visual-fidelity promotion is permitted during Pass2A.
+
+
+## Post-Pass1 synchronization verification
+
+Pre-Batch2 verified head:
+
+`a93b4430263450c775383066851974285aee750c`
+
+Batch2 canonical-page checkpoint:
+
+`9ffe139b941ecffc1e0e5d2271319c8774b27a2c`
+
+Pass1 synchronized head before this verification record:
+
+`b6441e94abc89b1224c2a3f7a11f12c1c4dab391`
+
+Direct comparison from the pre-Batch2 head confirms:
+
+- commits — **2**
+- changed files — **14**
+- canonical Part011 page files added — **6 expected / scans178–183 only**
+- frozen Parts001–010 canonical page changes — **0**
+- frozen assembled Tamil body changes — **0**
+- frozen maintained English body changes — **0**
+
+Independent live-main recheck confirms all **16/16** Part011 records:
+
+- `part: 11` — **16/16**
+- local pages — **1–16 continuous**
+- exact Part011 source filename — **16/16**
+- `status: "needs-review"` — **16/16**
+- `visual_fidelity: "needs-review"` — **16/16**
+- status promotions — **0**
+
+Therefore:
+
+**PART011 PASS1 — COMPLETE / PASS — 16/16 TEXT-COMPLETE**
+
+Exact next activity:
+
+**Part011 Pass2A Batch1 — scans168–177 / local1–10.**
