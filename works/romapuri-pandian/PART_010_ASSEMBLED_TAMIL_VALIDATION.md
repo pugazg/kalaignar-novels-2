@@ -347,3 +347,26 @@ Do not begin English editorial review until glossary reconciliation closes.
 Current frontier:
 
 **Part010 English editorial review across E26–E27.**
+
+
+## Part010 English editorial review closure
+
+**PART010 ENGLISH EDITORIAL REVIEW — PASS / CLOSED**
+
+- E26–E27 — **SOURCE-CHECKED / COMPLETE — 2/2**
+- glossary reconciliation — **RECONCILED / PASS — 3 edits**
+- English editorial corrections — **18 total — E26 6 / E27 12**
+- structural parity — **156/156 total; 138/138 rendered; 18/18 provenance**
+- provenance comment text/order parity — **EXACT / PASS**
+- unresolved source-check / glossary / editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–009 English edits — **0**
+- incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
+- scan156 blank provenance — **retained**
+- outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
+- Part011 / scan168 leakage — **0**
+- durable control — `translations/en/PART_010_TRANSLATION_REVIEW.md`
+
+Current frontier:
+
+**Part010 whole-Part bilingual review across E26–E27.**

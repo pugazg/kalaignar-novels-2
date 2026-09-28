@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 English editorial review
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part010 whole-Part bilingual review
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,9 +9,9 @@ Part010 current state:
 - canonical Tamil — **17/17 verified**
 - assembled Tamil — **PASS / CLOSED — 2/2 VERIFIED**
 - E26–E27 — **SOURCE-CHECKED / COMPLETE — 2/2**
-- glossary reconciliation — **RECONCILED / PASS**
-- glossary-driven body edits — **3 total — E26 1 / E27 2**
-- unresolved source-check / glossary holds — **0**
+- glossary reconciliation — **RECONCILED / PASS — 3 body edits**
+- English editorial review — **PASS / CLOSED — 18 corrections**
+- unresolved source-check / glossary / editorial holds — **0**
 - structural parity — **156/156 total; 138/138 rendered; 18/18 provenance**
 - provenance comment text/order parity — **EXACT / PASS**
 - incoming 150→151 — **GENUINE CONTINUATION / AUDITED**
@@ -19,36 +19,29 @@ Part010 current state:
 - outgoing 167→168 — **PENDING Part011 adjacent witness / deferred external boundary evidence**
 - Part011 / scan168 leakage — **0**
 
-Maintained Part010 English files:
+Maintained bilingual pairs:
 
-1. `translations/en/sections/25-chapter-10-sunflower-on-a-volcano-part010-continuation.md` — E26 / scans151–156
-2. `translations/en/sections/26-chapter-11-the-palm-leaf-changes-hands.md` — E27 / scans157–167
+1. E26 — Tamil `sections/25-chapter-10-erimalaimeethu-suriyakanthi-part010-continuation.md` ↔ English `translations/en/sections/25-chapter-10-sunflower-on-a-volcano-part010-continuation.md`
+2. E27 — Tamil `sections/26-chapter-11-olai-kai-maariyathu.md` ↔ English `translations/en/sections/26-chapter-11-the-palm-leaf-changes-hands.md`
 
-Durable glossary control:
+Durable editorial control:
 
-`translations/en/PART_010_GLOSSARY_RECONCILIATION.md`
+`translations/en/PART_010_TRANSLATION_REVIEW.md`
 
 ## Exact next activity
 
-**Part010 English editorial review across E26–E27.**
-
-Review grammar, punctuation, clarity, dialogue flow and awkward literal-English carryover while preserving:
-
-- verified Tamil meaning and source voice;
-- locked terminology and chapter titles;
-- all source-boundary/provenance comments exactly;
-- scan156 blank-page handling;
-- incoming 150→151 provenance;
-- outgoing 167→168 pending provenance;
-- structural parity.
+**Part010 whole-Part bilingual review across E26–E27.**
 
 Requirements:
 
-- make only justified English editorial edits;
-- do not alter canonical Tamil or assembled Tamil;
-- do not modify frozen Parts001–009 English;
+- compare every maintained Tamil/English pair for complete source meaning, agency, chronology, rhetoric and narrative attribution;
+- confirm all earlier glossary + editorial edits remain faithful;
+- make only source-backed English fidelity corrections;
+- preserve all provenance/source-boundary comments exactly and retain **156/156 total; 138/138 rendered; 18/18 provenance**;
+- preserve scan156 blank handling, incoming 150→151 provenance and outgoing 167→168 pending provenance;
+- make no canonical Tamil or assembled Tamil changes;
+- make no frozen Parts001–009 English changes;
 - do not infer/import Part011 / scan168 wording;
-- record the exact number of E26/E27 editorial corrections;
-- re-verify **156/156 total; 138/138 rendered; 18/18 provenance** after edits;
-- create durable `translations/en/PART_010_TRANSLATION_REVIEW.md`;
-- only after editorial review closes **PASS / CLOSED** may Part010 whole-Part bilingual review begin.
+- create durable `translations/en/PART_010_BILINGUAL_REVIEW.md`;
+- record exact E26/E27 bilingual-review correction counts and unresolved bilingual holds;
+- only after bilingual review closes **PASS / CLOSED — 2/2 PAIRS** may Part010 release/readiness review begin.
