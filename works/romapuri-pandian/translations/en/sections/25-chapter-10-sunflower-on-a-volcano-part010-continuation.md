@@ -37,7 +37,7 @@ But one thing. The one life for whose rescue the Pandiyan invasion is about to t
 
 Eager to learn what exactly Irungovel wanted him to do, Sezhiyan asked, "What way?"
 
-"Nothing extraordinary. You must send a palm-leaf message to Peruvazhuthi Pandiyan. That is all." Irungovel said this more gently.
+"Nothing extraordinary. You must send a palm-leaf message to Peruvazhuthi Pandiyan. That is all." Irungovel said these words with some gentleness.
 
 "What message?"
 
@@ -71,7 +71,7 @@ Sezhiyan was utterly confused. He stood there after hearing those unexpected wor
 
 <!-- source boundary: scan 153 → scan 154 -->
 
-If he wrote a letter as Irungovel said, it would go to the Pandiyan; once the Pandiyan read it, he would denounce Sezhiyan as a traitor. The invasion would stop. As a result, Sezhiyan's life would be saved; if he escaped death now, he could later get away from Irungovel, tell the Pandiyan the truth, and prove that he was not a traitor.
+If he wrote a letter as Irungovel said, it would go to the Pandiyan; once the Pandiyan read it, he would denounce Sezhiyan as a traitor. The invasion would stop. As a result, Sezhiyan's life would be saved; if he somehow escaped death now, he could later find a way to get away from Irungovel, tell the Pandiyan the truth, and prove that he was not a traitor.
 
 This thought, it must be said, gave Sezhiyan new courage. Along with it came another doubt. Would Irungovel truly agree to give his sister Thamarai to him in marriage? He could ask that too. Thinking that he could probe Irungovel's mind, he looked at him and asked, "I will write the palm leaf to the Pandiyan as you wish. Likewise, will the marriage between Thamarai and me take place?"
 

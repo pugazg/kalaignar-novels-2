@@ -44,7 +44,7 @@ All the warriors could say at home was, "I am going to war and will return," but
 
 The old women were eager to boast, "Do you know where my son was wounded? Right in the hollow of his chest!"
 
-"Knock the enemies' teeth into their own hearts and bring back rattles for our children, dear one," cried the brave voices of the mothers sending them off; those voices echoed throughout the Pandiyan capital.
+"Knock the enemies' teeth into their own hearts and bring back rattles for our children, Aththan," cried the brave voices of the mothers sending them off; those voices echoed throughout the Pandiyan capital.
 
 Like a pack of tigers starved for many days suddenly setting out toward a herd of deer that had come into sight, the warriors of the Pandiyan country set out for war. The fish flag flew majestically before the palace. The war drum sounding beneath that flag was turning the warriors into embodiments of fervour. At the foot of the flagstaff, Nedumaran, commander of the Pandiyan country, sat on horseback watching the warriors' formation.
 
@@ -126,9 +126,9 @@ ring itself was on the finger of the man walking beside him; how could he, an or
 
 Kodungol drew his sword and respectfully handed it to Muthunagai; as she walked, Muthunagai took the sword and turned it over in her hands.
 
-"It isn't very heavy!"... This was Muthunagai.
+"It isn't very heavy!"... said Muthunagai.
 
-"Yes! The sword our king carries is the heavier one. It is heavier than Karikala Cholan's sword!"—This was Kodungol.
+"Yes! The sword our king carries is the heavier one. It is heavier than Karikala Cholan's sword!"—replied Kodungol.
 
 "Oh! Is that so?" Muthunagai said, and drove the sword in her hand into Kodungol's chest. Caught by surprise, Kodungol fell to the ground with his body impaled on the sword. In great haste Muthunagai searched his clothes. The palm leaf came into her hand; she took it out and read it. She was startled. Another fear seized her. In agitation, she dragged Kodungol's corpse lying before her and hid it behind a thicket. She led away the riderless horse and left it elsewhere. Then she mounted her own horse and went some distance without knowing where to go.
 
@@ -210,7 +210,7 @@ Love shone on the face that had been spread with fury!
 
 "Yes, I know that. What should I do about it?"
 
-"I must go at once and meet the Pandiyan army on the road. I have to explain the proper time, moment and route for striking Irungovel and how they can surround him!"
+"I must go at once and meet the Pandiyan army on the road. I have to explain the timing, route, and other details for striking Irungovel and surrounding him!"
 
 "Then where am I to be when the invasion takes place?"
 
