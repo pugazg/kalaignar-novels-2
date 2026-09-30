@@ -149,3 +149,133 @@ Direct comparison confirms:
 **Part011 Pass2B Batch2 — scans178–183 / local11–16 — final 6-page remainder.**
 
 Independently reread only scans178–183 against the controlling source pixels, including independent re-confirmation of the Pass2A corrections on scans179 (`பேறு`) and182 (`எல்லாரும்`). Preserve every Part011 record as `needs-review / needs-review` throughout Pass2B. The outgoing 183→184 boundary remains deferred external boundary evidence unless separately activated; do not import Part012 content merely to close Batch2.
+
+
+## Batch 2 — scans178–183 / local11–16
+
+**Status: COMPLETE / PASS — 6/6 independently source-pixel reread**
+
+| scan | local | printed | result | source-text / lexical / spacing / punctuation corrections | historical-glyph / orthography corrections | unresolved |
+|---:|---:|---:|---|---:|---:|---:|
+| 178 | 11 | 176 | PASS | 1 | 0 | 0 |
+| 179 | 12 | 177 | PASS | 0 | 0 | 0 |
+| 180 | 13 | 178 | PASS | 0 | 0 | 0 |
+| 181 | 14 | — | PASS | 0 | 0 | 0 |
+| 182 | 15 | — | PASS | 0 | 0 | 0 |
+| 183 | 16 | 181 | PASS | 0 | 0 | 0 |
+
+### Batch 2 correction ledger
+
+- source-text / lexical / spacing / punctuation corrections — **1**
+- corrected pages — **1 — scan178**
+- historical-glyph / historical-orthography corrections — **0**
+- unresolved lexical / spacing / punctuation questions — **0**
+- unresolved historical-glyph / orthography questions — **0**
+
+Source-supported correction:
+
+1. scan178 / printed176:
+   - `அலட்சியம் - அவசரம்` → source-visible `அலட்சியம் -அவசரம்`
+
+### Pass2A correction re-confirmation
+
+The two Pass2A corrections inside Batch2 were independently rechecked and retained:
+
+- scan179 — `பேரு` → source-visible `பேறு`
+- scan182 — `எல்லோரும்` → source-visible `எல்லாரும்`
+
+No rollback or further change was required to either form.
+
+Together with the independently re-confirmed scan177 correction in Batch1, all **3/3** Part011 Pass2A source-supported corrections are now re-confirmed at Pass2B.
+
+### Source-sensitive forms explicitly retained without normalization
+
+- scan178 — `படையெடுப்புமுறை`, source-visible `அலட்சியம் -அவசரம்`, `காரியந்தான்`, `கவலைப் படாமல்`
+- scan179 — source-visible `பேறு`, `காணாமற் போன`, `அவ்வளவு தானே!`
+- scan180 — source-visible `இல்லையேல்.` before the quoted question, `புறப்பட்ட,` and terminal Chapter 12 layout
+- scan181 — displayed **13 / நெடுமாறன் தடுமாற்றம்** title and null printed-page mapping
+- scan182 — `பெருவெளி யொன்றில்`, `போர்ப்பரணி`, source-visible `எல்லாரும்`, `வாளுருவிப்`
+- scan183 — `பாண்டியநாட்டு`, `அல்ல - பாம்பு`, `செலவிடுவானேன்`, `பலங்கொண்ட மட்டும்`, `வேளிர்குடிவீரன்`
+
+### Batch2 structural / boundary checks
+
+- incoming 177→178 split-word / split-sentence continuation retained: `உறுதியளித்` → `திருந்தேன்...`
+- 178→179 split-sentence continuation retained: `செழியனை மீட்பதற்காக நான்` → `எத்தகைய முயற்சியில்...`
+- scan180 Chapter 12 close retained
+- scan181 illustrated Chapter 13 title retained
+- scan182 Chapter 13 opening / null printed-page mapping retained
+- 182→183 split-sentence continuation retained: `குதிரையை விட்டுக் கீழே` → `குதித்தான்.`
+- outgoing 183→184 remains **PENDING Part012 adjacent witness / deferred external boundary evidence**
+- no Part012 / scan184 wording was imported or inferred during Batch2
+
+### Batch2 guard checks
+
+- all six Batch2 records remain `status: "needs-review"` — **PASS**
+- all six Batch2 records remain `visual_fidelity: "needs-review"` — **PASS**
+- frozen Parts001–010 canonical/body/English mutation — **0**
+- Part011 scans168–177 canonical mutation during Batch2 — **0**
+- Part012 / scan184 inference or import — **0**
+- Pass3 started — **NO**
+
+## Batch2 repository integrity
+
+Pre-Batch2 synchronized checkpoint:
+
+`e97564e2bcb3426142c1b479803a8ff575d5ecd6`
+
+Batch2 canonical-review checkpoint:
+
+`ec37d073099286084b76f682c62f43f39dd8e699`
+
+Direct comparison confirms:
+
+- commits — **1**
+- changed files — **6**
+- changed files are exactly Part011 scans178–183
+- source-text / lexical / spacing / punctuation corrections — **1 on scan178**
+- frozen Parts001–010 canonical/body/English changes — **0**
+- Part011 scans168–177 canonical changes — **0**
+- maintained assembled Tamil body changes — **0**
+- maintained English body changes — **0**
+- Part012 / scan184 changes — **0**
+- source PDFs added to Git — **0**
+
+## Whole-Part Pass2B closure
+
+**PART011 PASS2B — COMPLETE / PASS — 16/16 REVIEWED**
+
+- Batch1 scans168–177 — **10/10 PASS**
+- Batch2 scans178–183 — **6/6 PASS**
+- source-text / lexical / spacing / punctuation corrections — **7**
+- corrected pages — **5 — scans170, 171, 175, 176, 178**
+- historical-glyph / historical-orthography corrections — **0**
+- unresolved Pass2B questions — **0**
+- page-type / section corrections — **0**
+- printed-page mapping corrections — **0**
+- physical-boundary / continuation corrections — **0**
+- all **3/3** Pass2A source-supported corrections independently re-confirmed — **PASS / no rollback**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- all 16 Part011 records remain `needs-review / needs-review`
+- frozen Parts001–010 canonical/body/English mutations — **0**
+- incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
+- Part012 / scan184 leakage — **0**
+
+## Exact next activity after Pass2B closure
+
+**Part011 Pass3 — scans168–183 / local1–16.**
+
+Perform direct full-page visual / structural verification against the rendered source images:
+
+- page type and section classification;
+- heading/title hierarchy;
+- paragraph and dialogue blocks;
+- printed pagination and running furniture;
+- Chapter 12 and Chapter 13 illustrated-title handling;
+- intentional blank-field handling on scans168, 170, 180 and182;
+- physical page boundaries and continuation state;
+- copy marks / non-publication artefacts;
+- final source-text catch only if the visual/structural pass exposes a direct source-backed defect.
+
+Do not promote final `status` or `visual_fidelity` during Pass3. Preserve outgoing 183→184 as deferred external boundary evidence unless that adjacent-witness activity is separately activated.
