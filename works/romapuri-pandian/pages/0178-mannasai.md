@@ -37,7 +37,7 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch2 
 
 “அலட்சியத்தைவிட அவசரம் எவ்வளவோ மேல் என்பேன் நான்!”
 
-“அலட்சியம் - அவசரம் இரண்டுக்குமிடையே அமைதியோடு தெளிவான காரியங்களில் ஈடுபடுதல் என்ற குணமும் இருக்கிறது. புலவர்களே! தங்களுக்குத் தெரியாதவைகளையா நான் கூறப் போகிறேன்?”
+“அலட்சியம் -அவசரம் இரண்டுக்குமிடையே அமைதியோடு தெளிவான காரியங்களில் ஈடுபடுதல் என்ற குணமும் இருக்கிறது. புலவர்களே! தங்களுக்குத் தெரியாதவைகளையா நான் கூறப் போகிறேன்?”
 
 “என்ன கூறினாலும் சரி; நம் நாட்டுக்கு வந்து நம் உயிரைக் காப்பாற்றும் முயற்சியில் அல்லற்படும் ஒரு வீரனைப்பற்றிக் கவலைப் படாமல் இருப்பது பண்பே அல்ல! நல்லவர்களுக்கு அழகே அல்ல! இதற்குப் பெயர்தான் கடைந்தெடுத்த தன்னலம்!”
 
@@ -68,3 +68,15 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch2 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part011 Pass 2B review — Batch 2
+
+- independent direct source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **1**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / spacing / punctuation / historical-glyph questions after this review: **0**;
+- source-supported spacing correction: `அலட்சியம் - அவசரம்` → source-visible `அலட்சியம் -அவசரம்`;
+- printed page 176 retained; incoming 177→178 split-word / split-sentence continuation `உறுதியளித்` → `திருந்தேன்...` and outgoing 178→179 continuation independently re-confirmed;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.

@@ -58,3 +58,15 @@ transcription_method: "direct source-pixel transcription; Part011 Pass 1 Batch2 
 - physical-boundary / continuation correction at Pass2A: **0**;
 - Pass2A result for this page: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2A.
+
+
+## Formal Part011 Pass 2B review — Batch 2
+
+- independent direct source-pixel reread completed for lexical identity, exact word boundaries, spacing-sensitive forms, punctuation-sensitive forms, historical Tamil glyph/orthography identity, proper names, colloquial forms and retained source variants;
+- source-text / lexical / spacing / punctuation corrections at Pass2B: **0**;
+- historical-glyph / historical-orthography corrections at Pass2B: **0**;
+- unresolved lexical / spacing / punctuation / historical-glyph questions after this review: **0**;
+- printed page 181 retained; incoming 182→183 split-sentence continuation independently re-confirmed;
+- outgoing 183→184 remains **PENDING Part012 adjacent witness / deferred external boundary evidence**; no Part012 content was inferred, imported or mutated;
+- Pass2B Batch2 result for this page: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; no promotion is permitted at Pass2B.
