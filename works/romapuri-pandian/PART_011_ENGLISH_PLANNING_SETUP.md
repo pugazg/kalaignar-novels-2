@@ -206,3 +206,38 @@ Part011 planning glossary holds — **0**.
 Create E28 only from the verified assembled Tamil input, preserve incoming 167→168 provenance without frozen E27 backfill, source-check it against the verified Tamil authority, and create the durable E28 source-check record.
 
 Do not begin E29 until E28 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Post-planning synchronization verification
+
+Pre-planning checkpoint:
+
+`e252efe7694abe874d905a74302595a5fabc061b`
+
+Post-planning synchronized checkpoint before this verification record:
+
+`9fecded8a20a09919811004cb3e99403eb64f58b`
+
+Direct repository comparison confirms:
+
+- total commits — **1**
+- changed files — **15**
+- canonical `pages/` changes — **0**
+- assembled Part011 Tamil section-body changes — **0**
+- E28 English body file created — **0**
+- E29 English body file created — **0**
+- E30 English body file created — **0**
+- E28 / E29 / E30 source-check records created — **0 / 0 / 0**
+- frozen Parts001–010 English-body changes — **0**
+- Part012 / scan184 content introduced — **0**
+- durable Part011 English planning control — **present**
+- reserved sequence — **E28 → E29 → E30**
+- E28 state — **RESERVED / NEXT**
+- E29 state — **RESERVED**
+- E30 state — **RESERVED**
+- Chapter 11 title — **The Palm Leaf Changes Hands**
+- Chapter 12 working title — **Hunger for Land**
+- Chapter 13 working title — **Nedumaran Wavers**
+- next-chat frontier — **E28 draft + source-check**
+
+Therefore English planning introduced no canonical Tamil, assembled Tamil, frozen English-body, premature Part011 English-body, or Part012 drift.
