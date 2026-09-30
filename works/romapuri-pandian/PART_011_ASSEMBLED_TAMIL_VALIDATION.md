@@ -228,3 +228,38 @@ The synchronized controls agree on:
 - exact next gate — **Part011 English translation planning/setup**
 
 Therefore the assembled-Tamil gate introduced no canonical Tamil, maintained English-body, frozen earlier-Part, or Part012 drift.
+
+
+## Part011 English planning closure
+
+**PART011 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+- Tamil prerequisites — **CLOSED**
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- maintained English sequence before Part011 — **closed through E27 / section26 / Part010**
+- reserved Part011 batches — **E28 → E29 → E30**
+- E28 — **RESERVED / NEXT — Chapter 11 continuation / scan168**
+- E29 — **RESERVED — Chapter 12 / scans169–180**
+- E30 — **RESERVED — Chapter 13 / scans181–183**
+- planned E28 file — `translations/en/sections/27-chapter-11-the-palm-leaf-changes-hands-part011-continuation.md`
+- planned E29 file — `translations/en/sections/28-chapter-12-hunger-for-land.md`
+- planned E30 file — `translations/en/sections/29-chapter-13-nedumaran-wavers.md`
+- Chapter 11 title — **The Palm Leaf Changes Hands**
+- Chapter 12 working title — **Hunger for Land**
+- Chapter 13 working title — **Nedumaran Wavers**
+- English draft files created in planning — **0/3**
+- source-check records created in planning — **0/3**
+- canonical Tamil edits caused by planning — **0**
+- assembled Tamil edits caused by planning — **0**
+- frozen Parts001–010 English edits caused by planning — **0**
+- incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
+- Part012 leakage — **0**
+- unresolved planning holds — **0**
+- durable control — `PART_011_ENGLISH_PLANNING_SETUP.md`
+
+Current frontier:
+
+**E28 — draft + source-check Part011 Chapter 11 continuation / scan168.**
+
+Do not begin E29 until E28 is **SOURCE-CHECKED / COMPLETE**.
