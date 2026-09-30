@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part011 assembled Tamil construction + audit
+# NEXT CHAT PROMPT — ரோமாபுரிப் பாண்டியன் / Part011 English translation planning/setup
 
 Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `works/romapuri-pandian/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,9 +6,9 @@ Continue directly in `pugazg/kalaignar-novels-2`, branch `main`, active work `wo
 
 Parts001–010 are **FINAL CLOSED / FROZEN**.
 
-Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, editorial decisions, bilingual decisions, release records, release-ready synchronization records or final-closure records merely to assemble Part011.
+Do not reopen their canonical Tamil, assembled Tamil, maintained English, glossary decisions, editorial decisions, bilingual decisions, release records, release-ready synchronization records or final-closure records merely to plan Part011 English.
 
-## Part011 Tamil authority
+## Part011 closed Tamil state
 
 Source:
 
@@ -17,52 +17,38 @@ Source:
 - scans — **168–183 / 16**
 - canonical Tamil — **16/16 verified**
 - visual fidelity — **16/16 verified**
-- documentation synchronization — **PASS / COMPLETE**
 - Tamil archival-ready — **PASS / CLOSED**
-- unresolved archival blockers — **0**
-- canonical `pages/` remains authoritative
+- assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**
+- assembled section27 — `27-chapter-11-olai-kai-maariyathu-part011-continuation.md` / scan168
+- assembled section28 — `28-chapter-12-mannasai.md` / scans169–180
+- assembled section29 — `29-chapter-13-nedumaran-thadumaatram.md` / scans181–183
 - incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
 - outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
 - Part012 / scan184 leakage — **0**
 
-Durable control:
+Durable controls:
 
-`PART_011_TAMIL_ARCHIVAL_READY.md`
+- `PART_011_TAMIL_ARCHIVAL_READY.md`
+- `PART_011_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Maintained English before Part011 is closed through **E27 / section26 / Part010**.
 
 ## Exact next activity
 
-**Part011 assembled Tamil construction + audit.**
-
-Expected assembled inventory:
-
-1. `sections/27-chapter-11-olai-kai-maariyathu-part011-continuation.md`
-   - Chapter 11 `ஓலை கை மாறியது` Part011 continuation / close;
-   - source scan **168** only;
-   - incoming audited continuation 167→168 represented by provenance only;
-   - do not duplicate frozen Part010 scan167 body.
-2. `sections/28-chapter-12-mannasai.md`
-   - Chapter 12 `மண்ணாசை`;
-   - source scans **169–180**;
-   - scan169 illustrated title included from verified canonical source transcription;
-   - scan170 opening-page text through scan180 Chapter 12 close.
-3. `sections/29-chapter-13-nedumaran-thadumaatram.md`
-   - Chapter 13 `நெடுமாறன் தடுமாற்றம்`;
-   - source scans **181–183**;
-   - scan181 illustrated title included from verified canonical source transcription;
-   - scans182–183 narrative included exactly from verified canonical source-transcription blocks;
-   - outgoing 183→184 pending evidence represented only as non-rendering provenance;
-   - do not infer/import Part012 scan184.
+**Part011 English translation planning/setup.**
 
 Requirements:
 
-- deterministically assemble only from verified canonical Part011 `## Source transcription` blocks;
-- preserve canonical Tamil wording, punctuation, paragraph/display order and source-sensitive forms exactly;
-- use established assembled-reading YAML/provenance conventions;
-- preserve physical-page boundaries with non-rendering HTML comments;
-- preserve the 167→168 audited continuation without duplicating Part010 text;
-- preserve the 183→184 deferred outgoing boundary without importing Part012;
-- verify physical coverage **16/16**, missing/duplicate coverage **0/0**, unsupported Tamil insertion **0**, audit/workflow-note leakage **0**;
-- verify deterministic reconstruction against canonical Part011 source-transcription blocks;
-- create/update `sections/README.md` and durable `PART_011_ASSEMBLED_TAMIL_VALIDATION.md`;
-- do not modify canonical `pages/`, verified status fields, frozen Parts001–010 assembled Tamil or maintained English;
-- do not begin English translation until assembled Tamil closes **PASS / CLOSED**.
+- verify Tamil prerequisites remain closed and assembled Tamil remains **3/3 VERIFIED**;
+- reserve the next three English batches **E28 → E29 → E30** for Part011;
+- map E28 to Chapter 11 `ஓலை கை மாறியது` Part011 continuation / scan168;
+- map E29 to Chapter 12 `மண்ணாசை` / scans169–180;
+- map E30 to Chapter 13 `நெடுமாறன் தடுமாற்றம்` / scans181–183;
+- preserve the established Chapter 11 English title **The Palm Leaf Changes Hands** for the continuation section unless a source-backed project control requires otherwise;
+- establish maintained English filenames and working English titles for Chapters 12 and 13 using the existing title/translation conventions;
+- carry incoming 167→168 audited continuation and outgoing 183→184 pending external witness as provenance only;
+- create durable `PART_011_ENGLISH_PLANNING_SETUP.md`;
+- create **0/3** English draft bodies and **0/3** source-check records during planning;
+- do not alter canonical Tamil or assembled Tamil;
+- keep Parts001–010 frozen;
+- after planning closes, the next gate is **E28 draft + source-check**.

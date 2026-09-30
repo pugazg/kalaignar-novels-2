@@ -926,3 +926,63 @@ Current frontier:
 **E26 — draft + source-check Part010 Chapter 10 continuation / scans151–156.**
 
 Do not begin E27 until E26 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part011 assembled Tamil closure
+
+**PART011 ASSEMBLED TAMIL — PASS / CLOSED — 3/3 VERIFIED**
+
+- Tamil archival-ready — **PASS / CLOSED**
+- section27 — **Chapter 11 `ஓலை கை மாறியது` Part011 continuation / close / scan168**
+- section28 — **Chapter 12 `மண்ணாசை` / scans169–180**
+- section29 — **Chapter 13 `நெடுமாறன் தடுமாற்றம்` / scans181–183**
+- physical coverage — **16/16**
+- publication-text / displayed-title coverage — **16/16**
+- blank physical scans — **0**
+- missing / duplicate coverage — **0 / 0**
+- deterministic canonical reconstruction — **3/3 EXACT / PASS**
+- scan177→178 split-word continuity — **PASS / inline non-rendering provenance**
+- unsupported Tamil insertion — **0**
+- audit/workflow-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- English section-body changes caused by assembly — **0**
+- frozen Part010 body duplication — **0**
+- Part012 / scan184 leakage — **0**
+- incoming 167→168 — **GENUINE CONTINUATION / AUDITED**
+- outgoing 183→184 — **PENDING Part012 adjacent witness / deferred external boundary evidence**
+- durable control — `../PART_011_ASSEMBLED_TAMIL_VALIDATION.md`
+
+Current frontier:
+
+**Part011 English translation planning/setup.**
+
+Do not begin English drafting until planning/setup closes.
+
+## Part011 assembled Tamil state
+
+Part011 Tamil archival-ready — **PASS / CLOSED**.
+
+Part011 assembled Tamil — **PASS / CLOSED — 3/3 VERIFIED**.
+
+Part011 maintained section inventory:
+
+1. `27-chapter-11-olai-kai-maariyathu-part011-continuation.md` — scan168
+2. `28-chapter-12-mannasai.md` — scans169–180
+3. `29-chapter-13-nedumaran-thadumaatram.md` — scans181–183
+
+Coverage:
+
+- physical scans — **16/16 / scans168–183**
+- publication-text / displayed-title pages — **16/16**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit-note leakage — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part010 body duplication — **0**
+- Part012 leakage — **0**
+
+Validation control — `../PART_011_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+Current frontier:
+
+**Part011 English translation planning/setup.**
